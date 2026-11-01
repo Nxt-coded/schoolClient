@@ -1,0 +1,1883 @@
+{
+  "message": "We could not find what you asked for, but got you this",
+  "subject": "economics",
+  "status": 200,
+  "total": 120,
+  "data": [
+    {
+      "id": 446,
+      "question": "A continuous fall in the general price level is called",
+      "option": {
+        "a": "recession",
+        "b": "depression",
+        "c": "deflation",
+        "d": "stagflation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 318,
+      "question": "The privatization exercise in Nigeria is a move towards a",
+      "option": {
+        "a": "mixed economy",
+        "b": "subsistence economy",
+        "c": "market economy",
+        "d": "command economy"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 208,
+      "question": "Industries are not sited in most rural areas of Nigeria because",
+      "option": {
+        "a": "of inadequate basic infrastructure",
+        "b": "they lack raw materials",
+        "c": "there is no appropriate government policy",
+        "d": "the climate is not conducive"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 529,
+      "question": "lf elasticity of demand for a commodity is less than one, demand is",
+      "option": {
+        "a": "unitary elastic",
+        "b": "inelastic",
+        "c": "infinitely elastic",
+        "d": "zero elastic"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 84,
+      "question": "The monetary system that requires double coincidence of wants is known as ",
+      "option": {
+        "a": "The gold standard ",
+        "b": "The gold standard ",
+        "c": "The commodity system ",
+        "d": "The gold standard "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 305,
+      "question": "National income is used to measure",
+      "option": {
+        "a": "a country’s population size",
+        "b": "a country’s economic growth",
+        "c": "the human level of development",
+        "d": "the flow of imports to a country"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 34,
+      "question": "The burden of tax on a commodity whose demand is infinitely inelastic ",
+      "option": {
+        "a": "is Zero ",
+        "b": "will be borne by sellers alone ",
+        "c": "will be borne by buyers alone ",
+        "d": "it impossible to tell"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 280,
+      "question": "If the current price of an apple is twice that of last year, it implies that the value of money is",
+      "option": {
+        "a": "Stable",
+        "b": "falling",
+        "c": "rising",
+        "d": "getting stronger"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 254,
+      "question": "An efficient weapon used in resolving disputes between employers and employees is",
+      "option": {
+        "a": "co – operation",
+        "b": "collective bargaining",
+        "c": "display of placards",
+        "d": "legal action"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2010"
+    },
+    {
+      "id": 161,
+      "question": "Disposable income means:",
+      "option": {
+        "a": "Income that is lost after tax has been removed   ",
+        "b": "Income that could be spent when tax has been removed   ",
+        "c": "Income that tax authority mandated to be given to charity when tax has been removed  ",
+        "d": "Income to be disposed secretly for future spending after tax has been removed "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 435,
+      "question": "If the quantity demanded of a commodity increases from 20 to 30 units when there is an increase in price from 4 naira to 5 naira, the elasticity of demand is",
+      "option": { "a": "0", "b": "1", "c": "2", "d": "5" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 355,
+      "question": "A public liability company is run on a daily basis by",
+      "option": {
+        "a": "the chief executive",
+        "b": "the shareholders",
+        "c": "the board of directors",
+        "d": "financial consultants"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 328,
+      "question": "If the price of an item changes by 8% and quantity supplied changes from 600 units to 660 units, the price elasticity of supply is",
+      "option": { "a": "0.80", "b": "1.25", "c": "2.00", "d": "10.00" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 450,
+      "question": "Precautionary motive relates to",
+      "option": {
+        "a": "demand for money",
+        "b": "demand for goods",
+        "c": "supply of money",
+        "d": "supply of goods"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 218,
+      "question": "The Quantity Theory of money states that a reduction in the quantity of money in circulation would bring about",
+      "option": {
+        "a": "a geometrical fall in prices",
+        "b": "a proprotionate fall in price",
+        "c": "a rise in prices",
+        "d": "an unequal fall in prices"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 142,
+      "question": "Which of the following correctly defines inflation? ",
+      "option": {
+        "a": "A one-time increase in commodity prices ",
+        "b": "A period when prices increase rapidly",
+        "c": "A sustained increase in the overall price level ",
+        "d": "An increase in the overall level of business activity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is regarded as fixed cost? ",
+      "option": {
+        "a": "Cost of raw materials ",
+        "b": "rent on land ",
+        "c": "Labour wages ",
+        "d": "cost of light."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 580,
+      "question": "The total amount of money raised by a company through insurance of shares to the public is",
+      "option": {
+        "a": "debentures",
+        "b": "nominal capital",
+        "c": "ordinary shares",
+        "d": "paid-up capital"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 382,
+      "question": "If commodity X is a by-product of commodity Y, this implies that both commodities are",
+      "option": {
+        "a": "in competitive supply",
+        "b": "jointly supplied",
+        "c": "in composite supply",
+        "d": "in excess supply"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 455,
+      "question": "Governments of West African countries levy taxes to",
+      "option": {
+        "a": "prevent prices from falling",
+        "b": "make people richer",
+        "c": "limit the number of banks",
+        "d": "finance government projects"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 268,
+      "question": "One of the functions of the Central Bank is",
+      "option": {
+        "a": "production of goods",
+        "b": "issuing of currency",
+        "c": "presenting budgets",
+        "d": "printing of cheque book"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2010"
+    },
+    {
+      "id": 534,
+      "question": "information about new goods is passed on to buyers through",
+      "option": {
+        "a": "advertising",
+        "b": "retail trade",
+        "c": "the manufacturer",
+        "d": "wholesale trade"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 624,
+      "question": "Which of the following is a characteristic of monopoly?",
+      "option": {
+        "a": "Many sellers",
+        "b": "Homogeneous commodity.",
+        "c": "A single seller",
+        "d": "Perfect knowledge"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 358,
+      "question": "In Nigeria, the location of a steel industry at Ajaokuta is due to",
+      "option": {
+        "a": "the availability of transport network",
+        "b": "the proximity to source of power",
+        "c": "the proximity to large deposits of iron ore",
+        "d": "political consideration."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 221,
+      "question": "Commercial banks settle their daily interbank indebtedness through the",
+      "option": {
+        "a": "Money Market",
+        "b": "Finance House",
+        "c": "Acceptance House",
+        "d": "Clearing House"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 469,
+      "question": "Mixed economy refers to a system in which the means of production are controlled by",
+      "option": {
+        "a": "private enterprise and the government",
+        "b": "private individuals",
+        "c": "the government only",
+        "d": "the workers and businessmen"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 495,
+      "question": "Which of the following is not a direct effort to increase agricultural production?",
+      "option": {
+        "a": "Operation feed the nation",
+        "b": "Use of improved seedlings",
+        "c": "Increased loans to farmer and co-operative societies",
+        "d": "National Youth Service Corps"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 600,
+      "question": "Where the burden of a tax finally rest is called",
+      "option": {
+        "a": "tax object",
+        "b": "tax rate",
+        "c": "incidence of taxation",
+        "d": "system of taxation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 14,
+      "question": "The liability of a sole trade is",
+      "option": {
+        "a": "indeterminate ",
+        "b": "unlimited ",
+        "c": "limited ",
+        "d": "transferable"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 617,
+      "question": "Given that TR is total revenue, then TRn - TR(n-1) can be used to find the",
+      "option": {
+        "a": "marginal revenue",
+        "b": "marginal cost",
+        "c": "average cost",
+        "d": "average revenue"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 631,
+      "question": "An example of a producer good is a",
+      "option": {
+        "a": "tin of milk",
+        "b": "hammer",
+        "c": "loaf of bread",
+        "d": "shirt"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following equations is the correct one about Net National Product (NNP)? ",
+      "option": {
+        "a": "NNP= Gross National Product (GNP) - Depreciation ",
+        "b": "NNP=  Gross National product (GNP Net incomes from abroad ",
+        "c": "NNP= Gross Domestic product (GDP) – Deprecation ",
+        "d": "NNP = Gross Domestic product (GDP) – Net incomes from aboard"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 422,
+      "question": "Division of labour leads to",
+      "option": {
+        "a": "improved craftsmanship",
+        "b": "the production of standardized goods",
+        "c": "increase in the cost of goods",
+        "d": "trade by barter"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 588,
+      "question": "The tendency for prices to rise while the value of money falls is known as",
+      "option": {
+        "a": "bills of exchange",
+        "b": "inflation",
+        "c": "depreciation",
+        "d": "deflation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 332,
+      "question": "The marginal product of the 5th unit of capital is",
+      "option": { "a": "42", "b": "85", "c": "114", "d": "213" },
+      "section": "Use the table below to answer questions. Unit of capital [1,2,3,4,5,6]\t  Total output (kg) [16, 64, 126, 212, 425, 684]",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 52,
+      "question": "The reason for the law of demand can best be explained in terms of: ",
+      "option": {
+        "a": "supply ",
+        "b": "complementary goods ",
+        "c": "the rationing function of price ",
+        "d": "diminishing marginal utility."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 604,
+      "question": "In an attempt to correct a deficit balance of payments, a country may decide to increase",
+      "option": {
+        "a": "domestic production",
+        "b": "imports",
+        "c": "domestic expenditure",
+        "d": "tax on infant industries."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 379,
+      "question": "If a consumer plans to spend 120k on four oranges but spent 80k, his consumer surplus is",
+      "option": {
+        "a": "N = 1.50",
+        "b": "N = 1.00",
+        "c": "N = 0.40",
+        "d": "N = 2.0"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 365,
+      "question": "When workers have a union, the supply of labour is said to be",
+      "option": {
+        "a": "Monopolistic",
+        "b": "oligopolistic",
+        "c": "Monoposonistic",
+        "d": "competitive"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 550,
+      "question": "The Economic Community of West African State (ECOWAS) is an example of",
+      "option": {
+        "a": "bilateral trade",
+        "b": "economic integration",
+        "c": "regional marketing board",
+        "d": "international competition"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 402,
+      "question": "The ultimate aim of agricultural policies in Nigeria is to achieve",
+      "option": {
+        "a": "food sufficiency",
+        "b": "full employment",
+        "c": "industrialization",
+        "d": "industrial capacity utilization"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 397,
+      "question": "The velocity of money is represented as",
+      "option": {
+        "a": "money supply /real GDP",
+        "b": "real GDPmoney supply",
+        "c": "nominal GDP/real GDP",
+        "d": "money supply/nominal GDP"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 436,
+      "question": "Price elasticity of supply measures the responsiveness of",
+      "option": {
+        "a": "quantity supplied to   changes in suppliers’ income",
+        "b": "changes in prices of other commodities",
+        "c": "a change in the prices of the commodity",
+        "d": "a change in the demand for the product"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 357,
+      "question": "To enhance the competitiveness of domestic agricultural products, there is need to",
+      "option": {
+        "a": "ban the importation of agricultural products",
+        "b": "increase the exportation of agricultural products",
+        "c": "improve the quality of domestic agricultural products",
+        "d": "increase the output of domestic agricultural products"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 122,
+      "question": "Private and public limited liability companies are not the same because  ",
+      "option": {
+        "a": "Former is limited to fifty shareholders but not the later  ",
+        "b": "both are not legal entities  ",
+        "c": "Former is established secretly but latter is located in central places  ",
+        "d": "Former is managed by board of directors but latter is managed by board of management."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 510,
+      "question": "Economic activities are undertaken to solve the problem of",
+      "option": {
+        "a": "consumption",
+        "b": "opportunity cost",
+        "c": "production",
+        "d": "scarcity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 286,
+      "question": "The type of production that involves the tapping and \tharnessing of natural resources is",
+      "option": {
+        "a": "primary production",
+        "b": "secondary production",
+        "c": "tertiary production",
+        "d": "industrial production"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 599,
+      "question": "Which of the following is a form of tax evasion?",
+      "option": {
+        "a": "Wrong declaration of earnings",
+        "b": "Payments of flat rate tax",
+        "c": "constant employment",
+        "d": "Low capacity utilization"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 346,
+      "question": "Cost–push inflation occurs when",
+      "option": {
+        "a": "production cost is high",
+        "b": "factor prices decrease",
+        "c": "there is too much money in circulation",
+        "d": "government embarks on deficit financing"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 213,
+      "question": "Which of the following is not a condition for a perfect market?",
+      "option": {
+        "a": "Homogenous commodity",
+        "b": "Ignorance of consumers",
+        "c": "Perfect information",
+        "d": "Free entry and exit"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 341,
+      "question": "Double counting is a problem in computing national income when using the",
+      "option": {
+        "a": "expenditure method",
+        "b": "income method",
+        "c": "output method",
+        "d": "value–added method"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 58,
+      "question": "A production possibility curve shows ",
+      "option": {
+        "a": "how much of the resources of society are used to produce a particular commodity ",
+        "b": "the rate of inflation ",
+        "c": "the rate of unemployment in the economy ",
+        "d": "the various combination of two commodities that can be produced."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 372,
+      "question": "The most popular sizes of dresses and shoes are determined by the",
+      "option": { "a": "Range", "b": "mode", "c": "mean", "d": "median" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 369,
+      "question": "If  X = 6 and N = 6, determine the value of   Efx.",
+      "option": { "a": "36", "b": "12", "c": "1", "d": "72" },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 211,
+      "question": "Which of the following is not a trade union in Nigeria?",
+      "option": {
+        "a": "Nigerian Labour Congress",
+        "b": "Academic Staff Union of Universities",
+        "c": "Nigerian Economic Society",
+        "d": "Nigerian Union of Journalists"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 195,
+      "question": "Population growth can be controlled by all the following except",
+      "option": {
+        "a": "legalizing abortion",
+        "b": "incentives on immigration",
+        "c": "family planning",
+        "d": "limiting number of children per family"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 538,
+      "question": "The term demand for money means",
+      "option": {
+        "a": "desire to borrow money from people",
+        "b": "desire of an individual to invest all his money in  projects",
+        "c": "willingness of people to hold money",
+        "d": "willingness of people to keep all their resources in  assets."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 139,
+      "question": "For a perfectly competitive market, the shape of the --------- is horizontal while the ----------- is downward slopping  ",
+      "option": {
+        "a": "industry’s demand curve/industry’s supply curve  ",
+        "b": "firm’s supply curve/industry’s demand curve  ",
+        "c": "firm’s demand curve/industry’s demand curve  ",
+        "d": "industry’s demand curve/firm’s demand curve"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 616,
+      "question": "Revenue is the",
+      "option": {
+        "a": "total profit made after sales",
+        "b": "amount spent on purchases",
+        "c": "amount of goods produced",
+        "d": "total money realized from sales."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 420,
+      "question": "One major function of the entrepreneur is",
+      "option": {
+        "a": "bearing of risk",
+        "b": "maximizing profits",
+        "c": "taking charge of day to day management",
+        "d": "determining the selling price of his products"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 638,
+      "question": "Which of the following financial institutions was originally known as a Building Society?",
+      "option": {
+        "a": "Development bank",
+        "b": "Insurance company",
+        "c": "Mortgage bank",
+        "d": "Merchant bank"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 424,
+      "question": "The additional satisfaction derived from the consumption of one more unit of a good is called",
+      "option": {
+        "a": "marginal product",
+        "b": "marginal utility",
+        "c": "marginal revenue",
+        "d": "marginal cost"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 172,
+      "question": "Assuming the total population is 100 million, the civilian labour force is 50 million and 47 million workers are employed, the unemployment rate is ",
+      "option": { "a": "3%", "b": "6%", "c": "7%", "d": "5.30%" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 438,
+      "question": "Which of the following is a type of business organization?",
+      "option": {
+        "a": "Stock exchange",
+        "b": "Insurance company",
+        "c": "Chain stores",
+        "d": "Co-operative"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 393,
+      "question": "A decrease in aggregate spending in an economy will ultimately lead to",
+      "option": {
+        "a": "Boom",
+        "b": "deflation",
+        "c": "inflation",
+        "d": "recession"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 621,
+      "question": "Use the following  demand schedule to answer question Price (N=) [15, 13]\tQuantity Demanded[60, 70] The percentage change in quantity demanded is",
+      "option": { "a": "12.7%", "b": "15.7%", "c": "16.7%", "d": "19.7%" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 595,
+      "question": "Agriculture is important to the economy of West African countries because it is the source of",
+      "option": {
+        "a": "power",
+        "b": "equipment supply",
+        "c": "industrial  input",
+        "d": "technological progress"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 539,
+      "question": "A persistent and appreciable rise in the general level of prices is known as",
+      "option": {
+        "a": "depreciation",
+        "b": "inflation",
+        "c": "deflation",
+        "d": "production"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 603,
+      "question": "Which of the following is an invisible item?",
+      "option": {
+        "a": "Banking services",
+        "b": "Petroleum products",
+        "c": "Processed rice",
+        "d": "Processed milk"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 224,
+      "question": "If there is an increase in wages and salaries without a corresponding increase in the supply of goods and services, the situation will lead to",
+      "option": {
+        "a": "a reduction in aggregate demand",
+        "b": "inflation",
+        "c": "depression",
+        "d": "budget surplus"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 370,
+      "question": "The standard deviation of a set of data is",
+      "option": {
+        "a": "always measured from the mode",
+        "b": "always measured from the median",
+        "c": "the most representative of averages",
+        "d": "a measure of dispersion"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 366,
+      "question": "Economics is the study of human behaviour as it relates to the",
+      "option": {
+        "a": "efficient allocation of resources",
+        "b": "operation of companies",
+        "c": "production of goods",
+        "d": "generation of income"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 517,
+      "question": "When a worker changes from one type of job to another, it is called",
+      "option": {
+        "a": "geographical mobility of labour",
+        "b": "occupational mobility of labour",
+        "c": "immobility of labour",
+        "d": "rural-urban migration."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 131,
+      "question": "The following may not inflate the National Income figure ",
+      "option": {
+        "a": "Student’s bursary  ",
+        "b": "Owners occupied houses  ",
+        "c": "Office Inducement  ",
+        "d": "Intermediate goods"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 549,
+      "question": "To improve the balance of payments position of West African countries, there must be",
+      "option": {
+        "a": "removal of barriers to importation of goods and services",
+        "b": "increased rate of exportation of goods and services",
+        "c": "increased domestic consumption of foreign produced goods",
+        "d": "the development of the local market."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 460,
+      "question": "A major problem facing the Economic Community of West African States (ECOWAS) as an economic integration, is the",
+      "option": {
+        "a": "increasing population",
+        "b": "willingness of member to co-operate",
+        "c": "geographical contiguity",
+        "d": "weak trade relations"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 643,
+      "question": "Which of Ike following is an example of direct tax?",
+      "option": {
+        "a": "Import duties",
+        "b": "Income tax",
+        "c": "Export duties",
+        "d": "Purchase tax"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 448,
+      "question": "Cost-push inflation is likely to arise when",
+      "option": {
+        "a": "there is an increase in government spending",
+        "b": "there is an increase in direct taxes",
+        "c": "demand for higher wages is granted",
+        "d": "there is a decrease in bank lending"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 594,
+      "question": "Which of the following agricultural systems is mainly for the",
+      "option": {
+        "a": "cultivation of food crops for family consumption?",
+        "b": "Co-operative farming",
+        "c": "Commercial farming",
+        "d": "Subsistence farming"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 116,
+      "question": "Perfect price elastic supply means  ",
+      "option": {
+        "a": "No change in supply as price changes  ",
+        "b": "Any change in price completely stops supply  ",
+        "c": "Changes in price double supply  ",
+        "d": "A change in price leads to proportionate change in supply"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 319,
+      "question": "A high rent on land will affect the cost of producing maize",
+      "option": {
+        "a": "positively",
+        "b": "negatively",
+        "c": "at the early stage of production",
+        "d": "at the later stage of production"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 117,
+      "question": "Change in demand and change in quantity demanded are not the same because  ",
+      "option": {
+        "a": "All factors affecting change in demand also affect change in quantity demanded except income  ",
+        "b": "All factors affecting change in demand are not affecting change in quantity demanded except income  ",
+        "c": "Many factors leads to change in demand but only change in price affect change in quantity demanded   ",
+        "d": "Many factors leads to change in demand but only change in income affect change in quantity demanded"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 132,
+      "question": "Legal Entity means  ",
+      "option": {
+        "a": "A company is owned by large number of people  ",
+        "b": "A company is owned by small number of people  ",
+        "c": "A company is insulated against litigation  ",
+        "d": "A company is not insulated against litigation "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 196,
+      "question": "Performance of one task in a production process is known as",
+      "option": {
+        "a": "Specialization",
+        "b": "standardization",
+        "c": "division of labour",
+        "d": "segmentation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 240,
+      "question": "A decrease in supply with demand remaining unchanged will cause the equilibrium price for a good to",
+      "option": {
+        "a": "be unchanged",
+        "b": "remain elastic",
+        "c": "remain inelastic",
+        "d": "rise"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2010"
+    },
+    {
+      "id": 91,
+      "question": "The concept of economic efficiency refers to: ",
+      "option": {
+        "a": "obtaining the maximum output from available resources at the lowest possible cost ",
+        "b": "Conservation of natural gas and oil deposits ",
+        "c": "equity in the distribution of national resource ",
+        "d": "Producing without waste "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 127,
+      "question": "When Lump-sun tax is paid by a producer, it means that;  ",
+      "option": {
+        "a": "The tax is paid proportional to the quantity of output produced  ",
+        "b": "The tax is paid regardless of volume of output  ",
+        "c": "The tax is paid in arrears  ",
+        "d": "The tax is returned to the producer after the payment"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 596,
+      "question": "The economic system in which the state takes the",
+      "option": {
+        "a": "economic decisions through details planning is",
+        "b": "capitalism",
+        "c": "socialism",
+        "d": "traditional economic system"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 488,
+      "question": "Government can control inflation by",
+      "option": {
+        "a": "printing more money",
+        "b": "reducing the rate of taxes",
+        "c": "reducing the level of expenditure",
+        "d": "establishing more banks"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 507,
+      "question": "Which of the following is excluded when estimating national income?",
+      "option": {
+        "a": "Dividends",
+        "b": "Wages and salaries",
+        "c": "Transfer payment",
+        "d": "Profits"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 322,
+      "question": "A movement along the same demand curve is caused by the",
+      "option": {
+        "a": "price of the product",
+        "b": "price of other products",
+        "c": "income of the consumer",
+        "d": "taste of the consumer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 243,
+      "question": "Greater inter-dependence among workers in production is associated with",
+      "option": {
+        "a": "utility",
+        "b": "manufacturing",
+        "c": "division of labour",
+        "d": "factory workers"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2010"
+    },
+    {
+      "id": 654,
+      "question": "A summary of all the receipts and payments of a country in \tinternational transactions is called",
+      "option": {
+        "a": "terms of trade",
+        "b": "balance of payment",
+        "c": "balance of payment adjustment",
+        "d": "capital account"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 186,
+      "question": "Economic problems arise because",
+      "option": {
+        "a": "resources are scarce relative to wants",
+        "b": "man is insatiable",
+        "c": "money is scarce",
+        "d": "man engages in too many economic activities"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 261,
+      "question": "Which of the following over estimates the value of national income?",
+      "option": {
+        "a": "Incomplete statistical data",
+        "b": "Wrong timing of computation",
+        "c": "Changes in prices of goods within the year",
+        "d": "Double counting"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2010"
+    },
+    {
+      "id": 6,
+      "question": "Suppose wages paid by a firm increase what would reasonably be expected to happen to the equilibrium price and equilibrium quantity for the firm’s output? ",
+      "option": {
+        "a": "price increase,  quantity decreases ",
+        "b": "price decrease, quantity decrease",
+        "c": "price decreases, quantity increase",
+        "d": "price increases, quantity increase."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 53,
+      "question": "The demand curve for the pure monopolists is ",
+      "option": {
+        "a": "perfectly price elastic ",
+        "b": "perfectly price inelastic ",
+        "c": "down sloping ",
+        "d": "up sloping"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 246,
+      "question": "A firm is said to be a public joint stock company when it",
+      "option": {
+        "a": "is owned by the government",
+        "b": "sells its shares to members of the public",
+        "c": "operates as a government corporation",
+        "d": "is not legally recognized as a firm"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2010"
+    },
+    {
+      "id": 515,
+      "question": "The production factor, whose entire world supply is fixed is",
+      "option": {
+        "a": "land",
+        "b": "skilled labour",
+        "c": "capital goods",
+        "d": "entrepreneurship"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 260,
+      "question": "Which of the following equations is appropriate for determining the Net Domestic Product (NDP)?",
+      "option": {
+        "a": "NDP = GNP – depreciation",
+        "b": "NDP = GDP + Net Income from abroad",
+        "c": "NDP = GDP – depreciation",
+        "d": "NDP = GDP x Net Income from abroad"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2010"
+    },
+    {
+      "id": 167,
+      "question": "A nation’s production possibility curve is bowed out from the origin because:",
+      "option": {
+        "a": "wants are virtually unlimited ",
+        "b": "the originator of the idea drew it this way and modem economists follow this convention ",
+        "c": "resources are scare ",
+        "d": "resources are not equally efficiency in producing every good."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 656,
+      "question": "Which of the following are examples of transfer payments?",
+      "option": {
+        "a": "Gifts and donations",
+        "b": "Rents and rates",
+        "c": "Profits and dividends",
+        "d": "Internal and external debts"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 583,
+      "question": "For a monopolist, the average revenue (AR) curve is  above",
+      "option": {
+        "a": "the total cost curve",
+        "b": "the same as the marginal cost curve",
+        "c": "above the marginal revenue curve",
+        "d": "the same at that of the perfect competitor."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 173,
+      "question": "Unemployment involving a mismatch of the skills of unemployment workers and the skill required for available jobs is called: ",
+      "option": {
+        "a": "frictional unemployment ",
+        "b": "structural unemployment ",
+        "c": "cynical unemployment ",
+        "d": ""
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 115,
+      "question": "Indifference curve and isoquant are respectively relevant is  ",
+      "option": {
+        "a": "Theories of consumer behaviours and production  ",
+        "b": "Theories of human indifference and production  ",
+        "c": "Theories of trade and production  ",
+        "d": "Theories of production and trade"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 32,
+      "question": "Disposable income equals ",
+      "option": {
+        "a": "Personal income less business profits ",
+        "b": "personal income less taxes and subsidies ",
+        "c": "personal income less taxes plus subsidies ",
+        "d": "National income plus transfer payments"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 652,
+      "question": "One advantage of international trade is that",
+      "option": {
+        "a": "countries depend on each other",
+        "b": "it introduces variation in prices",
+        "c": "it increases demand for foreign goods",
+        "d": "it makes variety of goods available"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2007"
+    },
+    {
+      "id": 340,
+      "question": "In developing countries, it is easier to obtain accurate national income estimates through the",
+      "option": { "a": "GNP", "b": "GDP", "c": "NDP", "d": "NNP" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 297,
+      "question": "If the labour force of a country is 2.5 million and 2 million are employed, what is the unemployment rate?",
+      "option": { "a": "0.2%", "b": "20%", "c": "200%", "d": "250%" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 593,
+      "question": "The difference between the Gross National Product (GNP) and the Gross Domestic Product(GDP) is",
+      "option": {
+        "a": "total interest payment",
+        "b": "net income generated internally",
+        "c": "total national savings",
+        "d": "net income from abroad."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 248,
+      "question": "The public sector of an economy includes",
+      "option": {
+        "a": "cooperative societies",
+        "b": "nationalized industries",
+        "c": "joint stock companies",
+        "d": "pressure groups"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2010"
+    },
+    {
+      "id": 395,
+      "question": "The function of money which makes division of  labour \tpossible is its",
+      "option": {
+        "a": "unit of account",
+        "b": "medium of exchange",
+        "c": "store of value",
+        "d": "standard of deferred payment"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 179,
+      "question": "The discount rate is the interest: ",
+      "option": {
+        "a": "rate at which the Central Bank of Nigeria lends in the Nigeria Government ",
+        "b": "yield on long-term government bonds ",
+        "c": "rate at which commercial banks lend to the public ",
+        "d": "rate at which the Central Banks of Nigeria lend to commercial banks."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 352,
+      "question": "Guided deregulation as currently practiced in Nigeria implies that",
+      "option": {
+        "a": "market forces determine interest and exchange rates",
+        "b": "government alone determines interest and exchange rates",
+        "c": "market forces and government determine interest and exchange rates",
+        "d": "exchange rate is regulated while interest rate is fixed"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 442,
+      "question": "One of the factors responsible for low agricultural \n\tproduction in West Africa is",
+      "option": {
+        "a": "inadequate labour",
+        "b": "shortage of land",
+        "c": "inadequate implements",
+        "d": "inadequate research"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 548,
+      "question": "When the value of a nation’s exports is greater than its imports",
+      "option": {
+        "a": "a favourable balance of trade exists",
+        "b": "an unfavourable balance of payment exists",
+        "c": "the net foreign trade is zero",
+        "d": "inflation occurs"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 440,
+      "question": "The shares which do not carry any fixed rate of dividend are known as",
+      "option": {
+        "a": "debentures",
+        "b": "cumulative preference shares",
+        "c": "ordinary shares",
+        "d": "participating preference shares"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 106,
+      "question": "The following are the advantages of internal economics of large scale production except ",
+      "option": {
+        "a": "financial economics ",
+        "b": "administrative economics ",
+        "c": "technical economics ",
+        "d": "market economics"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 169,
+      "question": "Productive efficiency refers to: ",
+      "option": {
+        "a": "the use of the least-cost method of production ",
+        "b": "the production of the product-mix most wanted by society ",
+        "c": "the full employment of all available resources ",
+        "d": "production at some point inside of the production possibilities curve."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 60,
+      "question": "The maximization of profit tends to be the driving force in the economics decision making of:",
+      "option": {
+        "a": "entrepreneurs. ",
+        "b": "Workers ",
+        "c": "consumers ",
+        "d": "legislators."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    }
+  ]
+}

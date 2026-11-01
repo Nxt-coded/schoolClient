@@ -1,0 +1,2264 @@
+[
+  {
+    "_id": "1",
+    "list": [
+      {
+        "id": "1",
+        "subject": "English Language",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "2",
+        "subject": "English Language",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "3",
+        "subject": "English Language",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "4",
+        "subject": "Mathematics",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "5",
+        "subject": "Mathematics",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "6",
+        "subject": "Mathematics",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "7",
+        "subject": "Basic Science",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "8",
+        "subject": "Basic Science",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "9",
+        "subject": "Basic Science",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "10",
+        "subject": "Social Studies",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "11",
+        "subject": "Social Studies",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "12",
+        "subject": "Social Studies",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "13",
+        "subject": "Civic Education",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "14",
+        "subject": "Civic Education",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "15",
+        "subject": "Civic Education",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "16",
+        "subject": "Basic Technology",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "17",
+        "subject": "Basic Technology",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "18",
+        "subject": "Basic Technology",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "19",
+        "subject": "Agricultural Science",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "20",
+        "subject": "Agricultural Science",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "21",
+        "subject": "Agricultural Science",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "22",
+        "subject": "Home Economics",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "23",
+        "subject": "Home Economics",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "24",
+        "subject": "Home Economics",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "25",
+        "subject": "Physical and Health Education",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "26",
+        "subject": "Physical and Health Education",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "27",
+        "subject": "Physical and Health Education",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "28",
+        "subject": "Christian Religious Studies",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "29",
+        "subject": "Christian Religious Studies",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "30",
+        "subject": "Christian Religious Studies",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "31",
+        "subject": "Computer Studies",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "32",
+        "subject": "Computer Studies",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "33",
+        "subject": "Computer Studies",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "34",
+        "subject": "Business Studies",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "35",
+        "subject": "Business Studies",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "36",
+        "subject": "Business Studies",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "37",
+        "subject": "Creative Arts",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "38",
+        "subject": "Creative Arts",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "39",
+        "subject": "Creative Arts",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "40",
+        "subject": "French Language",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "41",
+        "subject": "French Language",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "42",
+        "subject": "French Language",
+        "term": "Third term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "43",
+        "subject": "Music",
+        "term": "First term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "44",
+        "subject": "Music",
+        "term": "Second term",
+        "classType": "JSS1"
+      },
+      {
+        "id": "45",
+        "subject": "Music",
+        "term": "Third term",
+        "classType": "JSS1"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "list": [
+      {
+        "id": "1",
+        "subject": "English Language",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "2",
+        "subject": "English Language",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "3",
+        "subject": "English Language",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "4",
+        "subject": "Mathematics",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "5",
+        "subject": "Mathematics",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "6",
+        "subject": "Mathematics",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "7",
+        "subject": "Basic Science",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "8",
+        "subject": "Basic Science",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "9",
+        "subject": "Basic Science",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "10",
+        "subject": "Social Studies",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "11",
+        "subject": "Social Studies",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "12",
+        "subject": "Social Studies",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "13",
+        "subject": "Civic Education",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "14",
+        "subject": "Civic Education",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "15",
+        "subject": "Civic Education",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "16",
+        "subject": "Basic Technology",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "17",
+        "subject": "Basic Technology",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "18",
+        "subject": "Basic Technology",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "19",
+        "subject": "Agricultural Science",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "20",
+        "subject": "Agricultural Science",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "21",
+        "subject": "Agricultural Science",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "22",
+        "subject": "Home Economics",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "23",
+        "subject": "Home Economics",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "24",
+        "subject": "Home Economics",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "25",
+        "subject": "Physical and Health Education",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "26",
+        "subject": "Physical and Health Education",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "27",
+        "subject": "Physical and Health Education",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "28",
+        "subject": "Christian Religious Studies",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "29",
+        "subject": "Christian Religious Studies",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "30",
+        "subject": "Christian Religious Studies",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "31",
+        "subject": "Computer Studies",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "32",
+        "subject": "Computer Studies",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "33",
+        "subject": "Computer Studies",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "34",
+        "subject": "Business Studies",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "35",
+        "subject": "Business Studies",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "36",
+        "subject": "Business Studies",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "37",
+        "subject": "Creative Arts",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "38",
+        "subject": "Creative Arts",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "39",
+        "subject": "Creative Arts",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "40",
+        "subject": "French Language",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "41",
+        "subject": "French Language",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "42",
+        "subject": "French Language",
+        "term": "Third term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "43",
+        "subject": "Music",
+        "term": "First term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "44",
+        "subject": "Music",
+        "term": "Second term",
+        "classType": "JSS2"
+      },
+      {
+        "id": "45",
+        "subject": "Music",
+        "term": "Third term",
+        "classType": "JSS2"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "list": [
+      {
+        "id": "1",
+        "subject": "English Language",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "2",
+        "subject": "English Language",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "3",
+        "subject": "English Language",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "4",
+        "subject": "Mathematics",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "5",
+        "subject": "Mathematics",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "6",
+        "subject": "Mathematics",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "7",
+        "subject": "Basic Science",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "8",
+        "subject": "Basic Science",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "9",
+        "subject": "Basic Science",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "10",
+        "subject": "Social Studies",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "11",
+        "subject": "Social Studies",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "12",
+        "subject": "Social Studies",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "13",
+        "subject": "Civic Education",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "14",
+        "subject": "Civic Education",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "15",
+        "subject": "Civic Education",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "16",
+        "subject": "Basic Technology",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "17",
+        "subject": "Basic Technology",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "18",
+        "subject": "Basic Technology",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "19",
+        "subject": "Agricultural Science",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "20",
+        "subject": "Agricultural Science",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "21",
+        "subject": "Agricultural Science",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "22",
+        "subject": "Home Economics",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "23",
+        "subject": "Home Economics",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "24",
+        "subject": "Home Economics",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "25",
+        "subject": "Physical and Health Education",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "26",
+        "subject": "Physical and Health Education",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "27",
+        "subject": "Physical and Health Education",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "28",
+        "subject": "Christian Religious Studies",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "29",
+        "subject": "Christian Religious Studies",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "30",
+        "subject": "Christian Religious Studies",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "31",
+        "subject": "Computer Studies",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "32",
+        "subject": "Computer Studies",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "33",
+        "subject": "Computer Studies",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "34",
+        "subject": "Business Studies",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "35",
+        "subject": "Business Studies",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "36",
+        "subject": "Business Studies",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "37",
+        "subject": "Creative Arts",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "38",
+        "subject": "Creative Arts",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "39",
+        "subject": "Creative Arts",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "40",
+        "subject": "French Language",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "41",
+        "subject": "French Language",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "42",
+        "subject": "French Language",
+        "term": "Third term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "43",
+        "subject": "Music",
+        "term": "First term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "44",
+        "subject": "Music",
+        "term": "Second term",
+        "classType": "JSS3"
+      },
+      {
+        "id": "45",
+        "subject": "Music",
+        "term": "Third term",
+        "classType": "JSS3"
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "list": [
+      {
+        "id": "1",
+        "subject": "Biology",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "2",
+        "subject": "Biology",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "3",
+        "subject": "Biology",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "4",
+        "subject": "Physics",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "5",
+        "subject": "Physics",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "6",
+        "subject": "Physics",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "7",
+        "subject": "Chemistry",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "8",
+        "subject": "Chemistry",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "9",
+        "subject": "Chemistry",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "10",
+        "subject": "English Language",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "11",
+        "subject": "English Language",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "12",
+        "subject": "English Language",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "13",
+        "subject": "Mathematics",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "14",
+        "subject": "Mathematics",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "15",
+        "subject": "Mathematics",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "16",
+        "subject": "Geography",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "17",
+        "subject": "Geography",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "18",
+        "subject": "Geography",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "19",
+        "subject": "Civic Education",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "20",
+        "subject": "Civic Education",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "21",
+        "subject": "Civic Education",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "22",
+        "subject": "Computer Studies",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "23",
+        "subject": "Computer Studies",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "24",
+        "subject": "Computer Studies",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "25",
+        "subject": "Agricultural Science",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "26",
+        "subject": "Agricultural Science",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "27",
+        "subject": "Agricultural Science",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "28",
+        "subject": "Economics",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "29",
+        "subject": "Economics",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "30",
+        "subject": "Economics",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "31",
+        "subject": "Animal Husbandary",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "32",
+        "subject": "Animal Husbandary",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "33",
+        "subject": "Animal Husbandary",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "34",
+        "subject": "Financial Accounting",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "35",
+        "subject": "Financial Accounting",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "36",
+        "subject": "Financial Accounting",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "37",
+        "subject": "Literature in English",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "38",
+        "subject": "Literature in English",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "39",
+        "subject": "Literature in English",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "40",
+        "subject": "Further Mathematics",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "41",
+        "subject": "Further Mathematics",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "42",
+        "subject": "Further Mathematics",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "43",
+        "subject": "History",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "44",
+        "subject": "History",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "45",
+        "subject": "History",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "46",
+        "subject": "Commerce",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "47",
+        "subject": "Commerce",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "48",
+        "subject": "Commerce",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "49",
+        "subject": "Yoruba",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "50",
+        "subject": "Yoruba",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "51",
+        "subject": "Yoruba",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "52",
+        "subject": "Government",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "53",
+        "subject": "Government",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "54",
+        "subject": "Government",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "55",
+        "subject": "Office Practics",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "56",
+        "subject": "Office Practics",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "57",
+        "subject": "Office Practics",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "58",
+        "subject": "Christian Religious Studies",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "59",
+        "subject": "Christian Religious Studies",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "60",
+        "subject": "Christian Religious Studies",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "61",
+        "subject": "Igbo",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "62",
+        "subject": "Igbo",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "63",
+        "subject": "Igbo",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "64",
+        "subject": "Technical drawing",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "65",
+        "subject": "Technical drawing",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "66",
+        "subject": "Technical drawing",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "67",
+        "subject": "Food and Nutrition",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "68",
+        "subject": "Food and Nutrition",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "69",
+        "subject": "Food and Nutrition",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "70",
+        "subject": "Marketing",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "72",
+        "subject": "Marketing",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "73",
+        "subject": "Marketing",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "74",
+        "subject": "Catering Craft",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "75",
+        "subject": "Catering Craft",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "76",
+        "subject": "Catering Craft",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "77",
+        "subject": "Book Keeping",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "78",
+        "subject": "Book Keeping",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "79",
+        "subject": "Book Keeping",
+        "term": "Third term",
+        "classType": "SS1"
+      },
+      {
+        "id": "79",
+        "subject": "Data Processing",
+        "term": "First term",
+        "classType": "SS1"
+      },
+      {
+        "id": "79",
+        "subject": "Data Processing",
+        "term": "Second term",
+        "classType": "SS1"
+      },
+      {
+        "id": "79",
+        "subject": "Data Processing",
+        "term": "Third term",
+        "classType": "SS1"
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "list": [
+      {
+        "id": "1",
+        "subject": "Biology",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "2",
+        "subject": "Biology",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "3",
+        "subject": "Biology",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "4",
+        "subject": "Physics",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "5",
+        "subject": "Physics",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "6",
+        "subject": "Physics",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "7",
+        "subject": "Chemistry",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "8",
+        "subject": "Chemistry",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "9",
+        "subject": "Chemistry",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "10",
+        "subject": "English Language",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "11",
+        "subject": "English Language",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "12",
+        "subject": "English Language",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "13",
+        "subject": "Mathematics",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "14",
+        "subject": "Mathematics",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "15",
+        "subject": "Mathematics",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "16",
+        "subject": "Geography",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "17",
+        "subject": "Geography",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "18",
+        "subject": "Geography",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "19",
+        "subject": "Civic Education",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "20",
+        "subject": "Civic Education",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "21",
+        "subject": "Civic Education",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "22",
+        "subject": "Computer Studies",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "23",
+        "subject": "Computer Studies",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "24",
+        "subject": "Computer Studies",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "25",
+        "subject": "Agricultural Science",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "26",
+        "subject": "Agricultural Science",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "27",
+        "subject": "Agricultural Science",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "28",
+        "subject": "Economics",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "29",
+        "subject": "Economics",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "30",
+        "subject": "Economics",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "31",
+        "subject": "Animal Husbandary",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "32",
+        "subject": "Animal Husbandary",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "33",
+        "subject": "Animal Husbandary",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "34",
+        "subject": "Financial Accounting",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "35",
+        "subject": "Financial Accounting",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "36",
+        "subject": "Financial Accounting",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "37",
+        "subject": "Literature in English",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "38",
+        "subject": "Literature in English",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "39",
+        "subject": "Literature in English",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "40",
+        "subject": "Further Mathematics",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "41",
+        "subject": "Further Mathematics",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "42",
+        "subject": "Further Mathematics",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "43",
+        "subject": "History",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "44",
+        "subject": "History",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "45",
+        "subject": "History",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "46",
+        "subject": "Commerce",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "47",
+        "subject": "Commerce",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "48",
+        "subject": "Commerce",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "49",
+        "subject": "Yoruba",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "50",
+        "subject": "Yoruba",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "51",
+        "subject": "Yoruba",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "52",
+        "subject": "Government",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "53",
+        "subject": "Government",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "54",
+        "subject": "Government",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "55",
+        "subject": "Office Practics",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "56",
+        "subject": "Office Practics",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "57",
+        "subject": "Office Practics",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "58",
+        "subject": "Christian Religious Studies",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "59",
+        "subject": "Christian Religious Studies",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "60",
+        "subject": "Christian Religious Studies",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "61",
+        "subject": "Igbo",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "62",
+        "subject": "Igbo",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "63",
+        "subject": "Igbo",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "64",
+        "subject": "Technical drawing",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "65",
+        "subject": "Technical drawing",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "66",
+        "subject": "Technical drawing",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "67",
+        "subject": "Food and Nutrition",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "68",
+        "subject": "Food and Nutrition",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "69",
+        "subject": "Food and Nutrition",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "70",
+        "subject": "Marketing",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "72",
+        "subject": "Marketing",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "73",
+        "subject": "Marketing",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "74",
+        "subject": "Catering Craft",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "75",
+        "subject": "Catering Craft",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "76",
+        "subject": "Catering Craft",
+        "term": "Third term",
+        "classType": "SS2"
+      },
+      {
+        "id": "77",
+        "subject": "Book Keeping",
+        "term": "First term",
+        "classType": "SS2"
+      },
+      {
+        "id": "78",
+        "subject": "Book Keeping",
+        "term": "Second term",
+        "classType": "SS2"
+      },
+      {
+        "id": "79",
+        "subject": "Book Keeping",
+        "term": "Third term",
+        "classType": "SS2"
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "list": [
+      {
+        "id": "1",
+        "subject": "Biology",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "2",
+        "subject": "Biology",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "3",
+        "subject": "Biology",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "4",
+        "subject": "Physics",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "5",
+        "subject": "Physics",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "6",
+        "subject": "Physics",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "7",
+        "subject": "Chemistry",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "8",
+        "subject": "Chemistry",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "9",
+        "subject": "Chemistry",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "10",
+        "subject": "English Language",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "11",
+        "subject": "English Language",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "12",
+        "subject": "English Language",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "13",
+        "subject": "Mathematics",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "14",
+        "subject": "Mathematics",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "15",
+        "subject": "Mathematics",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "16",
+        "subject": "Geography",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "17",
+        "subject": "Geography",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "18",
+        "subject": "Geography",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "19",
+        "subject": "Civic Education",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "20",
+        "subject": "Civic Education",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "21",
+        "subject": "Civic Education",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "22",
+        "subject": "Computer Studies",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "23",
+        "subject": "Computer Studies",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "24",
+        "subject": "Computer Studies",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "25",
+        "subject": "Agricultural Science",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "26",
+        "subject": "Agricultural Science",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "27",
+        "subject": "Agricultural Science",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "28",
+        "subject": "Economics",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "29",
+        "subject": "Economics",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "30",
+        "subject": "Economics",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "31",
+        "subject": "Animal Husbandary",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "32",
+        "subject": "Animal Husbandary",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "33",
+        "subject": "Animal Husbandary",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "34",
+        "subject": "Financial Accounting",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "35",
+        "subject": "Financial Accounting",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "36",
+        "subject": "Financial Accounting",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "37",
+        "subject": "Literature in English",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "38",
+        "subject": "Literature in English",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "39",
+        "subject": "Literature in English",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "40",
+        "subject": "Further Mathematics",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "41",
+        "subject": "Further Mathematics",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "42",
+        "subject": "Further Mathematics",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "43",
+        "subject": "History",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "44",
+        "subject": "History",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "45",
+        "subject": "History",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "46",
+        "subject": "Commerce",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "47",
+        "subject": "Commerce",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "48",
+        "subject": "Commerce",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "49",
+        "subject": "Yoruba",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "50",
+        "subject": "Yoruba",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "51",
+        "subject": "Yoruba",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "52",
+        "subject": "Government",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "53",
+        "subject": "Government",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "54",
+        "subject": "Government",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "55",
+        "subject": "Office Practics",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "56",
+        "subject": "Office Practics",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "57",
+        "subject": "Office Practics",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "58",
+        "subject": "Christian Religious Studies",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "59",
+        "subject": "Christian Religious Studies",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "60",
+        "subject": "Christian Religious Studies",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "61",
+        "subject": "Igbo",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "62",
+        "subject": "Igbo",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "63",
+        "subject": "Igbo",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "64",
+        "subject": "Technical drawing",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "65",
+        "subject": "Technical drawing",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "66",
+        "subject": "Technical drawing",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "67",
+        "subject": "Food and Nutrition",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "68",
+        "subject": "Food and Nutrition",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "69",
+        "subject": "Food and Nutrition",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "70",
+        "subject": "Marketing",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "72",
+        "subject": "Marketing",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "73",
+        "subject": "Marketing",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "74",
+        "subject": "Catering Craft",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "75",
+        "subject": "Catering Craft",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "76",
+        "subject": "Catering Craft",
+        "term": "Third term",
+        "classType": "SS3"
+      },
+      {
+        "id": "77",
+        "subject": "Book Keeping",
+        "term": "First term",
+        "classType": "SS3"
+      },
+      {
+        "id": "78",
+        "subject": "Book Keeping",
+        "term": "Second term",
+        "classType": "SS3"
+      },
+      {
+        "id": "79",
+        "subject": "Book Keeping",
+        "term": "Third term",
+        "classType": "SS3"
+      }
+    ]
+  }
+]

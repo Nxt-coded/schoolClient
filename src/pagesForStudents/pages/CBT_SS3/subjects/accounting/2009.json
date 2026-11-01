@@ -1,0 +1,616 @@
+{
+  "subject": "accounting",
+  "status": 200,
+  "total": 39,
+  "data": [
+    {
+      "id": 476,
+      "question": "Which of the following branches of accounting was first developed?",
+      "option": {
+        "a": "Cost accounting",
+        "b": "Financial accounting",
+        "c": "Management accounting",
+        "d": "Petroleum accounting"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 477,
+      "question": "The accounting convention which states that the performance of a business should be determined by matching all expenses against all revenues is",
+      "option": {
+        "a": "accruals",
+        "b": "materiality",
+        "c": "objectivity",
+        "d": "periodicity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 478,
+      "question": "The process of bookkeeping includes records produced from",
+      "option": {
+        "a": "ledgers",
+        "b": "source documents",
+        "c": "minutes of meeting",
+        "d": "intuitive reasoning"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 479,
+      "question": "Musa, a prepaid customer of XYZ and KLM, bought  N1500 recharge card from XYZ and  N2000 recharge card from KLM for business calls. The entry to record these transaction is debit",
+      "option": {
+        "a": "telephone  N 3,500, credit XYZ and KLM  N 3,500",
+        "b": "telephone N 3,500. credit cash  N 3,500",
+        "c": "sundries N 3,500, credit KLM  N 3,500",
+        "d": "sundries  N 3.500, credit telephone  N3,500"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 480,
+      "question": "What is the total debit for the trial balance?",
+      "option": {
+        "a": "N  4 690 000",
+        "b": "N 2 620 000",
+        "c": "N  2 520 000",
+        "d": "N 1 565 000"
+      },
+      "section": "Given: Capital [N 2, 375, 000 ]; Debtors [N 495, 000 ]; Motor vehicles [N 870, 000 ]; Creditors [N 245,000 ]; Prepayments [N 500, 000 ]; Bills receivable [N 505, 000 ]; Furniture [N 150, 000 ]",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 481,
+      "question": "If Odukoya takes money out of the business bank account for his own private use, the effect of the transaction is",
+      "option": {
+        "a": "increase in assets and increase in capital",
+        "b": "increase in assets and decrease in capital",
+        "c": "decrease in capital and increase in assets",
+        "d": "decrease in capital and decrease in assets."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 482,
+      "question": "What are the current liabilities?",
+      "option": {
+        "a": "I and II",
+        "b": "IV and V",
+        "c": "Ill and V",
+        "d": "II and IV"
+      },
+      "section": "Use the information to answer questions: I.Operating machine II. Furniture  III .Fixtures and fittings IV.  Loan from friends V. Creditors",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 483,
+      "question": "Find the fixed assets",
+      "option": {
+        "a": "I, II and V",
+        "b": "I, II and IV",
+        "c": "I, II and III",
+        "d": "Ill, IV and V"
+      },
+      "section": "Use the information to answer questions: I.Operating machine II. Furniture  III .Fixtures and fittings IV.  Loan from friends V. Creditors",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 484,
+      "question": "Cash discount is often recorded on",
+      "option": {
+        "a": "the debit side of the cash book",
+        "b": "the credit side of the cash book",
+        "c": "the folio column of the cash book",
+        "d": "both credit and debit side of the cash book"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 485,
+      "question": "The standing order is a payment instruction given by a",
+      "option": {
+        "a": "customer to the bank",
+        "b": "bank to the customers",
+        "c": "bank to an employee",
+        "d": "customer to a fellow customer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 486,
+      "question": "Which of the following should not be added or subtracted from the bank statement balance to determine the adjusted cash balance?",
+      "option": {
+        "a": "Error by the bank",
+        "b": "Under casting of the cash book",
+        "c": "Overcasting of the cash book",
+        "d": "Bank service charges"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 487,
+      "question": "Calculate the balance as per bank statement at the end of the year",
+      "option": { "a": "24,700", "b": "25,200", "c": "26,200", "d": "27,700" },
+      "section": "Given: Balance as per cash book [N20,000 ]; Unpresented cheques [N 5,200 ]; Direct credit to the bank [\t  N 1,000 ]; \tDirect debit from the bank [N 1,000 ]; Credit in the cash book [N 500 ]",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 488,
+      "question": "Determine the capital of the business",
+      "option": {
+        "a": "N 9,400",
+        "b": "N 6,000",
+        "c": "N 3,400",
+        "d": "N 3,000"
+      },
+      "section": "Use the information to answer question: Total current assets [N2,000 ]; Total fixed assets [N 4,000 ]; Current liabilities [N 1,200 ]; Drawings [N 200 ]; Long-term loan \t[N 2,000 ]",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 489,
+      "question": "What is the net working capital?",
+      "option": { "a": "N 2,600", "b": "N1,800", "c": "N 800", "d": "N 600" },
+      "section": "Use the information to answer question: Total current assets [N2,000 ]; Total fixed assets [N 4,000 ]; Current liabilities [N 1,200 ]; Drawings [N 200 ]; Long-term loan \t[N 2,000 ]",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 490,
+      "question": "Which of the following items are current assets?",
+      "option": {
+        "a": "Stock, bills receivable, cash and debtors",
+        "b": "Stock, bills payable, cash and debtors",
+        "c": "Stock, bad debt, bills receivable and cash",
+        "d": "Stock, work-in-progress, cash and bills payable."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 491,
+      "question": "Using FIFO method, what is the value of the closing stock?",
+      "option": {
+        "a": "N 34,000",
+        "b": "N 29,000",
+        "c": "N 17,000",
+        "d": "N 12,000"
+      },
+      "section": "Use the information to answer question: Jan. 1 Received 1,000 units at   N 10 each; Jan. 2 Received 2,000 units at   N  12 each; Jan. 3 Issued 1,500 units; Jan. 4 Received 1,000 units at   N  11 eac; Jan. 5 Issued 1000 units",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 492,
+      "question": "What is the value of closing stock using simple average?",
+      "option": {
+        "a": "N 11,500",
+        "b": "N 17,000",
+        "c": "N 17,500",
+        "d": "N 28,500"
+      },
+      "section": "Use the information to answer question: Jan. 1 Received 1,000 units at   N 10 each; Jan. 2 Received 2,000 units at   N  12 each; Jan. 3 Issued 1,500 units; Jan. 4 Received 1,000 units at   N  11 eac; Jan. 5 Issued 1000 units",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 493,
+      "question": "Which of the following methods gives a conservative closing stock value during a period of rising prices?",
+      "option": {
+        "a": "LIFO",
+        "b": "FIFO",
+        "c": "Simple average",
+        "d": "Periodic simple average"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 494,
+      "question": "Apart from the common control accounts, a control account can also be opened for",
+      "option": {
+        "a": "sales account",
+        "b": "purchases account",
+        "c": "cash account",
+        "d": "wages account"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 495,
+      "question": "Which of the following is a debit item in the purchases ledger control account?",
+      "option": {
+        "a": "Balance b/d",
+        "b": "Cheque dishonoured",
+        "c": "Purchases",
+        "d": "Balance c/d"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 496,
+      "question": "Which of the following is an item in the debit side of the sales ledger control account?",
+      "option": {
+        "a": "Interest charged by suppliers",
+        "b": "Bills receivable honoured",
+        "c": "Transfer of credit balances from credit control account",
+        "d": "Transfer of debit balances from creditors control account"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 497,
+      "question": "The costs incurred by departments that support the production department with such activities as maintenance, production control and storage are called",
+      "option": {
+        "a": "autonomous costs",
+        "b": "service costs",
+        "c": "supporting costs",
+        "d": "subsidiary costs"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 498,
+      "question": "Determine the gross profit",
+      "option": {
+        "a": "N 49,000",
+        "b": "N 48,000",
+        "c": "N 31,000",
+        "d": "N30,000"
+      },
+      "section": "Use the information to answer questions: Work-in-progress 1/1[N 1,000 ];\tWork-in-progress 31/12 \t[N 2,000 ]; Production cost of goods manufactured \t[N 20,000 ] Sales [N 50,000]; Stock of finished goods 1/1 [N 4,000 ]; Stock of finished goods 31/12 [N 5,000 ]; Selling and distribution expenses[  N 2,000 ]; Administrative expenses [ 1,000 ]",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 499,
+      "question": "What is the net profit?",
+      "option": {
+        "a": "N  46,000",
+        "b": "N 45,000",
+        "c": "N  28,000",
+        "d": "N  27,000"
+      },
+      "section": "Use the information to answer questions: Work-in-progress 1/1[N 1,000 ];\tWork-in-progress 31/12 \t[N 2,000 ]; Production cost of goods manufactured \t[N 20,000 ] Sales [N 50,000]; Stock of finished goods 1/1 [N 4,000 ]; Stock of finished goods 31/12 [N 5,000 ]; Selling and distribution expenses[  N 2,000 ]; Administrative expenses [ 1,000 ]",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 500,
+      "question": "Receipts and payments account is a summary of the",
+      "option": {
+        "a": "budget",
+        "b": "trading account",
+        "c": "cash book",
+        "d": "profit and loss account"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 501,
+      "question": "What is the accumulated fund?",
+      "option": { "a": "23,700", "b": "27,750", "c": "29,650", "d": "51,650" },
+      "section": "Given: Furniture and fittings [N 20,000]  Equipment [N15,000] Bank overdrafts [ N6,500] Bar creditors [ N4,800 ] Subscription in arrears [ N4,700 ] Subscription in advance [ N650]",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 502,
+      "question": "I.  Space occupied by each department    II. Average value of stock held by each department III. \tDepartmental turnover  IV. Number of articles sold by each department. From the information given, the two most logical bases for apportioning expenses that are common to departments are",
+      "option": {
+        "a": "I and II",
+        "b": "I and III",
+        "c": "II and III",
+        "d": "Ill and IV"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 503,
+      "question": "One of the purposes of maintaining the account of a branch at the head office is to",
+      "option": {
+        "a": "record charges in shareholdings",
+        "b": "record charges in liabilities",
+        "c": "check the excesses of customers",
+        "d": "check the excesses of members of staff."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 504,
+      "question": "Which of the following is a common cause of a discrepancy between head office and branch trial balance?",
+      "option": {
+        "a": "Debtors and cash in transit",
+        "b": "Creditors and cash in transit",
+        "c": "Stock and cash in transit",
+        "d": "Stock and prepayments"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 505,
+      "question": "Sule and Ahmad are in partnership sharing profits and losses equally. If  Khadija is admitted as a new partner to take 1/5 th as her share, what is the new profit or loss sharing ratio?",
+      "option": {
+        "a": "Sule1/3 , Ahmad 1/3 and Khadija 1/3",
+        "b": "Sule1/5, Ahmad 1/5 and Khadija 3/5",
+        "c": "Sule2/5,  Ahmad2/5 and Khadija 1/5",
+        "d": "Sule ,2/5, Ahmad and 1/5 Khadija 2/5"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 506,
+      "question": "In partnership account, conversion of non-cash assets into cash \t\tis referred to as",
+      "option": {
+        "a": "realization",
+        "b": "disposal",
+        "c": "dissolution",
+        "d": "revaluation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 507,
+      "question": "The share premium account would be",
+      "option": {
+        "a": "credited with application and allotment  N 187,500",
+        "b": "debited with application and allotment  N 375,000",
+        "c": "credited with application and allotment  N 375,000",
+        "d": "debited with application and allotment  N 187,500"
+      },
+      "section": "Use the information below to answer questions 43 and 44\t A company advertised and issued 750,000,12% preference shares of  N 1 each to be issued at  N 1.50 per share. Applications for 1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received. Application money for 120,000 shares was refunded to unsuccessful applicants and the remaining applicants were allotted shares on pro-rata basis.",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 508,
+      "question": "The second and final call account was debited with",
+      "option": {
+        "a": "ordinary share capital account  N 187,500",
+        "b": "12% preference share capital  N  375,000",
+        "c": "bank account  N 187,500",
+        "d": "12% preference share capital account  N 187,500"
+      },
+      "section": "Use the information below to answer questions 43 and 44\t A company advertised and issued 750,000,12% preference shares of  N 1 each to be issued at  N 1.50 per share. Applications for 1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received. Application money for 120,000 shares was refunded to unsuccessful applicants and the remaining applicants were allotted shares on pro-rata basis.",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 509,
+      "question": "Provision for bad and doubtful debts in companies final accounts is treated in",
+      "option": {
+        "a": "trading account",
+        "b": "profit and loss account",
+        "c": "fund flow statement",
+        "d": "cash flow statement"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 510,
+      "question": "The book value per share is obtained by dividing",
+      "option": {
+        "a": "shareholders equity by outstanding shares",
+        "b": "total assets by outstanding shares",
+        "c": "gross profit by outstanding shares",
+        "d": "net profit by outstanding shares"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 511,
+      "question": "Expenditure incurred on consumables and goods for resale is",
+      "option": {
+        "a": "revenue expenditure",
+        "b": "capital expenditure",
+        "c": "sunk cost",
+        "d": "miscellaneous expenses"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 512,
+      "question": "Replacement and renewal of fixed assets are",
+      "option": {
+        "a": "revenue receipt",
+        "b": "capital receipt",
+        "c": "capital expenditure",
+        "d": "revenue expenditure"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 513,
+      "question": "Which of the following is credited to the consolidated revenue fund?",
+      "option": {
+        "a": "Recurrent expenditure",
+        "b": "Capital expenditure",
+        "c": "Transfers to revenue fund",
+        "d": "Internal revenue"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 514,
+      "question": "One of the reasons for the existence of the public sector is to",
+      "option": {
+        "a": "take adequate care of the needy",
+        "b": "supplement the commercial sector",
+        "c": "provide cheap services to all citizens",
+        "d": "correct perceived inequalities."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2009"
+    }
+  ]
+}

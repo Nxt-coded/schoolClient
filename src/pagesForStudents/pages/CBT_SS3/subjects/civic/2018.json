@@ -1,0 +1,1868 @@
+{
+  "message": "We could not find what you asked for, but got you this",
+  "subject": "civiledu",
+  "status": 200,
+  "total": 120,
+  "data": [
+    {
+      "id": 126,
+      "question": "The World AIDs Day is usually ..........................",
+      "option": {
+        "a": "June 12th every year",
+        "b": "May second every year",
+        "c": "October 1st every year",
+        "d": "December 1st every year"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 375,
+      "question": "Which of the following is not an example of civil society group?",
+      "option": {
+        "a": "United Action for Democracy",
+        "b": "United Nations Organization",
+        "c": "Transition Monitoring Group",
+        "d": "Amnesty International"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 106,
+      "question": "One of the listed criteria qualifies one for election .......",
+      "option": {
+        "a": "certificate",
+        "b": "beauty",
+        "c": "height",
+        "d": "citizenship"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 235,
+      "question": "The illegal sales and transportation of human beings for economic and some other selfish purpose is termed",
+      "option": {
+        "a": "Slave Trade",
+        "b": "Survival of the Fittest",
+        "c": "Gross Human Right Abuse",
+        "d": "Human Trafficking"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 436,
+      "question": "From the above dialogue, political leaders can encourage citizens to perform their civic duties by",
+      "option": {
+        "a": "fulfilling their electoral promises",
+        "b": "travelling overseas to seek for foreign investors",
+        "c": "engaging in religious activities",
+        "d": "visiting all the local governments in the country"
+      },
+      "section": "<strong>Zubar: </strong> Today is the day for gubernatorial elections, Ade what are you waiting for? Let us go and cast our votes for candidates of our choice<br><br> \t<strong>Ade: </strong> I have no interest in an election which not yield any dividend of democracy. Our political elite are only concerned about their interest when they get to the position \tof authority. For crying out loud, I have made up my mind that l will not vote again. <br><br> \t<strong>Zubar: </strong> Haba! Ade, don’t you remember Abraham Lincoln’s words that ‘all men are not just, all men are not true. But ...... for every scoundrel there is a hero, that for every selfish politician, there is a dedicated leader!’ Come on, go and cast your vote so that we can choose the right person for the position and change the political, economic and social directions of our great state.",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 321,
+      "question": "NUC and NBA stands for ......... and ......... respectively",
+      "option": {
+        "a": "National University Commission and Nigeria Bar Association",
+        "b": "Nigeria Bar Association and National University Commission",
+        "c": "National Union Congress and Nigeria Basketball Authority",
+        "d": "National Utilities Commission and Nigeria Bar Association"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 129,
+      "question": "One of the following is not a political party",
+      "option": { "a": "PDP", "b": "APGA", "c": "ANPC", "d": "CPC" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 258,
+      "question": "In the year 2014, the Nigerian President Good luck Ebelle Jonathan  urged Nigerians to .......... the rumors  that drinking and bathing with salt water prevents or cures Ebola virus",
+      "option": {
+        "a": "ignore",
+        "b": "accept",
+        "c": "welcome",
+        "d": "embrace"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 125,
+      "question": "The following are causes of emergency rule except",
+      "option": {
+        "a": "crisis",
+        "b": "blood lettings",
+        "c": "stage peaceful protest",
+        "d": "sabotage / terrorism"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 270,
+      "question": "During a particular voting exercise if majority of the \tpeople refuse to vote, this can be described as",
+      "option": {
+        "a": "political stubbornness",
+        "b": "political apathy",
+        "c": "political awareness",
+        "d": "political socialization"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 230,
+      "question": "What is the minimum age for voters in Nigeria",
+      "option": { "a": "15", "b": "20", "c": "18", "d": "50" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 54,
+      "question": "Most African countries owed their creation to",
+      "option": {
+        "a": "African Union (AU).",
+        "b": "Commonwealth of Nations.",
+        "c": "Ethnic and tribal leaders.",
+        "d": "European Colonialists"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 254,
+      "question": "The Ebola virus sneaked into Nigeria through",
+      "option": {
+        "a": "The Liberian born American, Mr Patrick Sawyer",
+        "b": "The Ghanaian born American, Mr Patrick Sayer",
+        "c": "Members of the Boko Haram",
+        "d": "Monkeys and bats"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 424,
+      "question": "The foreign policy objective of Nigeria as enshrined in the 1999 Constitution exclude the promotion of",
+      "option": {
+        "a": "national interest",
+        "b": "African integration",
+        "c": "support for donor agencies",
+        "d": "just world economic order"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 367,
+      "question": "Youth empowerment promotes",
+      "option": {
+        "a": "self-reliance",
+        "b": "youthful exuberance",
+        "c": "pursuit of higher education",
+        "d": "foreign scholarship"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 394,
+      "question": "The following cadre of students are the main target for campus cult membership except",
+      "option": {
+        "a": "students from wealthy homes",
+        "b": "students from influential parents",
+        "c": "bold and morally sound students",
+        "d": "wayward and fun-loving students"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 120,
+      "question": "One of the following is a cause of single parents in Nigeria",
+      "option": {
+        "a": "slow parenting",
+        "b": "social group",
+        "c": "nature of work",
+        "d": "divorce"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 35,
+      "question": "Civil societies are vital for the promotion of popular participation because they are",
+      "option": {
+        "a": "profit - oriented organizations",
+        "b": "engaged in developmental programmes",
+        "c": "involved in political education",
+        "d": "formidable oppositions to government"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 180,
+      "question": "Which of the following is an advantage of local government",
+      "option": {
+        "a": "Agents for money based politics",
+        "b": "electoral commissions",
+        "c": "training grounds for political leaders",
+        "d": "agents of pressure group"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 353,
+      "question": "Naturalized citizens cannot be denied their legal status as members of a country unless if they",
+      "option": {
+        "a": "are jailed for one year within seven years of acquiring citizenship",
+        "b": "are found guilty to be spies or secret agents for another country",
+        "c": "refuse to represent the country in an international sporting event",
+        "d": "give adequate information to the host country"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 142,
+      "question": "From the basic road traffic regulation pedestrians should not attempt to cross the road when the light are ............. and ...............",
+      "option": {
+        "a": "green and yellow",
+        "b": "green and red",
+        "c": "yellow and red",
+        "d": "red and yellow"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 277,
+      "question": "Any forms of restricted franchise is a violation of the principle of",
+      "option": {
+        "a": "political equality",
+        "b": "sovereignty",
+        "c": "legality",
+        "d": "constitutionalism"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 69,
+      "question": "Which of the following is a legal obligation of a citizen?",
+      "option": {
+        "a": "Giving financial assistance to the poor",
+        "b": "Helping in community development",
+        "c": "Payment of taxes",
+        "d": "Respecting the national symbols"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 1,
+      "question": "Who among the following could be described as the founding father of Nigerian nationalism?",
+      "option": {
+        "a": "Nnamdi Azikiwe",
+        "b": "Herbert Macauley",
+        "c": "Ahmadu Bello",
+        "d": "Obafemi Awolowo"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 200,
+      "question": "Which of the following is NOT an offence",
+      "option": {
+        "a": "Tax avoidance",
+        "b": "Tax evidence",
+        "c": "Stealing by trick",
+        "d": "Money laundering"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 111,
+      "question": "The last population census in Nigeria was conducted in ...........",
+      "option": { "a": "2003", "b": "2006", "c": "2007", "d": "2005" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 163,
+      "question": "The main objective of pressure groups is to",
+      "option": {
+        "a": "promote the interest of political parties",
+        "b": "influence legislation for the benefit of their member",
+        "c": "protect the interest of the country against foreigners",
+        "d": "serve as opposition to the government"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 241,
+      "question": "A problem commonly faced by most people living with HIV/AIDs is of",
+      "option": {
+        "a": "Stigmatization",
+        "b": "Non availability of drugs",
+        "c": "Government insincerity",
+        "d": "Lost of appetite"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 151,
+      "question": "Which of the following is used in gauging public opinion",
+      "option": {
+        "a": "Constitution",
+        "b": "Educational Institution",
+        "c": "Mass media",
+        "d": "Electoral college"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 13,
+      "question": "The National Assembly, Presidency and Court which are inter - related and interdependent in our democracy constitute the",
+      "option": {
+        "a": "tiers of government",
+        "b": "types of democracy",
+        "c": "forms of government.",
+        "d": "arms of government"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 104,
+      "question": "Television and radio are example  of ......... media",
+      "option": {
+        "a": "print",
+        "b": "electronic",
+        "c": "advertising",
+        "d": "mass"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 281,
+      "question": "Juvenile delinquency refers to",
+      "option": {
+        "a": "active youths participation in sports",
+        "b": "wrong doings by the youths",
+        "c": "Refusal to worship God by the youths",
+        "d": "Urban Rural migration by the youth"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 191,
+      "question": "The function of vehicle inspection officer (VIO) is",
+      "option": {
+        "a": "ensuring the road wordiness of vehicle on the road",
+        "b": "protection of life and property",
+        "c": "collection of tax",
+        "d": "counting of votes cast at election"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 78,
+      "question": "Public Complaints Commission in Nigeria is also known as",
+      "option": {
+        "a": "elder’s forum.",
+        "b": "judiciary.",
+        "c": "ombudsman.",
+        "d": "people’s court."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 312,
+      "question": "In Lagos state and some other states in Nigeria, motorcycle (okada) riders are expected to wear ............ while on motion",
+      "option": {
+        "a": "Boot",
+        "b": "Hand glove",
+        "c": "Crash helmet",
+        "d": "Black coloured shirt"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 383,
+      "question": "Which of the following can not be easily abused?",
+      "option": {
+        "a": "Cosmetics",
+        "b": "Stimulant",
+        "c": "Tobacco",
+        "d": "Narcotics"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 74,
+      "question": "How many Senator(s) represent the Federal Capital Territory in the senate?",
+      "option": { "a": "1", "b": "2", "c": "3", "d": "4" },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 374,
+      "question": "Civil Society groups perform the following roles during general elections except",
+      "option": {
+        "a": "educating the voters",
+        "b": "serving as watchdog",
+        "c": "counting votes",
+        "d": "stimulating participation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 122,
+      "question": "........... is the verdict that results when a law court declares a defendant guilty of a crime",
+      "option": {
+        "a": "immunity clause",
+        "b": "conviction",
+        "c": "customary clause",
+        "d": "traditions"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 46,
+      "question": "A major lesson Nigerians could learn from the story is that",
+      "option": {
+        "a": "leaders can empower voters by giving them money",
+        "b": "security officials should use brutal force on citizens",
+        "c": "the underprivileged should not vie for elective positions",
+        "d": "greed and related vices can cause serious breach of  the law."
+      },
+      "section": "Chief Bilisi was a prominent politician and honourable minister in Kantoga Republic. He had sponsored several candidates to power and made them to swear oath of allegiance to him. In return, they awarded contracts and offered financial and material assistance to him at the expense of the public. This had resulted in the non - provision of social amenities. These were some of the grievances the community had against him for which a mob gathered in front of his house shouting and hauling abusive words at him. They did not stop at that as they vandalized property and obstructed vehicular movement",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 316,
+      "question": "Which of the following is the cleanest source of water in Nigeria",
+      "option": {
+        "a": "pond water",
+        "b": "river water",
+        "c": "rain water",
+        "d": "lagoon water"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 174,
+      "question": "One judicial function performed by the executive is",
+      "option": {
+        "a": "granting of amnesty",
+        "b": "implementing judicial order",
+        "c": "ensuring obedience to the law",
+        "d": "appointing judges"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 274,
+      "question": "Which of the following could be a possible reason for the crowds attitude towards the sick man",
+      "option": {
+        "a": "They were afraid that he might be an unknown soldier",
+        "b": "They kept their distance so as not to contact the Ebola virus, in case he has it",
+        "c": "They were not used to helping visitors",
+        "d": "They kept their distance so as not to contact the HIV/AIDs virus, in case he has it"
+      },
+      "section": "A certain man came to visit his friend at Shomolu one early morning. Unexpectedly the man fainted and slumped. He lay on the floor for several hours and looking lifeless. The crowd and even the friend he came to visit kept a reasonable distance from him. No one came to his rescue or even attempted to touch him. As luck would have it he regained his strength after about five hours and managed to go back to his house",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 242,
+      "question": "Which of the following type of government is hereditary?",
+      "option": {
+        "a": "Democracy",
+        "b": "Oligarchy",
+        "c": "Monarchy",
+        "d": "Fascism"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 348,
+      "question": "Lack of interest in politics by citizens in the country is referred to as political",
+      "option": {
+        "a": "ignorance",
+        "b": "apathy",
+        "c": "participation",
+        "d": "socialization"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 222,
+      "question": "The ideology which emphasizes a classless society is",
+      "option": {
+        "a": "Communism",
+        "b": "Capitalism",
+        "c": "Totalitarianism",
+        "d": "Feudalism"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 315,
+      "question": "One way for Nigerians to maintain steady good health is by",
+      "option": {
+        "a": "taking malaria medicine everyday",
+        "b": "bathing with salt water and eating bitter kola always",
+        "c": "taking balance diet and engaging in regular physical exercise",
+        "d": "taking alcohol and cigarettes regularly"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 63,
+      "question": "How many members constitute the lower legislative chamber in Nigeria?",
+      "option": { "a": "300", "b": "302", "c": "312", "d": "360" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 300,
+      "question": "Which of the following are Ebola Emergency lines",
+      "option": {
+        "a": "08023169484 or 08033086660",
+        "b": "08023361936 or 08034623521",
+        "c": "08023164216 or 08033065936",
+        "d": "08055281400 or 08023361936"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 350,
+      "question": "The administrative class in the public service is to",
+      "option": {
+        "a": "implement policies",
+        "b": "formulate policies",
+        "c": "veto policies",
+        "d": "oversee policies"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 355,
+      "question": "Which of the following is not an example of orderliness?",
+      "option": {
+        "a": "Listening skill",
+        "b": "Driving skill",
+        "c": "Decorum",
+        "d": "Deviance"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 52,
+      "question": "The following are values that promote interpersonal relationship, except",
+      "option": {
+        "a": "caring.",
+        "b": "honesty.",
+        "c": "patience",
+        "d": "properties."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 204,
+      "question": "One of the ways to prevent the spread of HIV/AIDs is",
+      "option": {
+        "a": "Not to eat in fast food joints",
+        "b": "Not to shake hands with anybody",
+        "c": "To avoid any object contaminated with blood",
+        "d": "Sleep under a mosquito net"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 307,
+      "question": "Civic Education is also known as ....................",
+      "option": {
+        "a": "Organizational Structure",
+        "b": "Citizenship Education",
+        "c": "Customers Opinion",
+        "d": "Government Policy"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 156,
+      "question": "Workers in the Public Corporations are known as",
+      "option": {
+        "a": "Civil servants",
+        "b": "Private employees",
+        "c": "Public servants",
+        "d": "Professional employees"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 140,
+      "question": "One of the following is a regulatory prohibitory sign",
+      "option": {
+        "a": "stop police",
+        "b": "speed limit",
+        "c": "t junction",
+        "d": "ferry"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 12,
+      "question": "Youth empowerment is best described as the",
+      "option": {
+        "a": "training given to individuals for acquiring means livelihood",
+        "b": "practice of engaging in prospective career",
+        "c": "provision of subsidized meals to the citizens by government,",
+        "d": "mobilization of citizens for political rally."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 360,
+      "question": "The general attitude of government and society towards cultism is that of",
+      "option": {
+        "a": "affection",
+        "b": "sympathy",
+        "c": "abhorrence",
+        "d": "support"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 386,
+      "question": "Based on the above story, which of the following would Dr.Fajir not be allowed to do while in prison?",
+      "option": {
+        "a": "Voting during elections",
+        "b": "Engaging in hard labour",
+        "c": "Participating in prison fellowship",
+        "d": "Writing examination"
+      },
+      "section": "Dr. Fajir was the Minister of Works and Urban Development in the Gambia Republic. As such, he was entrusted with the public fund so that his ministry could construct new roads and rehabilitate the existing ones. Unfortunately. Dr Fajir embezzled the money entrusted in his care and siphoned same to his foreign accounts. This led to the deplorable conditions of roads in the Republic. The Crime Commission arrested and prosecuted him accordingly. Subsequently, he was given the opportunity to be defended by lawyers of his choice in a Court of Law. However, he was found guilty and sentenced to 15 years imprisonment with hard labour without the option of a fine. In addition, he forfeited all his ill-gotten wealth to the Republic.",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 400,
+      "question": "Red-tapism is one the shortcomings of",
+      "option": {
+        "a": "private enterprise",
+        "b": "public service",
+        "c": "non-governmental organization",
+        "d": "pressure groups"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 93,
+      "question": "The public Service is a branch of the ____ arm of government",
+      "option": {
+        "a": "civilian",
+        "b": "executive",
+        "c": "judiciary",
+        "d": "legislative"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 115,
+      "question": "......... refer to a group of drugs that are inhaled in the form of a gas or solvent",
+      "option": {
+        "a": "hallucinogens",
+        "b": "stimulants",
+        "c": "inhalants",
+        "d": "gasoline"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 317,
+      "question": "Which of these tax below is paid by nearly everybody in Nigeria",
+      "option": {
+        "a": "Direct tax",
+        "b": "Excise tax",
+        "c": "Proportional tax",
+        "d": "Regressive"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 306,
+      "question": "Which of the following is a bad habit capable of leading to future psychological and physiological ill health",
+      "option": {
+        "a": "self Actualization",
+        "b": "Self Meditation",
+        "c": "Self Medication",
+        "d": "Self Appraisal"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 314,
+      "question": "Mondays and Thursday are days meant for in between environmental sanitation exercise in ........... and .......... states respectively",
+      "option": {
+        "a": "Lagos and Edo",
+        "b": "Edo and Lagos",
+        "c": "Abuja and Lagos",
+        "d": "Delta and Lagos"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 414,
+      "question": "Based on the write-up, what immediate measures can those in authority take to empower the youths?",
+      "option": {
+        "a": "Build more youth orientation camps in the country",
+        "b": "Enhance religious and moral education in schools and colleges",
+        "c": "Provide entrepreneurial training with adequate fund",
+        "d": "Provide free meal for the teeming unemployed youths"
+      },
+      "section": "One major trend in Kantoga Republic today, especially during elections, is the engagement of youths by some politicians for political thuggery, rigging, stuffing of ballot boxes and other related electoral offences. Most of the youths who are engaged in these crimes have no means of livelihood or are school drop-outs. These youths are Kantoguans who ought to benefit from the enormous wealth and resources of the nation.<br><br>  Unfortunately, this is not the case at the moment. Indeed, it is the duty of government , especially at the centre, to provide entrepreneurial skill acquisition program and start-up funds for small scale businesses to empower the youths. This will reduce the chances of engagement of youths for wrong purposes.",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 184,
+      "question": "The police perform all the following function except",
+      "option": {
+        "a": "public execution of law breaker",
+        "b": "controlling and directing traffic",
+        "c": "protection of life and property",
+        "d": "enforcement of law and orders"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 432,
+      "question": "Orderliness in the society is good mainly because it",
+      "option": {
+        "a": "discourages poverty",
+        "b": "promotes peace and stability",
+        "c": "guarantees employment for youths",
+        "d": "ensures maximum rewards from leaders"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 264,
+      "question": "For now the Ebola disease has",
+      "option": {
+        "a": "no known cure",
+        "b": "several known cures",
+        "c": "cannot kill its action",
+        "d": "no physically observable symptoms"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 97,
+      "question": "The channel through which political parties make their program known to the people is ..............",
+      "option": {
+        "a": "canvassing",
+        "b": "campaigning",
+        "c": "convincing",
+        "d": "coronation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 42,
+      "question": "The quotation above shows that the speaker is concerned about",
+      "option": {
+        "a": "nationalism",
+        "b": "revolution",
+        "c": "tourism",
+        "d": "welfarism"
+      },
+      "section": "“Here is your country. Cherish these natural wonders, cherish the natural resources, cherish the history and romance as sacred heritage, for your children and your children’s children. Do not let selfish men or greedy interests skin your country of its beauty, its riches...”",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 408,
+      "question": "Which of the following is not a function of the National Drug Law Enforcement Agency (NDLEA)?",
+      "option": {
+        "a": "Applying and implementing all drug laws",
+        "b": "Arresting, investigating and prosecuting drug traffickers",
+        "c": "Undertaking the registration of companies dealing \tin drugs",
+        "d": "Carrying out enlightenment campaigns on drug trafficking"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 310,
+      "question": "If six political parties contest for an election (A, B, C, D, E, F), what is the probability that party C will wine the election",
+      "option": { "a": "1/3", "b": "1/4", "c": "1/6", "d": "1/2" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 304,
+      "question": "The Boko Haram insurgency started around",
+      "option": { "a": "2009", "b": "2014", "c": "1960", "d": "1963" },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 92,
+      "question": "Human rights abuse can be prevented through the following, except",
+      "option": {
+        "a": "constitutional means",
+        "b": "court of law",
+        "c": "mass literacy",
+        "d": "protest"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 145,
+      "question": "The former NAFDAC DG Prof Dora Akunyili died on",
+      "option": {
+        "a": "June 9. 2014",
+        "b": "June 17, 2014",
+        "c": "June 7, 2014",
+        "d": "May 27, 2014"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 143,
+      "question": "Motorcyclists must always protect their heads with safety ............. which must be properly fastened",
+      "option": {
+        "a": "seat belt",
+        "b": "head guild",
+        "c": "helmets",
+        "d": "cap cycles"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 284,
+      "question": "Government is the machinery established to manage the affairs of",
+      "option": {
+        "a": "the state",
+        "b": "the civil service",
+        "c": "peasants and students",
+        "d": "strangers"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 252,
+      "question": "Ejiro, who is not sick decide to take the same drug for the same duration as recommended for Omonigho by the doctor.Ejiro’s action can be described as a form of",
+      "option": {
+        "a": "preventive measure",
+        "b": "drug abuse",
+        "c": "drug trafficking",
+        "d": "Self help activity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 171,
+      "question": "Which of the following are not fundamental human right",
+      "option": {
+        "a": "right to life",
+        "b": "right to gainful employment",
+        "c": "right to vote and be voted for",
+        "d": "right to overthrow a government"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 11,
+      "question": "One habit which People Living With HIV/AIDS (PLWHAs) must avoid to remain healthy and productive is",
+      "option": {
+        "a": "regular contact with healthy people.",
+        "b": "self - pity and self - medication",
+        "c": "participation in profitable ventures",
+        "d": "pursuit of academic studies."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 157,
+      "question": "Membership of a society is",
+      "option": {
+        "a": "conventional",
+        "b": "Mandatory",
+        "c": "Voluntary",
+        "d": "Constitutional"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 423,
+      "question": "The idea that “Law should be impartial with the people who break it” implies",
+      "option": {
+        "a": "principle of fair hearing",
+        "b": "right to legal representation",
+        "c": "equality before the law",
+        "d": "prerogative writ of habeas corpus"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 295,
+      "question": "Human traffickers usually force their victims to engage in",
+      "option": {
+        "a": "rewarding exercise",
+        "b": "religious activities",
+        "c": "forced labour",
+        "d": "useful trade"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 70,
+      "question": "Which of these is not a system of government?",
+      "option": {
+        "a": "Anarchy",
+        "b": "Monarchy",
+        "c": "Oligarchy",
+        "d": "Socialism"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 94,
+      "question": "When the national flag is flown half mask, it is a sign of national",
+      "option": {
+        "a": "centenary celebration",
+        "b": "children’s day",
+        "c": "independence",
+        "d": "mourning"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 361,
+      "question": "Drug abuse can be prevented by",
+      "option": {
+        "a": "fighting drug addicts",
+        "b": "poverty reduction",
+        "c": "reducing drugs in circulation",
+        "d": "legal sanction"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 34,
+      "question": "The most popular means through which citizens of a country can participate in politics is by",
+      "option": {
+        "a": "being members of political parties",
+        "b": "engaging in constructive criticism",
+        "c": "engaging in political debates",
+        "d": "voting in elections"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 402,
+      "question": "Human rights are described as inviolable mainly because they are",
+      "option": {
+        "a": "authoritative declaration",
+        "b": "enforceable everywhere",
+        "c": "not to be unnecessarily taken away",
+        "d": "legal declaration instruments"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2015"
+    },
+    {
+      "id": 3,
+      "question": "A major characteristic of civil society is",
+      "option": {
+        "a": "the desire to win election",
+        "b": "corporate responsibility",
+        "c": "social responsibility",
+        "d": "political gerrymandering."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 166,
+      "question": "The option A4 model was used in the conduct of the",
+      "option": {
+        "a": "2007 election",
+        "b": "1983 election",
+        "c": "1993 election",
+        "d": "1999 election"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 308,
+      "question": "The number of Girls abducted by members of Boko Haram at Chibok in 2014 is roughly",
+      "option": { "a": "200", "b": "219", "c": "419", "d": "180" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 43,
+      "question": "A major benefit of youth empowerment is",
+      "option": {
+        "a": "dependence on foreign aid.",
+        "b": "discouragement of patriotism",
+        "c": "reduction in crime rate",
+        "d": "negation to national prosperity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 244,
+      "question": "The president belongs to .......... arm of the government",
+      "option": {
+        "a": "Legislative",
+        "b": "Judiciary",
+        "c": "Executive",
+        "d": "Anti-crime"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 91,
+      "question": "The headquarters of ECOWAS is located in",
+      "option": { "a": "Abuja", "b": "Accra", "c": "Adis-Ababa", "d": "Lome" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2014"
+    },
+    {
+      "id": 18,
+      "question": "The principle that public servants cannot be held responsible for their official actions denotes",
+      "option": {
+        "a": "impartiality",
+        "b": "accountability",
+        "c": "anonymity",
+        "d": "neutrality."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 381,
+      "question": "Based on the monologue above, the best approach to curb moral decadence in the motherland is by",
+      "option": {
+        "a": "value re-orientation",
+        "b": "introducing war against corruption",
+        "c": "legalizing capital punishment",
+        "d": "sending corrupt officials on exile"
+      },
+      "section": "Oh Motherland, you were a precious country, a beacon of hope and aspiration as well as toga of pride of your citizens at independence. However, today you are bedeviled with evil, engulfed in darkness and to say the obvious, at the edge of total moral collapse. Corruption, fraud, deception and dishonesty are prevalent; drug peddlers are having a field day. In schools and colleges, radicalism, prostitution, cultism, examination malpractice among other social vices are order of the day.",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 105,
+      "question": "Newspapers and magazine and example of ..... media",
+      "option": {
+        "a": "print",
+        "b": "electronic",
+        "c": "advertising",
+        "d": "mass"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 301,
+      "question": "An individual with feverish condition who has taken Panadol is advised to see the ............ if the feverish condition persists after .......... days",
+      "option": {
+        "a": "father, four",
+        "b": "pastor, three",
+        "c": "doctor, three",
+        "d": "doctor, ten"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2011"
+    },
+    {
+      "id": 354,
+      "question": "Citizenship education influences an individual to be",
+      "option": {
+        "a": "patriotic",
+        "b": "educated",
+        "c": "complacent",
+        "d": "competent"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 234,
+      "question": "The organ of government which are normally fused in a military regime are the",
+      "option": {
+        "a": "judiciary and legislative",
+        "b": "civil service and executive",
+        "c": "legislative and executive",
+        "d": "legislative and judiciary"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 236,
+      "question": "The lack of interest in politics and political activities by the citizens of a country is known as",
+      "option": {
+        "a": "political disinterestedness",
+        "b": "political culture",
+        "c": "political disintegration",
+        "d": "political apathy"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 38,
+      "question": "From Ada’s admonition, it could be deduced that taking hard drugs could",
+      "option": {
+        "a": "make people respect the addicts.",
+        "b": "lead to insanity of the addicts",
+        "c": "make people to adore the drug addicts",
+        "d": "ensure courteous behaviour by the addicts"
+      },
+      "section": "Ada:      Wanja, where are you going to in this ungodly hour of the night? <br> \tWanja:   I am heading towards my usual joint to enjoy myself <br>\t \tAda:       Which joint?<br> \tWanja:   XYZ. Night Club, where I take marijuana and alcoholic beverages. I really want to be high \t\t\t      tonight so that when people see me tomorrow, they will fear and respect me.<br> \tAda:     Remember, people who work under the influence of hard drugs and alcoholic beverages are prone to either psychiatric problems or premature death. Softly young man, imbibe good - natured character, you have the world at your feet and a destiny to fulfil. Pray you will not be the architect of your own misfortune.",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 4,
+      "question": "Citizenship status is acquired through",
+      "option": {
+        "a": "birth, indigenization, colonization and referendum",
+        "b": "association, convention, naturalization and incorporation",
+        "c": "birth, naturalization, honorary and registration",
+        "d": "registration, inter-relationship, integration and declaration."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 387,
+      "question": "The most important place for building good values is the",
+      "option": {
+        "a": "social welfare centre",
+        "b": "workplace",
+        "c": "family",
+        "d": "media houses"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2016"
+    },
+    {
+      "id": 211,
+      "question": "The process in which every qualified citizen of a state has the right to vote is called ............ suffrage",
+      "option": {
+        "a": "universal adult",
+        "b": "democratic",
+        "c": "tax payer",
+        "d": "communal"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 107,
+      "question": "The following are duties to be performed by the citizens of a country EXCEPT",
+      "option": {
+        "a": "Destroying government properties",
+        "b": "obey law and order",
+        "c": "payment of tax",
+        "d": "show loyalty"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 245,
+      "question": "In Nigeria the outbreak of Ebola disease was first observed in the year",
+      "option": { "a": "2012", "b": "2013", "c": "1960", "d": "2014" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 102,
+      "question": "There are ............. local government in Nigeria",
+      "option": { "a": "700", "b": "714", "c": "744", "d": "774" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2012"
+    },
+    {
+      "id": 291,
+      "question": "It is often said that public servants cannot be held responsible for their actions. This principle denotes .................",
+      "option": {
+        "a": "anonymity",
+        "b": "civic irresponsibility",
+        "c": "accountability",
+        "d": "neutrality"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 2,
+      "question": "Rule of Law means",
+      "option": {
+        "a": "supremacy of the law",
+        "b": "absence of legal immunity",
+        "c": "peace, order and stability",
+        "d": "obedience to any authority"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 209,
+      "question": "An indifference attitude towards political activities by the citizens of a state is termed",
+      "option": {
+        "a": "political apathy",
+        "b": "political unrest",
+        "c": "political ideology",
+        "d": "political disunity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 232,
+      "question": "Public corporation are owned by the",
+      "option": {
+        "a": "government",
+        "b": "banks",
+        "c": "private individuals",
+        "d": "foreigners"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 173,
+      "question": "In a democratic government, political sovereignty is vested in the",
+      "option": {
+        "a": "legislature",
+        "b": "elite",
+        "c": "executive",
+        "d": "electorate"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 10,
+      "question": "Victims of human trafficking are usually compelled to engage in",
+      "option": {
+        "a": "lucrative employment",
+        "b": "visiting tourist sites",
+        "c": "part - time studies",
+        "d": "forced labour."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2014"
+    },
+    {
+      "id": 285,
+      "question": "The judicial organs of government is the body which",
+      "option": {
+        "a": "makes the law",
+        "b": "implements the law",
+        "c": "interpreters the law",
+        "d": "rewards lawmakers"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 237,
+      "question": "Popular participation refers to",
+      "option": {
+        "a": "Political Apathy",
+        "b": "The active involvement of citizens in the social political activities of a country",
+        "c": "The rule of the party with the largest number of supporters",
+        "d": "The rule of a prominent and popular politician"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2013"
+    },
+    {
+      "id": 279,
+      "question": "A sovereign state is one",
+      "option": {
+        "a": "whose citizens are free to evade responsibility",
+        "b": "whose governments decisions are made independent of foreign interference",
+        "c": "which has a president and a prime minister",
+        "d": "where its citizens can speak without fear or favour"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 188,
+      "question": "The following are examples of pressure group except",
+      "option": { "a": "N. U. R. T", "b": "NBA", "c": "NLC", "d": "PDP" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    },
+    {
+      "id": 189,
+      "question": "The following are Road Traffic signs except",
+      "option": {
+        "a": "Regulatory sign",
+        "b": "Informative sign",
+        "c": "Warning sign",
+        "d": "Philosophy sign"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2012"
+    }
+  ]
+}

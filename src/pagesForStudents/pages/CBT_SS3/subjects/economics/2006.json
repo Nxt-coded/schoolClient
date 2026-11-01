@@ -1,0 +1,1149 @@
+{
+  "subject": "economics",
+  "status": 200,
+  "total": 72,
+  "data": [
+    {
+      "id": 1,
+      "question": "Which of the following is the best general definition of the study of economics? ",
+      "option": {
+        "a": "the best way invest in the stock market",
+        "b": "business decision making under foreign competition ",
+        "c": "individual and social choice",
+        "d": "inflation unemployment in a growing economy"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 2,
+      "question": "What implication does resources scarcity have for the satisfaction of wants?",
+      "option": {
+        "a": "not all wants can be satisfied ",
+        "b": "we will never be faced with the need to make choice ",
+        "c": "we must develop ways to decreases our individual wants ",
+        "d": "the discovery of new resource."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 3,
+      "question": "In economics , rational decision-making requires that: ",
+      "option": {
+        "a": "one’s choices be arrived at logically and without error   ",
+        "b": "one’s choice be consistent with one’s goals ",
+        "c": "one’s choice never very ",
+        "d": "one makes choice that do not involve trade-offs"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 4,
+      "question": "What happens to a supply curve when the variables that are normally held constant are allowed to changer? ",
+      "option": {
+        "a": "the curve flattens out",
+        "b": "there is a movement along the curve",
+        "c": "the curve shifts ",
+        "d": "the curve becomes steeper."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 5,
+      "question": "If the price of Pepsi decrease relative to the price of coke and 7-up the demand for ",
+      "option": {
+        "a": "coke will decrease ",
+        "b": "7-up will decrease ",
+        "c": "coke and 7-up will increase",
+        "d": "coke and 7-up will decrease."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 6,
+      "question": "Suppose wages paid by a firm increase what would reasonably be expected to happen to the equilibrium price and equilibrium quantity for the firm’s output? ",
+      "option": {
+        "a": "price increase,  quantity decreases ",
+        "b": "price decrease, quantity decrease",
+        "c": "price decreases, quantity increase",
+        "d": "price increases, quantity increase."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 7,
+      "question": "When a nation’s exports are greater than its imports ",
+      "option": {
+        "a": "the net foreign trade is zero ",
+        "b": "an unfavourable balance of payments exists ",
+        "c": "a favourable balance of trade exists ",
+        "d": "a favourable balance of payment exists."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 8,
+      "question": "Inflation is likely to benefit ",
+      "option": {
+        "a": "persons with bank savings",
+        "b": "persons who live on fixed pension funds ",
+        "c": "creditors ",
+        "d": "debtors."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 9,
+      "question": "For which market model is there a very large number of firms? ",
+      "option": {
+        "a": "monopolistic competition",
+        "b": "oligopoly ",
+        "c": "pure monopoly ",
+        "d": "pure- competition"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is an economic cost ",
+      "option": {
+        "a": "uninsurable risk ",
+        "b": "normal profit ",
+        "c": "economic profit ",
+        "d": "monopoly profit."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 11,
+      "question": "Which tends to be a progressive tax in Nigeria? ",
+      "option": {
+        "a": "income tax ",
+        "b": "property tax ",
+        "c": "sales tax ",
+        "d": "import- duties."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 12,
+      "question": "A deficit budget is usually drawn up during ",
+      "option": {
+        "a": "economic buoyancy ",
+        "b": "inflationary period ",
+        "c": "war time ",
+        "d": "economic recession."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 13,
+      "question": "A drawer of a cheque is the ",
+      "option": {
+        "a": "person who is to be paid ",
+        "b": "bank on which the cheque is drawn ",
+        "c": "person who writes out the cheque ",
+        "d": "bank official who certifies the payment. "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 14,
+      "question": "The liability of a sole trade is",
+      "option": {
+        "a": "indeterminate ",
+        "b": "unlimited ",
+        "c": "limited ",
+        "d": "transferable"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is regarded as fixed cost? ",
+      "option": {
+        "a": "cost of raw materials ",
+        "b": "labour wages ",
+        "c": "rent land ",
+        "d": "cost of light.                                                                                                                                                                                                                   "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is not a member of OPEC?",
+      "option": {
+        "a": "Indonesia",
+        "b": " Iran ",
+        "c": "Venezuela",
+        "d": "Egypt"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 17,
+      "question": "The creation of utility can be referred to as ",
+      "option": {
+        "a": "value added ",
+        "b": "profit marginalization ",
+        "c": "production",
+        "d": "entrepreneurship."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 18,
+      "question": "The production within the domestic territory of a country is called the ",
+      "option": {
+        "a": "net national product ",
+        "b": "gross domestic product ",
+        "c": "disposable income",
+        "d": "gross national product."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 19,
+      "question": "Suppose a consumer’s income increases from N30,000 to N36, 000. As a result the consumer increases her purchase of compact discs (CDS) from 25 CDS to 30CDS.What is consumer’s income elasticity of demand for CDS?",
+      "option": { "a": "0.5", "b": "1,0 ", "c": "1", "d": "1.5" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 20,
+      "question": "The Multiplier is always the reciprocal of ",
+      "option": { "a": "MPC ", "b": "MPS ", "c": "APC", "d": "APS" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 21,
+      "question": "If the marginal propensity to save is 0.4 and consumption expenditure changes by N10 million , the equilibrium  level of income will change by ",
+      "option": {
+        "a": "N15.0million ",
+        "b": "N4,0million",
+        "c": "N2.5million ",
+        "d": "N25million."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 22,
+      "question": "Economic freedom is brought about by the existence of ",
+      "option": {
+        "a": "Government ",
+        "b": "Money ",
+        "c": "Availability of Credit ",
+        "d": "choice"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 23,
+      "question": "The only essential attribute of the good currency is ",
+      "option": {
+        "a": "scarcity ",
+        "b": "homogeneity",
+        "c": "acceptability ",
+        "d": "cognoscibility."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 559,
+      "question": "The study of Economics enables individuals to",
+      "option": {
+        "a": "change jobs.",
+        "b": "evade taxes.",
+        "c": "accumulate huge wealth",
+        "d": "make national decision"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 560,
+      "question": "Most of the problems of economies arise as a result of",
+      "option": {
+        "a": "demands for scarce resource",
+        "b": "increase in  the demand for more goods and services.",
+        "c": "the desire of producers to supply more goods and services.",
+        "d": "the need to reduce the level of poverty."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 561,
+      "question": "Which of the following tools of economic analysis is used when data contains more than one category?",
+      "option": {
+        "a": "Bars charts",
+        "b": "Component bar charts",
+        "c": "Graphs",
+        "d": "Symbolical statement"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 562,
+      "question": "The reward of capital as a factor of production is",
+      "option": {
+        "a": "rent",
+        "b": "wage",
+        "c": "interest",
+        "d": "commission."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 563,
+      "question": "Mining is an example of",
+      "option": {
+        "a": "tertiary production",
+        "b": "primary production",
+        "c": "secondary production",
+        "d": "advanced production"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 564,
+      "question": "An owner-manager of a firm can also be called",
+      "option": {
+        "a": "shareholder",
+        "b": "an entrepreneur",
+        "c": "an employer",
+        "d": "a chairman"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 565,
+      "question": "If the fixed cost of a firm is 800 Naira and its variable cost is \t2,700 Naira while its total output is 100 units, what is the average cost of the firm?",
+      "option": {
+        "a": "25 Naira",
+        "b": "35 Naira",
+        "c": "45 Naira",
+        "d": "50 Naira"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 566,
+      "question": "Distribution of good and services is hindered by",
+      "option": {
+        "a": "good road network",
+        "b": "efficient storage facilities",
+        "c": "too many middlemen.",
+        "d": "Adequate market information."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 567,
+      "question": "A movement along the same demand curve either upwards \tor downwards as a result of changes in price implies",
+      "option": {
+        "a": "a change in demand",
+        "b": "a change in quantity demanded.",
+        "c": "an increase in demand",
+        "d": "a shift in the demand curve to the right."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 568,
+      "question": "Middlemen in an economy perform the function of",
+      "option": {
+        "a": "distribution",
+        "b": "exchange",
+        "c": "hoarding.",
+        "d": "protection."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 569,
+      "question": "One of the factors affecting geographical distribution of population is",
+      "option": {
+        "a": "high birth rate",
+        "b": "high death rate",
+        "c": "encouragement of early marriage in the rural areas",
+        "d": "climatic conditions of  the different parts of the country"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 570,
+      "question": "Standardization of products or services is a feature of",
+      "option": {
+        "a": "large firms",
+        "b": "retailers",
+        "c": "small firms",
+        "d": "wholesalers."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 571,
+      "question": "The amount of satisfaction obtained from the consumption of a commodity at a particular time is called",
+      "option": {
+        "a": "marginal utility",
+        "b": "diminishing utility",
+        "c": "total utility",
+        "d": "average utility"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 572,
+      "question": "What are inferior goods? These are goods",
+      "option": {
+        "a": "that are generally in short supply.",
+        "b": "that are no longer in demand",
+        "c": "whose demand falls as income increases",
+        "d": "whose price falls as demand increases"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 573,
+      "question": "In the analysis of utility theory, the basis of demand is",
+      "option": {
+        "a": "marginal utility",
+        "b": "average utility",
+        "c": "fixed utility",
+        "d": "diminishing utility"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 574,
+      "question": "In the normal market situation, when the price of a commodity rises, the",
+      "option": {
+        "a": "demand for the commodity will rise",
+        "b": "demand for the commodity will fall",
+        "c": "supply of the commodity will be constant",
+        "d": "Supply of the commodity will fall."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 575,
+      "question": "When the quantity of a commodity supplied increases and the quantity demanded decreases there will be",
+      "option": {
+        "a": "a rise in price",
+        "b": "no change in price",
+        "c": "price fluctuation",
+        "d": "a fall in price."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 576,
+      "question": "The market price of a commodity is normally determined by the",
+      "option": {
+        "a": "law of demand",
+        "b": "interaction of the forces of demand and supply.",
+        "c": "total number of people in the market",
+        "d": "total quantity of the commodity in the market."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 577,
+      "question": "The mechanism which allows the price of a commodity to be fixed either above or below the equilibrium is known as",
+      "option": {
+        "a": "monopolistic competition",
+        "b": "price discrimination",
+        "c": "perfect competitive market",
+        "d": "price control"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 578,
+      "question": "A debenture holder is entitled to payments in the form of",
+      "option": {
+        "a": "allowance",
+        "b": "interest",
+        "c": "salary",
+        "d": "donation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 579,
+      "question": "The main difference between a private and a public \n\tenterprise is the",
+      "option": {
+        "a": "amount of profit realized",
+        "b": "mode of operation",
+        "c": "objective of the business",
+        "d": "ownership structure"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 580,
+      "question": "The total amount of money raised by a company through insurance of shares to the public is",
+      "option": {
+        "a": "debentures",
+        "b": "nominal capital",
+        "c": "ordinary shares",
+        "d": "paid-up capital"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 581,
+      "question": "Buying and selling of shares is a function performed mostly \tby the",
+      "option": {
+        "a": "insurance companies",
+        "b": "stock exchange",
+        "c": "merchant banks",
+        "d": "discount houses"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 582,
+      "question": "Which of the following is not reason for establishing public \tenterprises?",
+      "option": {
+        "a": "Discouraging investors",
+        "b": "Opening up neglected parts of the country",
+        "c": "Effective control of a natural monopoly",
+        "d": "Rapid economic development"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 583,
+      "question": "For a monopolist, the average revenue (AR) curve is  above",
+      "option": {
+        "a": "the total cost curve",
+        "b": "the same as the marginal cost curve",
+        "c": "above the marginal revenue curve",
+        "d": "the same at that of the perfect competitor."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 584,
+      "question": "Advertising expenses would not be necessary under perfect competition because",
+      "option": {
+        "a": "consumers would have complete knowledge of goods",
+        "b": "cost of production would be at the maximum level",
+        "c": ".  \n\tevery firm  would enjoy the benefits of large scale production",
+        "d": "incomes of the consumers in the community would be high."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 585,
+      "question": "The equilibrium level of output of a monopolist is determined at a point where",
+      "option": {
+        "a": "marginal cost equal average  revenue",
+        "b": "marginal cost equals average cost",
+        "c": "marginal cost equals marginal  revenue",
+        "d": "marginal  revenue equals average cost"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 586,
+      "question": ".\n\nWhich of the following is a legal tender in West Africa?",
+      "option": {
+        "a": "Treasury bill",
+        "b": "Share",
+        "c": "Credit card",
+        "d": "Currency"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 587,
+      "question": "The policy of government to increase the supply of money to meet its own expenditure plans is likely to be",
+      "option": {
+        "a": "speculative",
+        "b": "deflationary",
+        "c": "inflationary",
+        "d": "contractionary"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 588,
+      "question": "The tendency for prices to rise while the value of money falls is known as",
+      "option": {
+        "a": "bills of exchange",
+        "b": "inflation",
+        "c": "depreciation",
+        "d": "deflation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 589,
+      "question": "One way to solve the economic problem of inflation in a country is by increasing the",
+      "option": {
+        "a": "supply of commodities",
+        "b": "supply of currency",
+        "c": "salaries of workers",
+        "d": "demand for commodities."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 590,
+      "question": "The motive for holding money for investing in securities is \treferred to as",
+      "option": {
+        "a": "transactionary",
+        "b": "speculative",
+        "c": "accumulation",
+        "d": "deflationary"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 591,
+      "question": "A cheque book is issued to customers of a bank operating a",
+      "option": {
+        "a": "savings account",
+        "b": "time deposit account",
+        "c": "current account",
+        "d": "fixed deposit account"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 592,
+      "question": "Amount proposed for payments of wages and salaries in a budget is regarded as part of",
+      "option": {
+        "a": "recurrent expenditure",
+        "b": "direct investment",
+        "c": "recurrent revenue",
+        "d": "capital receipt"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 593,
+      "question": "The difference between the Gross National Product (GNP) and the Gross Domestic Product(GDP) is",
+      "option": {
+        "a": "total interest payment",
+        "b": "net income generated internally",
+        "c": "total national savings",
+        "d": "net income from abroad."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 594,
+      "question": "Which of the following agricultural systems is mainly for the",
+      "option": {
+        "a": "cultivation of food crops for family consumption?",
+        "b": "Co-operative farming",
+        "c": "Commercial farming",
+        "d": "Subsistence farming"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 595,
+      "question": "Agriculture is important to the economy of West African countries because it is the source of",
+      "option": {
+        "a": "power",
+        "b": "equipment supply",
+        "c": "industrial  input",
+        "d": "technological progress"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 596,
+      "question": "The economic system in which the state takes the",
+      "option": {
+        "a": "economic decisions through details planning is",
+        "b": "capitalism",
+        "c": "socialism",
+        "d": "traditional economic system"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 597,
+      "question": "A mixed economy combines the characteristics of both",
+      "option": {
+        "a": "planned  and capitalist economics",
+        "b": "exchange subsistence economies",
+        "c": "subsistence and planned economies",
+        "d": "capitalist and exchange economics"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 598,
+      "question": "In a rapidly growing economy, a change in technology which is labour saving is likely to cause",
+      "option": {
+        "a": "residual unemployment",
+        "b": "structure unemployment",
+        "c": "disguised unemployment",
+        "d": "frictional unemployment"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 599,
+      "question": "Which of the following is a form of tax evasion?",
+      "option": {
+        "a": "Wrong declaration of earnings",
+        "b": "Payments of flat rate tax",
+        "c": "constant employment",
+        "d": "Low capacity utilization"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 600,
+      "question": "Where the burden of a tax finally rest is called",
+      "option": {
+        "a": "tax object",
+        "b": "tax rate",
+        "c": "incidence of taxation",
+        "d": "system of taxation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 601,
+      "question": "An increase in the quantity of goods and services produced \tin a country which raises her national income is known as",
+      "option": {
+        "a": "economic development",
+        "b": "economic growth",
+        "c": "domestic investment",
+        "d": "productivity."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 602,
+      "question": "The formula “index of export prices” / “Index of import prices”   x 100   is used to measure the",
+      "option": {
+        "a": "volume of trade between countries",
+        "b": "direction of international trade",
+        "c": "commodity terms of trade",
+        "d": "volume of imports"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 603,
+      "question": "Which of the following is an invisible item?",
+      "option": {
+        "a": "Banking services",
+        "b": "Petroleum products",
+        "c": "Processed rice",
+        "d": "Processed milk"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 604,
+      "question": "In an attempt to correct a deficit balance of payments, a country may decide to increase",
+      "option": {
+        "a": "domestic production",
+        "b": "imports",
+        "c": "domestic expenditure",
+        "d": "tax on infant industries."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 605,
+      "question": "Which of the following is an objective of economic integration?",
+      "option": {
+        "a": "Harmonization of cultural practices",
+        "b": "Free movement of persons, goods and services",
+        "c": "Payment of high tariffs",
+        "d": "Dumping of goods in less developed countries"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 606,
+      "question": "One of the functions of the International Monetary Fund (IMF) is to",
+      "option": {
+        "a": "devalue the currency of member states",
+        "b": "reduce drastically the size of deficit financing of member states",
+        "c": "give financial assistance to member states that have temporary balance of payment difficulties",
+        "d": "the rapid industrialization process in the less developed nations of the world"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    },
+    {
+      "id": 607,
+      "question": "The full meaning of OPEC is",
+      "option": {
+        "a": "Oil and Petroleum Exporting Countries",
+        "b": "Original Petroleum Exporting Companies",
+        "c": "Organization of Petrol Exporting Countries",
+        "d": "Organization of Petroleum Exporting Countries"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2006"
+    }
+  ]
+}

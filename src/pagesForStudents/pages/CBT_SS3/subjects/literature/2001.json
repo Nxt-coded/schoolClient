@@ -1,0 +1,1928 @@
+{
+	"message": "We could not find what you asked for, but got you this",
+	"subject": "englishlit",
+	"status": 200,
+	"total": 120,
+	"data": [
+		{
+			"id": 260,
+			"question": "The theme of the poem is",
+			"option": {
+				"a": "futility of  life",
+				"b": "distortion of  life",
+				"c": "creation of  life",
+				"d": "vanity of  life"
+			},
+			"section": "Move him into the sun,<br> \tGently its touch awoke him once, ,<br> \tAt home, whispering of  fields unsown,<br> \tAlways it woke him even in France,<br> \tUntil this morning and this snow,<br> \tIf anything might rouse him now ,<br> \tThis kind old sun will know,<br> \tThink how it wakes the seeds,<br> \tWoke, once, the clays of a cold star,<br> \tAre limbs, so dear achieved, are,<br> \tsides Full nerved still warm too hard ,<br> \tto stir Was it, for this the clay grew,<br> \ttall? O what made fatuous sunbeams ,<br> \ttoil To break earth’s sleep at all. ,<br>",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 528,
+			"question": "In D.H Lawrence's \"BAT\", the line \"hang themselves up like an old rag\" indicates the poet's _____________ of bats",
+			"option": {
+				"a": "Love",
+				"b": "Hatred",
+				"c": "Kindness",
+				"d": "Acceptance"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2020"
+		},
+		{
+			"id": 68,
+			"question": "One rhyme scheme typical of the English sonnet is ",
+			"option": {
+				"a": "abba abba cde dce ",
+				"b": "abba abba cde cde ",
+				"c": "abab cdcd efef gg ",
+				"d": "abcd babb cde cc."
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 334,
+			"question": "The phrase the sunset in Kunene’s “A Heritage of Liberation” refers to",
+			"option": {
+				"a": "critical need",
+				"b": "old age",
+				"c": "patience",
+				"d": "caution"
+			},
+			"section": "based on selected poems from Ker, D. et al (eds.) New poetry from Africa; Soyinka W. (ed.): Poems of Black Africa: Senanu, K E and Vincent, T. (eds.): A Selection of African poetry; Umukoro, M et al (eels.): Exam Focus: Lit-erature in English; Eruvbetine, A. E. et al (eds.): Longman Examination guides; Nwoga, D.I (ed.): West African Verse andAdeoti G: Naked Soles.",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 529,
+			"question": "In Adah's view, the white society in the novel is one in which",
+			"option": {
+				"a": "There is communal feeling",
+				"b": "Neighourliness is lacking",
+				"c": "Neighbours live happily",
+				"d": "Members are unfriendly"
+			},
+			"section": "Question 10 to 12 are based on Emily Bronte's Wuthering Heights",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2020"
+		},
+		{
+			"id": 32,
+			"question": "A short witty statement is an ",
+			"option": {
+				"a": "epistle ",
+				"b": "eulogy",
+				"c": "epigram ",
+				"d": "anecdote"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2007"
+		},
+		{
+			"id": 64,
+			"question": "When a poet uses mainly soft vowel sounds in a poem, the texture of the poem is ",
+			"option": {
+				"a": "mellifluous ",
+				"b": "harsh ",
+				"c": "assonantal ",
+				"d": "neutral "
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 412,
+			"question": "While assisting Marry, Bigger experiences mixed feelings of",
+			"option": {
+				"a": "Stubbornness and greatness",
+				"b": "Admiration and hate",
+				"c": "Surprise and shock",
+				"d": "Jealousy and avarice"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2017"
+		},
+		{
+			"id": 30,
+			"question": "One rhyme scheme typical of the English sonnet is ",
+			"option": {
+				"a": "bba abba cde cde ",
+				"b": "bba abba cde dce ",
+				"c": "abab cdcd efef gg ",
+				"d": "abcd babb cde cc"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2007"
+		},
+		{
+			"id": 57,
+			"question": "Suspense in a novel means:  ",
+			"option": {
+				"a": "the postponement of the hero’s death till the last possible moment ",
+				"b": "the intense emotions that the author conveys  ",
+				"c": "the inconclusive end of a novel  ",
+				"d": "when we are curious about what happens next in a novel."
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 343,
+			"question": "The use of sound pattern to suggest meaning in poetry is",
+			"option": {
+				"a": "rhythm",
+				"b": "mimics",
+				"c": "lyric",
+				"d": "metonymy"
+			},
+			"section": "based on General Literary Principles.",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 458,
+			"question": "The Turks are drown'd, means that",
+			"option": {
+				"a": "The Turkish attack will not happen",
+				"b": "Their opponents were destroyed",
+				"c": "A terrible storm has struck Cyprus",
+				"d": "It signifies war"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2018"
+		},
+		{
+			"id": 180,
+			"question": "The rhyme scheme of the stanza is",
+			"option": {
+				"a": "abcabcc",
+				"b": "ababcdd",
+				"c": "babaccc",
+				"d": "bcbccaa"
+			},
+			"section": "Pan, O great Pan, to thee'<br> \t\tThus do we sing!<br> \t\tThou who keep’st chaste and free<br> \t\tAs the young spring<br> \t\tEver be thy honour spake<br> \t\tFrom that place the morn is broke<br> \t\tTo the place day doth unyoke",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 339,
+			"question": "In Lawrence’s Bat, the poet’s attitude to bat is one of",
+			"option": {
+				"a": "fear",
+				"b": "sarcasm",
+				"c": "contempt",
+				"d": "flattering"
+			},
+			"section": "based on selected poems from Ker, D. et al (eds.) New poetry from Africa; Soyinka W. (ed.): Poems of Black Africa: Senanu, K E and Vincent, T. (eds.): A Selection of African poetry; Umukoro, M et al (eels.): Exam Focus: Lit¬erature in English; Eruvbetine, A. E. et al (eds.): Longman Examination guides; Nwoga, D.I (ed.): West African Verse andAdeoti G: Naked Soles.",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 124,
+			"question": "A novel that has a very strong presence of the supernatural is known as ______ ",
+			"option": {
+				"a": "faction  ",
+				"b": "gothic  ",
+				"c": "travel tale  ",
+				"d": "fairy novel "
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2012"
+		},
+		{
+			"id": 513,
+			"question": "Characterization in a novel refers to the",
+			"option": {
+				"a": "Writer's opinion of the characters",
+				"b": "Way the characters are revealed to the reader",
+				"c": "Characters and the way they behave",
+				"d": "Reader's opinion of the characters"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 530,
+			"question": "To raise the readers anxiety about the story, the author sometimes",
+			"option": {
+				"a": "Stops the main story to narrate other events",
+				"b": "Creates a lot of funny episodes",
+				"c": "Puts too many difficulties in Adah's way",
+				"d": "Shows that Francis is weak"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2020"
+		},
+		{
+			"id": 471,
+			"question": "Shall I compare thee to a summer's day? The sentence implies a",
+			"option": {
+				"a": "Metaphor",
+				"b": "Irony",
+				"c": "Rhetorical question",
+				"d": "Iambic"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2018"
+		},
+		{
+			"id": 255,
+			"question": "The rhyme scheme in the excerpt above is",
+			"option": {
+				"a": "bbaa",
+				"b": "aabb",
+				"c": "abab",
+				"d": "abba"
+			},
+			"section": "That age is best which is the first,<br> \tWhen youth and blood are warmer, <br> \tBut being spent, the worse, and worst <br> \tTime still succeed the former. ",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 313,
+			"question": "James Ofosu’s desire is to see Maanan trained as",
+			"option": {
+				"a": "a choreographer",
+				"b": "an attorney",
+				"c": "an accountant",
+				"d": "a surgeon"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 199,
+			"question": "The rhyme scheme is",
+			"option": {
+				"a": "aabbccddeeff",
+				"b": "ababababaabb",
+				"c": "abcaabbcabab",
+				"d": "abbaabcaabab"
+			},
+			"section": "Proud mothers of the coming age,<br> \t\t‘Tis good to find you now engage<br> \t\tYour minds and time your lives to raise<br> \t\tAbove the level of bygone days<br> \t\t<br> \t\t‘Tis good to see you play your part<br> \t\tWith spirit and undaunted heart,<br> \t\tIt gives young Afric’s throbbing soul<br> \t\tA glimpse of a bright and glorious goal<br> \t\t<br> \t\tGod bless you, mothers of our race,<br> \t\tGod cause to shine on you His face;<br> \t\tAnd give you strength and all you crave<br> \t\tTo bring forth sons and daughters brave.",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 9,
+			"question": "Caliph: \"You have spoken well. I agree with the Waziri' s suggestion. You shall be organize your men and build in new well in the market. “That is our judgement\". What informed this statement? ",
+			"option": {
+				"a": "Waziri fight with the white man ",
+				"b": "Waziri's disagreement with Sarkin Zango ",
+				"c": "the dispute between Caliph Attahiru and Prince Muhammed al-Tahir  ",
+				"d": "the dispute between Sarkin Zango and Sarkin Fatake."
+			},
+			"section": "question is on Attahiru, Ahmed Yerima's play",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 548,
+			"question": "In Augustino Neto's \"The Grieved Land's dramatic and emotive intensity is derived from the employment of\"",
+			"option": {
+				"a": "Reception",
+				"b": "Double rhymes",
+				"c": "Assonance",
+				"d": "End rhymes"
+			},
+			"section": "Questions 27 to 33 are based on selected poems from the list of approved African and Non-African poems",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2020"
+		},
+		{
+			"id": 86,
+			"question": "The branch of knowledge that places emphasis on beauty is ",
+			"option": {
+				"a": "philosophy ",
+				"b": "ode to pretty ",
+				"c": "philology ",
+				"d": "aesthetics."
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 286,
+			"question": "Launko’s ‘End of the’ War suggests that war brings about",
+			"option": {
+				"a": "ultimate solution to all problems",
+				"b": "partial solution to problems",
+				"c": "multifaceted problems",
+				"d": "only temporary relief."
+			},
+			"section": "Based on selected poems from Johnson, \tR. et al (eds.): New Poetry from Africa; Soyirvka, W. (ed.): Poems of Black Africa; Senanu, K.E. and Vincent, T. (eds.): A Selection of African Poetry; Maduka, C.T. et al: Exam Focus: Literature in English; Eruvbetine, A. E. et al (eds.): Longman Examination Guides; Nwoga, D. I. (ed.): West African Verse and Adeoti G.: Naked Soles.",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 206,
+			"question": "The “impostor” is",
+			"option": {
+				"a": "Sebastian",
+				"b": "Antonio",
+				"c": "Ferdinand",
+				"d": "Alonso"
+			},
+			"section": "\tWILLIAM SHAKESPEARE: The Tempest<br><br> \t\tSilence! One word more<br> \t\tShall make me chide thee, if not hate thee. What!<br> \t\tAn advocate for an impostor! Hush!<br> \t\t(Act I, Scene Two, lines 478 - 480)",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 34,
+			"question": "A literary device that creates a mental picture of a situation is ",
+			"option": {
+				"a": "imagery",
+				"b": "symbolism ",
+				"c": "flashback ",
+				"d": "epilogue."
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2007"
+		},
+		{
+			"id": 287,
+			"question": "The persona in the poem <em>Give Me The Minstrel’s Seat</em> discourages",
+			"option": {
+				"a": "togetherness",
+				"b": "hatred",
+				"c": "isolation",
+				"d": "poverty."
+			},
+			"section": "Based on selected poems from Johnson, \tR. et al (eds.): New Poetry from Africa; Soyirvka, W. (ed.): Poems of Black Africa; Senanu, K.E. and Vincent, T. (eds.): A Selection of African Poetry; Maduka, C.T. et al: Exam Focus: Literature in English; Eruvbetine, A. E. et al (eds.): Longman Examination Guides; Nwoga, D. I. (ed.): West African Verse and Adeoti G.: Naked Soles.",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 277,
+			"question": "“ ‘ By my mother!’ said Engamba. The night rat doesn’t tell what happened to him in the dark! Men are born and die...”  In the statement above, The night rat doesn’t tell what happened to him in the dark! refers to",
+			"option": {
+				"a": "the Whiteman’s treatment of Meka",
+				"b": "Meka’s treatment of the medal in the whitewashed circle",
+				"c": "people’s unwillingness to talk about how Whiteman treat them",
+				"d": "people’s freedom of expression."
+			},
+			"section": "Based on Ferdinand Oyono’s The Old Man and the Medal.",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 348,
+			"question": "a structural arrangement of units of composition by which one element of equal importance with another is similarly placed is called",
+			"option": {
+				"a": "repetition",
+				"b": "paradox",
+				"c": "refrain",
+				"d": "parallelism"
+			},
+			"section": "based on General Literary Principles.",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 103,
+			"question": "The central  conflict in de Graft’s Sons and Daughter is primarily: ",
+			"option": {
+				"a": "political ",
+				"b": "generational ",
+				"c": "racial",
+				"d": "communal"
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 19,
+			"question": "In Ofeimu's \"we must learn Again to fly\" 'Cumulus' symbolizes ",
+			"option": {
+				"a": "acloud ",
+				"b": "old age ",
+				"c": "sounded masses ",
+				"d": "black hair."
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 309,
+			"question": "The expression “The child is the father of the man” in the poem above is an example of",
+			"option": {
+				"a": "paradox",
+				"b": "metaphor",
+				"c": "simile",
+				"d": "ellipsis"
+			},
+			"section": "based on Literary Appreciation.",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 256,
+			"question": "The subject matter of the extract above is",
+			"option": {
+				"a": "Storm",
+				"b": "sea waves",
+				"c": "house movement",
+				"d": "earthquake"
+			},
+			"section": "But the towering earth was tired sitting in one position. She moved, suddenly, and the houses crumbled, the mountains heaved horribly, and the work of a million years was lost\t",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 401,
+			"question": "William Marris \"The proud king\" \"And has good counsel from him, though indeed, a scanty crop has Spprung from that good seed\" The above is an example of",
+			"option": {
+				"a": "Metaphor",
+				"b": "Personification",
+				"c": "Irony",
+				"d": "Euphemism"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2016"
+		},
+		{
+			"id": 38,
+			"question": "The wood where Alec raped Tess is known as: ",
+			"option": {
+				"a": "Chase borough ",
+				"b": "The Chase ",
+				"c": "Greenhill ",
+				"d": "Trantridge."
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2007"
+		},
+		{
+			"id": 187,
+			"question": "The lines illustrate",
+			"option": {
+				"a": "soliloquy",
+				"b": "parallelism",
+				"c": "dialogue",
+				"d": "contrast"
+			},
+			"section": "Our leaders will not compromise freedom<br> \tNor will our heads give up liberty.",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 467,
+			"question": "Alfred Tennyson's Crossing the Bar. The use of imagery in the poem occurs in two broad, which are",
+			"option": {
+				"a": "Broad and straight",
+				"b": "Visual and audio",
+				"c": "Feelings and happiness",
+				"d": "Symbolism and imagery"
+			},
+			"section": "Questions 26 to 30 are based on the John Hayward. The Golden Treasury of longer poema, selected and edited by Ernest. English Romantic Verse edited by Wright, Penguin books. A Pageant of longer poems edited by E,W Parker, Longman",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2018"
+		},
+		{
+			"id": 219,
+			"question": "X and Y are",
+			"option": {
+				"a": "Antonio and Alonso",
+				"b": "Sebastian and Alonso",
+				"c": "Antonio and Gonzalo",
+				"d": "Sebastian and Gonzalo"
+			},
+			"section": "WILLIAM SHAKESPEARE: The Tempest<br><br> \t\t<strong>X:</strong> We two, my lord,<br> \t\t\tWill guard your person while you take your rest, <br> \t\t\tAnd watch your safety. <br> \t\t\t<br> \t\t<strong>Y:</strong> Thank you. - Wondrous heavy. <br> \t\t\t(Act II, Scene One, lines 184 - 187)",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 243,
+			"question": "Both comedy and tragedy have",
+			"option": {
+				"a": "happy ending",
+				"b": "climax",
+				"c": "tragic hero",
+				"d": "stanza"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 487,
+			"question": "In William Morris \"The Proud King\". The rhyme scheme for the seven line stanzas is consistent it is",
+			"option": {
+				"a": "aabbcc",
+				"b": "ababbcc",
+				"c": "abcdee",
+				"d": "abccddeeff"
+			},
+			"section": "Question 6 to 10 are based on poems from the penguin book of English verse by John Hayward. The Golden Treasury of longer poems, selected and edited by Ernest. English Romantic Verse edited by Wright Penguin book. A Pageant of longer poems edited by E.W. Parker, Longman.",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 171,
+			"question": "The type of sonnet that has an octave and a sestet has its origin in  ",
+			"option": {
+				"a": "England  ",
+				"b": "Spain ",
+				"c": "Portugal   ",
+				"d": "Italy"
+			},
+			"section": "Question is based on General literary principles.",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2013"
+		},
+		{
+			"id": 244,
+			"question": "A formal dignified speech or writing praising a person or a thing for past or present deeds is",
+			"option": {
+				"a": "premiere",
+				"b": "eulogy",
+				"c": "anthology",
+				"d": "lampoon"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 216,
+			"question": "Before Ariel’s entry",
+			"option": {
+				"a": "Ferdinand has brought in some wood",
+				"b": "Prospero has put Miranda to sleep",
+				"c": "Caliban had been swearing at Prospero",
+				"d": "Trinculo had discovered Caliban’s cloak"
+			},
+			"section": "WILLIAM SHAKESPEARE: The Tempest<br><br>  \t\tAriel:\tAll hail, great master! Grave sir, hail! I come<br> \t\t\tTo answer thy best pleasure; be’t to fly, <br> \t\t\tTo swim, to dive into the fire, to ride<br> \t\t\tOn the curled clouds, to thy strong bidding task<br> \t\t\tAriel and all his quality. <br> \t\t\t(Act I, Scene  Two, lines 189 - 193)\t",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 360,
+			"question": "‘Tonderai was assisted by the villages in placing his truck box into the back for the car and he got into the passenger side of the truck. Initially, he was a bit nervous and clearly uncomfortable, his young mind was asking how someone whom, he had almost caused a serious accident could be his benefactor.’ ( Daniel T. Manyika: Two worlds Apart )\n\n<br><br>The narrative point of view used in the extract above can best be described as",
+			"option": {
+				"a": "omniscient",
+				"b": "subjective",
+				"c": "panoramic",
+				"d": "scenic"
+			},
+			"section": "based on Literary Appreciation",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 91,
+			"question": "The literary device  which anticipates that an event will take place is best described as ",
+			"option": {
+				"a": "parody ",
+				"b": "flashback ",
+				"c": "foreshadowing ",
+				"d": "rising action "
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 220,
+			"question": "“We two” are",
+			"option": {
+				"a": "Antonio and Adrian",
+				"b": "Sebastian and Adrian",
+				"c": "Sebastian and Francisco",
+				"d": "Antonio and Sebastian"
+			},
+			"section": "WILLIAM SHAKESPEARE: The Tempest<br><br> \t\t<strong>X:</strong> We two, my lord,<br> \t\t\tWill guard your person while you take your rest, <br> \t\t\tAnd watch your safety. <br> \t\t\t<br> \t\t<strong>Y:</strong> Thank you. - Wondrous heavy. <br> \t\t\t(Act II, Scene One, lines 184 - 187)",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 96,
+			"question": "Winston Smith begins his rebellion against the power of the state by ",
+			"option": {
+				"a": "educating the youth  ",
+				"b": "keeping a private diary  ",
+				"c": "purchasing arms ",
+				"d": "disobeying Big Brother."
+			},
+			"section": "Question is based on George Orwell’s Nineteen Eighty-four",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 198,
+			"question": "The setting is",
+			"option": {
+				"a": "dawn",
+				"b": "sunset",
+				"c": "midday",
+				"d": "night"
+			},
+			"section": "A modest two-room hut built of mud and roofed with straw graciously sheltered the Mensahs. One of the rooms advertised itself as a living room. The kind earthenware pot willingly kept company with four ever-smiling stools. The pot eternally contained cool water for guests. The second room was a warm-hearted bedroom without a bed. The poor pair had to sleep on bare straw mats on the polished dirt floor. Some over washed rags deputized for blankets and sheets and pillows. Two strong dry logs, facing each other like bitter rivals burned themselves out at night, not merely to keep the couple warm but mainly to ward off hungry mosquitoes and other hostile pests.<br><br> There was no door to ward off the cold night air. Some rude \tdevices, however, were contrived to keep the room quite safe from prying eyes and curious domestic animals. Would any thief be ever tempted to peep into <strong>such a rude room of such a poor pair</strong>?",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 150,
+			"question": "Aaron’s painting is purchased by an American collector for the sum of ",
+			"option": {
+				"a": "250 dollars  ",
+				"b": "220 pounds ",
+				"c": "260 cedis  ",
+				"d": "280 francs "
+			},
+			"section": "Question is  based  on Joe de Graft’s Sons and Daughters.",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2013"
+		},
+		{
+			"id": 205,
+			"question": "The addressee is",
+			"option": {
+				"a": "Ariel",
+				"b": "Ferdinand",
+				"c": "Caliban",
+				"d": "Miranda"
+			},
+			"section": "\tWILLIAM SHAKESPEARE: The Tempest<br><br> \t\tSilence! One word more<br> \t\tShall make me chide thee, if not hate thee. What!<br> \t\tAn advocate for an impostor! Hush!<br> \t\t(Act I, Scene Two, lines 478 - 480)",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 329,
+			"question": "What prompts Nnu Ego to run to the effigy of her chi is that ...",
+			"option": {
+				"a": "she is worried and sick",
+				"b": "she is pregnant",
+				"c": "the chi asks her to come",
+				"d": "milk is dripping from her breasts."
+			},
+			"section": "based on Buchi Emecheta’s  \tThe Joys of Motherhood",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 97,
+			"question": "In the novel, Orwell attempts  to ",
+			"option": {
+				"a": "eulogizes the beauty of the socialist system; ",
+				"b": "condemn the disgusting hypocrisy of all communist systems; ",
+				"c": "satirize the artificiality  of a machine controlled society ",
+				"d": "deride the political lock jam in Nigeria."
+			},
+			"section": "Question is based on George Orwell’s Nineteen Eighty-four",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 383,
+			"question": "Woye learns the benefits of hardwork and diligence from ",
+			"option": {
+				"a": "Ajumobi",
+				"b": "Yaremi",
+				"c": "Wura",
+				"d": "Oba of Kufi village"
+			},
+			"section": "Question 22 is based on Bayo Adebowale's Lonely Days",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2016"
+		},
+		{
+			"id": 515,
+			"question": "In the theatre, words spoken by a character that are meant to be heard by the audience but not by the other characters on stage is called",
+			"option": {
+				"a": "Aside",
+				"b": "Soliloquy",
+				"c": "Acoustic",
+				"d": "Tone"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 460,
+			"question": "The setting is",
+			"option": {
+				"a": "A seaport in Cyprus",
+				"b": "Venice, another street",
+				"c": "A room in the castle",
+				"d": "Before the castle"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2018"
+		},
+		{
+			"id": 236,
+			"question": "The disagreement between Mvondo and Nticentres on the latter’s claim to have",
+			"option": {
+				"a": "Assisted Meka in getting the medal",
+				"b": "eaten the entire entrails of a sheep",
+				"c": "eaten more than his share of the food",
+				"d": "been in a Whiteman’s office"
+			},
+			"section": "Based on Ferdina  and Oyono’s  \tThe Old Man and the Medal.",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 345,
+			"question": "The use of gestures to communicate in drama is known as",
+			"option": {
+				"a": "burlesque",
+				"b": "soliloquy",
+				"c": "mime",
+				"d": "melodrama"
+			},
+			"section": "based on General Literary Principles.",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 366,
+			"question": "When Jeremy, one of the servants enters drunkenly and makes a fool of himself, Marlow refuses to discipline him but instead mocks",
+			"option": {
+				"a": "Hardcastle's request",
+				"b": "Hastings' request",
+				"c": "Tony's request",
+				"d": "Kate's request"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2016"
+		},
+		{
+			"id": 447,
+			"question": "Ogeyi bothered by what corruption has apparently done to Aloho, her friend decides to go to ____________ with her story",
+			"option": {
+				"a": "Chief Ade Amaka and Ocbuole",
+				"b": "ACP Yakubu and Inspector Inaku",
+				"c": "Madam Hoha and ACP Yakubu",
+				"d": "Justice odili and Ayo"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2018"
+		},
+		{
+			"id": 93,
+			"question": "Romeo’s death becomes inevitable because ",
+			"option": {
+				"a": "Emire Lawrence’s is not delivered: ",
+				"b": "Juliet is married to Paris ",
+				"c": "Romeo kills Tybalt in a duel ",
+				"d": "Juliet has committed suicide."
+			},
+			"section": "Question is based on William Shakespeare’s Romeo and Juliet",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 439,
+			"question": "The literary term which describes the angle at which a writer tells his story is",
+			"option": {
+				"a": "Point of view",
+				"b": "Story angle",
+				"c": "Story line",
+				"d": "Aside"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2017"
+		},
+		{
+			"id": 531,
+			"question": "Why did Catherine refuse to marry Heathcliff?",
+			"option": {
+				"a": "Heathcliff is of a low class",
+				"b": "Heathcliff is blind",
+				"c": "Heathcliff is not educated",
+				"d": "Heathcliff is her cousin"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2020"
+		},
+		{
+			"id": 95,
+			"question": "The major reason for Juliet’s  grief is ",
+			"option": {
+				"a": "The death of her cousin; ",
+				"b": "her reluctant marriage to Romeo  ",
+				"c": "the banishment of her lover ",
+				"d": "her imminent death."
+			},
+			"section": "Question is based on William Shakespeare’s Romeo and Juliet",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 191,
+			"question": "In drama, the ___________ creates humour",
+			"option": {
+				"a": "hero",
+				"b": "clown",
+				"c": "villain",
+				"d": "chorus"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 509,
+			"question": "From the statement. \"Satisfying reasons\" means",
+			"option": {
+				"a": "Moral support",
+				"b": "Good conduct",
+				"c": "Satisfactory result",
+				"d": "Excuses"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 16,
+			"question": "The tone or mood of the speaker in the poem is:  ",
+			"option": {
+				"a": "neutral  ",
+				"b": "angry  ",
+				"c": "happy  ",
+				"d": "sad "
+			},
+			"section": "question is on an extract form a poem by Thomas Hardy. Read the lines carefully and answer the question that follow:\nWe stood by a pond that winter day.\nAnd the sun was white, as though children of God.\nAnd a few leaves lay on the starving sod,\n…. They had fallen from an ash, and were gray\n",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 230,
+			"question": "‘O” serpent heart, hid with a flowering face!’ The statement refers to",
+			"option": {
+				"a": "Juliet",
+				"b": "Romeo",
+				"c": "Tybalt",
+				"d": "Benvolio"
+			},
+			"section": "Based on William Shakespeare’s  \tRomeo and Juliet.",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 288,
+			"question": "Marvel’s To ‘His Coy Mistress’ is written mainly in",
+			"option": {
+				"a": "alternate rhymes",
+				"b": "blank verse",
+				"c": "heroic couplets",
+				"d": "middle rhymes."
+			},
+			"section": "Based on selected poems from Johnson, \tR. et al (eds.): New Poetry from Africa; Soyirvka, W. (ed.): Poems of Black Africa; Senanu, K.E. and Vincent, T. (eds.): A Selection of African Poetry; Maduka, C.T. et al: Exam Focus: Literature in English; Eruvbetine, A. E. et al (eds.): Longman Examination Guides; Nwoga, D. I. (ed.): West African Verse and Adeoti G.: Naked Soles.",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 240,
+			"question": "How did Winston start his rebellion against the state?",
+			"option": {
+				"a": "By engaging in anti-party activities",
+				"b": "By keeping a private diary",
+				"c": "When he started a secret affair",
+				"d": "When he spied on the party"
+			},
+			"section": "Based on George Orwell’s  \tNineteen Eighty-Four.",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 175,
+			"question": "In Literature, repetition is used essentially for",
+			"option": {
+				"a": "rhyme",
+				"b": "suspense",
+				"c": "allusion",
+				"d": "emphasis"
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 443,
+			"question": "Young Charles Marlow is extremely shy around",
+			"option": {
+				"a": "Refined young ladies",
+				"b": "Bold and outspoken women",
+				"c": "Gentlemen of same calibre",
+				"d": "Hardcastle's"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2018"
+		},
+		{
+			"id": 248,
+			"question": "Pun as a literary device deals with",
+			"option": {
+				"a": "placing two opposite phrase",
+				"b": "placing words side by side",
+				"c": "playing on words",
+				"d": "arrangement of words"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 262,
+			"question": "In the play, Fasuwa represents the",
+			"option": {
+				"a": "new culture",
+				"b": "patriarchy",
+				"c": "old order",
+				"d": "African civilization."
+			},
+			"section": "Based on J.C. De Graft’s Sons and  \tDaughters.",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 405,
+			"question": "These lovers refers to",
+			"option": {
+				"a": "Lago and Emilia",
+				"b": "Cassio and Bianca",
+				"c": "Roderigo and Desdemona",
+				"d": "Othello and Desdemona"
+			},
+			"section": "Let me speak like yourself and Lay a sentence which, aas a grise or step may help these lovers when remedies are past, the griefs are ended, by seeing the worst which late on nopes depends. (Act I scene III)",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2017"
+		},
+		{
+			"id": 516,
+			"question": "Drama is the representation of a complete series of action by means of",
+			"option": {
+				"a": "Movement and gesture for the screen and audience",
+				"b": "Speech, movement, and gesture for the stage, screen and radio",
+				"c": "Speech, gesture, and movement for the screen and radio",
+				"d": ""
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 114,
+			"question": "The attitude of the poet-Persona toward bats in D.H. Lawrence’s “Bats” is that of ",
+			"option": {
+				"a": "revulsion ",
+				"b": "veneration  ",
+				"c": "admiration  ",
+				"d": "indifference."
+			},
+			"section": "Questions is based on Non-African Poetry",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 374,
+			"question": "A port's use of regular rhythm is know as ",
+			"option": {
+				"a": "Metre",
+				"b": "Assonance",
+				"c": "Allegory",
+				"d": "Onomatopoeia"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2016"
+		},
+		{
+			"id": 521,
+			"question": "The main aim of caricature is to",
+			"option": {
+				"a": "Describe",
+				"b": "Expose",
+				"c": "Emphasize",
+				"d": "Ridicule"
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 145,
+			"question": "In the novel, the Ministry that is responsible for news, entertainment and fine arts in the Ministry of  ",
+			"option": {
+				"a": "Peace  ",
+				"b": "Love  ",
+				"c": "Plenty  ",
+				"d": "Truth"
+			},
+			"section": "Question is based on George Orwell’s Nineteen Eight Four",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2012"
+		},
+		{
+			"id": 139,
+			"question": "Aaron’s brother who trains as an accountant is  ",
+			"option": {
+				"a": "George  ",
+				"b": "Awere  ",
+				"c": "Owusu  ",
+				"d": "Kofi"
+			},
+			"section": "Question is based on Joe de Graft’s Sons and daughters",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2012"
+		},
+		{
+			"id": 314,
+			"question": "The plot of the play is,",
+			"option": {
+				"a": "linear",
+				"b": "cyclical",
+				"c": "complicated",
+				"d": "episodic"
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 474,
+			"question": "A device in drama where a character speaks alone is",
+			"option": {
+				"a": "Soliloquy",
+				"b": "Aside",
+				"c": "Apostrophe",
+				"d": "Dialogue"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2018"
+		},
+		{
+			"id": 20,
+			"question": "A brief but witty expression is called: ",
+			"option": {
+				"a": "song ",
+				"b": "epigram",
+				"c": "enecdote ",
+				"d": "joke "
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 101,
+			"question": "Lawyer Bonu in de Grafts Sons and Daughters can be described as a: ",
+			"option": {
+				"a": "caring father ",
+				"b": "faithful husband ",
+				"c": "deceitful friend ",
+				"d": "shrewd politician."
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 482,
+			"question": "\"Dinner tonight comes with gun wounds. Our desert tongues lick the vegetable blood—the pepper\". The statement above implies.",
+			"option": {
+				"a": "Danger",
+				"b": "Humour",
+				"c": "Sarcasm",
+				"d": "Darkness"
+			},
+			"section": "Question 1 to 5 are based on poems of Black Africa, edited by Wole Soyinka. A selection of African Poetry by K.E Senanu and T. Vincent. New poetry from Africa. Johnson etal. Poems from Ghana edited by Kofi Awoonor. Manscape in the Sierra, New and collected poems by Gbanabom Hallowell. Gbanabam Hallowell's The Dining Table",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 490,
+			"question": "In William Blake's poem \"The school boy\", the mental picture created in the mind of the reader is of a",
+			"option": {
+				"a": "Man ",
+				"b": "Little boy",
+				"c": "Little girl",
+				"d": "Woman"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 80,
+			"question": "There knells a jigger, a louse , a weevil, a flea, a bedbug! He is mistletoe, a parasite that lives on the trees of other people’s! the speaker uses a string of ",
+			"option": {
+				"a": "metaphors  ",
+				"b": "parables  ",
+				"c": "hyperboles  ",
+				"d": "riddles"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 451,
+			"question": "Peggy leads Bigger into the kitchen and asks him to sit down while she gets the",
+			"option": {
+				"a": "Fruits ready",
+				"b": "Dinner ready",
+				"c": "Food ready",
+				"d": "Drinks ready"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2018"
+		},
+		{
+			"id": 125,
+			"question": "In a tragic-comedy, the unknotting of the plot, the resolution of the mystery and the resolution of the misunderstanding is called  ",
+			"option": {
+				"a": "exposition   ",
+				"b": "denouement   ",
+				"c": "catharsis  ",
+				"d": "hubris"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2012"
+		},
+		{
+			"id": 108,
+			"question": "The medal in Oyono’s The Old man and the medal is a symbol of: ",
+			"option": {
+				"a": "colonial deceit ",
+				"b": "African pride  ",
+				"c": "genuine reward for loyalty ",
+				"d": "respect and honour"
+			},
+			"section": "Question is  based on Oyono’s Old man hand the medal",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 245,
+			"question": "The narrative style in which the hero tells his own story directly is the",
+			"option": {
+				"a": "objective",
+				"b": "subjective",
+				"c": "first-person",
+				"d": "third-person"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 299,
+			"question": "A short narrative or lyrical poem intended to be sung is a",
+			"option": {
+				"a": "leich",
+				"b": "lay",
+				"c": "lauda",
+				"d": "letrilla."
+			},
+			"section": "Based on General Literary Principles.",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 163,
+			"question": "The protagonist of the novel is  ",
+			"option": {
+				"a": "Nwokocha Agbadi ",
+				"b": "Nnaife  ",
+				"c": "Nwakusor ",
+				"d": "Nnu Ego."
+			},
+			"section": "Question is based on Buchi Emecheta’s The Joys of Motherhood.",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2013"
+		},
+		{
+			"id": 413,
+			"question": "Aloho has discovered that she is pregnant for chief, downcast, she sobs _____________ console's her",
+			"option": {
+				"a": "Ochuole",
+				"b": "Ogeyi",
+				"c": "ACP Yakubu",
+				"d": "Madam Hoha"
+			},
+			"section": "Question 12 and 13 are based on Fran Ogeche's \"Harvest of Corruption\"",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2017"
+		},
+		{
+			"id": 395,
+			"question": "Laboratory tests have nothing to show. This expression is an example of",
+			"option": {
+				"a": "Metaphor",
+				"b": "Personification",
+				"c": "Irony",
+				"d": "Metonymy"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2016"
+		},
+		{
+			"id": 257,
+			"question": "From the poem above, shadow means",
+			"option": {
+				"a": "famine",
+				"b": "bleak future",
+				"c": "period of sufferings",
+				"d": "abstract ideas"
+			},
+			"section": "And your laughter like a flame<br>\t \tPiercing the shadows<br> \tHas revealed Africa to me beyond<br> \tThe snow of yesterday<br>",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 545,
+			"question": "The traditional verse form of speech as dialogue in Midsummer Night's Dream is used to symbolize the",
+			"option": {
+				"a": "Impressiveness of the characters",
+				"b": "Intense feelings of the characters",
+				"c": "Traditionalist of the play",
+				"d": "Function of poetry in the play"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2020"
+		},
+		{
+			"id": 130,
+			"question": "The image in this excerpt suggest ",
+			"option": {
+				"a": "happiness  ",
+				"b": "sorrow ",
+				"c": "anger  ",
+				"d": "kindness"
+			},
+			"section": "(Extract for question)I thank you God for creating me black\nFor making of me\nPorter of all sorrows\nSetting on my mind\nThe world\n",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2012"
+		},
+		{
+			"id": 170,
+			"question": "A poem written in unrhymed five stress lines is called  ",
+			"option": {
+				"a": "ballad  ",
+				"b": "Blank verse ",
+				"c": "sonnet      ",
+				"d": "Ode"
+			},
+			"section": "Question is based on General literary principles.",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2013"
+		},
+		{
+			"id": 340,
+			"question": "The first stariza of Eliot’s “The Journey of the Magi” depict the",
+			"option": {
+				"a": "hazards of the journey",
+				"b": "increment of fortune for the pilgrims",
+				"c": "blind acceptance of faith",
+				"d": "journey as an influential factor."
+			},
+			"section": "based on selected poems from Ker, D. et al (eds.) New poetry from Africa; Soyinka W. (ed.): Poems of Black Africa: Senanu, K E and Vincent, T. (eds.): A Selection of African poetry; Umukoro, M et al (eels.): Exam Focus: Lit¬erature in English; Eruvbetine, A. E. et al (eds.): Longman Examination guides; Nwoga, D.I (ed.): West African Verse andAdeoti G: Naked Soles.",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 98,
+			"question": "“The experts, of course disagree the urine test they ordered ‘said, Negative’. The lives above from acqah’s in the Nanel of the soul depict ",
+			"option": {
+				"a": "awareness ",
+				"b": "inevitability ",
+				"c": "progress ",
+				"d": "contradiction."
+			},
+			"section": "Question is based on selected poems",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 195,
+			"question": "The dominant literary device used in the passage is",
+			"option": {
+				"a": "litotes",
+				"b": "personification",
+				"c": "simile",
+				"d": "paradox"
+			},
+			"section": "A modest two-room hut built of mud and roofed with straw graciously sheltered the Mensahs. One of the rooms advertised itself as a living room. The kind earthenware pot willingly kept company with four ever-smiling stools. The pot eternally contained cool water for guests. The second room was a warm-hearted bedroom without a bed. The poor pair had to sleep on bare straw mats on the polished dirt floor. Some over washed rags deputized for blankets and sheets and pillows. Two strong dry logs, facing each other like bitter rivals burned themselves out at night, not merely to keep the couple warm but mainly to ward off hungry mosquitoes and other hostile pests.<br><br> There was no door to ward off the cold night air. Some rude \tdevices, however, were contrived to keep the room quite safe from prying eyes and curious domestic animals. Would any thief be ever tempted to peep into <strong>such a rude room of such a poor pair</strong>?",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 318,
+			"question": "‘...So tedious is this day<br>\n\tAs is the night before some festival<br>\n\tTo an impatient child that hath new robes<br>\n\tAnd may not wear them.’<br>\nWhat makes Juliet’s night so tedious is the",
+			"option": {
+				"a": "murder of Tybalt by Romeo",
+				"b": "arranged marriage between her and Paris",
+				"c": "Eagerness’ to be married to Romeo",
+				"d": "unconsummated marriage with Romeo"
+			},
+			"section": "based on William Shake¬speare’s  \tRomeo and Juliet.",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 70,
+			"question": "In Gbemisola Adeoti's \"Naked Soles\", the expression \"red milk of grief' means ",
+			"option": {
+				"a": "wine ",
+				"b": "sea ",
+				"c": "ink ",
+				"d": "blood."
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 74,
+			"question": "Literary device that creates a mental picture of   a situation is ",
+			"option": {
+				"a": "imagery ",
+				"b": "symbolism ",
+				"c": "flashback ",
+				"d": "epilogue"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 291,
+			"question": "In Cope’s <em>Sonnet VII</em>, poetry is",
+			"option": {
+				"a": "a popular act",
+				"b": "a boring act",
+				"c": "an idle hobby",
+				"d": "a useless undertaking."
+			},
+			"section": "Based on selected poems from Johnson, \tR. et al (eds.): New Poetry from Africa; Soyirvka, W. (ed.): Poems of Black Africa; Senanu, K.E. and Vincent, T. (eds.): A Selection of African Poetry; Maduka, C.T. et al: Exam Focus: Literature in English; Eruvbetine, A. E. et al (eds.): Longman Examination Guides; Nwoga, D. I. (ed.): West African Verse and Adeoti G.: Naked Soles.",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 333,
+			"question": "‘Pregnant clouds Ride Safely on its back’ Pregnant clouds in Rubadiri’s “An AfricanThunderstorm implies”",
+			"option": {
+				"a": "uncertainty",
+				"b": "calmness",
+				"c": "disbelief",
+				"d": "fertility"
+			},
+			"section": "based on selected poems from Ker, D. et al (eds.) New poetry from Africa; Soyinka W. (ed.): Poems of Black Africa: Senanu, K E and Vincent, T. (eds.): A Selection of African poetry; Umukoro, M et al (eels.): Exam Focus: Lit-erature in English; Eruvbetine, A. E. et al (eds.): Longman Examination guides; Nwoga, D.I (ed.): West African Verse andAdeoti G: Naked Soles.",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 186,
+			"question": "The use of imagery in prose or verse",
+			"option": {
+				"a": "appeals to the senses",
+				"b": "develop the plot",
+				"c": "create confusion",
+				"d": "obscures meaning"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 71,
+			"question": "Farce thrives on ",
+			"option": {
+				"a": "big events ",
+				"b": "promotion ",
+				"c": "absurdity ",
+				"d": "incidents."
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 156,
+			"question": "Mazisi Kunene is an African poet from  ",
+			"option": {
+				"a": "Ghana ",
+				"b": "Nigeria  ",
+				"c": "Malawi  ",
+				"d": "South Africa"
+			},
+			"section": "Question is based on African and Non-African Poetry  ",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2013"
+		},
+		{
+			"id": 317,
+			"question": "When Friar Lawrence asks if the bride is ready, he wants to know if",
+			"option": {
+				"a": "Juliet is prepared",
+				"b": "Rosaline is prepared",
+				"c": "the corpse is ready",
+				"d": "the bride is dressed"
+			},
+			"section": "based on William Shake¬speare’s  \tRomeo and Juliet.",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2009"
+		},
+		{
+			"id": 51,
+			"question": "When the speaker in a poem cannot be identified with poet, that speaker is called: ",
+			"option": {
+				"a": "a persona ",
+				"b": "a dramatic persona ",
+				"c": "a soliloquist",
+				"d": "a ventriloquist."
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2008"
+		},
+		{
+			"id": 2,
+			"question": "Prince Hamlet refrains from killing King Claudius while the latter is praying because ",
+			"option": {
+				"a": "he does not want to murder a pious man ",
+				"b": "he is not yet fully convinced of his uncle’s guilt  ",
+				"c": "King Claudius might thereby gain eternal life ",
+				"d": "murder of a person paying is an unpardonable sin "
+			},
+			"section": "question is on William Shakespeare's hamlet",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 111,
+			"question": "In Masizi Kunene’s “A Heritage of Liberation; this season’ refers to the period of: ",
+			"option": {
+				"a": "oppression ",
+				"b": "freedom  ",
+				"c": "migration  ",
+				"d": "resettlement"
+			},
+			"section": "Question is are based on selected African poems.",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2010"
+		},
+		{
+			"id": 472,
+			"question": "An action in a play stimulates the audience to pity a character is",
+			"option": {
+				"a": "Pyrrhic",
+				"b": "Props",
+				"c": "Pathos",
+				"d": "Parody"
+			},
+			"section": "Literary principles 31 to 40",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2018"
+		},
+		{
+			"id": 40,
+			"question": "\"Taxi Driver\" in Timothy Wangusa's \"A Taxi Driver on his Death\" can be interpreted as a metaphor describing ",
+			"option": {
+				"a": "a careful driver ",
+				"b": "a ruthless dictator ",
+				"c": "a drunkard ",
+				"d": "a careless man."
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2007"
+		},
+		{
+			"id": 221,
+			"question": "The situation in the extract is highly",
+			"option": {
+				"a": "satirical",
+				"b": "prophetic",
+				"c": "ironical",
+				"d": "comical"
+			},
+			"section": "WILLIAM SHAKESPEARE: The Tempest<br><br> \t\t<strong>X:</strong> We two, my lord,<br> \t\t\tWill guard your person while you take your rest, <br> \t\t\tAnd watch your safety. <br> \t\t\t<br> \t\t<strong>Y:</strong> Thank you. - Wondrous heavy. <br> \t\t\t(Act II, Scene One, lines 184 - 187)",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 184,
+			"question": "The first four lines of the Shakespearean sonnet rhyme",
+			"option": {
+				"a": "abcd",
+				"b": "abba",
+				"c": "abab",
+				"d": "cdcd"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "wassce",
+			"examyear": "2015"
+		},
+		{
+			"id": 547,
+			"question": "A Midsummer Night's Dream is preoccupied with the juxtaposition of",
+			"option": {
+				"a": "Death and disappointment",
+				"b": "Love and hate",
+				"c": "Appearance and reality",
+				"d": "Love and death"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2020"
+		}
+	]
+}

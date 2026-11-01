@@ -1,0 +1,1903 @@
+{
+  "message": "We could not find what you asked for, but got you this",
+  "subject": "government",
+  "status": 200,
+  "total": 120,
+  "data": [
+    {
+      "id": 224,
+      "question": "The administrative head of a public corporation in Nigeria is the",
+      "option": {
+        "a": "Managing Directors",
+        "b": "Secretary",
+        "c": "Board of Directors",
+        "d": "Chairman"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 269,
+      "question": "A nation is made up of people who share",
+      "option": {
+        "a": "heterogeneous characteristics.",
+        "b": "homogeneous and heterogeneous characteristics.",
+        "c": "homogeneous characteristics.",
+        "d": "same government only."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 382,
+      "question": "Islam was introduced in Northern Nigeria",
+      "option": {
+        "a": "before the 13th century",
+        "b": "in the 17th century",
+        "c": "after the jihad of Uthman Dan Fodio",
+        "d": "by the British in the early 20th century"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 484,
+      "question": "Two foreigners that directly aroused nationalist feelings among Nigerians are",
+      "option": {
+        "a": "Edward Blyden and Payne Jackson",
+        "b": "Casely Hayford and James Horton",
+        "c": "W.E.du Bois and H. O. Davies",
+        "d": "Marcus Garvey and Casely Hayford."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following political parties did not participate in the 1979 General Elections in Nigeria? ",
+      "option": {
+        "a": "Unity Party of Nigeria ",
+        "b": "National Party of Nigeria ",
+        "c": "social Democratic Party ",
+        "d": "Great Nigeria People’s Party"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 311,
+      "question": "The principle of collectively responsibility implies that",
+      "option": {
+        "a": "individual views cannot be expressed",
+        "b": "decisions taken are defended in spite of individual opinions",
+        "c": "those who hold different views must acquiesce",
+        "d": "government cannot be personalized"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 552,
+      "question": "The main representative body of the United Nations is the",
+      "option": {
+        "a": "Secretariat",
+        "b": "Security Council",
+        "c": "General Assembly",
+        "d": "Trusteeship Council."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 576,
+      "question": "The General Strike of 1945 was caused primarily by the",
+      "option": {
+        "a": "harshness in trade laws as it concerns the Africans",
+        "b": "government’s rejection of a demand for an increase of 50 percent in the cost of living allowance",
+        "c": "persistent implementation of discriminatory laws",
+        "d": "disparity in the criteria for employment"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 470,
+      "question": "Delegated legislation is made by bodies other than the",
+      "option": {
+        "a": "president",
+        "b": "governor",
+        "c": "parliament",
+        "d": "judiciary"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 540,
+      "question": "Nigeria became a federation of thirty-six states during the era of",
+      "option": {
+        "a": "Yakubu Gowon",
+        "b": "Ibrahim Babangida",
+        "c": "Sani Abacha",
+        "d": "Abdulsalami Abubakar."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 606,
+      "question": "Unwritten constitution means that the constitution is",
+      "option": {
+        "a": "not written down",
+        "b": "based only on conventions.",
+        "c": "not contained in any single book",
+        "d": "in draft"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 77,
+      "question": "A social system in which power is derived  from control over land is called ",
+      "option": {
+        "a": "Oligarchy  ",
+        "b": "Feudalisms ",
+        "c": "Socialism ",
+        "d": "Welfarism "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 87,
+      "question": "Public opinion is important because it ",
+      "option": {
+        "a": "Tells government what action it must take ",
+        "b": "Lets government know what the people want ",
+        "c": "Allows police to manage crisis ",
+        "d": "Mothers the minorities in resource learn areas "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 119,
+      "question": "The ancient Greeks practiced: ",
+      "option": {
+        "a": "direct democracy ",
+        "b": "representative democracy ",
+        "c": "liberal democracy ",
+        "d": "benevolent dictatorships"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 513,
+      "question": "Rule adjudication is a primary function of the",
+      "option": {
+        "a": "legislature",
+        "b": "judiciary",
+        "c": "executive",
+        "d": "government."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 509,
+      "question": "Political socialization is associated with",
+      "option": {
+        "a": "free choice of party programmes",
+        "b": "military take over of civilian government",
+        "c": "the transmission of political values",
+        "d": "political transition."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 383,
+      "question": "The Aro age-grade system in igboland was",
+      "option": {
+        "a": "a religious organization",
+        "b": "a political organization",
+        "c": "a commercial organization",
+        "d": "an imperial organization"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 249,
+      "question": "Which of the following is NOT a feature of a state?",
+      "option": {
+        "a": "Government",
+        "b": "Nationality",
+        "c": "Sovereignty",
+        "d": "Territory"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 280,
+      "question": "In dividing a country into constituencies, it is important to",
+      "option": {
+        "a": "ask for permission from the traditional ruler in that area",
+        "b": "consider historical",
+        "c": "display the voters register",
+        "d": "involve the politicians in the areas"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 615,
+      "question": "The United Nations Organization [UNO] has its headquarters in",
+      "option": { "a": "Britain", "b": "USSR", "c": "USA", "d": "China" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 530,
+      "question": "The earliest nationalist activities in Nigeria were spearheaded by",
+      "option": {
+        "a": "educated elites",
+        "b": "trade unions",
+        "c": "traditional rulers",
+        "d": "political parties."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 188,
+      "question": "All but one of these is not a tactic adopted by pressure groups in the pursuit of their objectives",
+      "option": {
+        "a": " propaganda",
+        "b": "Lobbying  ",
+        "c": "Assault",
+        "d": " Boycott"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 93,
+      "question": "In the Marxist theory, those who live by selling, their labour are called ",
+      "option": {
+        "a": "Bourgeoisie ",
+        "b": "Proletariat ",
+        "c": "Feudal lords ",
+        "d": "Slaves"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 171,
+      "question": "The ten non-permanent members of the security council are elected by the  ",
+      "option": {
+        "a": "general assembly ",
+        "b": "trusteeship council  ",
+        "c": "security council  ",
+        "d": "economic and social council "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 379,
+      "question": "Which of the following electoral bodies in Nigeria conducted elections from 1979 to 1983?",
+      "option": {
+        "a": "Federal Electoral Commission",
+        "b": "National Electoral Commission",
+        "c": "National Electoral Commission of Nigeria",
+        "d": "Independent National Electoral commission"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 267,
+      "question": "Which of these groups of people had no right to make law under the pre-colonial Igbo political structure?",
+      "option": {
+        "a": "Age grades",
+        "b": "Council of Elders",
+        "c": "Osu",
+        "d": "Priests"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 377,
+      "question": "Nigeria’s withdrawal from the Edinburgh Commonwealth Games in July 1986 was in protest against British",
+      "option": {
+        "a": "supply of arms of Rhodesia",
+        "b": "failure to improve sanctions on South Africa",
+        "c": "negative utterances on Nigeria",
+        "d": "support for UNITA rebels in Angola"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 442,
+      "question": "The main purpose of establishing public enterprises in Nigeria is to",
+      "option": {
+        "a": "enrich the elite",
+        "b": "provide essential services",
+        "c": "compete with the private sector",
+        "d": "increase government revenue"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 84,
+      "question": "One of these was in existence  before the outbreak of the Second World War ",
+      "option": {
+        "a": "The OAU  ",
+        "b": "League of Nations ",
+        "c": "The UNOD  ",
+        "d": "The Commonwealth of nations "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 526,
+      "question": "The class that oversees the implementation of government decisions and policies is the",
+      "option": {
+        "a": "Administrative",
+        "b": "Executive",
+        "c": "Clerical",
+        "d": "Technical."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 2,
+      "question": "The benefits of separation of powers include the following except ",
+      "option": {
+        "a": "prevention of tyranny ",
+        "b": "check of abuse ",
+        "c": "promoting democracy with free and fair election ",
+        "d": "avoidance of arbitrariness"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 367,
+      "question": "Indirect Rule was first introduced into Nigeria by",
+      "option": {
+        "a": "Dame Margery Perham",
+        "b": "Sir Donald Cameron",
+        "c": "Sir Frederick Lugard",
+        "d": "Sir Arthur Richards"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 419,
+      "question": "In a cabinet system of government, executive power is exercised by the",
+      "option": {
+        "a": "president",
+        "b": "monarch",
+        "c": "dominant party",
+        "d": "head of government"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 452,
+      "question": "The head of Nigeria’s foreign mission in a Commonwealth nation is known as",
+      "option": {
+        "a": "ambassador",
+        "b": "charge d’affaires.",
+        "c": "attaché",
+        "d": "high Commissioner"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 590,
+      "question": "One feature of public corporations that was weakened by privatization is",
+      "option": {
+        "a": "social control",
+        "b": "national integration",
+        "c": "social harmony",
+        "d": "government control"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 479,
+      "question": "In the Hausa pre-colonial political system, a district was headed by",
+      "option": {
+        "a": "a hakimi",
+        "b": "a dagaci",
+        "c": "an alkali",
+        "d": "a waziri."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 67,
+      "question": "The principle since independence include the following except ",
+      "option": {
+        "a": "peaceful coexistence ",
+        "b": "legal  equality of state ",
+        "c": "political dependence ",
+        "d": "Non- alignment"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 636,
+      "question": "The first Military President of Nigeria is",
+      "option": {
+        "a": "Lt. General Olusegun Obasanjo",
+        "b": "Major General J.T.U. Aguiyi-Ironsi",
+        "c": "Major General Ibrahim Babangida",
+        "d": "General Murtala Muhammed"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 719,
+      "question": "Which of the following African countries has diplomatic relations with South Africa?",
+      "option": { "a": "Malawi", "b": "Zambia", "c": "Gabon", "d": "Tanzania" },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 178,
+      "question": "A mechanism used in parliament to limit debate is called  ",
+      "option": {
+        "a": "guillotine",
+        "b": "adjournment   ",
+        "c": "Motion of censor   ",
+        "d": "delimitation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 216,
+      "question": "Authoritarianism is least Inherent in",
+      "option": {
+        "a": "feudalism",
+        "b": "fascism",
+        "c": "democracy",
+        "d": "monarchy"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 522,
+      "question": "The right of citizens to vote is",
+      "option": {
+        "a": "adult suffrage",
+        "b": "universal suffrage",
+        "c": "nationality suffrage",
+        "d": "electoral suffrage."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 223,
+      "question": "Which of the following best describes the relationship between the central and the component government in a confederation?",
+      "option": {
+        "a": "The central government collects revenue for component government",
+        "b": "The central and component governments have equal powers",
+        "c": "The central government legislates for the component governments.",
+        "d": "The central government is weaker than the component government."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 485,
+      "question": "Members of the Senate in Nigeria’s First Republic were",
+      "option": {
+        "a": "elected directly by the people",
+        "b": "elected by electoral college",
+        "c": "nominated by regional and federal governments",
+        "d": "nominated by the president of the house."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 333,
+      "question": "The British Government revoked the Character of the Royal Niger Company and took over the administration of Nigeria in",
+      "option": { "a": "1861", "b": "1861", "c": "1900", "d": "1914" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 127,
+      "question": "The principle of federal character was first enunciated in the: ",
+      "option": {
+        "a": "1989 constitution ",
+        "b": "1963 constitution",
+        "c": "1999 constitution ",
+        "d": "1979 constitution"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 71,
+      "question": "Laws made by local governments are called ",
+      "option": {
+        "a": "Acts of Parliament ",
+        "b": "Local Government Acts ",
+        "c": "Bye-laws ",
+        "d": "Local Government Decrees"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 668,
+      "question": "The laws which the state legislators make normally pass through",
+      "option": {
+        "a": "the commissioner",
+        "b": "the process of deliberations",
+        "c": "the judiciary",
+        "d": "some committees in the civil service"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 560,
+      "question": "One main advantage of bicameral legislature is that it",
+      "option": {
+        "a": "makes for quick deliberation during emergencies",
+        "b": "makes passage of bills easy",
+        "c": "is less cumbersome to pass bills",
+        "d": "is not easy to manipulate bills"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 602,
+      "question": "The Secretary General of the OAU holds office for a renewable period of",
+      "option": {
+        "a": "six years",
+        "b": "three years",
+        "c": "four years",
+        "d": "five years"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 152,
+      "question": "The principle of checks and balances modifies the theory of  ",
+      "option": {
+        "a": "Rule of law ",
+        "b": "Supremacy of law  ",
+        "c": "Separation of powers  ",
+        "d": "Delegated Legislation "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 237,
+      "question": "Which of the following military regimes in Nigeria played a prominent role in the liberation of colonized African states?",
+      "option": {
+        "a": "Aguiyi Ironsi",
+        "b": "Murtala / Obasanjo",
+        "c": "Muhammadu Buhari",
+        "d": "Ibrahim Babangida"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 374,
+      "question": "The system of indirect rule failed in the former Eastern Nigeria primarily because",
+      "option": {
+        "a": "of the fragmented political structures",
+        "b": "the chief refused to cooperate with colonial officer",
+        "c": "the high incidence of taxation chief refused to cooperate with colonial officers",
+        "d": "the colonial officers imposed warrant chiefs on the people"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 649,
+      "question": "Which of the following concepts is out of place?",
+      "option": {
+        "a": "Fascism",
+        "b": "Welfarism",
+        "c": "Totalitarianism",
+        "d": "Authoritarianism"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 329,
+      "question": "Indirect legislation can be achieved by",
+      "option": {
+        "a": "judicial interpretation and precedent",
+        "b": "passing a private member’s bill",
+        "c": "second read of the law",
+        "d": "the two legislative chambers considering a bill"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 346,
+      "question": "Rate are usually collected in Nigeria by",
+      "option": {
+        "a": "ministries of commerce in the states",
+        "b": "local government councils",
+        "c": "the department of Inland Revenue",
+        "d": "the traditional rulers"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 384,
+      "question": "ECOWAS comprises",
+      "option": {
+        "a": "16 independent states",
+        "b": "The whole Africa",
+        "c": "All West African states",
+        "d": "English speaking countries only"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 650,
+      "question": "The primary objective of all political parties is to",
+      "option": {
+        "a": "Promote the general interest of members of the public",
+        "b": "Eradicate corruption in public life",
+        "c": "Control the government",
+        "d": "Campaign for vote"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 397,
+      "question": "Which of the following parties formed the opposition in the House of Representatives during Nigerian first republic?",
+      "option": {
+        "a": "NCNC and NEPU",
+        "b": "AG and UMBC",
+        "c": "NPC and NNDP",
+        "d": "NCNC and MDF"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 247,
+      "question": "The world organization which existed before the United Nations Organization was the",
+      "option": {
+        "a": "League of Nations",
+        "b": "European Economic Community",
+        "c": "Organization of African Unity",
+        "d": "Commonwealth of Nations."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 372,
+      "question": "In federalism system of Government currency, Armed forces and National defense is the primary function o",
+      "option": {
+        "a": "f\nLocal government Chairman",
+        "b": "Armed Forces Ruling Council",
+        "c": "Security and Exchange Commission",
+        "d": "Exclusive list"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 286,
+      "question": "The parties that formed the coalition government in 1960 were ___ and ___",
+      "option": {
+        "a": "AG, NCNC",
+        "b": "AG, NPC",
+        "c": "NCNC.NEPU",
+        "d": "NPC, NCNC"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 658,
+      "question": "To which of these countries did Nigeria send peacekeeping force?",
+      "option": {
+        "a": "South Africa",
+        "b": "Angola",
+        "c": "Chad",
+        "d": "Namibia"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 90,
+      "question": "One of the functions of the ministry of External Affairs is the ",
+      "option": {
+        "a": "Deportation of illegal aliens ",
+        "b": "Issuance of passports ",
+        "c": "Defense of the country’s boarders ",
+        "d": "Promotion of national interest"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 630,
+      "question": "The declaration of a state of emergency in Western Nigeria was protected by the constitution of",
+      "option": { "a": "1954", "b": "1951", "c": "1960", "d": "1963" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 345,
+      "question": "In 1979, the Unity Party of Nigeria contested and won gubernatorial elections in",
+      "option": {
+        "a": "Lagos, Ogun, imo, Oyo and Bendel",
+        "b": "Lagos, Kwara,Oyo,Ogun, and Benue",
+        "c": "Lagos, Ogun,Oyo,Ondo and Bendel",
+        "d": "Lagos, Kwara,Ogun,Oyo,Ondo"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 222,
+      "question": "If the federal government and the unit governments are to \tpreserve their autonomy, the",
+      "option": {
+        "a": "Federal government must be supreme",
+        "b": "Unit governments must be supreme",
+        "c": "Judiciary must be supreme",
+        "d": "Constitution must be supreme"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 234,
+      "question": "The Nigerian Macpherson Constitution of 1951 was significant for",
+      "option": {
+        "a": "the introduction of Electoral College",
+        "b": "providing for the office of the Prime Minister",
+        "c": "the creation of states.",
+        "d": "establishing the Supreme Court"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 674,
+      "question": "Voting started in Nigeria in 1923 because the Clifford Constitution of 1922 granted",
+      "option": {
+        "a": "decolonization",
+        "b": "independence",
+        "c": "an elective principle",
+        "d": "self-government"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 518,
+      "question": "A constitution that is difficult to amend is",
+      "option": {
+        "a": "flexible",
+        "b": "rigid",
+        "c": "written",
+        "d": "unwritten."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 539,
+      "question": "The highest policy making body under the Gowon Regime was the",
+      "option": {
+        "a": "Federal Executive Council",
+        "b": "Armed Forces Ruling Council",
+        "c": "Provisional Ruling Council",
+        "d": "Supreme Military Council."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 253,
+      "question": "To ensure impartiality and independence of electoral commission, the body should be",
+      "option": {
+        "a": "funded by political parties",
+        "b": "headed by a justice of the Supreme Court",
+        "c": "headed by a professor of political science",
+        "d": "independent of government control"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 666,
+      "question": "Which of the following is a false description of the first Nigeria Prime Minister? He",
+      "option": {
+        "a": "was first among equals",
+        "b": "presided over the cabinet",
+        "c": "was the Head of Government",
+        "d": "exercised the prerogative of mercy"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 129,
+      "question": "One major factor that differentiates the presidential from the parliamentary system is: ",
+      "option": {
+        "a": "separation of powers",
+        "b": "judicial independence ",
+        "c": "passage of bills  ",
+        "d": "party system."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 635,
+      "question": "Which of the following is not a function of a party secretariat?",
+      "option": {
+        "a": "Electing the leader of the party",
+        "b": "Organizing party conferences",
+        "c": "Publishing the party’s manifesto",
+        "d": "Planning party strategy to win election"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 468,
+      "question": "The rule of law is a negation of",
+      "option": {
+        "a": "equality before the law",
+        "b": "supremacy of the law",
+        "c": "limited power",
+        "d": "absolute power."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 292,
+      "question": "A constitution that requires stringent procedures for amendment is termed ___ constitution.",
+      "option": {
+        "a": "federal",
+        "b": "flexible",
+        "c": "rigid",
+        "d": "unitary"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 167,
+      "question": "Every political system performs the following basic functions excepts  ",
+      "option": {
+        "a": "Rule making  ",
+        "b": "Rule transformation  ",
+        "c": "Rule enforcement  ",
+        "d": "Rule adjudication "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 572,
+      "question": "Which of the following is not a dimension of public opinion?",
+      "option": {
+        "a": "Polling",
+        "b": "Orientation",
+        "c": "intensity",
+        "d": "Substance"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 519,
+      "question": "Which of the following constitutions is more suitable for centralization of political power?",
+      "option": {
+        "a": "Flexible constitution.",
+        "b": "Unwritten constitution.",
+        "c": "Rigid constitution",
+        "d": "Written constitution."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 365,
+      "question": "The term, Rule of Law means",
+      "option": {
+        "a": "nobody is above the law",
+        "b": "everybody is equal before the law",
+        "c": "we are being governed by lawyers",
+        "d": "A and B above"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 60,
+      "question": "The government of one of the following countries operates an unwritten constitution ",
+      "option": {
+        "a": "The United States ",
+        "b": "The Union of Soviet Socialist Republics ",
+        "c": "Post –apartheid  South Africa ",
+        "d": "The United Kingdom "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 275,
+      "question": "The special box prepared by the electoral commission into which voters cast their votes is called",
+      "option": {
+        "a": "ballot box.",
+        "b": "ballot paper.",
+        "c": "logo.",
+        "d": "polling booth."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 417,
+      "question": "In which of the following systems is the power of the component units more than that of the central government?",
+      "option": {
+        "a": "Unitary.",
+        "b": "Federal.",
+        "c": "Confederal",
+        "d": "Monarchical."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 545,
+      "question": "Nigeria’s non-alignment policy in the sixties lacked real substance because of her",
+      "option": {
+        "a": "close ties with Britain",
+        "b": "Afrocentric policy",
+        "c": "poor economic potential",
+        "d": "partnership with Asian countries."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 347,
+      "question": "One of the main reasons for the creation of more local governments in Nigeria is to",
+      "option": {
+        "a": "make them more responsive to people’s needs",
+        "b": "weaken the powers of traditional authorities",
+        "c": "make them more receptive to traditional rule",
+        "d": "establish them as the third tier in the federal structure"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 633,
+      "question": "Which of the following is not a specialized agency of the United Nations Organization?",
+      "option": {
+        "a": "World Health Organization",
+        "b": "The Food and Agriculture Organization",
+        "c": "The international Labour Organization",
+        "d": "General Assembly"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 76,
+      "question": "A system in which no single person serves as the chief executive  is know as ",
+      "option": {
+        "a": "republican ",
+        "b": "Revolutionary  ",
+        "c": "Collegial  ",
+        "d": "Parliamentary "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 291,
+      "question": "Nigeria became a member country of the Common wealth of Nations on 1st October",
+      "option": { "a": "1922", "b": "1951", "c": "1960", "d": "1963" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 639,
+      "question": "The voluntary activities of members of a society in the selection of rulers is known as",
+      "option": {
+        "a": "political participation",
+        "b": "political socialization",
+        "c": "political decision",
+        "d": "political culture"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 303,
+      "question": "The two Greek words that make up democracy are ___ and ___ ,",
+      "option": {
+        "a": "arita, demo",
+        "b": "demo, aria",
+        "c": "demo, krat",
+        "d": "demo, kratia"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 316,
+      "question": "The separation of judicial, legislative and executive function is designed to",
+      "option": {
+        "a": "promote freedom",
+        "b": "prevent tyranny",
+        "c": "promote peace",
+        "d": "prevent anarchy"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 415,
+      "question": "Unicameralism is a feature of the legislature in",
+      "option": {
+        "a": "the United Kingdom",
+        "b": "the United States",
+        "c": "Ghana",
+        "d": "Israel"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 599,
+      "question": "Commonwealth nations are represented in other member nations by",
+      "option": {
+        "a": "charge d’ affaires",
+        "b": "ambassadors",
+        "c": "high commissioners",
+        "d": "attaches"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 344,
+      "question": "Decree No.34 of May 1966 is also known as the",
+      "option": {
+        "a": "State Security Decree",
+        "b": "Suspension and Modification Decree",
+        "c": "Public Order Decree",
+        "d": "Unification Decree"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 226,
+      "question": "Red tapism in the civil service refers to",
+      "option": {
+        "a": "The use of red tapes on legal documents.",
+        "b": "Sloness of action",
+        "c": "Prevent entrance",
+        "d": "the co-operation between civil servant s and politicians"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 589,
+      "question": "A problem of public corporations in Nigeria is",
+      "option": {
+        "a": "choice of leadership",
+        "b": "public control",
+        "c": "emphasis on subsidies",
+        "d": "wastage of resources"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 662,
+      "question": "The question of civil war was raised for the first time at the \tmeeting of the O.A.U in September 1967 in",
+      "option": {
+        "a": "Kampala",
+        "b": "Addis Ababa",
+        "c": "Lagos",
+        "d": "Kinshasa"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 115,
+      "question": "In the process of implementing laws, the executive sometimes performs: ",
+      "option": {
+        "a": "judicial function ",
+        "b": "bureaucratic function ",
+        "c": "oversight function ",
+        "d": "legislative function"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 68,
+      "question": "The body charged with the trial of persons accused of crimes  against humanity is ",
+      "option": {
+        "a": "criminal Court of Justice ",
+        "b": "International Criminal Court ",
+        "c": "International Court of Justice ",
+        "d": "ICPC"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 5,
+      "question": "In a modern democracy, the ultimate source of sovereignty is the ",
+      "option": {
+        "a": "legislature and executive ",
+        "b": "judiciary ",
+        "c": "ruling political party ",
+        "d": "people"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 33,
+      "question": "How many countries are in Africa? ",
+      "option": {
+        "a": "fifteen ",
+        "b": "fifty-three ",
+        "c": "fifty",
+        "d": "fifty-five"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 230,
+      "question": "The powers allocated to the central government in a federation are contained in the",
+      "option": {
+        "a": "central legislative list",
+        "b": "exclusive legislative list",
+        "c": "residual legislative list",
+        "d": "concurrent legislative list."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 398,
+      "question": "A prominent feature of a presidential system of government is",
+      "option": {
+        "a": "dual executive",
+        "b": "vote of no confidence",
+        "c": "the rule of law",
+        "d": "separation of powers"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 236,
+      "question": "Immediately after the Nigerian Civil War, Gowon’s regime embarked on",
+      "option": {
+        "a": "rejuvenation, resettlement and reconstruction",
+        "b": "reconciliation, rehabilitation and reconstruction",
+        "c": "rebuilding, rejuvenation and rehabilitation",
+        "d": "rehabilitation, renaissance and repression."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 427,
+      "question": "Which of the following is the main function of the civil service?",
+      "option": {
+        "a": "Supporting the party in power.",
+        "b": "Allocating resources to the federating units.",
+        "c": "Mobilizing grassroots support for government.",
+        "d": "Implementing government policies."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 569,
+      "question": "The officer responsible for announcing the result of an election is known as",
+      "option": {
+        "a": "ballot officer",
+        "b": "presiding office",
+        "c": "returning officer",
+        "d": "electoral officer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 240,
+      "question": "In the federation of Nigeria, states are equally represented in the",
+      "option": {
+        "a": "Senate",
+        "b": "House of Representatives",
+        "c": "Judiciary",
+        "d": "National Population Commission"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 618,
+      "question": "Which of the following is not relevant to communism",
+      "option": {
+        "a": "Democracy",
+        "b": "Violent revolution",
+        "c": "Friedrich Engels",
+        "d": "Private Enterprise."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 229,
+      "question": "Which of the following factors may work against a representative system of government?",
+      "option": {
+        "a": "High literacy of the electorate",
+        "b": "The introduction of universal adult suffrage",
+        "c": "Independent electoral commission",
+        "d": "Rigging of elections"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 304,
+      "question": "The Headquarters of Organization of Petroleum Exporting Countries (OPEC) is located in",
+      "option": {
+        "a": "Algiers",
+        "b": "Baghdad",
+        "c": "Riyadh",
+        "d": "Vienna"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 407,
+      "question": "Nigeria teamed up with other developing countries to assert a neutral posture under the platform of",
+      "option": {
+        "a": "Nationalist Movement",
+        "b": "Pan - African Movement",
+        "c": "Non - aligned Movement",
+        "d": "Negritude Movement"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 165,
+      "question": "The principle of checks and balances empowers the judiciary to  ",
+      "option": {
+        "a": "apply the law  ",
+        "b": "administer the criminal justice system  ",
+        "c": "abrogate the law  ",
+        "d": "invalidate the actions of the other arms "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 387,
+      "question": "The foremost British trading company on the West African coast was",
+      "option": {
+        "a": "Royal Niger Company",
+        "b": "United African Company",
+        "c": "Lever Brothers",
+        "d": "John Holt and Sons"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 89,
+      "question": "Africans were first elected to the legislature council in British West African ",
+      "option": {
+        "a": "Ghana ",
+        "b": "Sierra Leone ",
+        "c": "The Gambia ",
+        "d": "Nigeria"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 96,
+      "question": "In a democracy, sovereignty is vested in ",
+      "option": {
+        "a": "The community ",
+        "b": "Public officials ",
+        "c": "judges  ",
+        "d": "the head of state "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 325,
+      "question": "The notion of equality before the law is the same as the principle of",
+      "option": {
+        "a": "supremacy of the constitution",
+        "b": "rule of law",
+        "c": "independence of the judiciary",
+        "d": "nominate ministers"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 538,
+      "question": "Nigeria adopted a federal system of government because of",
+      "option": {
+        "a": "the fear of domination of minorities",
+        "b": "uneven development",
+        "c": "the availability of limited resource",
+        "d": "the adoption of a state religion."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 551,
+      "question": "The organ of UN that promotes voluntary co­operation among member states in diverse areas is the",
+      "option": {
+        "a": "Security Council",
+        "b": "International Court of Justice",
+        "c": "General Assembly",
+        "d": "Economic and Social Council."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 711,
+      "question": "With which country did Nigeria break diplomatic relations in 1963 for exploding a nuclear device in the Sahara?",
+      "option": {
+        "a": "The Soviet Union",
+        "b": "The U.S.A",
+        "c": "China",
+        "d": "France"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    }
+  ]
+}

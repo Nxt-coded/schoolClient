@@ -1,0 +1,1862 @@
+{
+  "subject": "government",
+  "status": 200,
+  "total": 120,
+  "data": [
+    {
+      "id": 174,
+      "question": "What does INEC stand for?",
+      "option": {
+        "a": "Independent National Election Committee  ",
+        "b": "Independent Newspapers Executive Committee  ",
+        "c": "Independent National Export Council  ",
+        "d": "Independent National Electoral Commission"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 175,
+      "question": "Which of the following is not a feature of Nigeria’s electoral system?  ",
+      "option": {
+        "a": "direct election   ",
+        "b": "general election  ",
+        "c": "Proportional representation  ",
+        "d": "secret ballot"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 176,
+      "question": "The head of the Nigerian judiciary is the",
+      "option": {
+        "a": "Chief Justice of the Federation",
+        "b": "Solicitor-General of the Federation  ",
+        "c": "Attorney-General and Minister of Justice  ",
+        "d": "President of the Court of Appeal"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 177,
+      "question": "Manipulation of electoral boundaries for electoral purposes is known as  ",
+      "option": {
+        "a": "delimitation   ",
+        "b": "gerrymandering",
+        "c": "devolution   ",
+        "d": "deconcentration"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 178,
+      "question": "A mechanism used in parliament to limit debate is called  ",
+      "option": {
+        "a": "guillotine",
+        "b": "adjournment   ",
+        "c": "Motion of censor   ",
+        "d": "delimitation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 179,
+      "question": "A major function of the State Independent Electoral Commissions in Nigeria is the  ",
+      "option": {
+        "a": "Conduct of elections into local government offices  ",
+        "b": "registration of political parties",
+        "c": "conduct of gubernatorial elections",
+        "d": "delineation of electoral constituencies"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 180,
+      "question": "In politics, power is all of the following except  ",
+      "option": {
+        "a": "capacity to affect the actions of others  ",
+        "b": "Ability to make people do things they otherwise would not do   ",
+        "c": "An object   ",
+        "d": "it is part of a relationship"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 181,
+      "question": "Political activity at the diplomatic level is called  ",
+      "option": {
+        "a": "International relations",
+        "b": "International law",
+        "c": "International politics",
+        "d": "All of the above"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 182,
+      "question": "Which of these is not an instrument of foreign policy",
+      "option": {
+        "a": "war    ",
+        "b": "diplomacy  ",
+        "c": "subversion   ",
+        "d": "foreign aid"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 183,
+      "question": "The principles that have guided Nigeria’s foreign policy since independence include the following except  ",
+      "option": {
+        "a": "peaceful coexistence   ",
+        "b": "political dependence  ",
+        "c": "legal equality of states  ",
+        "d": "non-alignment"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 184,
+      "question": "The independence  of the judiciary can be enhanced by the following except  ",
+      "option": {
+        "a": "when judges hold office for a fixed term",
+        "b": "when judges cannot be removed from office even when they commit crimes",
+        "c": "Appointment of judges by an independent body",
+        "d": "political neutrality of judges"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 185,
+      "question": "The Aba women riot in Nigeria took place in   ",
+      "option": { "a": "1960", "b": "1950", "c": "1922", "d": "1929" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 186,
+      "question": "The pressure group that resorts to unconventional methods to achieve its objectives is called ",
+      "option": {
+        "a": " an institutional group  ",
+        "b": " a promotional group",
+        "c": " an interest group   ",
+        "d": " an anomic group"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 187,
+      "question": "All but one of the following is not a symbol of political culture",
+      "option": {
+        "a": "A national flag",
+        "b": "The government   ",
+        "c": "An anthem  ",
+        "d": "The constitution"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 188,
+      "question": "All but one of these is not a tactic adopted by pressure groups in the pursuit of their objectives",
+      "option": {
+        "a": " propaganda",
+        "b": "Lobbying  ",
+        "c": "Assault",
+        "d": " Boycott"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 189,
+      "question": "A capitalist state is based on",
+      "option": {
+        "a": "religion   ",
+        "b": "creating job  opportunities  ",
+        "c": "Dictatorship   ",
+        "d": "Free trade"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 190,
+      "question": "A major flaw in a liberal democracy is",
+      "option": {
+        "a": "that it promotes political instability",
+        "b": "the limitation of the freedom of expression",
+        "c": "its emphasis on political rights over economic rights",
+        "d": "its emphasis on collection ownership"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 191,
+      "question": "Nigeria’s voting at the United Nations is guided primarily by",
+      "option": {
+        "a": "her national interests   ",
+        "b": "world peace   ",
+        "c": "the cold war  ",
+        "d": "her concern for Africa"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 192,
+      "question": "On the basis of its structure, a political party can be classified an indirect if",
+      "option": {
+        "a": "it controls government indirectly  ",
+        "b": "it contests elections by proxy",
+        "c": "its membership is acquired through other groups  ",
+        "d": "it campaigns for votes through agents."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 193,
+      "question": "The study of government essentially facilitates the understanding of the",
+      "option": {
+        "a": "governance of human societies",
+        "b": "functioning of the entire social formation  ",
+        "c": "observance of fundamental human rights",
+        "d": "organization of the executive arm of government"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 194,
+      "question": "In judicial administration, the term ‘the bench’ refers to the  ",
+      "option": {
+        "a": "lawyers   ",
+        "b": "litigants    ",
+        "c": "registrars",
+        "d": "judges"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 195,
+      "question": "How does the president relieve a minister of his appointment in a presidential system of government?",
+      "option": {
+        "a": "In consultation with the legislature",
+        "b": "In consultation with the judiciary  ",
+        "c": "by executive action",
+        "d": "after serving a full tenure"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 196,
+      "question": "An elected legislator in a presidential system can lose his seat through  ",
+      "option": {
+        "a": "recall  ",
+        "b": "cross-carpeting",
+        "c": "a vote of no confidence",
+        "d": "impeachment"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 197,
+      "question": "Which of the following modern principles of democracy is found in the Yoruba traditional political system  ",
+      "option": {
+        "a": "checks and balances  ",
+        "b": "the constitution",
+        "c": "multipartism  ",
+        "d": "bicameralism"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 198,
+      "question": "The subject matter of politics is best described  as   ",
+      "option": {
+        "a": "political parties",
+        "b": "political power  ",
+        "c": "elections",
+        "d": "people"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 249,
+      "question": "Which of the following is NOT a feature of a state?",
+      "option": {
+        "a": "Government",
+        "b": "Nationality",
+        "c": "Sovereignty",
+        "d": "Territory"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 250,
+      "question": "The legitimacy of government is established when",
+      "option": {
+        "a": "civil service commission reflects federal character",
+        "b": "electoral commission is well funded",
+        "c": "free and fair elections are conducted",
+        "d": "ministers are appointed to head ministries"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 251,
+      "question": "The United Nations Organization (UNO) was founded in",
+      "option": { "a": "1919", "b": "1935", "c": "1939", "d": "1945" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 252,
+      "question": "Which of these best defines a state? A/An",
+      "option": {
+        "a": "country made up of heterogeneous people",
+        "b": ".\ncountry with definite territory free from external control.",
+        "c": "independent country free from external control.",
+        "d": "organized body of people occupying a definite territory with sovereign government."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 253,
+      "question": "To ensure impartiality and independence of electoral commission, the body should be",
+      "option": {
+        "a": "funded by political parties",
+        "b": "headed by a justice of the Supreme Court",
+        "c": "headed by a professor of political science",
+        "d": "independent of government control"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 254,
+      "question": "The term ‘collective responsibility’ is an indispensable feature of ___ system of government.",
+      "option": {
+        "a": "diarchy",
+        "b": "federal",
+        "c": "parliamentary",
+        "d": "presidential"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 255,
+      "question": "The Chick’s commission was set up to look into the issue of revenue allocation in",
+      "option": { "a": "1946", "b": "1951", "c": "1953", "d": "1957" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 256,
+      "question": "In the Igbo pre-colonial administration, the council of elders was normally presided over by",
+      "option": { "a": "Eze", "b": "Obi", "c": "Okpara", "d": "Onowu" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 257,
+      "question": "In Nigeria, the head of the electoral commission is called the",
+      "option": {
+        "a": "Administrative Secretary",
+        "b": "Chairman",
+        "c": "Electoral Commissioner",
+        "d": "Presiding Officer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 258,
+      "question": "Authority is the",
+      "option": {
+        "a": "ability to compel others to do what they do not want",
+        "b": "ability to delegate power to other bodies",
+        "c": "ability to rule without fear or favour",
+        "d": "capacity to encourage others to do what they intended doing"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 259,
+      "question": "The Economic Community of West African States (ECOWAS) was formed on",
+      "option": {
+        "a": "28th May, 1975",
+        "b": "29th May, 1976",
+        "c": "28th June, 1975",
+        "d": "28th July, 1975"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 260,
+      "question": "Revenue allocation means the sharing of the",
+      "option": {
+        "a": "national cake among the people",
+        "b": "wealth of a nation among different levels of government",
+        "c": "wealth of a nation among the state governments for specific purposes",
+        "d": "wealth of a nation between the federal and local governments"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 261,
+      "question": "The first military intervention in Nigeria politics was in",
+      "option": { "a": "1960", "b": "1962.", "c": "1963", "d": "1966" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 262,
+      "question": "To contest an election, a candidate must be a member of a",
+      "option": {
+        "a": "campaign organization.",
+        "b": "civil society organization.",
+        "c": "national assembly",
+        "d": "political party."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 263,
+      "question": "Military rule is an example of ______ authority.",
+      "option": {
+        "a": "charismatic",
+        "b": "coercive",
+        "c": "delegated",
+        "d": "legal"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 264,
+      "question": "Which of these countries is NOT a member of Economic Community of West African States (ECOWAS).",
+      "option": {
+        "a": "Cameroon",
+        "b": "Cape Verde",
+        "c": "Ghana",
+        "d": "Guinea"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 265,
+      "question": "Who among the following was NOT an officer in the pre-colonial Yoruba society?",
+      "option": {
+        "a": "Aremo",
+        "b": "Are-Onakakanfo",
+        "c": "Balogun",
+        "d": "Oluwo"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 266,
+      "question": "The 1957 commission of enquiry which investigated the problems of ethnic domination in Nigeria was chaired by",
+      "option": {
+        "a": "Arthur Richard.",
+        "b": "Frederick Lugard.",
+        "c": "Henry Willink.",
+        "d": "Hicks Phillipon"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 267,
+      "question": "Which of these groups of people had no right to make law under the pre-colonial Igbo political structure?",
+      "option": {
+        "a": "Age grades",
+        "b": "Council of Elders",
+        "c": "Osu",
+        "d": "Priests"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 268,
+      "question": "21.\tIn a parliamentary system of government a general election is usually conducted after",
+      "option": {
+        "a": "dissolution of parliament.",
+        "b": "plebiscite.",
+        "c": "referendum.",
+        "d": "resolution."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 269,
+      "question": "A nation is made up of people who share",
+      "option": {
+        "a": "heterogeneous characteristics.",
+        "b": "homogeneous and heterogeneous characteristics.",
+        "c": "homogeneous characteristics.",
+        "d": "same government only."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 270,
+      "question": "The Commonwealth of Nations consists of states formerly under ___colony.",
+      "option": {
+        "a": "Belgium",
+        "b": "British",
+        "c": "French",
+        "d": "Portuguese"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 271,
+      "question": "Which of these is a feature of Nigeria federalism?",
+      "option": {
+        "a": "Conflict of authority does not arise",
+        "b": "Minority groups are equally benefited",
+        "c": "Parliamentary supremacy",
+        "d": "Secession is constitutionally forbidden"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 272,
+      "question": "Under the 1979 Nigeria constitution, the national assembly was made up of the",
+      "option": {
+        "a": "House of Chiefs and the Senate.",
+        "b": "House of Lords and the House of Representatives.",
+        "c": "Lower House and House of Representatives.",
+        "d": "Senate and House of Representatives."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 273,
+      "question": "",
+      "option": {
+        "a": "In a single member constituency the voters in that constituency have the right to",
+        "b": "declare a winner of an election in their constituency",
+        "c": ".\nelect many representatives.",
+        "d": "elect one representative."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 274,
+      "question": "Before the British colonialism in Nigeria, which of these was an instrument for dispensation of justice in !gbo land?",
+      "option": { "a": "Cult", "b": "Land", "c": "Masquerade", "d": "Ofo" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 275,
+      "question": "The special box prepared by the electoral commission into which voters cast their votes is called",
+      "option": {
+        "a": "ballot box.",
+        "b": "ballot paper.",
+        "c": "logo.",
+        "d": "polling booth."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 276,
+      "question": "An electoral officer charged with the responsibility of announcing election result at the local government level is known as",
+      "option": {
+        "a": "administrative secretary.",
+        "b": "chairman.",
+        "c": "polling clerk",
+        "d": "presiding officer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 277,
+      "question": "The idea of federalism in Nigeria started with ______ constitution.",
+      "option": {
+        "a": "Clifford",
+        "b": "Independence",
+        "c": "Lyttleton",
+        "d": "Macpherson"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 278,
+      "question": "Under the 1979 constitution of Nigeria, each state was allowed to elect",
+      "option": {
+        "a": "as many senators as the state could finance",
+        "b": "five senators",
+        "c": "from two to five senators depending on the population",
+        "d": "three senators"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 279,
+      "question": "In the pre-colonial Hause/Fulani society, the political head was called",
+      "option": {
+        "a": "Alkali",
+        "b": "Galadima",
+        "c": "Ma `aji",
+        "d": "Wasiri"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 280,
+      "question": "In dividing a country into constituencies, it is important to",
+      "option": {
+        "a": "ask for permission from the traditional ruler in that area",
+        "b": "consider historical",
+        "c": "display the voters register",
+        "d": "involve the politicians in the areas"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 281,
+      "question": "The head of the Oyomesi in pre-colonial Yoruba traditional society was",
+      "option": {
+        "a": "Alaafin",
+        "b": "Are - onakakanfo",
+        "c": "Baale",
+        "d": "Bashorun"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 282,
+      "question": "The age qualification required for a Nigerian to contest as a Senator is",
+      "option": { "a": "18", "b": "21", "c": "30", "d": "40" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 283,
+      "question": "Nigeria is presently divided into how many federal constituencies?",
+      "option": { "a": "6", "b": "36", "c": "109", "d": "360" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 284,
+      "question": "Before an election is conducted, the country is divided into electoral districts mainly to",
+      "option": {
+        "a": "avoid double voting",
+        "b": "avoid secret voting",
+        "c": "enable the electoral commission have more people to register",
+        "d": "make it possible for all people in various parts of the country to be represented."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 285,
+      "question": "The following were the consequences of the Nigeria civil war EXCEPT the",
+      "option": {
+        "a": "creation of more states",
+        "b": "disruption of educational and economic activities",
+        "c": "general feelings of insecurity",
+        "d": "loss of lives and properties"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 286,
+      "question": "The parties that formed the coalition government in 1960 were ___ and ___",
+      "option": {
+        "a": "AG, NCNC",
+        "b": "AG, NPC",
+        "c": "NCNC.NEPU",
+        "d": "NPC, NCNC"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 287,
+      "question": "In Igbo assembly during the pre-colonial era, decisions were normally reached by",
+      "option": {
+        "a": "balloting.",
+        "b": "consensus",
+        "c": "hand raising",
+        "d": "queuing"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 288,
+      "question": "Which of the following is a function of an electoral commission?",
+      "option": {
+        "a": "Contesting elections",
+        "b": "Organizing and conducting elections",
+        "c": "Organizing political parties",
+        "d": "Settling disputes among political parties"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 289,
+      "question": "The cultural organisation which metamorphosed into \tNorthern People’s Congress (NPC) was",
+      "option": {
+        "a": "Arewa Consultative Forum",
+        "b": "Borno Youth Movement",
+        "c": "Egbe Omo Oduduwa",
+        "d": "Jamiyyar Mutanen Arewa"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 290,
+      "question": "Before a candidate is declared winner under absolute majority system of voting, the candidate must score more than ___ of the total vote cast.",
+      "option": {
+        "a": "half",
+        "b": "one - quarter",
+        "c": "one - third",
+        "d": "three - quarter"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 291,
+      "question": "Nigeria became a member country of the Common wealth of Nations on 1st October",
+      "option": { "a": "1922", "b": "1951", "c": "1960", "d": "1963" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 292,
+      "question": "A constitution that requires stringent procedures for amendment is termed ___ constitution.",
+      "option": {
+        "a": "federal",
+        "b": "flexible",
+        "c": "rigid",
+        "d": "unitary"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 293,
+      "question": "To conduct local government elections, the electoral commission divides the local government area into",
+      "option": {
+        "a": "branches",
+        "b": "constituencies",
+        "c": "secretariats",
+        "d": "wards."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 294,
+      "question": "Agents of political socialization include the following EXCEPT",
+      "option": {
+        "a": "educational institutions",
+        "b": "political godfathers",
+        "c": "political parties",
+        "d": "religious institutions"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 295,
+      "question": "Ownership of land is a common feature of",
+      "option": {
+        "a": "aristocracy",
+        "b": "capitalism",
+        "c": "communalism",
+        "d": "feudalism."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 296,
+      "question": "The term of the Secretary-General of United Nations (UN) is for ___ years.",
+      "option": { "a": "eight", "b": "five", "c": "four", "d": "six" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 297,
+      "question": "How many members of the security council of the United Nations (UN) exercise veto power?",
+      "option": { "a": "Eight", "b": "Five", "c": "Four", "d": "Six" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 298,
+      "question": "The head of the electoral commission at the local government area is referred to as the",
+      "option": {
+        "a": "chairman",
+        "b": "electoral officer",
+        "c": "resident commissioner",
+        "d": "returning officer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 299,
+      "question": "Who was the leader of the Northern Elements Progressive Union (NEPU)?",
+      "option": {
+        "a": "Alhaji Balarabe Musa",
+        "b": "Alhaji Umaru Dikko",
+        "c": "Mallam Aminu Kano",
+        "d": "Sir Abubakar Tafawa Balewa"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 300,
+      "question": "Which of the following is NOT a source of local government finance?",
+      "option": {
+        "a": "Commercial ventures",
+        "b": "Grants",
+        "c": "Rates",
+        "d": "Sale of bonds"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 301,
+      "question": "The first ever civilian - to - civilian transition was recorded in Nigeria in",
+      "option": { "a": "1966", "b": "1979", "c": "1999", "d": "2003" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 302,
+      "question": "A manifesto is essential to political parties because it enables them to",
+      "option": {
+        "a": "assess the electorates",
+        "b": "gauge public opinion",
+        "c": "manipulate election",
+        "d": "present programme of action"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 303,
+      "question": "The two Greek words that make up democracy are ___ and ___ ,",
+      "option": {
+        "a": "arita, demo",
+        "b": "demo, aria",
+        "c": "demo, krat",
+        "d": "demo, kratia"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 304,
+      "question": "The Headquarters of Organization of Petroleum Exporting Countries (OPEC) is located in",
+      "option": {
+        "a": "Algiers",
+        "b": "Baghdad",
+        "c": "Riyadh",
+        "d": "Vienna"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 305,
+      "question": "The term, “Quorum” means the number of legislators chat",
+      "option": {
+        "a": "are absent from a day’s proceeding.",
+        "b": "assent to any particular bill",
+        "c": "belong to the opposition party in the house",
+        "d": "must be present before business could start"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 306,
+      "question": "The process of sensitizing the electorate on the need to vote on the election day and also observe the rules and regulations of election is referred to as",
+      "option": {
+        "a": "campaign",
+        "b": "free and fair election",
+        "c": "gerrymandering",
+        "d": "political socialization."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 307,
+      "question": "Which of the following is NOT a feature of the civil service?",
+      "option": {
+        "a": "Anonymity",
+        "b": "Expertise",
+        "c": "Impartiality",
+        "d": "Rigidity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 506,
+      "question": "Power that is delegated is exercised",
+      "option": {
+        "a": "indirectly",
+        "b": "by devolution",
+        "c": "directly",
+        "d": "by coercion."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 507,
+      "question": "De jure sovereignty is acquired through",
+      "option": { "a": "force", "b": "law", "c": "grant", "d": "treaty." },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 508,
+      "question": "A group of people who live together under a common law within a definite territory is a",
+      "option": {
+        "a": "state",
+        "b": "community",
+        "c": "nation-state",
+        "d": "nation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 509,
+      "question": "Political socialization is associated with",
+      "option": {
+        "a": "free choice of party programmes",
+        "b": "military take over of civilian government",
+        "c": "the transmission of political values",
+        "d": "political transition."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 510,
+      "question": "According to Aristotle, a form of government in which the few rule for the benefit of all is",
+      "option": {
+        "a": "polyarchy",
+        "b": "diarchy",
+        "c": "aristocracy",
+        "d": "autocracy."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 511,
+      "question": "Rule by the old people is known as",
+      "option": {
+        "a": "theocracy",
+        "b": "monarchy",
+        "c": "gerontocracy",
+        "d": "feudalism."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 512,
+      "question": "As an executive, the commissioner is charged with the responsibility of",
+      "option": {
+        "a": "making laws",
+        "b": "implementing laws",
+        "c": "writing laws",
+        "d": "giving loans."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 513,
+      "question": "Rule adjudication is a primary function of the",
+      "option": {
+        "a": "legislature",
+        "b": "judiciary",
+        "c": "executive",
+        "d": "government."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 514,
+      "question": "The judiciary controls the executive in federal states through",
+      "option": {
+        "a": "motions",
+        "b": "delegated legislation",
+        "c": "judicial overview",
+        "d": "judicial review."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 515,
+      "question": "One major advantage of the unitary system is that it tends to make government",
+      "option": {
+        "a": "strong and stable",
+        "b": "free of controversy",
+        "c": "distant from the people",
+        "d": "popular among the masses."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 516,
+      "question": "The presidential system differs from the parliamentary system of government in that",
+      "option": {
+        "a": "the tenure of office of the president is limited",
+        "b": "the principle of collective responsibility applies",
+        "c": "executive and legislative powers are fused",
+        "d": "powers of the three arms of government are merged."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 517,
+      "question": "Which of the following advocates’ equitable distribution of wealth?",
+      "option": {
+        "a": "Plutocracy.",
+        "b": "Capitalism.",
+        "c": "Aristocracy.",
+        "d": "Socialism."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 518,
+      "question": "A constitution that is difficult to amend is",
+      "option": {
+        "a": "flexible",
+        "b": "rigid",
+        "c": "written",
+        "d": "unwritten."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 519,
+      "question": "Which of the following constitutions is more suitable for centralization of political power?",
+      "option": {
+        "a": "Flexible constitution.",
+        "b": "Unwritten constitution.",
+        "c": "Rigid constitution",
+        "d": "Written constitution."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 520,
+      "question": "The act of transferring autonomous powers to subordinate agencies is",
+      "option": {
+        "a": "devolution",
+        "b": "concentration",
+        "c": "deconcentration",
+        "d": "delegation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 521,
+      "question": "Which of the following types of citizenship cannot be withdrawn?",
+      "option": {
+        "a": "Citizenship by naturalization.",
+        "b": "Citizenship by conquest.",
+        "c": "Citizenship by birth.",
+        "d": "Honorary citizenship."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 522,
+      "question": "The right of citizens to vote is",
+      "option": {
+        "a": "adult suffrage",
+        "b": "universal suffrage",
+        "c": "nationality suffrage",
+        "d": "electoral suffrage."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 523,
+      "question": "A political party is different from a pressure group in its",
+      "option": {
+        "a": "source of finance",
+        "b": "objective",
+        "c": "organization",
+        "d": "strategy."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 524,
+      "question": "One of the functions of pressure groups is to",
+      "option": {
+        "a": "contest elections to serve the people",
+        "b": "nominate the president",
+        "c": "prepare the budget",
+        "d": "articulate the opinion of their members."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 525,
+      "question": "Public opinion refers to the",
+      "option": {
+        "a": "aggregate of attitudes held by members of the national assembly",
+        "b": "aggregate views of groups on particular government activities",
+        "c": "views held by the president of a country",
+        "d": "views of the Chief Justice of a country."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 526,
+      "question": "The class that oversees the implementation of government decisions and policies is the",
+      "option": {
+        "a": "Administrative",
+        "b": "Executive",
+        "c": "Clerical",
+        "d": "Technical."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 527,
+      "question": "The performance of ritual rites in the Yoruba empire is the responsibility of the",
+      "option": {
+        "a": "Oyo mesi",
+        "b": "Aare-ona kakanfo",
+        "c": "Oba",
+        "d": "Ogboni."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 528,
+      "question": "Under the emirate system, the commander of the army is the",
+      "option": {
+        "a": "Alkali",
+        "b": "Hakimi",
+        "c": "Sarkin Fada",
+        "d": "Madawaki."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 529,
+      "question": "The indirect rule system of administration was more successful in Northern Nigeria because",
+      "option": {
+        "a": "the people were mainly interested in being governed indirectly",
+        "b": "of the existence of an organized structure in the area",
+        "c": "the Europeans ensured that the farmlands of the natives were not confiscated",
+        "d": "the natives showed little or no resistance."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 530,
+      "question": "The earliest nationalist activities in Nigeria were spearheaded by",
+      "option": {
+        "a": "educated elites",
+        "b": "trade unions",
+        "c": "traditional rulers",
+        "d": "political parties."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 531,
+      "question": "The first notable nationalist movement in West Africa was the",
+      "option": {
+        "a": "National Congress of British West Africa",
+        "b": "West African Students Union",
+        "c": "Nigeria Youth Movement",
+        "d": "Aborigines Rights Protection Society."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 532,
+      "question": "In Nigeria’s First Republic, the Prime Minister was both the",
+      "option": {
+        "a": "Head of government and a lawmaker",
+        "b": "Head of State and Commander-in-Chief of the armed forces",
+        "c": "Commander-in-Chief of the armed forces and Party leader",
+        "d": "Head of State and Party leader."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 533,
+      "question": "Under the 1979 Constitution, statutory allocation of revenue to local government councils is the responsibility of the",
+      "option": {
+        "a": "Council of State",
+        "b": "Houses of Assembly",
+        "c": "National Economic Council",
+        "d": "Federal Legislature."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 534,
+      "question": "Under Nigeria’s Second Republic, the Senate was under the leadership of",
+      "option": {
+        "a": "John Wash Pam",
+        "b": "J. S. Tarka",
+        "c": "Joseph Wayas",
+        "d": "Godwin Ume-Ezeoke."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 535,
+      "question": "The Revenue Mobilization, Allocation and Fiscal Commission is statutorily empowered to determine the remuneration of",
+      "option": {
+        "a": "all civil servants",
+        "b": "only elected representatives",
+        "c": "political office holders",
+        "d": "employees of public corporations."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 536,
+      "question": "The primary function of the Code of Conduct Bureau is to",
+      "option": {
+        "a": "ensure due process by public officers",
+        "b": "ensure minimum standard of morality",
+        "c": "retain custody of declarations",
+        "d": "receive declaration of assets."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 537,
+      "question": "The party system practiced in Nigeria’s Third Republic was",
+      "option": {
+        "a": "multi-party",
+        "b": "two-party",
+        "c": "zero-party",
+        "d": "one-party."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 538,
+      "question": "Nigeria adopted a federal system of government because of",
+      "option": {
+        "a": "the fear of domination of minorities",
+        "b": "uneven development",
+        "c": "the availability of limited resource",
+        "d": "the adoption of a state religion."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 539,
+      "question": "The highest policy making body under the Gowon Regime was the",
+      "option": {
+        "a": "Federal Executive Council",
+        "b": "Armed Forces Ruling Council",
+        "c": "Provisional Ruling Council",
+        "d": "Supreme Military Council."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 540,
+      "question": "Nigeria became a federation of thirty-six states during the era of",
+      "option": {
+        "a": "Yakubu Gowon",
+        "b": "Ibrahim Babangida",
+        "c": "Sani Abacha",
+        "d": "Abdulsalami Abubakar."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 541,
+      "question": "Which of the following headed the committee that recommended the suitability of Abuja as a new federal city?",
+      "option": {
+        "a": "Justice Akinola Aguda.",
+        "b": "Justice Buba Ardo.",
+        "c": "Justice Atanda Fatai Williams.",
+        "d": "Justice Udo Udoma."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    }
+  ]
+}

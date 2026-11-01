@@ -1,0 +1,786 @@
+{
+  "subject": "economics",
+  "status": 200,
+  "total": 49,
+  "data": [
+    {
+      "id": 510,
+      "question": "Economic activities are undertaken to solve the problem of",
+      "option": {
+        "a": "consumption",
+        "b": "opportunity cost",
+        "c": "production",
+        "d": "scarcity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 511,
+      "question": "Farming, mining and fishing are",
+      "option": {
+        "a": "primary production",
+        "b": "secondary production",
+        "c": "tertiary production",
+        "d": "intermediate production"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 512,
+      "question": "A list of consumers’ wants arranged in order of priority is known as",
+      "option": {
+        "a": "a budget",
+        "b": "an opportunity cost",
+        "c": "a scale of preference",
+        "d": "choice"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 513,
+      "question": "The 150.00 Naira which Olu would have used to purchase a textbook was used to buy a T-shirt. This implies that",
+      "option": {
+        "a": "Olu’s real cost is 150.00 Naira",
+        "b": "Olu’s opportunity cost is the T-shirt",
+        "c": "Olu’s opportunity cost is the textbook",
+        "d": "Olu’s money cost is also the real cost."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 514,
+      "question": "The remuneration of the entrepreneur as a factor of production is called",
+      "option": { "a": "wages", "b": "salary", "c": "interest", "d": "profit" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 515,
+      "question": "The production factor, whose entire world supply is fixed is",
+      "option": {
+        "a": "land",
+        "b": "skilled labour",
+        "c": "capital goods",
+        "d": "entrepreneurship"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 516,
+      "question": "When all factor inputs are reduced by half, the production possibility curve will shift",
+      "option": {
+        "a": "outwards",
+        "b": "inwards",
+        "c": "downwards",
+        "d": "upwards"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 517,
+      "question": "When a worker changes from one type of job to another, it is called",
+      "option": {
+        "a": "geographical mobility of labour",
+        "b": "occupational mobility of labour",
+        "c": "immobility of labour",
+        "d": "rural-urban migration."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 518,
+      "question": "Which of the following determines the sizes of a country’s population?    (l) Birth rate    (ll) Death rate     \n\t(lll) Migration rate     (lV) lmportation rate    (V) Unemployment",
+      "option": {
+        "a": "l), (ll) and (V)",
+        "b": "(ll) and (lV)",
+        "c": "(I), (II) and (lll)",
+        "d": "(I) and (V)"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 519,
+      "question": "Age distribution is important because it helps the \tgovernment to",
+      "option": {
+        "a": "check rural-urban drift",
+        "b": "determine the number of foreigners",
+        "c": "determine the number of factories",
+        "d": "undertake effective planning"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 520,
+      "question": "A group of firms producing similar commodities for the same market constitute",
+      "option": {
+        "a": "a cartel",
+        "b": "an industry",
+        "c": "a co-operative",
+        "d": "wholesalers"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 521,
+      "question": "A factor that has slowed down the rate of industrial development in West Africa is",
+      "option": {
+        "a": "inadequate technology",
+        "b": "increasing rate of manpower production",
+        "c": "increased demand for local goods",
+        "d": "intervention of the government in business activities."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 522,
+      "question": "To achieve an equilibrium position, the consumer must buy so much of each commodity whose price is equal its",
+      "option": {
+        "a": "marginal utility",
+        "b": "total utility",
+        "c": "average utility",
+        "d": "variable utility"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 523,
+      "question": "Price control refers to",
+      "option": {
+        "a": "the ways of making more goods available in the market",
+        "b": "a policy of ensuring stable price in the market",
+        "c": "a general reduction in the price level",
+        "d": "effective working of the forces of demand and supply"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 524,
+      "question": "The desire for goods without the ability to pay is called",
+      "option": {
+        "a": "choice",
+        "b": "effective demand",
+        "c": "joint demand",
+        "d": "wants"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 525,
+      "question": "Amount of goods offered to the market at respective prices and presented in a table is called",
+      "option": {
+        "a": "price schedule",
+        "b": "supply schedule",
+        "c": "scale of preference",
+        "d": "demand schedule"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 526,
+      "question": "At the equilibrium price, quantity demanded is",
+      "option": {
+        "a": "greater than quantity supplied",
+        "b": "equal to quantity supplied",
+        "c": "less than quantity supplied",
+        "d": "equal to excess supply"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 527,
+      "question": "lf the government fixed a price of a commodity above the equilibrium price, the quantity supplied will be",
+      "option": {
+        "a": "less than quantity demanded",
+        "b": "equal to the quantity demanded",
+        "c": "greater than quantity demanded",
+        "d": "equal to zero"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 528,
+      "question": "One of the factors determining price elasticity of demand for a commodity is the",
+      "option": {
+        "a": "availability of close substitutes",
+        "b": "number of producers",
+        "c": "government policy",
+        "d": "price of other commodities."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 529,
+      "question": "lf elasticity of demand for a commodity is less than one, demand is",
+      "option": {
+        "a": "unitary elastic",
+        "b": "inelastic",
+        "c": "infinitely elastic",
+        "d": "zero elastic"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 530,
+      "question": "The transfer of ownership of a public enterprise to  individuals and firms is called",
+      "option": {
+        "a": "commercialization",
+        "b": "nationalization",
+        "c": "privatization",
+        "d": "restructuring"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 531,
+      "question": "One-man businesses are popular in West Africa because of all the following except the",
+      "option": {
+        "a": "ease of entry",
+        "b": "small capital required",
+        "c": "limited entrepreneurial skill needed",
+        "d": "tendency to become joint-stock companies."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 532,
+      "question": "Wholesalers are often criticized because they",
+      "option": {
+        "a": "help to break the bulk",
+        "b": "finance producers",
+        "c": "increase prices",
+        "d": "provide after-scale services"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 533,
+      "question": "ln which of the following business units are the owners mostly the customers?",
+      "option": {
+        "a": "Co-operatives",
+        "b": "Limited liability companies",
+        "c": "Partnerships",
+        "d": "Public corporations"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 534,
+      "question": "information about new goods is passed on to buyers through",
+      "option": {
+        "a": "advertising",
+        "b": "retail trade",
+        "c": "the manufacturer",
+        "d": "wholesale trade"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 535,
+      "question": "The profit of the producer can be calculated as",
+      "option": {
+        "a": "total cost less total revenue",
+        "b": "average revenue less average cost",
+        "c": "total revenue less total cost",
+        "d": "marginal revenue less marginal cost"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 536,
+      "question": "The direct exchange of one good for another without the use of money is known as",
+      "option": {
+        "a": "foreign exchange",
+        "b": "exchange rate",
+        "c": "expenditure",
+        "d": "barter"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 537,
+      "question": "Acceptability, durability, homogeneity and portability are all \tattributes of good",
+      "option": {
+        "a": "markets",
+        "b": "money",
+        "c": "banks",
+        "d": "government"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 538,
+      "question": "The term demand for money means",
+      "option": {
+        "a": "desire to borrow money from people",
+        "b": "desire of an individual to invest all his money in  projects",
+        "c": "willingness of people to hold money",
+        "d": "willingness of people to keep all their resources in  assets."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 539,
+      "question": "A persistent and appreciable rise in the general level of prices is known as",
+      "option": {
+        "a": "depreciation",
+        "b": "inflation",
+        "c": "deflation",
+        "d": "production"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 540,
+      "question": "To a commercial bank, deposits are",
+      "option": {
+        "a": "liabilities",
+        "b": "assets",
+        "c": "capital",
+        "d": "cash at hand"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 541,
+      "question": "The lender of last resort in the banking system is the",
+      "option": {
+        "a": "industrial bank",
+        "b": "mortgage bank",
+        "c": "commercial bank",
+        "d": "central bank"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 542,
+      "question": "Discounting a bill of exchange means the bill is",
+      "option": {
+        "a": "cashed over the counter",
+        "b": "sold on the stock exchange",
+        "c": "bought for less than its face value",
+        "d": "sold to the highest bidder"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 543,
+      "question": "The central bank controls credit in the economy through the use of",
+      "option": {
+        "a": "legal tender",
+        "b": "travelers cheque",
+        "c": "foreign exchange instruments",
+        "d": "open market operations"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 544,
+      "question": "Among the principles of taxation propounded by Adam Smith was that",
+      "option": {
+        "a": "a tax should be impossible to evade",
+        "b": "a tax should be convenient to pay",
+        "c": "no tax should be levied on food",
+        "d": "there should be no taxation without representation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 545,
+      "question": "Mr. Bala’s income is $800.00 per month while that of Mr. Jatau is $1,200.00. lf Messrs Bala and Jatau pay $80.00 and $120.00 respectively as taxes, the tax system is",
+      "option": {
+        "a": "progressive",
+        "b": "regressive",
+        "c": "proportional",
+        "d": "ad-valorem"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 546,
+      "question": "Government revenue from the groundnut industry is from",
+      "option": {
+        "a": "licenses",
+        "b": "rents",
+        "c": "royalties",
+        "d": "taxes"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 547,
+      "question": "The theory of comparative cost advantage is associated with",
+      "option": {
+        "a": "Alfred Marshal",
+        "b": "Adam Smith",
+        "c": "David Ricardo",
+        "d": "J.B. Say"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 548,
+      "question": "When the value of a nation’s exports is greater than its imports",
+      "option": {
+        "a": "a favourable balance of trade exists",
+        "b": "an unfavourable balance of payment exists",
+        "c": "the net foreign trade is zero",
+        "d": "inflation occurs"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 549,
+      "question": "To improve the balance of payments position of West African countries, there must be",
+      "option": {
+        "a": "removal of barriers to importation of goods and services",
+        "b": "increased rate of exportation of goods and services",
+        "c": "increased domestic consumption of foreign produced goods",
+        "d": "the development of the local market."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 550,
+      "question": "The Economic Community of West African State (ECOWAS) is an example of",
+      "option": {
+        "a": "bilateral trade",
+        "b": "economic integration",
+        "c": "regional marketing board",
+        "d": "international competition"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 551,
+      "question": "One reason for the low agricultural production in West African countries is that",
+      "option": {
+        "a": "agriculture employs the highest percentage of the labour force",
+        "b": "too much money is invested in agriculture",
+        "c": "farmers lack the finance and technology required",
+        "d": "the farms are too large"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 552,
+      "question": "Mono-product economies are those that",
+      "option": {
+        "a": "produce one main commodity",
+        "b": "produce only raw materials",
+        "c": "depend on the export of their raw materials",
+        "d": "specialize in agricultural industries"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 553,
+      "question": ".\n\n\tAn essential characteristics of a market economy is",
+      "option": {
+        "a": "government control",
+        "b": "producer surplus",
+        "c": "consumer surplus",
+        "d": "consumer sovereignty"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 554,
+      "question": "ln a capitalist system, goods are produced for those who",
+      "option": {
+        "a": "want them most but cannot pay for them",
+        "b": "can pay for them but do not want them",
+        "c": "want them and can also pay for them",
+        "d": "are dependent on the labour force"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 555,
+      "question": "An economy which exhibits features of both private and State enterprises is known as a",
+      "option": {
+        "a": "capitalist economy",
+        "b": "mixed economy",
+        "c": "communist economy",
+        "d": "socialist economy"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 556,
+      "question": "ln calculating the national income of a country x, the cost of both raw materials and the finished products \t\twere included. This is a case of",
+      "option": {
+        "a": "double counting",
+        "b": "price fluctuations",
+        "c": "price differentiation",
+        "d": "price discrimination"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 557,
+      "question": "Economic development is defined as",
+      "option": {
+        "a": "outward shift of the production possibility curve",
+        "b": "availability of more goods and services",
+        "c": "growth accompanied by qualitative change in living standards.",
+        "d": "growth in the national income"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    },
+    {
+      "id": 558,
+      "question": "Which of the following is not an objective of the \n\tOrganization of Petroleum Exporting Countries (OPEC)?",
+      "option": {
+        "a": "Stabilization of oil prices",
+        "b": "Co-ordinating oil prices",
+        "c": "Harmonizing oil prices",
+        "d": "Stagnation of developed economies."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2005"
+    }
+  ]
+}

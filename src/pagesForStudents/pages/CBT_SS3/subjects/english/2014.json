@@ -1,0 +1,1187 @@
+{
+  "subject": "english",
+  "status": 200,
+  "total": 65,
+  "data": [
+    {
+      "id": 1760,
+      "question": "\nThe minister considered the ministry's budget to be a drop in the ocean in view of the number of projects in the pipeline.",
+      "option": {
+        "a": "The pipeline project across the ocean will be abandoned unless budgetary allocation improves",
+        "b": "The amount available may be inadequate for projected expenditure",
+        "c": "The minister may be dropped for failing to complete a number of projects",
+        "d": "The money approved cannont complete the pipeline project acorss the ocean"
+      },
+      "section": "Select the option that best explains the information conveyed in the sentence.",
+      "image": "",
+      "answer": "b",
+      "solution": "A drop in the ocean; a very small amount compared with what is needed or expected.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 1,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1761,
+      "question": "The police are looking for the woman who farmed her children out to her neighbours.",
+      "option": {
+        "a": "The police wanted the woman for allowing her children to destroy her neighbour's crops.",
+        "b": "The woman and her children are in the habit of working in neighbour's farms and the police are not well disposed to this.",
+        "c": "The police may arrest the woman for allowing her neighbours to take care of her children.",
+        "d": "The woman may be arrested for allowing her children to be a nuisance to her neighbours"
+      },
+      "section": "Select the option that best explains the information conveyed in the sentence.",
+      "image": "",
+      "answer": "c",
+      "solution": "farm out;  to give work to other people to do.  To place one's child in someone else's care.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 2,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1762,
+      "question": "Jummai's father remarked that pigs would fly before she passed.",
+      "option": {
+        "a": "She would have to cheat in order to pass.",
+        "b": "It would be possible to pass only if she worked harder.",
+        "c": "It would never be possible for her to pass.",
+        "d": "He would have to bribe her teachers to enable her to pass."
+      },
+      "section": "Select the option that best explains the information conveyed in the sentence.",
+      "image": "",
+      "answer": "c",
+      "solution": "When \"pigs fly\" is an adynaton, a way of saying that something will never happen.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 3,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1763,
+      "question": "The president said that he found himself between a rock and a hard place when the press said that he has resigned.",
+      "option": {
+        "a": "Hard places are dangerous for the president.",
+        "b": "He dreamt that he was abandoned.",
+        "c": "He thought that hard places were unsafe.",
+        "d": "He had a hard decision to make."
+      },
+      "section": "Select the option that best explains the information conveyed in the sentence.",
+      "image": "",
+      "answer": "d",
+      "solution": "If you are caught between a rock and a hard place, you are in a difficult situation where you have to choose between two equally unpleasant courses of action.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 4,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1764,
+      "question": "Kunana is like a bear in the sore head.",
+      "option": {
+        "a": "He is a bully.",
+        "b": " He is grumpy.",
+        "c": "He is ugly.",
+        "d": " He is quiet."
+      },
+      "section": "Select the option that best explains the information conveyed in the sentence.",
+      "image": "",
+      "answer": "b",
+      "solution": "If someone is like a bear with a sore head, they are being very bad-tempered and irritable.\n\ngrumpy; bad-tempered and irritable",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 5,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1765,
+      "question": "Olu gave his brother a bumpy ride. ",
+      "option": {
+        "a": "Olu's brother rode on Olu's back to success.",
+        "b": "Olu took his brother on a bumpy road.",
+        "c": "Olu gave his brother a difficult time.",
+        "d": "Olu gave his brother a ride on his car."
+      },
+      "section": "Select the option that best explains the information conveyed in the sentence.",
+      "image": "",
+      "answer": "c",
+      "solution": "Bumpy ride; to have a difficult time",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 6,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1766,
+      "question": "Adeola doesn't have to go to the farm today.",
+      "option": {
+        "a": "Adeola may go to the farm today if he so wishes.",
+        "b": "Adeola ought not to have gone to the farm today.",
+        "c": "Adeola must not go to the farm today.",
+        "d": "Adeola should not go to the farm today."
+      },
+      "section": "Select the option that best explains the information conveyed in the sentence.",
+      "image": "",
+      "answer": "a",
+      "solution": "If Adeola wishes to go to the farm, he is free to",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 7,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1767,
+      "question": "My boss asked me to take my eyes off the ball.",
+      "option": {
+        "a": "I should stop paying attention to what is most important.",
+        "b": "I should be focused when i am about to stay off football.",
+        "c": " I should stay off football after sustaining an injuiry.",
+        "d": " I should be focused when playing football."
+      },
+      "section": "Select the option that best explains the information conveyed in the sentence.",
+      "image": "",
+      "answer": "a",
+      "solution": "Take (one's) eye off the ball. To fail to remain focused on or motivated about some goal, objective, or matter at hand. ",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 8,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1768,
+      "question": "The robber was hedged in by the people.",
+      "option": {
+        "a": "The robber was surrounded by the people.",
+        "b": "The robber was killed by the people.",
+        "c": "The robber was exposed by the people.",
+        "d": "The robber was caught by the people."
+      },
+      "section": "Select the option that best explains the information conveyed in the sentence.",
+      "image": "",
+      "answer": "a",
+      "solution": "Hedge in;  to form a boundary around (something).  to surround or restrict (someone) in a way that prevents free movement or action ",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 9,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1769,
+      "question": "Many workers are not happy because they live a hand-to-mouth life.",
+      "option": {
+        "a": "They work hard with their hands.",
+        "b": "They are voracious and avaricious.",
+        "c": "They are barely surviving.",
+        "d": "They have rejected the use of spoons."
+      },
+      "section": "Select the option that best explains the information conveyed in the sentence.",
+      "image": "",
+      "answer": "c",
+      "solution": "(from) hand to mouth; satisfying only one's immediate needs because of lack of money for future plans and investments.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 10,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1770,
+      "question": "Prolonged strike action <u>debilitated</u> the industry.",
+      "option": {
+        "a": "Stroyed.",
+        "b": "Invigorated.",
+        "c": "Isolated.",
+        "d": "Weakened."
+      },
+      "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "b",
+      "solution": "debilitated; in a very weakened and infirm state.\n\ninvigorate; give strength or energy to",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 11,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1771,
+      "question": "One of the students bought a <u>plagiarised</u> copy of the book.",
+      "option": {
+        "a": "An annotated.",
+        "b": "A used.",
+        "c": "An original.",
+        "d": "A revised."
+      },
+      "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "c",
+      "solution": "plagiarize; take (the work or an idea of someone else) and pass it off as one's own.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 12,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1772,
+      "question": "The young girl was taken <u>aback</u> by her father's gift of a car.",
+      "option": {
+        "a": "Nonplussed.",
+        "b": "Shocked.",
+        "c": "Unmoved.",
+        "d": "Surprised."
+      },
+      "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "c",
+      "solution": "If you are taken aback by something, you are surprised or shocked by it and you cannot respond at once.\n\nunmoved :not emotionally affected, not suprised. ",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 13,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1773,
+      "question": "Musa is a gifted but <u>erratic</u> player.",
+      "option": {
+        "a": "Unstable.",
+        "b": "Strong.",
+        "c": "Regular.",
+        "d": "Unpredictable."
+      },
+      "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "c",
+      "solution": "erratic; not even or regular in pattern or movement; unpredictab",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 14,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1774,
+      "question": "The lamp shades were <u>translucent</u>.",
+      "option": {
+        "a": "Transparent.",
+        "b": "Opaque.",
+        "c": "Intersected.",
+        "d": "Luminous."
+      },
+      "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "b",
+      "solution": "translucent; (of a substance) allowing light, but not detailed shapes, to pass through; semi-transparent.\n\nOpaque; not able to be seen through; not transparent.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 15,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1775,
+      "question": "My niece has an <u>unquenchable</u> thirst for adventure stories.",
+      "option": {
+        "a": "An inextinguishable.",
+        "b": "A spurious.",
+        "c": "An illegitimate.",
+        "d": "A reduced."
+      },
+      "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "d",
+      "solution": "unquenchable; not able to be quenched, excessive excitement",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 16,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1776,
+      "question": "Some of my neighbours have an <u>antipathy</u> to dogs.",
+      "option": {
+        "a": "Alarm for.",
+        "b": "Enmity towards.",
+        "c": "Affection for.",
+        "d": "Acronym for."
+      },
+      "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "c",
+      "solution": "antipathy; a deep-seated feeling of aversion/ dislike.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 17,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1777,
+      "question": "The dressmaker <u>unpicked</u> the seam of the shirt.",
+      "option": {
+        "a": "Tore up.",
+        "b": "Threaded.",
+        "c": "Sewed up.",
+        "d": "Picked up."
+      },
+      "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "c",
+      "solution": "unpicked ; not sewed.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 18,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1778,
+      "question": "The testimony of the witness was <u>vague</u>.",
+      "option": {
+        "a": "Clear.",
+        "b": "Disturbing.",
+        "c": "True.",
+        "d": "Ambiguous."
+      },
+      "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "a",
+      "solution": "vague; of uncertain, indefinite, or unclear character or meaning.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 19,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1779,
+      "question": "As a student, Isa tied <u>communal</u> living for a few years.",
+      "option": {
+        "a": "Private.",
+        "b": "Collective.",
+        "c": "General.",
+        "d": "Shared."
+      },
+      "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "a",
+      "solution": "communal; shared by all members of a community; for common use.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 20,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1780,
+      "question": "The chairman admires <u>incessant</u> meetings.",
+      "option": {
+        "a": "Irregular.",
+        "b": "Unusual.",
+        "c": "Planned.",
+        "d": "Constant."
+      },
+      "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "d",
+      "solution": "Incessant; (of something regarded as unpleasant) continuing without pause or interruption.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 21,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1781,
+      "question": "Today's weather is <u>favourable</u> for a game of tennis.",
+      "option": {
+        "a": "Disapproving.",
+        "b": "Impartial.",
+        "c": "Abnormal.",
+        "d": "Encouraging."
+      },
+      "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "d",
+      "solution": "favourable; expressing approval.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 22,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1782,
+      "question": "All the candidates looked <u>aghast</u> at the reading of the questions.",
+      "option": {
+        "a": "Relaxed.",
+        "b": "Fulfilled.",
+        "c": "Dismayed.",
+        "d": "Satisfied."
+      },
+      "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "c",
+      "solution": "ghast; filled with horror or shock.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 23,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1783,
+      "question": "Joke gave Muhammad a <u>jaunty</u>  smile.",
+      "option": {
+        "a": " A cheerful.",
+        "b": "A discouraging.",
+        "c": "An inviting.",
+        "d": "A frightful."
+      },
+      "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "a",
+      "solution": "jaunty; having or expressing a lively, cheerful, and self-confident manner.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 24,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1784,
+      "question": "The first round of the tournament was a  <u>doddle</u> .",
+      "option": {
+        "a": "Exasperating.",
+        "b": "Easy.",
+        "c": "Balanced.",
+        "d": "Dodgy."
+      },
+      "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "b",
+      "solution": "Doddle; a very easy task.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 25,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1785,
+      "question": "The lazy man cast a  <u>lustful</u> glance at his neighbour's wife.",
+      "option": {
+        "a": "Envious.",
+        "b": "Hateful.",
+        "c": "Quick.",
+        "d": "Covetous."
+      },
+      "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "d",
+      "solution": "lustful; having or showing strong feelings of sexual desire.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 26,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1786,
+      "question": "They accused him of <u>fomenting</u>  political unrest.",
+      "option": {
+        "a": "Guiding.",
+        "b": "Inciting.",
+        "c": "Discouraging.",
+        "d": "Preventing."
+      },
+      "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "b",
+      "solution": "foment; instigate or stir up (an undesirable or violent sentiment or course of action).",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 27,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1787,
+      "question": "You can <u>learn</u> a great deal just from watching other players.",
+      "option": {
+        "a": "Discover.",
+        "b": "Invent.",
+        "c": "Accumulate.",
+        "d": "Allow."
+      },
+      "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "a",
+      "solution": "learn; gain or acquire knowledge of or skill in (something) by study, experience, or being taught.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 28,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1788,
+      "question": "All the researchers were asked to  <u>gather</u> information on the new viral infection.",
+      "option": {
+        "a": "Give.",
+        "b": "Collect.",
+        "c": "Disseminate.",
+        "d": "Distort."
+      },
+      "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "b",
+      "solution": "gather; to collect, assemble, congregate ",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 29,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1789,
+      "question": "The dispute between the two countries has resulted in the  <u>severing</u> of diplomatic relations.",
+      "option": {
+        "a": "Strenghtening.",
+        "b": "Breaking.",
+        "c": "Securing.",
+        "d": "Swapping."
+      },
+      "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+      "image": "",
+      "answer": "b",
+      "solution": "severing ; put an end to (a connection or relationship); break off.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 30,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1790,
+      "question": "The house and the senate will at noon next Wednesday, _________ to hear a special address by the president.",
+      "option": {
+        "a": "Collude.",
+        "b": "Convene.",
+        "c": "Adjourn.",
+        "d": "Rise."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "b",
+      "solution": "The house and the senate will at noon next Wednesday, Convene to hear a special address by the president.\n\nConvene; come or bring together for a meeting or activity; assemble.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 31,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1791,
+      "question": "At the _________ of the century, many ways of doing things were introduced.",
+      "option": { "a": "Sight.", "b": "Turn.", "c": "Event.", "d": "Birth." },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "b",
+      "solution": "At the turn of the century, many ways of doing things were introduced.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 32,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1792,
+      "question": "You may have the pencil, but you can't have the ballpoint ________.",
+      "option": {
+        "a": "As well.",
+        "b": "Either.",
+        "c": "Futhermore.",
+        "d": "Also."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "a",
+      "solution": "You may have the pencil, but you can't have the ballpoint  As well",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 33,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1793,
+      "question": "The president said that the country was not out of the _____ yet.",
+      "option": { "a": "Wood.", "b": "Forest.", "c": "Fog.", "d": "Water." },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "a",
+      "solution": "The president said that the country was not out of the Wood yet.\n\nout of the wood; means out of danger or difficulty",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 34,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1794,
+      "question": "He went to the restaurant to enjoy the special _____.",
+      "option": {
+        "a": "Chef.",
+        "b": "Suite.",
+        "c": "Cuisine.",
+        "d": "A la carte."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "c",
+      "solution": "He went to the restaurant to enjoy the special Cuisine.\n\nCuisine; food cooked in a certain way.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 35,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1795,
+      "question": "The invigilator _____ to know how long the examination _____ going on.",
+      "option": {
+        "a": "Wanted/ had been.",
+        "b": "Wanted/ has been.",
+        "c": "Want/had been.",
+        "d": "Wanted/have been."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "a",
+      "solution": "The invigilator Wanted   to know how long the examination had been going on.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 36,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1796,
+      "question": "The guard spent all the night pacing _____.",
+      "option": {
+        "a": "To and fro.",
+        "b": "From and to.",
+        "c": "Fro and to.",
+        "d": "To and from."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "a",
+      "solution": "To and fro as is both a noun, verb and an adverb. It means a constant movement backwards and forwards or from side to side. constant movement backwards and forwards. Example \"she cradled him, rocking him to and fro\"\n\nsynonyms: from place to place · around · about · to and fro · hither and thither ·",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 37,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1797,
+      "question": "The woman refused to testify ______ her husband.",
+      "option": { "a": "From.", "b": "In.", "c": "At.", "d": "Against." },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "d",
+      "solution": "The woman refused to testify Against her husband.\n\nAgainst; in opposition to.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 38,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1798,
+      "question": "A bike must have found the very interesting movies quite _____.",
+      "option": {
+        "a": "Perverting.",
+        "b": "Absolving.",
+        "c": "Absorbing.",
+        "d": "Nauseating."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "d",
+      "solution": "A bike must have found the very interesting movies quite Nauseating\n\nNauseating; causing or liable to cause a feeling of nausea or disgust; disgusting.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 39,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1799,
+      "question": "The words _____ divided between the end of one line.",
+      "option": {
+        "a": "Has being.",
+        "b": "Have been.",
+        "c": "Have being.",
+        "d": "Has been."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "b",
+      "solution": "The words have been divided between the end of one line.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 40,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1800,
+      "question": "Those _____ are very beautiful.",
+      "option": {
+        "a": "Flowers of ours.",
+        "b": "Flowers of her.",
+        "c": "Flowers of her's.",
+        "d": " Our flowers."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "a",
+      "solution": "Those Flowers of ours are very beautiful.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 41,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1801,
+      "question": "Cooking has never been Jumoke's _____.",
+      "option": {
+        "a": "Forte.",
+        "b": "Recital.",
+        "c": "Conduct",
+        "d": "Style."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "a",
+      "solution": "Cooking has never been Jumoke's Forte .\n\nForte; a thing at which someone excels.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 42,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1802,
+      "question": "when the strike is over, there will probably be an increase in wages and a _____ increase in prices.",
+      "option": {
+        "a": "Chronic.",
+        "b": "Sporadic.",
+        "c": "Concordant.",
+        "d": "Concurrent."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 43,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1803,
+      "question": "My mother was _____ annoyed with me for coming late.",
+      "option": { "a": "Just.", "b": "Very.", "c": "Neither.", "d": "Hotly." },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "b",
+      "solution": "My mother was Very annoyed with me for coming late.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 44,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1804,
+      "question": "The chairman is too much _____ an idealist for coming late.",
+      "option": { "a": "With.", "b": "From.", "c": "About.`", "d": "Of." },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "d",
+      "solution": "The chairman is too much of an idealist for coming late.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 45,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1805,
+      "question": "The clock _____ 12 o'clock two hours ago.",
+      "option": {
+        "a": "Striking.",
+        "b": "Strikes.",
+        "c": "Strike.",
+        "d": "Struck."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "d",
+      "solution": "Struck; past and past participle of strike.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 46,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1806,
+      "question": "What is the jury's _____ the matter.",
+      "option": {
+        "a": "Verdict with.",
+        "b": "Verdict on.",
+        "c": "Verdict at.",
+        "d": "Verdict from."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "b",
+      "solution": "Verdict; a decision on an issue of fact in a civil or criminal case or an inquest.\n\nOn; is used in indicating continuation of a movement or action.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 47,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1807,
+      "question": "The unconscious man was _____ after receiving first aid.",
+      "option": {
+        "a": "Revived.",
+        "b": "Reawakened.",
+        "c": "Reformed.",
+        "d": "Restored."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "a",
+      "solution": "Revived; restore to life or consciousness.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 48,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1808,
+      "question": "The laughter _____ his face for a moment.",
+      "option": {
+        "a": "Remade.",
+        "b": "Improved.",
+        "c": "Controlled.",
+        "d": "Animated."
+      },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "d",
+      "solution": "Animated; full of life or excitement; lively.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 49,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1809,
+      "question": "She traced her family history _____ matrilineal.",
+      "option": { "a": "At.", "b": "In.", "c": "By.", "d": "With." },
+      "section": "Choose the option that best complete the gap.",
+      "image": "",
+      "answer": "c",
+      "solution": "She traced her family history by matrilineal.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 50,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1810,
+      "question": "C<u>oo</u>l.",
+      "option": { "a": "Should.", "b": "Full.", "c": "Luke.", "d": "Look." },
+      "section": "Choose the option that has the same vowel sound as the one represented by the letter underlined.\n",
+      "image": "",
+      "answer": "c",
+      "solution": "cool; /kuːl/\n\nLuke; /lu:k/",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 51,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1811,
+      "question": "Od<u>our</u>.",
+      "option": { "a": "Floor.", "b": "Flow.", "c": "Sugar.", "d": "Hold." },
+      "section": "Choose the option that has the same vowel sound as the one represented by the letter underlined.\n",
+      "image": "",
+      "answer": "c",
+      "solution": "odour; /ˈəʊdə/\nsugar; /ˈʃʊɡə/",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 52,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1812,
+      "question": "P<u>a</u>lm.",
+      "option": {
+        "a": "Plait.",
+        "b": "Ranch.",
+        "c": "Florid.",
+        "d": "Launch."
+      },
+      "section": "Choose the option that has the same vowel sound as the one represented by the letter underlined.\n",
+      "image": "",
+      "answer": "b",
+      "solution": "palm; /pɑːm/\nranch; /rɑːn(t)ʃ/. The vowel sound in the above words are highlghted and underlined accordingly.",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 53,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1813,
+      "question": "Vi<u>s</u>ion.",
+      "option": {
+        "a": "Enclosure.",
+        "b": "Instruction.",
+        "c": "Mansion.",
+        "d": "Nation."
+      },
+      "section": "Choose the option that has the same consonant sound as the one represented by the letter underlined. ",
+      "image": "",
+      "answer": "a",
+      "solution": "vision; /ˈvɪʒ(ə)n/\n\nenclosure; /ɪnˈkləʊʒə,ɛnˈkləʊʒə/",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 54,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1814,
+      "question": "<u>Gn</u>ash.",
+      "option": { "a": "Ring.", "b": "Forge.", "c": "New.", "d": "King." },
+      "section": "Choose the option that has the same consonant sound as the one represented by the letter underlined. ",
+      "image": "",
+      "answer": "c",
+      "solution": "The word ''gnash'' is pronouced as [naʃ], meaning the ''g'' is silent which gives it the ''N'' sound. NEW therefore has the same consonant sound as GNASH from the above options. ",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 55,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1815,
+      "question": "Epita<u>ph</u>.",
+      "option": {
+        "a": "Pneumonia.",
+        "b": "Pseudo.",
+        "c": "Fan.",
+        "d": "Paper."
+      },
+      "section": "Choose the option that has the same consonant sound as the one represented by the letter underlined. ",
+      "image": "",
+      "answer": "c",
+      "solution": "epitaph; /ˈɛpɪtɑːf,ˈɛpɪtaf/\nfan; /fan/",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 56,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1816,
+      "question": "Ever.",
+      "option": {
+        "a": "Heavier.",
+        "b": "Favour.",
+        "c": "Fever.",
+        "d": "Never."
+      },
+      "section": "Choose the option that rhymes with the given word.",
+      "image": "",
+      "answer": "d",
+      "solution": "ever; /ˈɛvə/\nnever; /ˈnɛvə/",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 57,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1817,
+      "question": "Keep.",
+      "option": { "a": "Dead.", "b": "Reap.", "c": "Seethe.", "d": "Threat." },
+      "section": "Choose the option that rhymes with the given word.",
+      "image": "",
+      "answer": "b",
+      "solution": "keep; /kiːp/\nreap; /riːp/",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 58,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1818,
+      "question": "Tax.",
+      "option": { "a": "Ask.", "b": "Box.", "c": "Lacks.", "d": "Back." },
+      "section": "Choose the option that rhymes with the given word.",
+      "image": "",
+      "answer": "c",
+      "solution": "tax; /taks/\nlacks;  /laks/",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 59,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1819,
+      "question": "Valedictory.",
+      "option": {
+        "a": "vaLEdictory.",
+        "b": "valeDICtory.",
+        "c": "valedicTORY.",
+        "d": "VALedictory."
+      },
+      "section": "choose the most appropriate stress pattern from the options.\n",
+      "image": "",
+      "answer": "b",
+      "solution": "valedictory; /ˌvalɪˈdɪkt(ə)ri/ is stressed on the third syllable ",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 60,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1820,
+      "question": "Congratulation.",
+      "option": {
+        "a": "conGRAtulation.",
+        "b": "congraTUlation.",
+        "c": "congratuLAtion.",
+        "d": "CONgratulation."
+      },
+      "section": "choose the most appropriate stress pattern from the options.\n",
+      "image": "",
+      "answer": "c",
+      "solution": "congratulation; /kənɡratjʊˈleɪʃ(ə)n/\n\nwords with the /ʃ/ or /tʃ/ sounds made by “-tion” are usually stressed on the syllable before the ''tion'' ",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 61,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1821,
+      "question": "Conspiracy.",
+      "option": {
+        "a": "CONspiracy.",
+        "b": "conspiRAcy.",
+        "c": "conspiraCY",
+        "d": "conSPIracy."
+      },
+      "section": "choose the most appropriate stress pattern from the options.\n",
+      "image": "",
+      "answer": "d",
+      "solution": "conspiracy; /kənˈspɪrəsi/",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 62,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1822,
+      "question": "My mother bought a BICYCLE yesterday.",
+      "option": {
+        "a": "When did my mother buy a bicycle?",
+        "b": "What did my mother buy yesterday?",
+        "c": "Whose mother bought a bicycle yesterday?",
+        "d": "Did my mother steal a bicycle yesterday?"
+      },
+      "section": "The word in capital letter has the emphatic stress. choose the option in which the given sentence relates.",
+      "image": "",
+      "answer": "b",
+      "solution": "In responding to questions on emphatic stress, Interrogative sentence that contradicts the emphasized word is the correct option. This means that, the statement that does not have the emphasized word in it is the correct answer. Option B doesnt have the emphasized word which makes it the correct option",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 63,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1823,
+      "question": "AMINA went to Abuja by air.",
+      "option": {
+        "a": "Did Amina go to Jos by air?",
+        "b": "Is Amina going to Abuja by air?",
+        "c": "Who went to Abuja by air?",
+        "d": "Did Amina go to Abuja by road?"
+      },
+      "section": "The word in capital letter has the emphatic stress. choose the option in which the given sentence relates.",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 64,
+      "hasPassage": 0,
+      "category": "others"
+    },
+    {
+      "id": 1824,
+      "question": "Musa is STAYING in Enugu.",
+      "option": {
+        "a": "Was Musa staying in Enugu?",
+        "b": "Is Musa going through Enugu?",
+        "c": "Is Musa staying on the outskirt of Enugu?",
+        "d": "Is Audu staying in Enugu?"
+      },
+      "section": "The word in capital letter has the emphatic stress. choose the option in which the given sentence relates.",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014",
+      "questionNub": 65,
+      "hasPassage": 0,
+      "category": "others"
+    }
+  ]
+}

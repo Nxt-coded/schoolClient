@@ -1,0 +1,1 @@
+import{j as e,L as t}from"./index-Dr9ZTIop.js";const a=({name:s})=>e.jsxs("div",{children:[" ",e.jsxs("div",{className:"flex items-center text-blue-950",children:["Account ",e.jsx(t,{size:13,className:"mx-4 "})," ",e.jsx("div",{className:"capitalize",children:s})]}),e.jsx("div",{className:"text-blue-800 mt-5 font-[500] text-[30px] capitalize",children:s})]});export{a as L};

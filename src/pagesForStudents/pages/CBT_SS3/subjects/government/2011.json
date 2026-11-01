@@ -1,0 +1,402 @@
+{
+  "subject": "government",
+  "status": 200,
+  "total": 25,
+  "data": [
+    {
+      "id": 124,
+      "question": "A human community that is usually cohesive and homogeneous is ",
+      "option": { "a": "state ", "b": "kinship", "c": "clan", "d": "Nation." },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 125,
+      "question": "Which of the following made the earliest contact with the Nigerian society? ",
+      "option": {
+        "a": "The British  ",
+        "b": "The Portuguese ",
+        "c": "The French ",
+        "d": "The Germans"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 126,
+      "question": "Under the 1963 Republican Constitution, the president exercised ",
+      "option": {
+        "a": "Judicial powers ",
+        "b": "executive powers ",
+        "c": "nominal powers ",
+        "d": "concurrent powers."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 127,
+      "question": "The principle of federal character was first enunciated in the: ",
+      "option": {
+        "a": "1989 constitution ",
+        "b": "1963 constitution",
+        "c": "1999 constitution ",
+        "d": "1979 constitution"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 128,
+      "question": "Between 1960 and 1966, Nigeria was governed under the  ",
+      "option": {
+        "a": "presidential system of government ",
+        "b": "Westminster system of government ",
+        "c": "confederal system of government ",
+        "d": "unitary system of government."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 129,
+      "question": "One major factor that differentiates the presidential from the parliamentary system is: ",
+      "option": {
+        "a": "separation of powers",
+        "b": "judicial independence ",
+        "c": "passage of bills  ",
+        "d": "party system."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 130,
+      "question": "A major feature of the policy of deregulation in Nigeria is the: ",
+      "option": {
+        "a": "enthronement of market forces mechanism ",
+        "b": "increasing dominance of the economy by the state ",
+        "c": "proliferations of public corporations ",
+        "d": "phenomenal increase in direct foreign investment"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 131,
+      "question": "Bicameral legislature exists: ",
+      "option": {
+        "a": "where cameramen are allowed to cover the proceedings of the legislature ",
+        "b": "to prevent the concentration of power in one legislative house ",
+        "c": "to provide jobs for more politicians ",
+        "d": "to ensure that just laws are passed"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 132,
+      "question": "A major issue that distinguishes pressure groups from political parties is: ",
+      "option": {
+        "a": "membership drive  ",
+        "b": "the objective",
+        "c": "the voting pattern ",
+        "d": "the ideology"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 133,
+      "question": "Equality before the law is a component of: ",
+      "option": {
+        "a": "separation of powers",
+        "b": "checks and balances ",
+        "c": "the rule of law",
+        "d": "constitutional law."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 134,
+      "question": "A law passed by the legislature and assented to by the executive is: ",
+      "option": {
+        "a": "an act",
+        "b": "a presidential proclamation ",
+        "c": "a decree   ",
+        "d": "a legislative order"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 135,
+      "question": "The principle of checks and balances empowers the judiciary to: ",
+      "option": {
+        "a": "invalidate the actions of the other arms ",
+        "b": "administer the criminal justice system ",
+        "c": "abrogate the law",
+        "d": "apply the law"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 136,
+      "question": "In a parliamentary, the term shadow cabinet is often used to refer to the: ",
+      "option": {
+        "a": "back benchers in the house ",
+        "b": "deputy prime ministers and assistant ministers ",
+        "c": "rebellious members of the ruling party ",
+        "d": "portfolio designates of the party in opposition."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 137,
+      "question": "The fundamental assumption on which the idea of the rule of law is based is: ",
+      "option": {
+        "a": "supremacy of the constitution",
+        "b": "rationality of human beings ",
+        "c": "equality of human beings",
+        "d": "love for social justice."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 138,
+      "question": "Associations whose main interest is to influence public policies without attempting to capture state power are: ",
+      "option": {
+        "a": "communal groups",
+        "b": "trade unions  ",
+        "c": "political parties",
+        "d": "pressure groups "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 139,
+      "question": "Multilaterism in Nigeria’s foreign policy entails: ",
+      "option": {
+        "a": "Africa being the centre piece of Nigeria’s foreign policy ",
+        "b": "Non-aligned posture in international affairs ",
+        "c": "Quest for a permanent membership of the UN Security Council ",
+        "d": "Membership of International Organizations"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 140,
+      "question": "The set of policies on the basis of which countries interact with one another is called: ",
+      "option": {
+        "a": "Diplomacy",
+        "b": "Foreign policy ",
+        "c": "National policy ",
+        "d": "International relations."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 141,
+      "question": "After the defeat of Germany in World War 1, her former colonies were administered under the League of Nations as: ",
+      "option": {
+        "a": "occupied territories ",
+        "b": "trust territories  ",
+        "c": "crown colonies ",
+        "d": "protectorates."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 142,
+      "question": "The Nigeria-Cameroon crisis over Bakaasi peninsula occurred owning to the interpretation of the Treaty of 1913 and the:",
+      "option": {
+        "a": "resolution of the OAU ",
+        "b": "Maroua Accord",
+        "c": "decision of the ECOWAS Tribunal ",
+        "d": "decision of the International Court of Justice "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 143,
+      "question": "The first Nigeria leader to become chairman of the Organization of African Unity was:  ",
+      "option": {
+        "a": "Tafawa Balewa",
+        "b": "Murtala Mohammed",
+        "c": "Yakubu Gowon  ",
+        "d": "Aguiyi-Ironsi"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 144,
+      "question": "Nigeria’s non-aligned policy was criticized because of the: ",
+      "option": {
+        "a": "ECOWAS Treaty ",
+        "b": "Nuclear Test Ban Treaty  ",
+        "c": "Anglo-Nigerian Pact ",
+        "d": "Non-Proliferation Treaty "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 145,
+      "question": "Fascism originated from: ",
+      "option": {
+        "a": "Greece",
+        "b": "Italy ",
+        "c": "China ",
+        "d": "Germany "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 146,
+      "question": "Diarchy refers to the: ",
+      "option": {
+        "a": "rule by the government and the opposition parties ",
+        "b": "mixture of parliamentary and presidential systems ",
+        "c": "rule by political and economic elites ",
+        "d": "rule by the military and civilians."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 147,
+      "question": "A major flaw in liberal democracy is: ",
+      "option": {
+        "a": "the limitation of the freedom of expression ",
+        "b": "its emphasis on political rights over economic rights ",
+        "c": "that it promotes political instability ",
+        "d": "its emphasis on collective ownership."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 148,
+      "question": "Under military regimes in Nigeria, the branches of government that were fused are: ",
+      "option": {
+        "a": "executive and the legislature",
+        "b": "executive and the judiciary ",
+        "c": "legislature and the judiciary ",
+        "d": "executive, the legislative and the judiciary "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    }
+  ]
+}

@@ -1,0 +1,1511 @@
+{
+	"subject": "crk",
+	"status": 200,
+	"total": 94,
+	"data": [
+		{
+			"id": 697,
+			"question": "“The sword devours now one and now another.” This statement was made by David in reaction to the death of __________.",
+			"option": {
+				"a": "Saul",
+				"b": "Joab",
+				"c": "Ishbosheth",
+				"d": "Uriah"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 698,
+			"question": "“The sword devours now one and now another.” This statement was David’s reaction to the death of __________.",
+			"option": {
+				"a": "Saul",
+				"b": "Joab",
+				"c": "Ishbosheth",
+				"d": "Uriah"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 699,
+			"question": "After Abner’s death, David showed that he had sincerely forgiven him by ____________.",
+			"option": {
+				"a": "ordering the arrest of Joab who slew Abner",
+				"b": "directing all Israel to bury Abner with honour",
+				"c": "weeping and fasting for Abner for a whole day",
+				"d": "Giving Abner’s son a place of honour in Israel"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 700,
+			"question": "When David learnt that the child born to him by Bethsheba had died, he ____________,",
+			"option": {
+				"a": "fasted and prayed for the dead",
+				"b": "tore his robe and dismissed his court",
+				"c": "anointed himself and worshipped the Lord",
+				"d": "sought Nathan’s counsel on what to do next"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 701,
+			"question": "________ was the man James used as example of how the effective prayer of the righteous man works",
+			"option": {
+				"a": "Jesus Christ",
+				"b": "Peter",
+				"c": "Paul",
+				"d": "Elijah"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 702,
+			"question": "Praying for others is a prayer of _____________.",
+			"option": {
+				"a": "apprehension",
+				"b": "interceding",
+				"c": "intercession",
+				"d": "appreciation"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 703,
+			"question": "And the prayer of _________ shall save the sick. And the lord shall raise him up; and if he hath committed sins, they shall be forgiven him.”",
+			"option": {
+				"a": "petition",
+				"b": "intercession",
+				"c": "hope",
+				"d": "faith"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 704,
+			"question": " Which one of the following is the man associated with prayers?",
+			"option": {
+				"a": "Elisha",
+				"b": "Elijah",
+				"c": "Eli",
+				"d": "Ezekiah"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 705,
+			"question": "For our prayers to manifest, we must be ________.",
+			"option": {
+				"a": "caring",
+				"b": "careful",
+				"c": "cheerful",
+				"d": "carefree"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 706,
+			"question": "In the Gospel of Matthew, Jesus sent the twelve to ___________.",
+			"option": {
+				"a": "the Jews",
+				"b": "the Gentiles and Samaritans",
+				"c": "Tyre and Sidon",
+				"d": "the Region of Gadarenes"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 707,
+			"question": "Teacher, what shall I do to inherit eternal life?” Who among the following tested Jesus with this question?",
+			"option": {
+				"a": "A Pharisee",
+				"b": "A lawyer",
+				"c": "A zealot",
+				"d": "A Sadducee"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 708,
+			"question": "Who among the following disciples of Jesus was a tax collector?",
+			"option": {
+				"a": "Levi",
+				"b": "Judas Iscariot",
+				"c": "John",
+				"d": "James"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 709,
+			"question": "In St. Luke’s record, Jesus specially sent the seventy disciples on mission to _____________.",
+			"option": {
+				"a": "every town where he was to visit",
+				"b": "Gentile cities only",
+				"c": "Jewish cities only",
+				"d": "plant seeds in the vine yard"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 710,
+			"question": "Which of these is not in the list of the twelve apostles?",
+			"option": {
+				"a": "Thaddeus",
+				"b": "Matthew",
+				"c": "Mark",
+				"d": "Simon the Zealot"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 711,
+			"question": "I desire steadfast love and not sacrifice, the knowledge of God, rather than burnt offerings.” This statement was the central theme of the prophecy of _____________.",
+			"option": {
+				"a": "Elijah",
+				"b": "Ezekiel",
+				"c": "Hosea",
+				"d": "Isaiah"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 712,
+			"question": "Divine Love is a ___________love.",
+			"option": {
+				"a": "stronge",
+				"b": "steadfast",
+				"c": "strange",
+				"d": "shaking"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 713,
+			"question": "The main message of Hosea is that God desires ___________.",
+			"option": {
+				"a": "love and sacrifice",
+				"b": "sacrifice and thanksgiving",
+				"c": "steadfast love and not sacrifice",
+				"d": "sacrifice and worship"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 714,
+			"question": ".I desire steadfast love and not sacrifice, offerings”. This statement was the central theme of the prophecy of __________.",
+			"option": {
+				"a": "Elijah",
+				"b": "Ezekiel",
+				"c": "Hosea",
+				"d": "Isaiah"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 715,
+			"question": "The word of the Lord came to Hosea the son of ___________.",
+			"option": {
+				"a": "Eliezer",
+				"b": "Juhu",
+				"c": "Abiathar",
+				"d": "Beeri"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 716,
+			"question": "The core of Saul's disobedience was that_____________",
+			"option": {
+				"a": "He freed the Kenites",
+				"b": "He refused to carry out God's assignment on eliminating the Amalekites",
+				"c": "He didn't perform the task of smiting Amalekites to the letter",
+				"d": "He preserved the booty for himself"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 717,
+			"question": "God instructed Saul to utterly destroy Amalek because___________",
+			"option": {
+				"a": "He abhors Idolatory and all forms of Unrighteousness",
+				"b": "Its people opposed the Israelites on the way after departing Egypt",
+				"c": "Its people encouraged Israel to disobey God",
+				"d": "Samuel had prayed for it destruction"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 718,
+			"question": "One of the most significant lessons from the emergence of Deborah as a leader is that_________",
+			"option": {
+				"a": "She not only prophesied but also advised Israel",
+				"b": "Gender difference isn't a limitation to leadership",
+				"c": "Honesty and Integrity are key to leadership",
+				"d": "One needs to summon courage as a leader to solve problems"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 719,
+			"question": "Jeremiah prophesied God's punishment of the Israelites because they had_______",
+			"option": {
+				"a": "Compromised his worship",
+				"b": "Committed atrocities with their neighbors' wives",
+				"c": "Trampled on the needy",
+				"d": "No belief in his message"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 720,
+			"question": "Jesus healed the lame man who had been sick for thirty-eight years at?",
+			"option": {
+				"a": "Capernaum",
+				"b": "Samaria",
+				"c": "Galilee",
+				"d": "Betsheba"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 721,
+			"question": "St Paul's condition for the attainment of justification is by ______?",
+			"option": {
+				"a": "Total obedience to the law",
+				"b": "Holiness in Christ Jesus",
+				"c": "Faith in the Resurrected Jesus",
+				"d": "Loving our Christian brethren"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 722,
+			"question": "The model example for wives in Christian families according to St Peter is _____",
+			"option": {
+				"a": "Ruth",
+				"b": "Deborah",
+				"c": "Sarah",
+				"d": "Rebecca"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 723,
+			"question": "According to Luke, Jesus was standing by the......He thereafter entered into the boat preaching and later 'calling' Simon Peter __________",
+			"option": {
+				"a": "Lake of Gennesaret",
+				"b": "City of Caprenaum",
+				"c": "Wall of Bethsaida",
+				"d": "Sea of Galilee"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 724,
+			"question": "One significance of St Paul's teaching on Resurrection is that__________",
+			"option": {
+				"a": "Christians must not underestimate the power of baptism by immersion",
+				"b": "As Christ rose and ascended into glory, so as also must uphold the observance of law",
+				"c": "The foundation of their hope of salvation is in Christ's resurrection",
+				"d": "The second coming of Christ is near"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 725,
+			"question": "Jesus charged Christians to express love just as________",
+			"option": {
+				"a": "He taught them the new commandment",
+				"b": "They would do with their neighbours",
+				"c": "He laid his life for the sake of mankind",
+				"d": "They Love God"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 726,
+			"question": "Elijah fed on _____ after declaring drought upon the land of Israel",
+			"option": {
+				"a": "Bread, Fish and Oil",
+				"b": "Bread, Meat and Water",
+				"c": "Oath, Barley and Water",
+				"d": "Vine, Wheat and Water"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 727,
+			"question": "A Christian can demonstrate that he is light of the world by___________",
+			"option": {
+				"a": "Advocating for the meek to inherit the earth",
+				"b": "being committed to improving himself",
+				"c": "being merciful to persons in need",
+				"d": "Upholding good moral values"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 728,
+			"question": "Peter healed Aeneas who had been bedridden for ____ years?",
+			"option": {
+				"a": "Four",
+				"b": "Six",
+				"c": "Eight",
+				"d": "Twelve"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 729,
+			"question": "St. Peter's teaching on Civic Responsibility centers upon_____",
+			"option": {
+				"a": "Good Neighbourliness",
+				"b": "Social Advancement",
+				"c": "Good Citizenship",
+				"d": "Social Justice"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 730,
+			"question": "St Paul, in 'Law and Grace', although man was condemned, he has been redeemed through the _____",
+			"option": {
+				"a": "Compliance to the laws of the God",
+				"b": "Righteousness of his deeds",
+				"c": "Grace of God",
+				"d": "Faith in Christ Jesus"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 731,
+			"question": "Summarily, St Paul in his teaching on 'New Life In Christ' advised Christains to ______",
+			"option": {
+				"a": "Endeavor to be baptized by immersion",
+				"b": "Pray for the Grace of God",
+				"c": "Forsake only adultery and murder",
+				"d": "Dwell richly in the word of God"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 732,
+			"question": "The core of St Paul's advice on dignity of Labour is that",
+			"option": {
+				"a": "Christians must work hard to actively support the Church and themselves",
+				"b": "The lazy people must be made to learn in the hardest way possible",
+				"c": "Everyone should actively contribute to social progress",
+				"d": "Christians must be productive"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 733,
+			"question": "Peter advised Christians to _______as they were sharing Christ's sufferings",
+			"option": {
+				"a": "Be Prayerful",
+				"b": "Rejoice",
+				"c": "Persevere",
+				"d": "Be Steadfast"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 734,
+			"question": "The accusation of blasphemy against Moses, the law and God was levied against _______",
+			"option": {
+				"a": "Stephen",
+				"b": "Peter and John",
+				"c": "Paul",
+				"d": "Philip"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 735,
+			"question": "St. James in the teaching on faith and work gave the analogy of ________",
+			"option": {
+				"a": "A man who looks himself in the mirror and appreciates God for that",
+				"b": "A hungry man who approached his fellow Christian for help",
+				"c": "A man of little faith encouraging others to work",
+				"d": "A poor man with wretched clothing approaching the rich for help"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 736,
+			"question": "One of the following is not a condition for effective prayer according to St James_____",
+			"option": {
+				"a": "Faith",
+				"b": "Lowliness",
+				"c": "Steadfastness",
+				"d": "Perseverance"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 737,
+			"question": "To St Paul, Christians can prepare for the second coming of Christ by______",
+			"option": {
+				"a": "Righteous living",
+				"b": "Spreading the message of Christ's coming far and wide",
+				"c": "Being prayerful and watchful",
+				"d": "Relentlessly fasting and praying"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 738,
+			"question": "The significance of the last supper is evident in all but one of the following------",
+			"option": {
+				"a": "The Revelation of Judas Betrayal",
+				"b": "Prediction of the suffering and death of Jesus",
+				"c": "Re-establishment of the Lord's covenant with his Children",
+				"d": "The prophecy of Peter's denial of Jesus"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 739,
+			"question": "St. Paul showed commitment as a means upon which forgiveness can effectively thrive by_______",
+			"option": {
+				"a": "Appealing to Philemon to forgive Onesimus and accept him back as brother",
+				"b": "Asking that Philemon to Charge to his account whatever Onesimus owed",
+				"c": "Converting Onesimus",
+				"d": "Instructing Philemon to write off all the debts of Onesimus, if any compassionately"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 740,
+			"question": "The triumphal entry was in fulfilment of the prophecy of_______",
+			"option": {
+				"a": "Isaiah",
+				"b": "Amos",
+				"c": "Zechariah",
+				"d": "Elijah"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 741,
+			"question": "\"I gave you cleanness of teeth in all your cities\". By this statement, God gave them ______",
+			"option": {
+				"a": "New set of teeth",
+				"b": "No food to eat",
+				"c": "No water to drink",
+				"d": "No teeth at all"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 742,
+			"question": "God instructed Saul to utterly destroy Amalek because_____",
+			"option": {
+				"a": "Its people encouraged Israel to disobey God",
+				"b": "He abhors Idolatory and all forms of unrighteousness",
+				"c": "Samuel had prayed for its destruction",
+				"d": "Its people opposed the Israelites on the way, after departing Egypt"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 743,
+			"question": "St. Paul had already boasted to the ______and for this reason he sent a reminder letter to the ______ on Christian giving",
+			"option": {
+				"a": "Macedonians, Corinthians",
+				"b": "Thessalonians, Church in Achaia",
+				"c": "Romans, Church in Antioch",
+				"d": "Philippians, Corinthians"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 744,
+			"question": "\"It shall be neither mine nor yours; divide it\" what was to be divided?",
+			"option": {
+				"a": "Elijah's mantle",
+				"b": "Jesus Garment",
+				"c": "Live Baby",
+				"d": "Solomon's Kingdom"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 745,
+			"question": "St. Paul's teaching on forgiveness primarily shows that________",
+			"option": {
+				"a": "Subordinates must regard their superiors and vice-versa for forgiveness to thrive",
+				"b": "Genuine forgiveness only comes from God",
+				"c": "Christians must not institute a 'Master-Servant' relationship contract",
+				"d": "Philemon had unilaterally decided not to accept Onesimus back"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 746,
+			"question": "The model example in St. Paul teaching on humility is _______",
+			"option": {
+				"a": "Abraham",
+				"b": "Prophet Elijah",
+				"c": "None of the Above",
+				"d": "Noah"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 747,
+			"question": "The core of Saul's disobedience was that___________",
+			"option": {
+				"a": "He didn't perform the task of smiting the Amalekites to the letter",
+				"b": "He preserved the booty for himself",
+				"c": "He freed the Kenites",
+				"d": "He refused to carry out God's assignment on eliminating the Amalekites"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 748,
+			"question": "The Lord protected the Israelites with all but one of the following when the Egyptians chased them",
+			"option": {
+				"a": "Pillar of cloud",
+				"b": "Pillar of darkness",
+				"c": "Angels",
+				"d": "Pillar of storm"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 749,
+			"question": "One derivative lesson from the story of Gehazi'z greed is that_______",
+			"option": {
+				"a": "We can by ourselves, through materialism, cause the destruction of generations yet unborn",
+				"b": "Dishonesty should not have been a ground for cursing Gehazi with leprosy",
+				"c": "As servants of God we must endeavour not to readily demand gifts from those we help",
+				"d": "We should be wary of accepting gifts from the unrighteous"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 750,
+			"question": "Paul advised the young in his teaching on interpersonal relationship among Christains to ________",
+			"option": {
+				"a": "See themselves as strong and able-bodied servants of God",
+				"b": "Subject themselves to the elders",
+				"c": "Maintain good conduct among Non-Christians",
+				"d": "Oppose unjust suffering"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 751,
+			"question": "According to St James, 'He who keeps the whole law and fails in one is guilty of....'",
+			"option": {
+				"a": "Breaking the new commandment of Christ",
+				"b": "Breaking that particular love and should pray for grace",
+				"c": "Breaking the whole law",
+				"d": "Breaking the ten commandments"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 752,
+			"question": "On the ________day, the child was _______and named Jesus",
+			"option": {
+				"a": "Eight, anointed",
+				"b": "Ninth, Circumcised",
+				"c": "Ninth, Anointed",
+				"d": "Eight, Circumcised"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 753,
+			"question": "One of the most significant lessons from the healing of the Centurion's Servant is that ____________",
+			"option": {
+				"a": "Jesus has the power to forgive sins",
+				"b": "The Level of faith of the servant made Jesus heal him",
+				"c": "The Salvation of God is universal",
+				"d": "Even the sons of the Kingdom are not worthy of God's Kingdom"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 754,
+			"question": "Josiah sent _____the priest to inquire of the Lord from Huldah",
+			"option": {
+				"a": "Shallim",
+				"b": "Huldah",
+				"c": "Hilkiah",
+				"d": "Shapham"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 755,
+			"question": "St James teaching on impartiality centers on_________",
+			"option": {
+				"a": "A Giving the place of the rich to the poor and in the church",
+				"b": "Loving our neighbours as ourselves in all situation",
+				"c": "The rich spending their wealth on the poor for social equity",
+				"d": "Christians not being partial to idle people"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 756,
+			"question": "The name \"Jezreel\" is a representation of ______",
+			"option": {
+				"a": "Hosea's discontent with his wife",
+				"b": "Victory upon the enemies of Israel",
+				"c": "The Punishment to come unto the royal house",
+				"d": "The broken covenant between God and Israel"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 757,
+			"question": "Moses named the place where the Israelites drank water from the rock \"Mesah and Meribah' particularly because---------",
+			"option": {
+				"a": "They wanted to put the lord to test",
+				"b": "They made him strike the rock angrily",
+				"c": "The people had enough water to drink",
+				"d": "Of their fault finding attitude"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 758,
+			"question": "Abraham's faith was reckoned to him as righteousness'. This underscores St Paul's admonition that ______",
+			"option": {
+				"a": "Redemption in Christ is possible through observance of the law",
+				"b": "Faith without work is fruitless",
+				"c": "Justification is by faith and nor the law",
+				"d": "Obedience of the law is unnecessary as compared to God's grace"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 759,
+			"question": "St Paul's epistle to the Philippians on \"Christian Giving' indicated his reception of gifts from them through________",
+			"option": {
+				"a": "The Church In Corinth",
+				"b": "St Peter",
+				"c": "The Church in Achaia",
+				"d": "Epaphroditus"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 760,
+			"question": "The intent of the their temptation of Christ was to_____________",
+			"option": {
+				"a": "Make him focus on wordly possessions",
+				"b": "Make him a political Messiah",
+				"c": "Make him seem like a Magician",
+				"d": "Make him see the riches of the world from a high mountain"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 761,
+			"question": "According to St Paul, God sent the spirit of his son into men's heart-----",
+			"option": {
+				"a": "So that become and act like a God",
+				"b": "For Purification",
+				"c": "For the Redemption of their Sins",
+				"d": "Crying,"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 762,
+			"question": "\"For the men in the ship knew that he was fleeing from the presence of the Lord\". The person referred to in this statement is________",
+			"option": {
+				"a": "Jonah",
+				"b": "Hosea",
+				"c": "Amos",
+				"d": "Elijah"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 763,
+			"question": "St Paul's teaching on spiritual gifts was directed to _______",
+			"option": {
+				"a": "Corinthians",
+				"b": "Thessalonians",
+				"c": "Galatians",
+				"d": "Macedonians"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 764,
+			"question": "Cleopas' heart burnt within him on the road to Emmaus when Jesus ________",
+			"option": {
+				"a": "Appeared to them",
+				"b": "Broke bread with them",
+				"c": "Taught them the scriptures",
+				"d": "Walked with them"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 765,
+			"question": "For how long did the Lord supply the children of Israel with manna in the wilderness?",
+			"option": {
+				"a": "Forty Years",
+				"b": "Thirty-eight years",
+				"c": "Eleven months",
+				"d": "Twenty two years"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 766,
+			"question": "Only ...stated that the transfiguration took place eight days after Peter's confession of Jesus as the son of God.",
+			"option": {
+				"a": "John",
+				"b": "Matthew",
+				"c": "Mark",
+				"d": "Luke"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 767,
+			"question": "The Egyptians encamped at ____ when they pursued the Israelites",
+			"option": {
+				"a": "Raphidim",
+				"b": "The sea",
+				"c": "Pi-ha-hi-roth",
+				"d": "The wilderness of Sin"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 768,
+			"question": "\"I am the resurrection and the life, he who believes in me, though he dies, yet shall he live\". Jesus directed this statement to",
+			"option": {
+				"a": "Peter",
+				"b": "Martha",
+				"c": "Mary",
+				"d": "Lazarus"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 769,
+			"question": "\"Do not be afraid; for I know what you seek, Jesus who was crucified...\" This statement was made__________",
+			"option": {
+				"a": "by Joseph of Arimathea",
+				"b": "to Mary Magdalene and Mary the mother of James",
+				"c": "to Mary Salome, Mary Magdalene and Mary the mother of James",
+				"d": "by Peter, James and John"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 770,
+			"question": "\"What you sow does not come to life unless it dies\". This was______",
+			"option": {
+				"a": "the message of St. Paul's teaching on the second coming of Christ",
+				"b": "made by St. Paul to Elymas, the magician",
+				"c": "the statement of Jesus to Martha",
+				"d": "the response St. Paul instructed Christians to give to those who doubt the resurrection of Christ"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 771,
+			"question": "In the Gospel according to St. Matthew, Jesus sent His disciples to_______",
+			"option": {
+				"a": "the Gentiles",
+				"b": "the Samaritans",
+				"c": "the Jews",
+				"d": "the Greeks"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 772,
+			"question": "\"Who do men say that the Son of man is?\" Jesus asked this question",
+			"option": {
+				"a": "to show that popular opinion matters the most in His recognition as Messiah",
+				"b": "to indicate that the Jews and Pharisees need to reckon with His Messiahship",
+				"c": "at the scene of His Transfiguration",
+				"d": "in the context of the Great Confession"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 773,
+			"question": "God charged man to 'be fruitful, and multiply, and .... the earth, and subdue it'. (1st creation story)",
+			"option": {
+				"a": "Renew",
+				"b": "Stock",
+				"c": "Replenish",
+				"d": "Fill"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 774,
+			"question": "Since fervent prayers of the righteous has great power in its effects, Christians according to St. James must________",
+			"option": {
+				"a": "confess and forsake their sins",
+				"b": "not ask wrongly",
+				"c": "be steadfast in prayer",
+				"d": "have faith while praying"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 775,
+			"question": "... updated Nehemiah about the state of Jerusalem while he was ...",
+			"option": {
+				"a": "Ezra, a captive in Babylon",
+				"b": "Ezekiah, an Emperor in Babylon",
+				"c": "Hanai, a captive in Babylon",
+				"d": "Zerubbabel, an Emperor in Babylon"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 776,
+			"question": "When Jesus healed the paralytic, the anger of the scribes was aroused by His_______",
+			"option": {
+				"a": "refusal to show them signs of His divinity",
+				"b": "nature of command to the paralytic",
+				"c": "claim to forgive sins",
+				"d": "healing of the man on a Sabbath"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 777,
+			"question": "\"For I desire steadfast love and not sacrifice...\" this statement relates to the_______",
+			"option": {
+				"a": "response of God's love to the children of Israel",
+				"b": "response of Israel to the genuineness of God's love",
+				"c": "message of God's love to man",
+				"d": "message of Hosea on faithfulness and social progress"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 778,
+			"question": "The most significant lesson at the scene of the Israelites' blame of Moses in their struggle and escape from Egypt is that___________",
+			"option": {
+				"a": "God hardened the heart of Pharaoh to pursue the Israelites",
+				"b": "they would have perfered to stay back and die in Egypt",
+				"c": "Moses' courage and confidence in God saved the entire situation",
+				"d": "Moses' height of anger and intolerance was revealed"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 779,
+			"question": "When Ezekiel was called, he was shown a scroll on which were written words of______",
+			"option": {
+				"a": "wisdom, understanding and right judgement",
+				"b": "bitterness, right judgement and mourning",
+				"c": "lamentations, mourning and woe",
+				"d": "lamentations, bitterness and woe"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 780,
+			"question": "The illustration of Satan, the adversary who prowls around seeking whom to devour, is particular to__________-",
+			"option": {
+				"a": "St. Peter's teaching on humility",
+				"b": "St. Paul's teaching on the second coming of Christ",
+				"c": "St. Peter's teaching on civic responsibility",
+				"d": "St. Paul's teaching on humility"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 781,
+			"question": "Herod Agrippa persecuted Peter primarily to______",
+			"option": {
+				"a": "contain the news about Jesus' resurrection",
+				"b": "signal to the Apostles that he wouldn't tolerate them",
+				"c": "obstruct the spread of the gospel",
+				"d": "please the Jews"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 782,
+			"question": "\"Hosanna to the son of David! Blessed is he who comes in the name of the Lord, Hosanna in the highest!\" This was... account of the Triumphal Entry",
+			"option": {
+				"a": "Luke's",
+				"b": "Mark's",
+				"c": "Matthew's",
+				"d": "John's"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 783,
+			"question": "The essence of St. Paul's teaching on Law and Grace is that___________",
+			"option": {
+				"a": "observance of the law is necessary for redemption in Christ",
+				"b": "what God truly rewards is the prayer for grace by Christians",
+				"c": "observance of the law only isn't a guarantee of salvation",
+				"d": "God's grace in Christians' lives shouldn't be a reason for continuing in sin"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 784,
+			"question": "One of the following is not a quality of good discipleship_________",
+			"option": {
+				"a": "self-denial",
+				"b": "total commitment",
+				"c": "exuberance",
+				"d": "prompt response"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 785,
+			"question": "At about the ... hour, Jesus cried with a loud voice \"Eli Eli lama sabach - thani\".",
+			"option": {
+				"a": "Ninth",
+				"b": "Eleventh",
+				"c": "Seventh",
+				"d": "Sixth"
+			},
+			"section": "",
+			"image": "",
+			"answer": " a",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 786,
+			"question": "The Last Supper refers the last meal Jesus had with His disciples immediately before His_____",
+			"option": {
+				"a": "arrest and crucification",
+				"b": "crucification and death",
+				"c": "arrest and death",
+				"d": "betrayal and arrest"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 787,
+			"question": "Paul taught that spiritual gifts in all their varieties emanate from____________",
+			"option": {
+				"a": "man's cordial relationship with God",
+				"b": "the one body of Christ",
+				"c": "the one spirit of God",
+				"d": "men's ability to interpret"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 788,
+			"question": "To St. James, a doer of the word of God must learn to also__________",
+			"option": {
+				"a": "persevere in times of tribulation",
+				"b": "combine his faith with work",
+				"c": "be a listener of the word of God",
+				"d": "control his tongue"
+			},
+			"section": "",
+			"image": "",
+			"answer": " d",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 789,
+			"question": "St. Paul on 'Civic Responsibility' advised Christians not only to be law-abiding but also_________",
+			"option": {
+				"a": "to provide moral advice to those in authority",
+				"b": "do what is expected of them",
+				"c": "shun membership of unlawful societies",
+				"d": "resist any illegitimate government"
+			},
+			"section": "",
+			"image": "",
+			"answer": " b",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		},
+		{
+			"id": 790,
+			"question": "Which of the following was Pilate's question to Jesus at his trial?",
+			"option": {
+				"a": "Are you Jesus, the prophet from Galilee?",
+				"b": "What evil have you done?",
+				"c": "Are you the king of the Jews?",
+				"d": "What is it that these men testify against you?"
+			},
+			"section": "",
+			"image": "",
+			"answer": " c",
+			"solution": "",
+			"examtype": "utme",
+			"examyear": "2019"
+		}
+	]
+}

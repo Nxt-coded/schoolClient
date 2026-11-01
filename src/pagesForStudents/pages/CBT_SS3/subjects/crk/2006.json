@@ -1,0 +1,375 @@
+{
+	"subject": "crk",
+	"status": 200,
+	"total": 23,
+	"data": [
+		{
+			"id": 1,
+			"question": "In Jesus’ teaching on the mount, the only justifiable reason for divorce is ",
+			"option": {
+				"a": "indolence ",
+				"b": "insubordination ",
+				"c": " infidelity ",
+				"d": "infertility"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 2,
+			"question": "According to John’s Gospel, Lazarus was from: ",
+			"option": {
+				"a": "Jerusalem  ",
+				"b": "Teberias ",
+				"c": "Bethany ",
+				"d": "Galilee"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 3,
+			"question": "Jesus’ new commandment according to the Gospel of Jesus of John is ",
+			"option": {
+				"a": "salvation ",
+				"b": "love ",
+				"c": "peace ",
+				"d": "spirit"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 4,
+			"question": "The thief as described by Jesus comes to ",
+			"option": {
+				"a": "destroy, kill and steal ",
+				"b": "destroy, steal and kill ",
+				"c": "kill, destroy and kill ",
+				"d": "steal, kill and destroy "
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 5,
+			"question": "The agony of Jesus in the Garden of Gethsemane is a ",
+			"option": {
+				"a": "sign of abandonment ",
+				"b": "manifestation of human weakness ",
+				"c": "punishment ",
+				"d": "preparation for his death"
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 6,
+			"question": "Eutychus fell from the third storey to the ground when Paul  prolonged his sermon at ",
+			"option": {
+				"a": "Troas ",
+				"b": "Ephesus ",
+				"c": "Miletus ",
+				"d": "Corinth."
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 7,
+			"question": "Charismatic leaders in the Book of Judges arose in Israel to ",
+			"option": {
+				"a": "revive faith in Yahweh ",
+				"b": "rally the tribe together ",
+				"c": "lead the Israel to battles ",
+				"d": "settle dispute"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 8,
+			"question": "What did God create on the fifth day? ",
+			"option": {
+				"a": "the firmament  ",
+				"b": "the two great light ",
+				"c": "water under the heaven ",
+				"d": "living Creature"
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 9,
+			"question": "Joshua and Caleb were from the tribe of ",
+			"option": {
+				"a": "Judah and Rueben ",
+				"b": "Reuben and Dan ",
+				"c": "Ephraim and Reuben ",
+				"d": "Judah and Ephraim"
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 10,
+			"question": "Manahem, the son of Gadi reigned over Israel for ",
+			"option": {
+				"a": "eight years ",
+				"b": "twenty years ",
+				"c": "six month ",
+				"d": "ten years."
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 11,
+			"question": "The death of Adonibezek in Bezek was a typical proof of ",
+			"option": {
+				"a": "cowardice ",
+				"b": "nemesis ",
+				"c": "insanity ",
+				"d": "absurdity"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 12,
+			"question": "In order that Benjamin might be brought to Egypt, Joseph  ",
+			"option": {
+				"a": "Reuben ",
+				"b": "Judah ",
+				"c": "Simon ",
+				"d": "Zebulon"
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 13,
+			"question": "When Paul came to Rome, the first set of people to whom he preached were the ",
+			"option": {
+				"a": "Romans ",
+				"b": "Jews ",
+				"c": "Greeks ",
+				"d": "Samaritans."
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 14,
+			"question": "The three sons of Noah Sdhem, Ham and ",
+			"option": {
+				"a": "Lot ",
+				"b": "Hirah ",
+				"c": "Cain ",
+				"d": "Japeth."
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 15,
+			"question": "The renowned interpreters of the Mosaic Law in the time of Jesus were the ",
+			"option": {
+				"a": "Sadducees ",
+				"b": "Scribes ",
+				"c": "Herodians ",
+				"d": "Pharisees"
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 16,
+			"question": "The mother of Esau is ",
+			"option": {
+				"a": "Ruth ",
+				"b": "Ester ",
+				"c": "Rebecca ",
+				"d": "Jezebel  "
+			},
+			"section": "",
+			"image": "",
+			"answer": "c",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 17,
+			"question": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29) Who was the speaker? ",
+			"option": {
+				"a": "Joseph ",
+				"b": "Jacob ",
+				"c": "Job ",
+				"d": "James"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 18,
+			"question": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29)  When did he say this? ",
+			"option": {
+				"a": "When he was about to die ",
+				"b": "When he was seriously sick ",
+				"c": "When he offended God ",
+				"d": "When his brother cheated him"
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 19,
+			"question": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29) What was his wish? ",
+			"option": {
+				"a": "he wanted to buried at Canaan in the cave at Ephron ",
+				"b": "he wanted to be buried at Jericho ",
+				"c": "he wanted to commune with his ancestors ",
+				"d": "he wanted to be closed to his fathers."
+			},
+			"section": "",
+			"image": "",
+			"answer": "a",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 20,
+			"question": "Who was authorized by God to go and liberate the Israelites the Egyptian bondage? ",
+			"option": {
+				"a": "Joshua ",
+				"b": "Daniel ",
+				"c": "Solomon ",
+				"d": "Moses."
+			},
+			"section": "",
+			"image": "",
+			"answer": "d",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 21,
+			"question": "The names of the two kings of Jericho destroyed by the Israelites during the conquest were ",
+			"option": {
+				"a": "Adonija and Haggith ",
+				"b": "Shion and Og ",
+				"c": "Zadok and Benaiah ",
+				"d": "Hiram and Jeroboam."
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 22,
+			"question": "Who is an atheist? ",
+			"option": {
+				"a": "someone who does believe in God ",
+				"b": "someone who rejects completely the idea of a divine being ",
+				"c": "someone who believes that it is impossible to know if there is God or not ",
+				"d": "someone who abuses religious people."
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		},
+		{
+			"id": 23,
+			"question": "What is meant by the Christian doctrine that God is Trinity? ",
+			"option": {
+				"a": "the idea started in Trinidad and Tobago ",
+				"b": "God is three persons in one ",
+				"c": "God is omnipotent ",
+				"d": "God is the Holy Spirit"
+			},
+			"section": "",
+			"image": "",
+			"answer": "b",
+			"solution": "",
+			"examtype": "post-utme",
+			"examyear": "2006"
+		}
+	]
+}

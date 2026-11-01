@@ -1,0 +1,775 @@
+{
+  "subject": "commerce",
+  "status": 200,
+  "total": 48,
+  "data": [
+    {
+      "id": 149,
+      "question": "Consumers require protection against exploitation to ensure ",
+      "option": {
+        "a": "adequate consumer awareness",
+        "b": "availability of product variety",
+        "c": "the sale of quality products",
+        "d": "increased aggregate demand."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 150,
+      "question": "The business environment that takes into cognizance the age distribution, ethnic mix and educational level of the consumer is",
+      "option": {
+        "a": "demographic environment",
+        "b": "economic environment",
+        "c": "cultural environment",
+        "d": "natural environment."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 151,
+      "question": "An agent who takes title to goods and has authority  to buy and sell on behalf of another is",
+      "option": {
+        "a": "a jobber   ",
+        "b": "a broker  ",
+        "c": "a factor",
+        "d": "an auctioneer."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 152,
+      "question": "Citizens are against privatisation mainly because of ",
+      "option": {
+        "a": "the rationalization of organizations",
+        "b": "increased prices of goods and services",
+        "c": "the likelihood of monopoly",
+        "d": "ineffective management."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 153,
+      "question": "The major achievement of ECOWAS is",
+      "option": {
+        "a": "the expansion of regional trade",
+        "b": "the emergence of a monetary union",
+        "c": "infrastructure! development in member countries",
+        "d": "mobility of labour among member countries."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 154,
+      "question": "An announcement of a person's willingness to enter into a contract is referred to as ",
+      "option": {
+        "a": "a proxy",
+        "b": "an offer ",
+        "c": "a consideration ",
+        "d": "an acceptance."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 155,
+      "question": "The macro-environmental forces and trends which are a constraint on business operations are  referred to as  ",
+      "option": {
+        "a": "technological factors",
+        "b": "economic factors   ",
+        "c": "external factors ",
+        "d": "internal factors."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 156,
+      "question": "Which of the following best describes inputs for any production activity?   ",
+      "option": {
+        "a": "Natural resources.",
+        "b": " Business resources.",
+        "c": "Human resources.",
+        "d": "Material resources."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 157,
+      "question": "Personal selling is most effective in marketing industrial goods because it involves",
+      "option": {
+        "a": "recognition and attachment to customers",
+        "b": "personal interaction and information gathering",
+        "c": "demonstrations and product acceptability",
+        "d": "after-sales services and product demonstrations."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 158,
+      "question": "The controllable variables that a firm uses to achieve its marketing objectives are called",
+      "option": {
+        "a": "marketing principles ",
+        "b": "marketing mix",
+        "c": "marketing concepts",
+        "d": "marketing functions."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 159,
+      "question": "Public relations and advertising are similar in terms of",
+      "option": {
+        "a": "communicating product information",
+        "b": "customer education ",
+        "c": "the mode of operation",
+        "d": "creating a favourable attitude."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 160,
+      "question": "A major function of an entrepreneur is",
+      "option": {
+        "a": "decision-making ",
+        "b": "encouraging competition",
+        "c": "human-resource training",
+        "d": "motivating employees."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 161,
+      "question": "A Memorandum of Association is applicable to a",
+      "option": {
+        "a": " sole trader ",
+        "b": "joint-stock company",
+        "c": " partnership   ",
+        "d": " public corporation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 162,
+      "question": "The sustainable growth of commerce is largely due to ",
+      "option": {
+        "a": "marketing   ",
+        "b": "advertising",
+        "c": "exchange ",
+        "d": "branding."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 163,
+      "question": "A major advantage of a cooperative society is that it ",
+      "option": {
+        "a": "gives members the opportunity to unite",
+        "b": "draws members closer to government",
+        "c": "promotes awareness among members",
+        "d": "encourages thrift among members."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 164,
+      "question": "The making of doors from timber planks is a type of ",
+      "option": {
+        "a": "manufacturing ",
+        "b": "tertiary production",
+        "c": "secondary production   ",
+        "d": "primary production."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 165,
+      "question": "Law-making is an example of ",
+      "option": {
+        "a": "indirect service",
+        "b": "commercial occupation ",
+        "c": "direct service",
+        "d": "industrial occupation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 166,
+      "question": "A document which advertises the shares of a company is known as a  ",
+      "option": {
+        "a": "memorandum of satisfaction   ",
+        "b": "dividend warrant     ",
+        "c": "deed",
+        "d": "prospectus."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 167,
+      "question": "The scope of economic activities can be enlarged by    ",
+      "option": {
+        "a": "transportation and trading   ",
+        "b": "business and its promotion  ",
+        "c": "trading and aids to trade",
+        "d": "insurance and banking."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 168,
+      "question": "The creation of utilities to satisfy human wants is referred to as   ",
+      "option": {
+        "a": "production  ",
+        "b": "consumption",
+        "c": "industrialization    ",
+        "d": "occupation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 169,
+      "question": "A major criticism of a cooperative society is",
+      "option": {
+        "a": "limited capital ",
+        "b": "granting excessive loans to members   ",
+        "c": "selling goods on credit to non- members    ",
+        "d": "management incompetence."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 170,
+      "question": "An economic activity which deals with natural resources is a form of  ",
+      "option": {
+        "a": "extraction",
+        "b": "refining   ",
+        "c": "construction ",
+        "d": "manufacturing."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 171,
+      "question": "The first stage in tourism planning is",
+      "option": {
+        "a": "assessing feedback from tourists",
+        "b": "preparing a list of tourist attractions",
+        "c": "creating recreational opportunities",
+        "d": "building community support."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 172,
+      "question": "An agreement by the insurer to compensate the insured for losses suffered is   ",
+      "option": {
+        "a": "policy",
+        "b": "surrender value   ",
+        "c": "caveat emptor ",
+        "d": "indemnity."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 173,
+      "question": "One of the functions of the Nigeria Ports Authority is the provision of  ",
+      "option": {
+        "a": "facilities to enhance the speedy loading and offloading of ",
+        "b": "facilities to ensure that goods get to their destinations  ",
+        "c": "shelter for operators of cargoes",
+        "d": " courier services to ensure speedy delivery."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 174,
+      "question": "The   World   Tourism   Organization   has   its headquarters in ",
+      "option": {
+        "a": "New York    ",
+        "b": "Paris",
+        "c": "Madrid     ",
+        "d": "London."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 175,
+      "question": "Digital computer is divided into ",
+      "option": {
+        "a": "analogue, hybrid and mini ",
+        "b": "super, mainframe, mini and micro    ",
+        "c": "mainframe, hybrid and micro",
+        "d": "super, mainframe, micro and analogue."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 176,
+      "question": "A distinctive advantage of GSM is its ",
+      "option": {
+        "a": "mobility",
+        "b": " cost   ",
+        "c": "stability   ",
+        "d": "coverage."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 177,
+      "question": "In the permanent storage device, DASD means",
+      "option": {
+        "a": "Data Access Storage Device",
+        "b": "Data Access Systems Device",
+        "c": "Direct Access Systems Device",
+        "d": "Direct Access Storage Device."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 178,
+      "question": "The major determinant of fire insurance premium is the ",
+      "option": {
+        "a": "type and structure of the property to be insured ",
+        "b": "usefulness of the property to the owner",
+        "c": "owner of the property to be insured",
+        "d": "extent of fire damage anticipated."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 179,
+      "question": "The Internet is a system of telecommunications used for   ",
+      "option": {
+        "a": "communicating long-distance messages ",
+        "b": "sending and receiving text messages",
+        "c": "sending electronic messages .",
+        "d": "communicating messages through telegrams."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 180,
+      "question": "A written  agreement for  hiring  a  ship for transporting goods is a ",
+      "option": {
+        "a": "consular invoice",
+        "b": "bill of lading ",
+        "c": "charter party ",
+        "d": "certificate of origin."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 181,
+      "question": "The major function of a trade association is that it",
+      "option": {
+        "a": "liaises with foreign trade associations",
+        "b": "helps to promote foreign trade",
+        "c": "facilitates members' access to credit facilities",
+        "d": "helps to promote research on behalf of members."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 182,
+      "question": "A major setback of international trade is",
+      "option": {
+        "a": "inadequate exports",
+        "b": "economic sanctions",
+        "c": "devaluation of currency",
+        "d": "exchange rate appreciation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 183,
+      "question": "Which of the following requires payment into the payee's account?   ",
+      "option": {
+        "a": "Crossed cheque.",
+        "b": "Traveller’s cheque.    ",
+        "c": " Open cheque.",
+        "d": "Certified cheque."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 184,
+      "question": "The traditional way of paying cooperative dividend is to distribute profit in proportion to members'",
+      "option": {
+        "a": "subscriptions  ",
+        "b": "total savings",
+        "c": "volume of purchases   ",
+        "d": "contributions."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 185,
+      "question": "The abbreviation C & F indicates that the",
+      "option": {
+        "a": "production cost excludes the cost of carriage",
+        "b": "selling price includes the cost of carriage",
+        "c": "cost of production includes delivery charges",
+        "d": "cost price includes the cost of carriage."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 186,
+      "question": "The sale of foreign investment and gold reserves can be used to ",
+      "option": {
+        "a": "correct adverse balance of trade",
+        "b": "increase invisible imports",
+        "c": "correct adverse balance of payments",
+        "d": "correct a budget deficit."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 187,
+      "question": "A share premium is an example of",
+      "option": {
+        "a": "issued capital ",
+        "b": "capital stock ",
+        "c": "equity capital",
+        "d": "capital reserve."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 188,
+      "question": "A major benefit a debtor can derive from using a credit facility is ",
+      "option": {
+        "a": "better service  ",
+        "b": "goodwill",
+        "c": "convenience    ",
+        "d": "control."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 189,
+      "question": "The function  of money that facilitates the comparison of the quality of goods as a basis of exchange is the   ",
+      "option": {
+        "a": "unit of account",
+        "b": "measure of value ",
+        "c": "store of value",
+        "d": "medium of exchange"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 190,
+      "question": "The difference between the buying and selling price of shares is known as   ",
+      "option": {
+        "a": "brokerage",
+        "b": "margin   ",
+        "c": "jobber's turn   ",
+        "d": "gross profit."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 191,
+      "question": "Which of the following is a risk-free security?",
+      "option": {
+        "a": "Preference share.   ",
+        "b": "Ordinary share.",
+        "c": "Treasury bill.    ",
+        "d": "Debenture."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 192,
+      "question": "The central bank controls the quantity of money in circulation through  ",
+      "option": {
+        "a": "open-market operations",
+        "b": "decreasing the tax rate ",
+        "c": "issuing new currencies    ",
+        "d": "increasing the tax rate."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 193,
+      "question": "The selling of new shares to existing shareholders is referred to as ",
+      "option": {
+        "a": "public issue ",
+        "b": "offer for sale",
+        "c": "rights issue  ",
+        "d": "bonus issue."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 194,
+      "question": "A new company requiring a large amount of equity finance may source funds from the",
+      "option": {
+        "a": "capital market   ",
+        "b": "central bank",
+        "c": "money market    ",
+        "d": "commercial banks."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 195,
+      "question": "A credit instrument which also serves as a legal tender is   ",
+      "option": {
+        "a": "cheque    ",
+        "b": "paper money",
+        "c": "voucher   ",
+        "d": "money order."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 196,
+      "question": "The body regulating the sale and purchase of shares in Nigeria is the ",
+      "option": {
+        "a": " Corporate   Affairs Commission   ",
+        "b": "Securities   and   Exchange Commission    ",
+        "c": "Securities   and   Exchange Tribunal     ",
+        "d": "Nigerian Stock Exchange."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2007"
+    }
+  ]
+}

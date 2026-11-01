@@ -1,0 +1,1 @@
+const r=[{pattern:/\/create-bulk-classroom\//,key:"api/view-classrooms/"},{pattern:/\/create-bulk-student\//,key:"api/read-student/"},{pattern:/\/create-bulk-subject\//,key:"api/view-school-subject/"}];function a(t){try{for(const e of r)if(e.pattern.test(t))return e.key}catch{}return null}export{a as getSWRKeyForUrl};

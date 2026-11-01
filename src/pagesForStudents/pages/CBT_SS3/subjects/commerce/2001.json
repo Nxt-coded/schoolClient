@@ -1,0 +1,755 @@
+{
+  "subject": "commerce",
+  "status": 200,
+  "total": 48,
+  "data": [
+    {
+      "id": 742,
+      "question": "The pivot on which the wheel of commerce rotates is",
+      "option": { "a": "tariff", "b": "trade", "c": "taxation", "d": "price." },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 743,
+      "question": "A distinguishing characteristic of labour is that it is",
+      "option": {
+        "a": "constant",
+        "b": "expensive",
+        "c": "mobile",
+        "d": "cheap"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 744,
+      "question": "Land as a factor of production does not vary in",
+      "option": {
+        "a": "quantity",
+        "b": "nature",
+        "c": "quality \t\t\t\t.",
+        "d": "cost."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 745,
+      "question": "Which of the following services does a lawyer render?",
+      "option": {
+        "a": "industrial services",
+        "b": "indirect services",
+        "c": "direct services",
+        "d": "commercial services."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 746,
+      "question": "The partner that only contributes part of the capital used in the formation and running of a business is known as",
+      "option": {
+        "a": "a passive partner",
+        "b": "an active partner",
+        "c": "a dormant partner",
+        "d": "a nominal partner."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 747,
+      "question": "One major advantage of a credit and thrift cooperative is that",
+      "option": {
+        "a": "it can approach government for a loan",
+        "b": "it encourages saving habits",
+        "c": "there are no legal restrictions",
+        "d": "each member has a vote during meetings."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 748,
+      "question": "A form of ownership which exploits the strength of one partner to remedy the weaknesses of the other is a",
+      "option": {
+        "a": "joint partnership",
+        "b": "cooperative",
+        "c": "corporation",
+        "d": "joint venture."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 749,
+      "question": "At the collapse of a business enterprise, the person appointed to dispose of the assets is called",
+      "option": {
+        "a": "a broker",
+        "b": "an auctioneer",
+        "c": "a liquidator",
+        "d": "an auditor."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 750,
+      "question": "Entrusting the management of a company to the courts to enable the settlement of the company’s obligations is an indication of",
+      "option": {
+        "a": "distress",
+        "b": "closure",
+        "c": "bankruptcy",
+        "d": "liquidation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 751,
+      "question": "The financial instrument for borrowing in which the collateral is usually more than the amount borrowed is",
+      "option": {
+        "a": "trust certificate",
+        "b": "detachable warrant",
+        "c": "mortgage bond",
+        "d": "convertible securities."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 752,
+      "question": "I.   Personal Savings, II.   Retained Earnings, III. Accrued Taxes. Which of the items above constitute internal sources of financing for companies?",
+      "option": {
+        "a": "I and II",
+        "b": "I and III",
+        "c": "II and III",
+        "d": "I, II and III."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 753,
+      "question": "The difference between total current assets and total current liabilities of a business is known as",
+      "option": {
+        "a": "quick ratio",
+        "b": "liquidity ratio",
+        "c": "working capital",
+        "d": "circulating capital."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 754,
+      "question": "One of the reasons why wholesaling must continue is that",
+      "option": {
+        "a": "the tax paid by wholesalers on their profit enhances national revenue",
+        "b": "by creating artificial scarcity, the wholesaler is enhancing competition in the economy",
+        "c": "the wholesaler provides technical advice to the retailer",
+        "d": "the gap between manufacturers and retailers is reduced by wholesalers."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 755,
+      "question": "A merchant wholesaler is referred to as",
+      "option": {
+        "a": "del-credere agent",
+        "b": "a broker",
+        "c": "rack jobber",
+        "d": "a factor."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 756,
+      "question": "A pro-forma invoice is sent to inform a buyer about the",
+      "option": {
+        "a": "quantity of goods",
+        "b": "prices of goods",
+        "c": "designation of goods",
+        "d": "quality of goods."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 757,
+      "question": "The balance of payments of countries is",
+      "option": {
+        "a": "a record of imports and exports",
+        "b": "a systematic record of transactions among countries at a given time",
+        "c": "the current and the capital accounts and their payments",
+        "d": "the trade relationships and payments among nations."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 758,
+      "question": "The major procedures in the purchase and sale of goods are enquiry",
+      "option": {
+        "a": "quotation, order and invoice",
+        "b": "placement, order and invoice",
+        "c": "bargain, order and invoice",
+        "d": "order, sale and invoice."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 759,
+      "question": "The trade discount receivable by Mr. Bacus is",
+      "option": {
+        "a": "N= 4,500",
+        "b": "N= 7,500",
+        "c": "N= 10,500",
+        "d": "N= 12,000."
+      },
+      "section": "Mr. Awala is a retailer of a single product. He sells at the standard price. He gives a trade discount of 5%,quantity discount of 3% for a volume above 1000 units and a cash discount of 2/10 net 30  the existing selling price of the product is N= 100 per unit. Mr. Bacus purchased 1500 units of the product on credit and promised to pay Mr. Awala in cash in the first 10 days after purchase.",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 760,
+      "question": "If  Mr. Bacus fulfils his promise, he will be entitled to a cash discount of",
+      "option": {
+        "a": "N= 2,760",
+        "b": "N= 3,000",
+        "c": "N= 6,500",
+        "d": "N= 9,500."
+      },
+      "section": "Mr. Awala is a retailer of a single product. He sells at the standard price. He gives a trade discount of 5%,quantity discount of 3% for a volume above 1000 units and a cash discount of 2/10 net 30  the existing selling price of the product is N= 100 per unit. Mr. Bacus purchased 1500 units of the product on credit and promised to pay Mr. Awala in cash in the first 10 days after purchase.",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 761,
+      "question": "Bank Giro is a method of settling debt from a",
+      "option": {
+        "a": "customer to a bank",
+        "b": "bank to a customer",
+        "c": "customer to another",
+        "d": "bank to another."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 762,
+      "question": "Warehousing is a productive function because it increases the",
+      "option": {
+        "a": "quantity of goods",
+        "b": "utility of goods",
+        "c": "quality of goods",
+        "d": "price of goods."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 763,
+      "question": "A factor necessary for siting a warehouse is nearness to",
+      "option": {
+        "a": "raw materials",
+        "b": "labour",
+        "c": "capital",
+        "d": "consumers."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 764,
+      "question": "Pooling of risk in insurance means that",
+      "option": {
+        "a": "compensations are paid out of a common fund",
+        "b": "two people can pool their risks to be insured",
+        "c": "two insurance companies can buy two policies",
+        "d": "insurance companies should encourage taking risks"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 765,
+      "question": "The indemnification of Ama by his insurance company after a fire disaster means that he",
+      "option": {
+        "a": "has been guaranteed by the insurance company",
+        "b": "will be cleared of any fault by the insurance company",
+        "c": "has been covered by the insurance company",
+        "d": "will be covered to the limit of the amount in the policy."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 766,
+      "question": "The major difference between insurance and assurance is that while insurance",
+      "option": {
+        "a": "takes care of uncertainty, assurance takes care of risks",
+        "b": "takes care of risks, assurance takes care  uncertainty",
+        "c": "hinges on probabilities, assurance is based on possibilities",
+        "d": "is about indemnity assurance is about life in the future."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 767,
+      "question": "A documentary bill will normally be accompanied by",
+      "option": {
+        "a": "sales invoice, bill of lading and insurance certificate",
+        "b": "clean bill, bill of lading and insurance certificate",
+        "c": "bill of lading, consular invoice and insurance certificate",
+        "d": "consular invoice, FOB certificate and bill of  lading."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 768,
+      "question": "Which of the following best describes the classification of computers?",
+      "option": {
+        "a": "Mini-computer, speed and size",
+        "b": "Micro-computer, cost and abilities",
+        "c": "Mini-computer, micro-computer and work station",
+        "d": "Mini-computer, hybrid and digit"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 769,
+      "question": "The temporary working area of the central processing unit is called the",
+      "option": { "a": "C-D ROM", "b": "C-D RAM", "c": "ROM", "d": "RAM." },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 770,
+      "question": "The significance of money to modern economic systems is that it",
+      "option": {
+        "a": "is used as a means payment",
+        "b": "promotes specialization and exchange",
+        "c": "measures value and promotes exchange",
+        "d": "causes inflation and deflation in the economy"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 771,
+      "question": "One major characteristic of credit unions and thrift societies is that",
+      "option": {
+        "a": "the legal processes involved in their formation are rigid",
+        "b": "membership compulsory to people in the same line of  business",
+        "c": "the contribution of every member depends the member’s ability",
+        "d": "a minimum of ten people in the same line of business can form the union"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 772,
+      "question": "The Nigerian Stock Exchange publishes a daily official list that gives full information on the",
+      "option": {
+        "a": "method of transactions agreed to by members",
+        "b": "number of participating members in a day",
+        "c": "changes in the prices and earnings of security",
+        "d": "changes in the official rules set by the man"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 773,
+      "question": "The main factors that determine the value stock on the Stock Exchange are dividend an",
+      "option": {
+        "a": "the psychology of the market",
+        "b": "capital gain",
+        "c": "capital appreciation",
+        "d": "warrant payment"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 774,
+      "question": "One of the main objectives of the Second- tier Securities Market in Nigeria is to",
+      "option": {
+        "a": "achieve a realistic exchange rate for the naira",
+        "b": "eliminate currency  dealings in the black market",
+        "c": "assist companies to raise capital",
+        "d": "attract investment flow."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 775,
+      "question": "The activities aimed at finding out customers’ needs and satisfaction can be described as",
+      "option": {
+        "a": "socio-marketing",
+        "b": "macro-marketing",
+        "c": "micro-marketing",
+        "d": "conceptual marketing."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 776,
+      "question": "The most effective type of advertising for branded products is",
+      "option": {
+        "a": "direct advertising",
+        "b": "indirect advertising",
+        "c": "informative advertising",
+        "d": "competitive advertising."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 777,
+      "question": "Which of these companies are more engaged in public relations activities?",
+      "option": {
+        "a": "I and II",
+        "b": "I and III",
+        "c": "II and IV",
+        "d": "Ill and IV."
+      },
+      "section": "Companies I, II, III and IV produce and sell electronic videos. Company I sells its videos for N= 14 000 each and offers advice on how to fix and operate them. Company II sells at N14 000 and its representatives go to install at no additional cost. Company III sells at N15 500 and offers credit sales at N15 500 per video while company IV sells at N= 15 000 each.",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 778,
+      "question": "Which of these companies offers after-sales services?",
+      "option": { "a": "IV", "b": "Ill", "c": "II", "d": "I" },
+      "section": "Companies I, II, III and IV produce and sell electronic videos. Company I sells its videos for N= 14 000 each and offers advice on how to fix and operate them. Company II sells at N14 000 and its representatives go to install at no additional cost. Company III sells at N15 500 and offers credit sales at N15 500 per video while company IV sells at N= 15 000 each.",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 779,
+      "question": "Who are the parties to the contract of renting the room?",
+      "option": {
+        "a": "Musa and Jacob",
+        "b": "Musa and Audu",
+        "c": "Adamu and Musa",
+        "d": "Audu and Jocob."
+      },
+      "section": "Musa rented a room to Adamu for N= 1, 500 and N= 1,000 part-payment was made. Adamu brought Audu and Jacob his friends to stay in the room. The two friends later paid the balance of N= 500 to Musa.",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 780,
+      "question": "Who is the offeree in this contract?",
+      "option": { "a": "Musa", "b": "Audu", "c": "Adamu", "d": "Jacob." },
+      "section": "Musa rented a room to Adamu for N= 1, 500 and N= 1,000 part-payment was made. Adamu brought Audu and Jacob his friends to stay in the room. The two friends later paid the balance of N= 500 to Musa.",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 781,
+      "question": "The maximum number of shareholders in a public liability company is",
+      "option": {
+        "a": "twenty",
+        "b": "fifty",
+        "c": "one hundred",
+        "d": "unlimited."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 782,
+      "question": "One way by which government reduces the repatriation of capital   is through",
+      "option": {
+        "a": "nationalization",
+        "b": "divestiture",
+        "c": "indigenization",
+        "d": "naturalization."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 783,
+      "question": "One of the major functions of a chamber of commerce is to",
+      "option": {
+        "a": "promote and protect trade, industry and agriculture",
+        "b": "advise members on regulations of other countries",
+        "c": "settle disputes that arise out of trade",
+        "d": "publish books and periodicals desired by members."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 784,
+      "question": "Departmentalization is an aspect of",
+      "option": {
+        "a": "planning",
+        "b": "organizing",
+        "c": "directing",
+        "d": "controlling."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 785,
+      "question": "A functional organizational structure is where",
+      "option": {
+        "a": "staff performing the same functions are grouped together",
+        "b": "departments performing similar functions are grouped together",
+        "c": "activities of similar nature are-grouped together",
+        "d": "staff performing similar functions are grouped together."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 786,
+      "question": "In the line type of organizational structure",
+      "option": {
+        "a": "the lines of authority are vertical",
+        "b": "there is the application of division of labour",
+        "c": "specialization is carried to a maximum degree",
+        "d": "the lines of authority are horizontal."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 787,
+      "question": "Proper disposal of waste by business firms is one way of discharging their",
+      "option": {
+        "a": "responsibility to government",
+        "b": "environmental responsibility",
+        "c": "community responsibility",
+        "d": "responsibility to customers."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 788,
+      "question": "One of the obstacles  to achieving the objectives of ECOWAS is",
+      "option": {
+        "a": "lack of a common currency",
+        "b": "colonial linkages",
+        "c": "sovereignty of states",
+        "d": "language differences."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    },
+    {
+      "id": 789,
+      "question": "One of the main objectives of establishing the Niger River Basin Commission was to",
+      "option": {
+        "a": "embark on a comprehensive survey of the available water resources",
+        "b": "carry out research for the development of fresh water fisheries",
+        "c": "develop infrastructure to facilitate economic activities",
+        "d": "promote trade among member-states to improve standards of living."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2001"
+    }
+  ]
+}

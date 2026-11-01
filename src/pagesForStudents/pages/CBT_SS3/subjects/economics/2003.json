@@ -1,0 +1,797 @@
+{
+  "subject": "economics",
+  "status": 200,
+  "total": 50,
+  "data": [
+    {
+      "id": 414,
+      "question": "Economic as a field of study is a",
+      "option": {
+        "a": "pure science",
+        "b": "political science",
+        "c": "social science",
+        "d": "physical science"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 415,
+      "question": "The three major agents of an economic system are the",
+      "option": {
+        "a": "consumers, workers and producers",
+        "b": "markets, telecommunication and banks",
+        "c": "schools, hospitals and universities",
+        "d": "individuals, firms and government"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 416,
+      "question": "Which of the following  is  not  an  advantage  of  tabular presentation of data?",
+      "option": {
+        "a": "enables easy location of required figures",
+        "b": "makes for easy comparison of figures",
+        "c": "occupies more space than mathematical equation",
+        "d": "shows whether the figures are increasing or decreasing"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 417,
+      "question": "The problem of scarcity is reduced by",
+      "option": {
+        "a": "controlling consumption of goods and services",
+        "b": "producing everything needed by consumers",
+        "c": "ensuring efficient allocation of resources",
+        "d": "restricting consumer choices and tastes"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 418,
+      "question": "The reward for labour is",
+      "option": { "a": "wages", "b": "profit", "c": "rend", "d": "dividends" },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 419,
+      "question": "Which of the following factors of production consists of man made goods?",
+      "option": {
+        "a": "Land",
+        "b": "Labour",
+        "c": "Capital",
+        "d": "Entrepreneur"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 420,
+      "question": "One major function of the entrepreneur is",
+      "option": {
+        "a": "bearing of risk",
+        "b": "maximizing profits",
+        "c": "taking charge of day to day management",
+        "d": "determining the selling price of his products"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 421,
+      "question": "A major limiting factor of mass production is",
+      "option": {
+        "a": "efficient management",
+        "b": "adequate labour supply",
+        "c": "small size of the market",
+        "d": "adequate  supply of raw materials"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 422,
+      "question": "Division of labour leads to",
+      "option": {
+        "a": "improved craftsmanship",
+        "b": "the production of standardized goods",
+        "c": "increase in the cost of goods",
+        "d": "trade by barter"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 423,
+      "question": "Which of the following is  an  advantage of localization of \n\tindustry?",
+      "option": {
+        "a": "Development of subsidiary firms",
+        "b": "Creation of parallel markets",
+        "c": "Development of slums",
+        "d": "Attraction of foreign capital"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 424,
+      "question": "The additional satisfaction derived from the consumption of one more unit of a good is called",
+      "option": {
+        "a": "marginal product",
+        "b": "marginal utility",
+        "c": "marginal revenue",
+        "d": "marginal cost"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 425,
+      "question": "West  African   countries  have  low  levels  of  economic \tdevelopment due to",
+      "option": {
+        "a": "underpopulation",
+        "b": "inadequate labour",
+        "c": "failure to plan",
+        "d": "ineffective plan implementation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 426,
+      "question": "When the total product is at its maximum, marginal \n\tproduct is",
+      "option": {
+        "a": "increasing",
+        "b": "positive",
+        "c": "negative",
+        "d": "zero"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 427,
+      "question": "Marginal cost can be derived from the",
+      "option": {
+        "a": "total product",
+        "b": "total revenue",
+        "c": "total cost",
+        "d": "average fixed cost"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 428,
+      "question": "The market supply curve slopes upwards from left to right indicating that",
+      "option": {
+        "a": "at a lower price, more is supplied",
+        "b": "two commodities can be supplied at the same time",
+        "c": "at a lower price, less is supplied",
+        "d": "producers pay high taxes"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 429,
+      "question": "The marginal revenue when output is 4 units is",
+      "option": {
+        "a": "5 naira",
+        "b": "8 naira",
+        "c": "56 naira",
+        "d": "61 naira"
+      },
+      "section": "Use the data below to answer question:  Output [1, 2, 3, 4, 5]  Total Revenue(N=) [40, 49, 56, 61, 65]",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 430,
+      "question": "The term under population refers to a situation where the population is",
+      "option": {
+        "a": "dispersed over the country",
+        "b": "small in relation to available resources",
+        "c": "greater than the available resources",
+        "d": "concentrated in a few areas"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 431,
+      "question": "West African countries experience rapid population growth due to",
+      "option": {
+        "a": "existence of birth control clinics",
+        "b": "early marriages",
+        "c": "adequate sex education in schools",
+        "d": "late marriages"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 432,
+      "question": "Which of the following could be  used  to  measure  the efficiency of labour?",
+      "option": {
+        "a": "Education and training",
+        "b": "Rate of inflation",
+        "c": "Level of unemployment",
+        "d": "Input-Output ratio"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 433,
+      "question": "Which of the following is necessary for the survival of small firms in West Africa?",
+      "option": {
+        "a": "Access to land for development",
+        "b": "Inadequate collaterals for bank loans",
+        "c": "Government assistance in the form of loans and tax holidays",
+        "d": "High transportation costs."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 434,
+      "question": "A normal demand curve slopes",
+      "option": {
+        "a": "downwards from left to right",
+        "b": "upwards from left to right",
+        "c": "downwards from right to left",
+        "d": "upwards from the origin"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 435,
+      "question": "If the quantity demanded of a commodity increases from 20 to 30 units when there is an increase in price from 4 naira to 5 naira, the elasticity of demand is",
+      "option": { "a": "0", "b": "1", "c": "2", "d": "5" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 436,
+      "question": "Price elasticity of supply measures the responsiveness of",
+      "option": {
+        "a": "quantity supplied to   changes in suppliers’ income",
+        "b": "changes in prices of other commodities",
+        "c": "a change in the prices of the commodity",
+        "d": "a change in the demand for the product"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 437,
+      "question": "The most common type of business in West African countries is",
+      "option": {
+        "a": "joint stock companies",
+        "b": "sole proprietorships",
+        "c": "partnerships",
+        "d": "public enterprises"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 438,
+      "question": "Which of the following is a type of business organization?",
+      "option": {
+        "a": "Stock exchange",
+        "b": "Insurance company",
+        "c": "Chain stores",
+        "d": "Co-operative"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 439,
+      "question": "One advantage of the sole proprietorship is that",
+      "option": {
+        "a": "control and supervision is under one man",
+        "b": "accounts must be publicized",
+        "c": "it is always successful",
+        "d": "funds are easy to obtain"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 440,
+      "question": "The shares which do not carry any fixed rate of dividend are known as",
+      "option": {
+        "a": "debentures",
+        "b": "cumulative preference shares",
+        "c": "ordinary shares",
+        "d": "participating preference shares"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 441,
+      "question": "The economic goal of public corporations is to",
+      "option": {
+        "a": "maximize profit",
+        "b": "expand assets",
+        "c": "minimize costs",
+        "d": "provide essential services."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 442,
+      "question": "One of the factors responsible for low agricultural \n\tproduction in West Africa is",
+      "option": {
+        "a": "inadequate labour",
+        "b": "shortage of land",
+        "c": "inadequate implements",
+        "d": "inadequate research"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 443,
+      "question": "Efficient distribution of goods in West Africa will be \n\tfacilitated by",
+      "option": {
+        "a": "poor storage facilities",
+        "b": "adequate transportation system",
+        "c": "high standard of living",
+        "d": "high cost of living"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 444,
+      "question": "The demand for money is",
+      "option": {
+        "a": "derived demand",
+        "b": "composite demand",
+        "c": "joint demand",
+        "d": "complimentary demand"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 445,
+      "question": "Money becomes a very poor store of value in a period of",
+      "option": {
+        "a": "deflation",
+        "b": "depression",
+        "c": "recession",
+        "d": "inflation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 446,
+      "question": "A continuous fall in the general price level is called",
+      "option": {
+        "a": "recession",
+        "b": "depression",
+        "c": "deflation",
+        "d": "stagflation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 447,
+      "question": "Which of the following is a function of the central bank?",
+      "option": {
+        "a": "Accepting deposits from the public",
+        "b": "Lending to the commercial bank",
+        "c": "Discounting bills of exchange",
+        "d": "Agent of payment for individuals"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 448,
+      "question": "Cost-push inflation is likely to arise when",
+      "option": {
+        "a": "there is an increase in government spending",
+        "b": "there is an increase in direct taxes",
+        "c": "demand for higher wages is granted",
+        "d": "there is a decrease in bank lending"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 449,
+      "question": "The most important function of merchant banks is the",
+      "option": {
+        "a": "issuing of currency",
+        "b": "provision of short term loans",
+        "c": "provision of medium and long term loans",
+        "d": "provision of short and long term loans"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 450,
+      "question": "Precautionary motive relates to",
+      "option": {
+        "a": "demand for money",
+        "b": "demand for goods",
+        "c": "supply of money",
+        "d": "supply of goods"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 451,
+      "question": "Invisible trade refers to trade in",
+      "option": {
+        "a": "services",
+        "b": "goods and services",
+        "c": "tangible goods",
+        "d": "crude oil"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 452,
+      "question": "When the demand for foreign exchange exceeds its supply, the value of the domestic currency",
+      "option": {
+        "a": "appreciates",
+        "b": "depreciates",
+        "c": "inflates",
+        "d": "expands"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 453,
+      "question": "Which of the following is part of the capital account of the balance of payments?",
+      "option": {
+        "a": "Net investment from abroad",
+        "b": "Import of machinery",
+        "c": "Insurance",
+        "d": "Transportation costs"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 454,
+      "question": "The most common index for measuring development is",
+      "option": {
+        "a": "the level of illiteracy",
+        "b": "the per capital income",
+        "c": "nutritional levels",
+        "d": "population growth rate"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 455,
+      "question": "Governments of West African countries levy taxes to",
+      "option": {
+        "a": "prevent prices from falling",
+        "b": "make people richer",
+        "c": "limit the number of banks",
+        "d": "finance government projects"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 456,
+      "question": "Which of the following is a direct tax?",
+      "option": {
+        "a": "Import duties",
+        "b": "Purchase tax",
+        "c": "Export duties",
+        "d": "Personal income tax"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 457,
+      "question": "The tax whose rate increases as the level of income increases is known as",
+      "option": {
+        "a": "regressive tax",
+        "b": "proportional tax",
+        "c": "progressive tax",
+        "d": "company tax"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 458,
+      "question": "Public expenditure on education and health is known as expenditure on",
+      "option": {
+        "a": "general services",
+        "b": "social services",
+        "c": "commercial services",
+        "d": "economic services"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 459,
+      "question": "Budget deficit can be financed by",
+      "option": {
+        "a": "reducing the level of taxation",
+        "b": "printing more money",
+        "c": "lending to financial institutions",
+        "d": "employing more workers"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 460,
+      "question": "A major problem facing the Economic Community of West African States (ECOWAS) as an economic integration, is the",
+      "option": {
+        "a": "increasing population",
+        "b": "willingness of member to co-operate",
+        "c": "geographical contiguity",
+        "d": "weak trade relations"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 461,
+      "question": "In a socialist economy, the means of production is owned and controlled by the",
+      "option": {
+        "a": "state",
+        "b": "rich",
+        "c": "Entrepreneur",
+        "d": "traders"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 462,
+      "question": "It is necessary to estimate the national income of a country because it",
+      "option": {
+        "a": "indicates the overall performance of the economy",
+        "b": "ensures equitable distribution of wealth",
+        "c": "assists investors in identifying profitable ventures",
+        "d": "enables governments to conserve national resources"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    },
+    {
+      "id": 463,
+      "question": "The Organization of Petroleum Exporting Countries (OPEC) is an example of a",
+      "option": {
+        "a": "perfect competition",
+        "b": "monopsony",
+        "c": "duopoly",
+        "d": "cartel"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2003"
+    }
+  ]
+}

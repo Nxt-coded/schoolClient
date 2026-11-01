@@ -1,0 +1,1868 @@
+{
+  "message": "We could not find what you asked for, but got you this",
+  "subject": "government",
+  "status": 200,
+  "total": 120,
+  "data": [
+    {
+      "id": 466,
+      "question": "In a feudal system, the two major classes are the serfs and the",
+      "option": { "a": "masses", "b": "vassals", "c": "lords", "d": "elite." },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 670,
+      "question": "Any type of restricted franchise is a violation of principle of",
+      "option": {
+        "a": "constitutionalism",
+        "b": "sovereignty",
+        "c": "political equally",
+        "d": "popular election"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 191,
+      "question": "Nigeria’s voting at the United Nations is guided primarily by",
+      "option": {
+        "a": "her national interests   ",
+        "b": "world peace   ",
+        "c": "the cold war  ",
+        "d": "her concern for Africa"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 181,
+      "question": "Political activity at the diplomatic level is called  ",
+      "option": {
+        "a": "International relations",
+        "b": "International law",
+        "c": "International politics",
+        "d": "All of the above"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 142,
+      "question": "The Nigeria-Cameroon crisis over Bakaasi peninsula occurred owning to the interpretation of the Treaty of 1913 and the:",
+      "option": {
+        "a": "resolution of the OAU ",
+        "b": "Maroua Accord",
+        "c": "decision of the ECOWAS Tribunal ",
+        "d": "decision of the International Court of Justice "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 127,
+      "question": "The principle of federal character was first enunciated in the: ",
+      "option": {
+        "a": "1989 constitution ",
+        "b": "1963 constitution",
+        "c": "1999 constitution ",
+        "d": "1979 constitution"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 265,
+      "question": "Who among the following was NOT an officer in the pre-colonial Yoruba society?",
+      "option": {
+        "a": "Aremo",
+        "b": "Are-Onakakanfo",
+        "c": "Balogun",
+        "d": "Oluwo"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 477,
+      "question": "Which of the following is used in gauging public opinion?",
+      "option": {
+        "a": "Constitution",
+        "b": ".\t\t\nEducational institution.",
+        "c": "Mass media.",
+        "d": "Electoral college."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 416,
+      "question": "The upper house in most federal systems is created to",
+      "option": {
+        "a": "oversee and check the lower house",
+        "b": "prevent excesses of the executive",
+        "c": "enable experienced elders make inputs to governance",
+        "d": "ensure equality of federating units"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 720,
+      "question": "Citizens who are legally qualified to vote form",
+      "option": {
+        "a": "Political parties",
+        "b": "A Trade Union Congress",
+        "c": "Members of the House of House Assembly",
+        "d": "The electorate"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 282,
+      "question": "The age qualification required for a Nigerian to contest as a Senator is",
+      "option": { "a": "18", "b": "21", "c": "30", "d": "40" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 427,
+      "question": "Which of the following is the main function of the civil service?",
+      "option": {
+        "a": "Supporting the party in power.",
+        "b": "Allocating resources to the federating units.",
+        "c": "Mobilizing grassroots support for government.",
+        "d": "Implementing government policies."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 151,
+      "question": "The commission established to handle the electoral activities in the Second Republic of Nigeria was ",
+      "option": {
+        "a": "National Electoral Commission  ",
+        "b": "National Electoral Commission of Nigeria  ",
+        "c": "Federal Electoral Commission  ",
+        "d": "Independent National Electoral Commission"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 508,
+      "question": "A group of people who live together under a common law within a definite territory is a",
+      "option": {
+        "a": "state",
+        "b": "community",
+        "c": "nation-state",
+        "d": "nation."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 280,
+      "question": "In dividing a country into constituencies, it is important to",
+      "option": {
+        "a": "ask for permission from the traditional ruler in that area",
+        "b": "consider historical",
+        "c": "display the voters register",
+        "d": "involve the politicians in the areas"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 430,
+      "question": "The Aro age-grade system in lgboland was",
+      "option": {
+        "a": "a commercial organization",
+        "b": "a political organization",
+        "c": "an imperial organization",
+        "d": "a religious organization."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 625,
+      "question": "The independent of Nigeria was in 1945 with the coming to power in Britain of",
+      "option": {
+        "a": "Conservative party",
+        "b": "Tory party",
+        "c": "Liberal party",
+        "d": "Labour party"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 379,
+      "question": "Which of the following electoral bodies in Nigeria conducted elections from 1979 to 1983?",
+      "option": {
+        "a": "Federal Electoral Commission",
+        "b": "National Electoral Commission",
+        "c": "National Electoral Commission of Nigeria",
+        "d": "Independent National Electoral commission"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 469,
+      "question": "To ensure the rights and freedom of citizens, the powers of the arms of government must be",
+      "option": {
+        "a": "fused",
+        "b": "incorporated",
+        "c": "separated",
+        "d": "rotated."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 258,
+      "question": "Authority is the",
+      "option": {
+        "a": "ability to compel others to do what they do not want",
+        "b": "ability to delegate power to other bodies",
+        "c": "ability to rule without fear or favour",
+        "d": "capacity to encourage others to do what they intended doing"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 227,
+      "question": "The grant of the right to vote is called",
+      "option": {
+        "a": "enfranchisement",
+        "b": "disqualification",
+        "c": "prohibition",
+        "d": "participation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 558,
+      "question": "In a democratic political system, the political sovereign is usually the",
+      "option": {
+        "a": "constitution",
+        "b": "political parties",
+        "c": "electorate",
+        "d": "legislature"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 7,
+      "question": "Politics is an act for ",
+      "option": {
+        "a": "man to govern himself ",
+        "b": "man to create governments ",
+        "c": "states to control its destiny ",
+        "d": "man to dominant others"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 143,
+      "question": "The first Nigeria leader to become chairman of the Organization of African Unity was:  ",
+      "option": {
+        "a": "Tafawa Balewa",
+        "b": "Murtala Mohammed",
+        "c": "Yakubu Gowon  ",
+        "d": "Aguiyi-Ironsi"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 163,
+      "question": "Nigeria observed the principal of collective responsibility between  ",
+      "option": {
+        "a": "1960 and 1966 ",
+        "b": "1979 and 1983  ",
+        "c": "1985 and 1993 ",
+        "d": "1999 and 2003"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 297,
+      "question": "How many members of the security council of the United Nations (UN) exercise veto power?",
+      "option": { "a": "Eight", "b": "Five", "c": "Four", "d": "Six" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 489,
+      "question": "A major objective of the Public Complaints Commission is",
+      "option": {
+        "a": "training and promotion of public servants",
+        "b": "settlement of disputes among individuals",
+        "c": "addressing the grievances of individuals and groups",
+        "d": "fighting corruption and indiscipline."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 120,
+      "question": "Fascism originated from ",
+      "option": {
+        "a": "Greece ",
+        "b": "Italy  ",
+        "c": "China  ",
+        "d": "Germany"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 313,
+      "question": "In the parliamentary system of government, formal legislation can take the following forms except",
+      "option": {
+        "a": "royal proclamations",
+        "b": "order in council",
+        "c": "acts of parliament",
+        "d": "ministerial pronouncement"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 42,
+      "question": "The legislature performs the following functions except ",
+      "option": {
+        "a": "determines  the general direction of public policies ",
+        "b": "investigating and monitoring the activities of the officials of government ",
+        "c": "exercises power of appointment of government officials ",
+        "d": "enforcing the law"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 105,
+      "question": "In the Igbo political system, the most senior  member of the council of elders is the ",
+      "option": { "a": "Okpara  ", "b": " Obi  ", "c": " Eze  ", "d": " Ofo" },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 314,
+      "question": "One of the distinctive features of democracy is that it",
+      "option": {
+        "a": "connotes civil rule",
+        "b": "facilitates popular",
+        "c": "provides for a unicameral legislature",
+        "d": "is not associated with one-party system"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is not  a feature of Nigeria’s electoral system? ",
+      "option": {
+        "a": "direct election ",
+        "b": "proportional representation ",
+        "c": "general election  ",
+        "d": "secret ballot"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 710,
+      "question": "Local government reforms were carried out by the Federal Military Government in",
+      "option": { "a": "1966", "b": "1967", "c": "1970", "d": "1976" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 58,
+      "question": "Free education was introduced in west region by which of these premiers? ",
+      "option": {
+        "a": "Chief Obafemi Awolowo ",
+        "b": "Chief S.L. Akintola  ",
+        "c": "Chief Michael Adekunle Ajasin ",
+        "d": "Chief Bola Ige"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 75,
+      "question": "In a parliamentary system, who ensures that members are in the house to vote on major issues? ",
+      "option": {
+        "a": "party leaders ",
+        "b": "speaker of  the house ",
+        "c": "clerk of the house  ",
+        "d": "whip"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 624,
+      "question": "The following are the key factors which influence Nigeria’s foreign relations except",
+      "option": {
+        "a": "peaceful co-existence",
+        "b": "economic dependence.",
+        "c": "non-interference",
+        "d": "respect for territorial integrity."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 19,
+      "question": "The electorate is generally  understood to refer to ",
+      "option": {
+        "a": "elected members of the National- Assembly ",
+        "b": "elected members of the state house of assembly  ",
+        "c": "candidates who can contest elections ",
+        "d": "those citizens qualified to vote at elections"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 573,
+      "question": "The body that is responsible for the appointment, discipline, promotion and dismissal of civil servants is the",
+      "option": {
+        "a": "Ministry of Establishment",
+        "b": "Bureau for Public Service Reforms",
+        "c": "Civil Service Commission",
+        "d": "Ministry of Labour and Productivity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 296,
+      "question": "The term of the Secretary-General of United Nations (UN) is for ___ years.",
+      "option": { "a": "eight", "b": "five", "c": "four", "d": "six" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 203,
+      "question": "Which of the following is an obligation of a citizen?",
+      "option": {
+        "a": "Attending political rallies",
+        "b": "Taking part in Independence Day celebrations",
+        "c": "Contesting elections",
+        "d": "Paying respect to the national flag."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 288,
+      "question": "Which of the following is a function of an electoral commission?",
+      "option": {
+        "a": "Contesting elections",
+        "b": "Organizing and conducting elections",
+        "c": "Organizing political parties",
+        "d": "Settling disputes among political parties"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 702,
+      "question": "The constitution of the Federal Republic of Nigeria",
+      "option": {
+        "a": "promotes unity in diversity",
+        "b": "allows for the dominance of the minority ethnic groups",
+        "c": "concentrates governmental power at one level of government",
+        "d": "advances the interest of the rich"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 647,
+      "question": "Which of the following is not an aim of the Organization of African Unity (O.A.U)",
+      "option": {
+        "a": "Promotion of unity and solidarity among African states",
+        "b": "Co-operation of efforts to achieve a better life for the African people",
+        "c": "Defense of the sovereignty and independence of African state",
+        "d": "Enthronement of democratic governments in Africa."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 113,
+      "question": "A special election organized to decide on a political issue is known as ",
+      "option": {
+        "a": "plebiscite ",
+        "b": "by-election  ",
+        "c": "general election ",
+        "d": "primary election."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 109,
+      "question": "A state with a hegemonic party is one in which ",
+      "option": {
+        "a": "there is one dominant party ",
+        "b": "there is no opposition party  ",
+        "c": "there is only one party  ",
+        "d": "other parties are officially recognized."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 642,
+      "question": "Nigeria became a federation of 19 states in",
+      "option": { "a": "1875", "b": "1976", "c": "1967", "d": "1978" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 128,
+      "question": "Between 1960 and 1966, Nigeria was governed under the  ",
+      "option": {
+        "a": "presidential system of government ",
+        "b": "Westminster system of government ",
+        "c": "confederal system of government ",
+        "d": "unitary system of government."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 91,
+      "question": "The leader of the northern people’s congress was ",
+      "option": {
+        "a": "Yakubu Maitama Sule ",
+        "b": "Abubakar Tafawa Balewa ",
+        "c": "Aminu Kano ",
+        "d": "Ahmadu Bello"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 342,
+      "question": "The legislative functions of the government of Benin Kingdom were performed by the",
+      "option": { "a": "Esama", "b": "Ndichie", "c": "Uzama", "d": "Enigie" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 494,
+      "question": "The central objective of privatization in Nigeria is to",
+      "option": {
+        "a": "reduce the retrenchment of workers",
+        "b": "encourage prompt payment of salaries",
+        "c": "improve standard of living",
+        "d": "improve the efficiency of enterprises."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 623,
+      "question": "The major problem that arose from the 1979 election centred around the",
+      "option": {
+        "a": "inability of many voters to find their names on the voters register",
+        "b": "cancellation of election results in many constituencies because of alleged irregularities",
+        "c": "inability of some dissatisfied candidates to seek redress in the Court of law.",
+        "d": "controversy over the presidential election result."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 284,
+      "question": "Before an election is conducted, the country is divided into electoral districts mainly to",
+      "option": {
+        "a": "avoid double voting",
+        "b": "avoid secret voting",
+        "c": "enable the electoral commission have more people to register",
+        "d": "make it possible for all people in various parts of the country to be represented."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 20,
+      "question": "Into how many local government areas in Nigeria officially delineated? ",
+      "option": { "a": "654", "b": "650", "c": "820", "d": "774" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 302,
+      "question": "A manifesto is essential to political parties because it enables them to",
+      "option": {
+        "a": "assess the electorates",
+        "b": "gauge public opinion",
+        "c": "manipulate election",
+        "d": "present programme of action"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 303,
+      "question": "The two Greek words that make up democracy are ___ and ___ ,",
+      "option": {
+        "a": "arita, demo",
+        "b": "demo, aria",
+        "c": "demo, krat",
+        "d": "demo, kratia"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 94,
+      "question": "Which of the following NOT an acceptable means of achieving democracy? ",
+      "option": {
+        "a": "Referendums ",
+        "b": "Recall ",
+        "c": "Initiative ",
+        "d": "Riots"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 170,
+      "question": "Globalization encompasses all the following except  ",
+      "option": {
+        "a": "market integration  ",
+        "b": "internationalization of politics  ",
+        "c": "technology improvement  ",
+        "d": "economic liberalism "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 438,
+      "question": "A major shortcoming of the Ombudsman is",
+      "option": {
+        "a": "its inability to restrain bureaucratic excesses",
+        "b": "lack of clear-cut mandate",
+        "c": "lack of executive power to enforce decisions",
+        "d": "lack of adequate resources."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 382,
+      "question": "Islam was introduced in Northern Nigeria",
+      "option": {
+        "a": "before the 13th century",
+        "b": "in the 17th century",
+        "c": "after the jihad of Uthman Dan Fodio",
+        "d": "by the British in the early 20th century"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 531,
+      "question": "The first notable nationalist movement in West Africa was the",
+      "option": {
+        "a": "National Congress of British West Africa",
+        "b": "West African Students Union",
+        "c": "Nigeria Youth Movement",
+        "d": "Aborigines Rights Protection Society."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 117,
+      "question": "Nigeria hosted the commonwealth conference which eventually led to the independence of ",
+      "option": {
+        "a": "Mozambique ",
+        "b": "Namibia  ",
+        "c": "Zimbabwe ",
+        "d": "Malawi"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 49,
+      "question": "The Economic Community of West African States was established in ",
+      "option": { "a": "May-75", "b": "May-63", "c": "May-66", "d": "May-96" },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 37,
+      "question": "A capitalist state is based on ",
+      "option": {
+        "a": "religion ",
+        "b": "creating job opportunities ",
+        "c": "dictatorship ",
+        "d": "free trade"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 721,
+      "question": "Election among candidates from the same party before the final elections are called",
+      "option": {
+        "a": "Primaries",
+        "b": "Running Mates",
+        "c": "Second ballots",
+        "d": "Party conventions"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 471,
+      "question": "The bringing of a session of a parliament to an end through royal proclamation is known as",
+      "option": {
+        "a": "political impasse",
+        "b": "dissolution of parliament",
+        "c": "vote of no confidence",
+        "d": "prorogation of parliament."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 539,
+      "question": "The highest policy making body under the Gowon Regime was the",
+      "option": {
+        "a": "Federal Executive Council",
+        "b": "Armed Forces Ruling Council",
+        "c": "Provisional Ruling Council",
+        "d": "Supreme Military Council."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 370,
+      "question": "A disadvantage of the one-party system is that it",
+      "option": {
+        "a": "emphasizes political differences",
+        "b": "makes accountability difficult",
+        "c": "negates freedom of association",
+        "d": "delays decision - making"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 569,
+      "question": "The officer responsible for announcing the result of an election is known as",
+      "option": {
+        "a": "ballot officer",
+        "b": "presiding office",
+        "c": "returning officer",
+        "d": "electoral officer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 160,
+      "question": "The judicial organ of the United Nations is the  ",
+      "option": {
+        "a": "security council  ",
+        "b": "European court  ",
+        "c": "general assembly  ",
+        "d": "International court of Justice  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 200,
+      "question": "Political authority is the",
+      "option": {
+        "a": "legitimate right to exercise political power.",
+        "b": "ability to control political behaviour.",
+        "c": "right to participate in political campaigns.",
+        "d": "right to form political parties."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 167,
+      "question": "Every political system performs the following basic functions excepts  ",
+      "option": {
+        "a": "Rule making  ",
+        "b": "Rule transformation  ",
+        "c": "Rule enforcement  ",
+        "d": "Rule adjudication "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 517,
+      "question": "Which of the following advocates’ equitable distribution of wealth?",
+      "option": {
+        "a": "Plutocracy.",
+        "b": "Capitalism.",
+        "c": "Aristocracy.",
+        "d": "Socialism."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 266,
+      "question": "The 1957 commission of enquiry which investigated the problems of ethnic domination in Nigeria was chaired by",
+      "option": {
+        "a": "Arthur Richard.",
+        "b": "Frederick Lugard.",
+        "c": "Henry Willink.",
+        "d": "Hicks Phillipon"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 662,
+      "question": "The question of civil war was raised for the first time at the \tmeeting of the O.A.U in September 1967 in",
+      "option": {
+        "a": "Kampala",
+        "b": "Addis Ababa",
+        "c": "Lagos",
+        "d": "Kinshasa"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 723,
+      "question": "The international organization formed after the Second World War to guarantee international peace and security is the",
+      "option": {
+        "a": "World Bank",
+        "b": "United Nations Organization",
+        "c": "League of Nations",
+        "d": "British Commonwealth of Nations"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 704,
+      "question": "The principle of anonymity of civil servants means that they are",
+      "option": {
+        "a": "career officers",
+        "b": "not the servants of a particular government",
+        "c": "trained for the duties they perform",
+        "d": "not credited or blamed for anything they do"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 315,
+      "question": "A hereditary system of government is",
+      "option": {
+        "a": "an oligarchy",
+        "b": "a gerontocracy",
+        "c": "an aristocracy",
+        "d": "a monarchy"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 144,
+      "question": "Nigeria’s non-aligned policy was criticized because of the: ",
+      "option": {
+        "a": "ECOWAS Treaty ",
+        "b": "Nuclear Test Ban Treaty  ",
+        "c": "Anglo-Nigerian Pact ",
+        "d": "Non-Proliferation Treaty "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 542,
+      "question": "A public corporation is managed by",
+      "option": {
+        "a": "the board of directors",
+        "b": "a minister",
+        "c": "a general manager",
+        "d": "the board of governors."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 561,
+      "question": "The court that has ultimate power to interprets the constitution is the",
+      "option": {
+        "a": "Supreme Court",
+        "b": "Magistrate Court",
+        "c": "High Court",
+        "d": "Court of Appeal"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 560,
+      "question": "One main advantage of bicameral legislature is that it",
+      "option": {
+        "a": "makes for quick deliberation during emergencies",
+        "b": "makes passage of bills easy",
+        "c": "is less cumbersome to pass bills",
+        "d": "is not easy to manipulate bills"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 655,
+      "question": "All the following were frontline fighters for Nigeria’s Independence except",
+      "option": {
+        "a": "Obafemi Awolowo",
+        "b": "Nnamdi Azikiwe",
+        "c": "Lateef Jakande",
+        "d": "Amino Kano"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 676,
+      "question": "A unified - local government system was adopted in Nigeria under the",
+      "option": {
+        "a": "Tafawa Balewa administration",
+        "b": "Yakubu Gowon administration",
+        "c": "Shehu Shagari administration",
+        "d": "Murtala / Obasanjo administration"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 329,
+      "question": "Indirect legislation can be achieved by",
+      "option": {
+        "a": "judicial interpretation and precedent",
+        "b": "passing a private member’s bill",
+        "c": "second read of the law",
+        "d": "the two legislative chambers considering a bill"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 606,
+      "question": "Unwritten constitution means that the constitution is",
+      "option": {
+        "a": "not written down",
+        "b": "based only on conventions.",
+        "c": "not contained in any single book",
+        "d": "in draft"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 639,
+      "question": "The voluntary activities of members of a society in the selection of rulers is known as",
+      "option": {
+        "a": "political participation",
+        "b": "political socialization",
+        "c": "political decision",
+        "d": "political culture"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 197,
+      "question": "Which of the following modern principles of democracy is found in the Yoruba traditional political system  ",
+      "option": {
+        "a": "checks and balances  ",
+        "b": "the constitution",
+        "c": "multipartism  ",
+        "d": "bicameralism"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 92,
+      "question": "The idea of democracy started with the ",
+      "option": {
+        "a": "Romans ",
+        "b": "Pensions ",
+        "c": "Greeks ",
+        "d": "Egyptians"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 629,
+      "question": "In the Oyo traditional political system, the Alaafin of Oyo was elected or chosen by a group known as the",
+      "option": { "a": "Bales", "b": "Obas", "c": "Ogboni", "d": "Oyomesi." },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 680,
+      "question": "The predominant influence of Northern Nigeria in the First Republic violated the federal principle of",
+      "option": {
+        "a": "effective co-operation among the constituent units",
+        "b": "geographical contiguity",
+        "c": "unity",
+        "d": "absence of marked inequalities among the component units"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 84,
+      "question": "One of these was in existence  before the outbreak of the Second World War ",
+      "option": {
+        "a": "The OAU  ",
+        "b": "League of Nations ",
+        "c": "The UNOD  ",
+        "d": "The Commonwealth of nations "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 198,
+      "question": "The subject matter of politics is best described  as   ",
+      "option": {
+        "a": "political parties",
+        "b": "political power  ",
+        "c": "elections",
+        "d": "people"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 233,
+      "question": "Nigeria’s first constitution was the",
+      "option": {
+        "a": "Lyttleton Constitution",
+        "b": "Clifford Constitution",
+        "c": "Macpherson constitution",
+        "d": "Independence Constitution"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2000"
+    },
+    {
+      "id": 60,
+      "question": "The government of one of the following countries operates an unwritten constitution ",
+      "option": {
+        "a": "The United States ",
+        "b": "The Union of Soviet Socialist Republics ",
+        "c": "Post –apartheid  South Africa ",
+        "d": "The United Kingdom "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 393,
+      "question": "Which of the following is NOT a function of the Police Force in Nigeria?",
+      "option": {
+        "a": "Traffic control",
+        "b": "Arrest of criminals",
+        "c": "making of law",
+        "d": "Prosecution of criminals"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 114,
+      "question": "Equality before the law is a component of: ",
+      "option": {
+        "a": "separation of powers ",
+        "b": "checks and balances ",
+        "c": "the rule of law  ",
+        "d": "constitutional law"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 310,
+      "question": "In a presidential system of government, ministers are",
+      "option": {
+        "a": "individually responsible to the president",
+        "b": "individually responsible to the senate",
+        "c": "collectively responsible to the president",
+        "d": "collectively responsible to the electorate"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1999"
+    },
+    {
+      "id": 63,
+      "question": "The four British colonial territories in West Africa were ",
+      "option": {
+        "a": "Senegal, Ghana, Sierra Leone and Nigeria ",
+        "b": "Nigeria, Ghana, Sierra Leone and Gambia ",
+        "c": "Nigeria, Ghana, Togo and Gambia ",
+        "d": "Gambia, Guinea, Ghana and Gabon"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 679,
+      "question": "The process of depriving persons of the right of voting is known as",
+      "option": {
+        "a": "enfranchisement",
+        "b": "disqualification",
+        "c": "dismissal",
+        "d": "disenfranchisement"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 104,
+      "question": "Which of the following in the Sokoto Caliphate performed functions similar to that of the Bashorun in Oyo Kingdom? ",
+      "option": {
+        "a": "Waziri ",
+        "b": "Galadima ",
+        "c": "Ma’aji  ",
+        "d": "Alkali  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 448,
+      "question": "An attribute that Nigeria shares with most non-aligned countries is",
+      "option": {
+        "a": "her large population",
+        "b": "her heterogeneous population",
+        "c": "her large size",
+        "d": "the state of  her economy."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 80,
+      "question": "Which of these constitutions recognized local government is the third tier of government? ",
+      "option": {
+        "a": "The 1946 constitution ",
+        "b": "The 1960 constitution",
+        "c": "The  1963 constitution ",
+        "d": "the 1979 constitution."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 304,
+      "question": "The Headquarters of Organization of Petroleum Exporting Countries (OPEC) is located in",
+      "option": {
+        "a": "Algiers",
+        "b": "Baghdad",
+        "c": "Riyadh",
+        "d": "Vienna"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 449,
+      "question": "Nigeria spearheaded the formation of ECOWAS during the regime of",
+      "option": {
+        "a": "Murtala Muhammed",
+        "b": "Yakubu Gowon",
+        "c": "Ibrahim Babangida",
+        "d": "Olusegun Obasanjo."
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 433,
+      "question": "Which of these rulers resisted colonial rule and was deported to Calabar?",
+      "option": {
+        "a": "Oba Ovoramwen.",
+        "b": "King Dosunmu",
+        "c": "King Jaja.",
+        "d": "King Kosoko"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 174,
+      "question": "What does INEC stand for?",
+      "option": {
+        "a": "Independent National Election Committee  ",
+        "b": "Independent Newspapers Executive Committee  ",
+        "c": "Independent National Export Council  ",
+        "d": "Independent National Electoral Commission"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 663,
+      "question": "Nigeria objected to the discussion of the civil war in the O.A. U. summit on the grounds that",
+      "option": {
+        "a": "it amount to interference in its internal affairs",
+        "b": "some African countries recognized Biafra",
+        "c": "Tanzania and Ivory Coast recognized Biafra",
+        "d": "the resolution of the conflict was difficult"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 131,
+      "question": "Bicameral legislature exists: ",
+      "option": {
+        "a": "where cameramen are allowed to cover the proceedings of the legislature ",
+        "b": "to prevent the concentration of power in one legislative house ",
+        "c": "to provide jobs for more politicians ",
+        "d": "to ensure that just laws are passed"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 123,
+      "question": "Serfs are the dominated class under ",
+      "option": {
+        "a": "capitalisms ",
+        "b": "socialism ",
+        "c": "fascism ",
+        "d": "feudalism "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 567,
+      "question": "Laws made by military governments at the state level are called",
+      "option": { "a": "decrees", "b": "bye-laws", "c": "edicts", "d": "acts" },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 253,
+      "question": "To ensure impartiality and independence of electoral commission, the body should be",
+      "option": {
+        "a": "funded by political parties",
+        "b": "headed by a justice of the Supreme Court",
+        "c": "headed by a professor of political science",
+        "d": "independent of government control"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "neco",
+      "examyear": "2013"
+    },
+    {
+      "id": 658,
+      "question": "To which of these countries did Nigeria send peacekeeping force?",
+      "option": {
+        "a": "South Africa",
+        "b": "Angola",
+        "c": "Chad",
+        "d": "Namibia"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1988"
+    },
+    {
+      "id": 454,
+      "question": "The tenure of non-permanent members of the Security Council is",
+      "option": {
+        "a": "4 years",
+        "b": "2 years",
+        "c": "6 years",
+        "d": "5 years"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 603,
+      "question": "Former colonies of Britain belong to the association known as",
+      "option": {
+        "a": "OECD",
+        "b": "NATO",
+        "c": "European Union",
+        "d": "Commonwealth"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2014"
+    },
+    {
+      "id": 717,
+      "question": "Which of the following is not a function of the Secretary-General of the United Nations Organization?",
+      "option": {
+        "a": "Supervising the Secretariat",
+        "b": "Interpreting the treaties",
+        "c": "Alerting the Security Council on any matter that may threaten international peace",
+        "d": "Making annual report"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "1989"
+    },
+    {
+      "id": 23,
+      "question": "Democracy was first practiced in ",
+      "option": {
+        "a": "Ghana ",
+        "b": "United States of America ",
+        "c": "Greece ",
+        "d": "Britain"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 6,
+      "question": "The British took over Nigeria through ",
+      "option": {
+        "a": "negotiation ",
+        "b": "bargaining  ",
+        "c": "war ",
+        "d": "the sea"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 474,
+      "question": "An electoral system in which parties are assigned seats in the parliament commensurate to the number of votes polled is",
+      "option": {
+        "a": "absolute majority",
+        "b": "simple majority",
+        "c": "proportional representation.",
+        "d": "indirect election."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 101,
+      "question": "The Clifford Constitution was notable for ",
+      "option": {
+        "a": "amalgamating the Northern and southern provinces ",
+        "b": "introducing indirect rule ",
+        "c": "establishing the legislature  council ",
+        "d": "creating a Northern majority in the legislature council."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    }
+  ]
+}

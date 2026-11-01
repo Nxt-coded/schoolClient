@@ -1,0 +1,1858 @@
+{
+  "message": "We could not find what you asked for, but got you this",
+  "subject": "geography",
+  "status": 200,
+  "total": 120,
+  "data": [
+    {
+      "id": 65,
+      "question": "The statements ‘one cm 2 km can be represented by the ratio of  ",
+      "option": {
+        "a": "1:50,000 ",
+        "b": "1:500,000  ",
+        "c": "120,000",
+        "d": "1:200,000"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 82,
+      "question": "The major world exports of wool are  ",
+      "option": {
+        "a": "Britain, Australia, Mediterranean Europe and Argentina   ",
+        "b": "New Zealand, Uruguay, Australia and Argentina  ",
+        "c": "Australia, India, Paraguay and Argentina  ",
+        "d": "New Zealand, India, Uruguay and Peru"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 148,
+      "question": "Akosomo dam is on the River  ",
+      "option": { "a": "Niger  ", "b": "Nile  ", "c": "Congo  ", "d": "Volta" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 227,
+      "question": "The location of iron and steel industry at Ajaokuta in Nigeria is best explained by the presence of ",
+      "option": {
+        "a": "Limestone and coal  ",
+        "b": "Iron ore   ",
+        "c": "Bauxite  ",
+        "d": "Manganese "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 37,
+      "question": "In the tropics, the most variable climatic element inter-annually is  ",
+      "option": {
+        "a": "temperature  ",
+        "b": "solar radiation   ",
+        "c": "pressure  ",
+        "d": "prairies "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 88,
+      "question": "All planets have satellites except:  ",
+      "option": {
+        "a": "Earth & Venus ",
+        "b": "Mars & Mercury  ",
+        "c": "Mercury & Venus  ",
+        "d": "Neptune & Venus"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 2,
+      "question": "Aeolian erosion refers to the work of ",
+      "option": {
+        "a": "Plants ",
+        "b": "Wind  ",
+        "c": "Ice ",
+        "d": "running water"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 396,
+      "question": "The Algeria'a oildields are located in",
+      "option": {
+        "a": "Golf of Onet",
+        "b": "Marsael Brega",
+        "c": "Hassi Messaoud",
+        "d": "Touggourt"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2019"
+    },
+    {
+      "id": 403,
+      "question": "Which of the following countries has a large number if people if African descent?",
+      "option": { "a": "Brazil", "b": "Spain", "c": "Canada", "d": "Chile" },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2020"
+    },
+    {
+      "id": 296,
+      "question": "Which of the following is the main export from Uganda?",
+      "option": { "a": "Jute ", "b": "Coffee", "c": "Banana", "d": "Tobacco" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2017"
+    },
+    {
+      "id": 178,
+      "question": "Which of the following continents has the largest area with a tropical type of climate?",
+      "option": {
+        "a": "Asia   ",
+        "b": "South America",
+        "c": "North America  ",
+        "d": "Africa"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 169,
+      "question": "Which of the following is not a form of condensation?  ",
+      "option": { "a": "Snow  ", "b": "Rime  ", "c": "C.Cloud  ", "d": "Fog" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 67,
+      "question": "On any day in the year at a specific time  ",
+      "option": {
+        "a": "the sun is overhead along the equator  ",
+        "b": "the sun is overhead along the topic of cancer  ",
+        "c": "the North Pole has 24 hours of daylight  ",
+        "d": "one half of the earth is in darkness"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 50,
+      "question": "Global Positioning Systems (GPS) help in  ",
+      "option": {
+        "a": "combating crime  ",
+        "b": "providing early warning against disasters  ",
+        "c": "climate change monitoring ",
+        "d": "locating positions on the earth surface "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 134,
+      "question": "What is the local standard time in New York (750W) when it is 2pm in Accra? ",
+      "option": {
+        "a": "9.00pm  ",
+        "b": "9.00 pm  ",
+        "c": "7.00pm   ",
+        "d": "7.00am "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 188,
+      "question": "Igneous rocks are rocks formed by",
+      "option": {
+        "a": "The cooling of molten minerals from a liquid into a solid.",
+        "b": "The change of minerals from a solid into a liquid",
+        "c": "The deposition of minerals. ",
+        "d": "The deposition of minerals a solid into a liquid. "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 280,
+      "question": "The following lakes have outlets to the sea Except lake",
+      "option": {
+        "a": "Chad",
+        "b": "Michigan",
+        "c": "Victoria",
+        "d": "Michigan"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2017"
+    },
+    {
+      "id": 163,
+      "question": "Which of the following countries in Africa would a person NOT pass over by crow fly (direct distance) from Abidjan to Cairo?  ",
+      "option": {
+        "a": "Niger    ",
+        "b": "Libya",
+        "c": "Burkina Faso  ",
+        "d": "Chad"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 260,
+      "question": "The port that specializes in receiving and re-exporting goods is known as",
+      "option": {
+        "a": "Entrepot",
+        "b": "International port",
+        "c": "Sea port",
+        "d": "Jetty"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 259,
+      "question": "From a point, the whole circle bearing of a line is 135°. A clockwise angle from the line was measured to be 260° to another line. What is the whole circle bearing of the later line?",
+      "option": { "a": "225°", "b": "35°", "c": "125°", "d": "395°" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 395,
+      "question": "A boat building industry is least likely to be situated in",
+      "option": {
+        "a": "Kebbi state",
+        "b": "Kano state",
+        "c": "Tarabe state",
+        "d": "Kogi state"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2019"
+    },
+    {
+      "id": 201,
+      "question": "Nigeria is having",
+      "option": {
+        "a": "574 Local Government Areas",
+        "b": "674 Local Government Areas. ",
+        "c": "774 Local Government Areas. ",
+        "d": "874 Local Government Areas"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 19,
+      "question": "Nigeria Sat I is designed by primarily to  ",
+      "option": {
+        "a": "help GSM provider in achieving a wide national coverage  ",
+        "b": "strengthen rapid response by Nigeria’s Armed Forces  ",
+        "c": "help in the 2006 Census  ",
+        "d": "provide information about various regions of the earth"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 345,
+      "question": "The oldest system of agriculture in Nigeria which now survives only in very remote areas is",
+      "option": {
+        "a": "Bush fallowing",
+        "b": "Mixed farming",
+        "c": "Shifting cultivation",
+        "d": "Market gardening"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2018"
+    },
+    {
+      "id": 309,
+      "question": "Which od these West African countries is known for the mining of phosphates?",
+      "option": { "a": "Liberia", "b": "Togo", "c": "Nigeria", "d": "Ghana" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2017"
+    },
+    {
+      "id": 49,
+      "question": "The Stevenson’s screen is used to keep  ",
+      "option": {
+        "a": "barometer   ",
+        "b": "thermometers  ",
+        "c": "hygrometers  ",
+        "d": "evapori meters"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 171,
+      "question": "Where is Sahel Savanna vegetation belt found in Nigeria?",
+      "option": {
+        "a": "Northwest   ",
+        "b": "Northeast",
+        "c": "Both Northwest and Northeast",
+        "d": "From the middle belt to the north"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 27,
+      "question": "One major characteristics of rural settlements is that  ",
+      "option": {
+        "a": "are heterogeneous  ",
+        "b": "are homogenous  ",
+        "c": "are large in size  ",
+        "d": "have more problems than urban settlements"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 401,
+      "question": "Which of the following areas is subjected to frequent earthquakes",
+      "option": {
+        "a": "South Africa",
+        "b": "The Sahara Desert",
+        "c": "The Canadian Shield",
+        "d": "Northern Australia"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2020"
+    },
+    {
+      "id": 410,
+      "question": "One of the consequences of global increase in the carbon dioxide content of the atmosphere is",
+      "option": {
+        "a": "Reduced visibility",
+        "b": "Increasing air pressure",
+        "c": "Decreasing temperature",
+        "d": "The destruction of the ozone layer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2020"
+    },
+    {
+      "id": 11,
+      "question": "The African river that crosses the equator twice is  ",
+      "option": {
+        "a": "Zaire ",
+        "b": "Nile ",
+        "c": "Mississippi  ",
+        "d": "Amazon"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 8,
+      "question": " Which of these does not lie in the principal earthquake region of the world? ",
+      "option": {
+        "a": "Japan ",
+        "b": "Kenya  ",
+        "c": "Iran   ",
+        "d": "Turkey "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 287,
+      "question": "The heavy dark soil associated with floodable valley bottoms is a",
+      "option": {
+        "a": "Podzolic soil",
+        "b": "Hydromorphic soil",
+        "c": "Lateritic soil",
+        "d": "Ferrallitic soil"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2017"
+    },
+    {
+      "id": 168,
+      "question": "Which of the following is not a thermometric scale?",
+      "option": {
+        "a": "Celsius     ",
+        "b": "Kelvin",
+        "c": "Fahrenheit   ",
+        "d": "Octas"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 389,
+      "question": "The highest lands in Nigeria are found on the ",
+      "option": {
+        "a": "Oban Hills",
+        "b": "Western Highlands",
+        "c": "Marbule Plateau",
+        "d": "North Central Plateau"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2019"
+    },
+    {
+      "id": 261,
+      "question": "Agricultural productivity is low in Tropical Africa because of",
+      "option": {
+        "a": "Poor Soil and unfavourable climate",
+        "b": "Low demand and lack of credit facilities",
+        "c": "A sparse population and shortage of labour",
+        "d": "Low technology and land fragmentation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 348,
+      "question": "British foreign investments are concentrated in",
+      "option": {
+        "a": "EU countries",
+        "b": "Commonwealth countries",
+        "c": "Developed countries",
+        "d": "Commonwealth countries"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2018"
+    },
+    {
+      "id": 244,
+      "question": "The length of the main road to the nearest kilometer is",
+      "option": {
+        "a": "14 kilometers",
+        "b": "20 kilometers",
+        "c": "7 kilometers",
+        "d": "10 kilometers"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 285,
+      "question": "The major human activity in the area is probably",
+      "option": {
+        "a": "Fishing",
+        "b": "Farming",
+        "c": "Ranching",
+        "d": "Lumbering"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2017"
+    },
+    {
+      "id": 208,
+      "question": "Kinshasa is a: ",
+      "option": {
+        "a": "Central African City ",
+        "b": "North African City ",
+        "c": "East African City ",
+        "d": "South African City "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 237,
+      "question": "Which of these is a textual classification of soils?",
+      "option": {
+        "a": "Rounded, Irregular, and Flat",
+        "b": "Angular, Prismatic and Columnar",
+        "c": "Rounded, Pebbles, and Silt",
+        "d": "Angular, Sand, and Clay"
+      },
+      "section": "",
+      "image": "",
+      "answer": "e",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 48,
+      "question": "Coombes are associated with  ",
+      "option": {
+        "a": "honey-bee farms  ",
+        "b": "Karst environment  ",
+        "c": "rift valley system  ",
+        "d": "cases in the desert"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 159,
+      "question": "Sandstone is metamorphosed into  ",
+      "option": {
+        "a": "Slate  ",
+        "b": "Quartzite  ",
+        "c": "Schiest  ",
+        "d": "Graphite "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 129,
+      "question": "An instrument used in measuring the atmospheric pressure is called ",
+      "option": {
+        "a": "Barometer ",
+        "b": "Thermomete",
+        "c": "Hygrometer",
+        "d": "Presometer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 107,
+      "question": "A line joining places of equal salinity is  ",
+      "option": {
+        "a": "isohaline  ",
+        "b": "Isoneph  ",
+        "c": "Isohyets  ",
+        "d": "Isohel"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 122,
+      "question": "The wearing away of the sides and bottom of a river channel is called ",
+      "option": {
+        "a": "corrasion ",
+        "b": "corrosion ",
+        "c": "hydraulic action ",
+        "d": "Complicated erosion "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 358,
+      "question": "Bamboo and mahogany, liana and obeche, raphia and tree ferns. In which vegetation type are all these found?",
+      "option": {
+        "a": "Coniferous forest",
+        "b": "Tropical monsoon",
+        "c": "Tropical forest",
+        "d": "Sub-tropical forest"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2019"
+    },
+    {
+      "id": 177,
+      "question": "A line joining places of equal salinity is known as",
+      "option": {
+        "a": "Isohaline   ",
+        "b": "Isoneph",
+        "c": "Isohyet   ",
+        "d": "Isohel"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 42,
+      "question": "Linseed oil is associated with  ",
+      "option": {
+        "a": "flax  ",
+        "b": "coconut  ",
+        "c": "olives  ",
+        "d": "rapeseeds"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 209,
+      "question": "Freetown is a: ",
+      "option": {
+        "a": "North African City ",
+        "b": "West African City ",
+        "c": "South African City ",
+        "d": "East African City "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 213,
+      "question": "Casablanca is a",
+      "option": {
+        "a": "North African City ",
+        "b": "West African City ",
+        "c": "South African City ",
+        "d": "Central African City "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 367,
+      "question": "The pair of countries which has the largest area of coniferous forest in the world is made up of Canada and",
+      "option": {
+        "a": "The U.S.A",
+        "b": "New Zealand",
+        "c": "Brazil",
+        "d": "The U.S.S.R"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2019"
+    },
+    {
+      "id": 390,
+      "question": "A small hill resulting from the process peneplanation is called",
+      "option": {
+        "a": "An inselberg",
+        "b": "A hum",
+        "c": "An arete",
+        "d": "A monadnock"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2019"
+    },
+    {
+      "id": 123,
+      "question": "When the moon comes in between the earth and the sun in a straight line, it is known as  ",
+      "option": {
+        "a": "solar eclipse ",
+        "b": "eclipse of the earth ",
+        "c": "eclipse of the moon ",
+        "d": "lunar eclipse "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 380,
+      "question": "The captain of a ship in the mid sea observed that it was local noon as he was listening to 08.00 hour BBC world news. On which longitude was his ship?",
+      "option": { "a": "120°E", "b": "60°E", "c": "120°W", "d": "60°W" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2019"
+    },
+    {
+      "id": 34,
+      "question": "If the temperature at sea level in a particular place is 200C, place 3500m above sea level in the same area will have a temperature of  ",
+      "option": {
+        "a": "- 2.750C   ",
+        "b": "2.250C  ",
+        "c": "22750C  ",
+        "d": "22.750C"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is not a form of precipitation? ",
+      "option": { "a": "Dew   ", "b": "Snow   ", "c": "hail ", "d": "fog " },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 207,
+      "question": "Nigeria lies between",
+      "option": {
+        "a": "Latitudes 4° and 13°N and longitudes 2° and 15°E. ",
+        "b": "Latitudes 5° and 14°N and longitudes 4° and 15°E. ",
+        "c": "Latitudes 4° and 14°N and longitudes 2° and 15°E. ",
+        "d": "Latitudes 2° and 15°N and longitudes 4° and 14°E. "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 245,
+      "question": "What is the size, in square kilometers of the area covered by the map?",
+      "option": {
+        "a": "58.0 sqkm",
+        "b": "64.0 sqkm",
+        "c": "51.0 sqkm",
+        "d": "62.0 sqkm"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 407,
+      "question": "U and V are two places along the same Meridian on latitude 20°N and 25°N respectively. The shortest distance between the two places is approximately",
+      "option": { "a": "560km", "b": "680km", "c": "500km", "d": "620km" },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2020"
+    },
+    {
+      "id": 224,
+      "question": "Which of the following is a major hindrance to H.E.P.",
+      "option": {
+        "a": "Inadequate capital  ",
+        "b": "Unavailability of good sites  ",
+        "c": "Absence of domestic market  ",
+        "d": "Sufficient volume of water  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 323,
+      "question": "Given that the area show on the map is in Northern Nigeria, which of the following crop combinations would best be cultivated in the area that is liable to flooding?",
+      "option": {
+        "a": "Banana, Rice, and Cassava",
+        "b": "Cassava, Rice, and Yam",
+        "c": "Sugarcane, Rice, and Cassava",
+        "d": "Sugarcane, Rice, and Bannans"
+      },
+      "section": "",
+      "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_03_and_07_byo7zc.jpg",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2018"
+    },
+    {
+      "id": 16,
+      "question": "The gap between two ranges within which transportation is usually possible in a mountainous regions is called  ",
+      "option": { "a": "Valley  ", "b": "Col  ", "c": "ridge  ", "d": "Spur" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 143,
+      "question": "Which of the following States in Nigeria would a person NOT pass over by crow fly (direct distance) from Ibadan to Makurdi? ",
+      "option": { "a": "Osun  ", "b": "Ondo ", "c": "Kogi  ", "d": "Enugu" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 125,
+      "question": "Which of the following places in Nigeria has the highest mean annual rainfall amount ",
+      "option": {
+        "a": "Sokoto  ",
+        "b": "Maiduguri  ",
+        "c": "Nguru   ",
+        "d": "Kano  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 233,
+      "question": "________ is the time of day when tornadoes are most likely to occur",
+      "option": {
+        "a": "Dawn ",
+        "b": "Mid-afternoon ",
+        "c": "Evening ",
+        "d": "Noon "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 336,
+      "question": "A broad-based population pyramid is composed mainly of",
+      "option": {
+        "a": "Active inhabitants",
+        "b": "Old dependents",
+        "c": "Young dependents",
+        "d": "More females than males"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2018"
+    },
+    {
+      "id": 371,
+      "question": "The mean annual rainfall of Station Y is",
+      "option": {
+        "a": "175.3mm",
+        "b": "54.2mm",
+        "c": "650.8mm",
+        "d": "233.5mm"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2019"
+    },
+    {
+      "id": 130,
+      "question": "Orographic rainfall is also called ",
+      "option": {
+        "a": "Relief rainfall",
+        "b": "cyclonic rainfall ",
+        "c": "convectional rainfall ",
+        "d": "frontal rainfall "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 167,
+      "question": "Which of the following is a feature  of a rejuvenated river?",
+      "option": {
+        "a": "Incised meanders   ",
+        "b": " Braided channel   ",
+        "c": "Delta   ",
+        "d": "Levees"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 212,
+      "question": "The most populated country in the world is: ",
+      "option": {
+        "a": "Austria ",
+        "b": "China ",
+        "c": "United States of America ",
+        "d": "Brazil "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 38,
+      "question": "Soil that are formed by the wind deposition are called ",
+      "option": {
+        "a": "Laterites  ",
+        "b": "loess  ",
+        "c": "podsols  ",
+        "d": "prairies "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 343,
+      "question": "If the distance between two places on a map is 2cm while the distance on land is 4km, the scale of the map is",
+      "option": {
+        "a": "1:100,000",
+        "b": "1:200,000",
+        "c": "1:50,000",
+        "d": "1:150,000"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2018"
+    },
+    {
+      "id": 353,
+      "question": "If the time in New York (75°W) is 5.00pm the time in Nigeria (15°E) will be",
+      "option": {
+        "a": "9.00pm",
+        "b": "9.00am",
+        "c": "11.00pm",
+        "d": "11.00am"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2018"
+    },
+    {
+      "id": 221,
+      "question": "A piece of land almost surrounded by water is called ",
+      "option": {
+        "a": "Headland ",
+        "b": "Peninsula ",
+        "c": "Island   ",
+        "d": "Plateau "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 113,
+      "question": "Soil that are formed by wind deposition are called  ",
+      "option": {
+        "a": "laterites  ",
+        "b": "prairies  ",
+        "c": "podsols   ",
+        "d": "Loess  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 162,
+      "question": "The second Equinox in any year take place during the month of",
+      "option": {
+        "a": "March   ",
+        "b": "June   ",
+        "c": "September   ",
+        "d": "December"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2013"
+    },
+    {
+      "id": 299,
+      "question": "A rift valley can develop given",
+      "option": {
+        "a": "Parallel faults and tensional forces",
+        "b": "Landslide and slump",
+        "c": "Volcanic intrusion and avalanche",
+        "d": "Heavy rainfall and earthquake"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2017"
+    },
+    {
+      "id": 317,
+      "question": "If the total population of the city is 500,000 what is the population of ward 4?",
+      "option": {
+        "a": "75,000",
+        "b": "150,000",
+        "c": "125,000",
+        "d": "100,000"
+      },
+      "section": "",
+      "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_01_and_02_v2sqab.jpg",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2018"
+    },
+    {
+      "id": 119,
+      "question": "Desert soils are usually deficient in ",
+      "option": {
+        "a": "fertility  ",
+        "b": "humus content ",
+        "c": "horizon ",
+        "d": "light grey colour   "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 111,
+      "question": "The sea bed, bordering the continents which is covered by the shallow water is known as ",
+      "option": {
+        "a": "continental slope ",
+        "b": "coral reef ",
+        "c": "continental shelf  ",
+        "d": "continental platform  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 214,
+      "question": "The World largest Ocean is: ",
+      "option": {
+        "a": "Pacific Ocean ",
+        "b": "Atlantic Ocean ",
+        "c": "Indian Ocean ",
+        "d": "Arctic Ocean "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 144,
+      "question": "The Latitude which marks the limits of the overhead sun’s apparent movement is  ",
+      "option": { "a": "0", "b": "66.5", "c": "32.5", "d": "23.5" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 81,
+      "question": "The scientist who propounded the theory of continental drift was?  ",
+      "option": {
+        "a": "Francis bacon  ",
+        "b": "Alfred Wegener   ",
+        "c": "Authur Holmes ",
+        "d": "Williams Davis"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 295,
+      "question": "The world's richest fishing grounds are to be found",
+      "option": {
+        "a": "On the deep sea platforms",
+        "b": "In coral seas",
+        "c": "On the continental shelves",
+        "d": "In fjord coastlines"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2017"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following scales should show the greatest amount of detail on a map?  ",
+      "option": {
+        "a": "1:50,000  ",
+        "b": "1:500,000  ",
+        "c": "1:20,000  ",
+        "d": "1:200,000"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 142,
+      "question": "What is the Centigrade equivalent of 950 Fahrenheit? ",
+      "option": { "a": "1390C  ", "b": "37.20C  ", "c": "350C", "d": "3.60C" },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 400,
+      "question": "When on looks at a soil profile, the first characteristic to be noticed is soil",
+      "option": {
+        "a": "Structure",
+        "b": "Moisture",
+        "c": "Texture",
+        "d": "Colour"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2020"
+    },
+    {
+      "id": 220,
+      "question": "The act of graphical representation of places with identified scale and legend is called ",
+      "option": {
+        "a": "Scaling ",
+        "b": "Mapping  ",
+        "c": "Sketching ",
+        "d": "Drawing "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 206,
+      "question": "The United Nations estimate of Nigeria population in 2009 was",
+      "option": {
+        "a": "154,729,000",
+        "b": "144,729,000.00",
+        "c": "164,729,000.00",
+        "d": "184,729,000.00"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 76,
+      "question": "Which of the following timber trees are found in the tropical rain forest of Africa? ",
+      "option": {
+        "a": "Obeche and teak  ",
+        "b": "Mahogany and teak  ",
+        "c": "Obeche and Mahogany ",
+        "d": "Iroko and Eucalyptus"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following statements is not true for lines of latitude?  ",
+      "option": {
+        "a": "they form parallel circles   ",
+        "b": "they range from 00 to 1800 N and S  ",
+        "c": "only one line is also a Great Circle ",
+        "d": "They form parallel circles"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 73,
+      "question": "Fishing is the mainstay of the economy of  ",
+      "option": {
+        "a": "Libya  ",
+        "b": "Iran  ",
+        "c": "Iceland  ",
+        "d": "Chad"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 372,
+      "question": "Which of the following observation can be inferred from the table above, which shows the hydro-electric power (HEP) development in some selected countries?",
+      "option": {
+        "a": "Power from hydro-electricity is cheaper than power from other sources",
+        "b": "More factories use HEP in Brazil than in Switzerland",
+        "c": "Per capita HEP consumption is higher in Switzerland than in Italy",
+        "d": "More HEP stations are built in Canada than in Japan"
+      },
+      "section": "",
+      "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582572/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2019_16_y0csjv.jpg",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2019"
+    },
+    {
+      "id": 301,
+      "question": "Urban centres originate mainly as zones of",
+      "option": {
+        "a": "Tourist attraction",
+        "b": "Transport concentration",
+        "c": "Greater social",
+        "d": "Infrastructural facilities"
+      },
+      "section": "",
+      "image": "",
+      "answer": "e",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2017"
+    },
+    {
+      "id": 157,
+      "question": "The difference in the readings on the dry and wet bulb thermometers used to determine  ",
+      "option": {
+        "a": "Relative humidity  ",
+        "b": "Temperature range  ",
+        "c": "Evaporation  ",
+        "d": "Transpiration "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 275,
+      "question": "The type of drainage is",
+      "option": {
+        "a": "Superimposed",
+        "b": "Trellised",
+        "c": "Dendrictic",
+        "d": "Radial"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 211,
+      "question": "Nairobi is a: ",
+      "option": {
+        "a": "North African City ",
+        "b": "West African City ",
+        "c": "South African City ",
+        "d": "East African City "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 292,
+      "question": "The most densely populated city which is also the capital of a county in Africa is",
+      "option": { "a": "Cairo", "b": "Dakar", "c": "Cape town", "d": "Abuja" },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2017"
+    },
+    {
+      "id": 393,
+      "question": "Economic activities in Tropical Africa largely depends on",
+      "option": {
+        "a": "Secondary production",
+        "b": "Quaternary is located",
+        "c": " Primary production",
+        "d": "Tertiary production"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2019"
+    },
+    {
+      "id": 3,
+      "question": "The scale of a map is the ratio between the  ",
+      "option": {
+        "a": "distance over the land and the distance over the water ",
+        "b": "distance on the map and the distance on the globe ",
+        "c": "vertical and horizontal differences  ",
+        "d": "distance on the map and that on the earth’s surface "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2006"
+    },
+    {
+      "id": 84,
+      "question": "The dawn is a temperature grassland found in? ",
+      "option": {
+        "a": "Australia  ",
+        "b": "South America  ",
+        "c": "Eurasia  ",
+        "d": "South Africa"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2009"
+    },
+    {
+      "id": 58,
+      "question": "On of the following is least important to ocean movement  ",
+      "option": {
+        "a": "salinity of the ocean water  ",
+        "b": "temperature of the water  ",
+        "c": "planetary wind  ",
+        "d": "curvature of the coastal areas"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 198,
+      "question": "A valley is a:   ",
+      "option": {
+        "a": "Highland between hills",
+        "b": "Lowland between hills",
+        "c": "Rock between hills",
+        "d": "Highland between trees. "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 265,
+      "question": "The most common tree in the desert is the",
+      "option": {
+        "a": "Pine",
+        "b": "Date ",
+        "c": "Larch",
+        "d": "African walnut"
+      },
+      "section": "",
+      "image": "",
+      "answer": "e",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 222,
+      "question": "Planet warming the use of water transport is limited by all the following except  ",
+      "option": {
+        "a": "Wide valleys   ",
+        "b": "Waterfalls ",
+        "c": "Seasonality  ",
+        "d": "Narrow gorges   "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme-aaua",
+      "examyear": "2014"
+    },
+    {
+      "id": 266,
+      "question": "The sex ratio of any population may be affected by",
+      "option": {
+        "a": "Morbidity",
+        "b": "Mortality",
+        "c": "Fertility",
+        "d": "Migration"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 248,
+      "question": "Nigeria is the world's leading producer of ",
+      "option": {
+        "a": "Columbite ",
+        "b": "Palm Kernel",
+        "c": "Timber",
+        "d": "Groundnuts"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2016"
+    },
+    {
+      "id": 161,
+      "question": "In the hydrological cycle, the transfer of water from the earth’s surface to the atmosphere is by ",
+      "option": {
+        "a": " Evaporation only  ",
+        "b": "Transpiration Only  ",
+        "c": "Evaporation  ",
+        "d": "Condensation "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 61,
+      "question": "Which of the following landforms is NOT due to the process of glacier erosion? ",
+      "option": {
+        "a": "Come  ",
+        "b": "valley -bench  ",
+        "c": "Hanging valley  ",
+        "d": "Esker"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 330,
+      "question": "What type of climate has the station?",
+      "option": {
+        "a": "Cool temperature",
+        "b": "Warm temperature",
+        "c": "Mediterranean",
+        "d": "Cold temperature"
+      },
+      "section": "",
+      "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582572/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_13_and_14_mmzw7p.jpg",
+      "answer": "a",
+      "solution": "",
+      "examtype": "utme",
+      "examyear": "2018"
+    },
+    {
+      "id": 30,
+      "question": "The distribution of minerals resources in Nigeria is related to its:  ",
+      "option": {
+        "a": "relief  ",
+        "b": "soil  ",
+        "c": "vegetation  ",
+        "d": "geology "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 71,
+      "question": "When it is 1200 noon on longitude 300E. What is the time on longitude 150W.  ",
+      "option": {
+        "a": "9.00 a.m. ",
+        "b": "5.00 p.m.  ",
+        "c": "9.00 p.m.  ",
+        "d": "5.00 a.m. "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2008"
+    },
+    {
+      "id": 96,
+      "question": "The best natural harbour in West Africa is at  ",
+      "option": {
+        "a": "Lome  ",
+        "b": "Tema ",
+        "c": "Lagos ",
+        "d": "Freetown "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 93,
+      "question": "Which one of these is not a thermometric scale:  ",
+      "option": {
+        "a": "Celsius  ",
+        "b": "Kelvin  ",
+        "c": "Fahrenheit  ",
+        "d": "Octas "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 138,
+      "question": "Which of the following is not a rapid type of mass movement? ",
+      "option": {
+        "a": "Solidification ",
+        "b": "Rockfall  ",
+        "c": "Mudflow  ",
+        "d": "Debris Slide"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2012"
+    },
+    {
+      "id": 89,
+      "question": "Which of the following location in Nigeria has the least mean annual rainfall total?  ",
+      "option": {
+        "a": "Sokoto  ",
+        "b": "Maiduguri  ",
+        "c": "Potiskum  ",
+        "d": "Nguru"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2010"
+    },
+    {
+      "id": 29,
+      "question": "Most of the industries located in rural areas are  ",
+      "option": {
+        "a": "low energy consumers  ",
+        "b": "high energy consumers  ",
+        "c": "raw materials oriented  ",
+        "d": "transport oriented "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is correct?  ",
+      "option": {
+        "a": "The Canaries current is cold and washes the coast of NE Africa  ",
+        "b": "The Peruvian current is warm and washes the West coast of America  ",
+        "c": "The Gulf stream is warm and moves north eastward on the Atlantic  ",
+        "d": "The middle east current is warm and washes the coast of Saudi Arabia "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    },
+    {
+      "id": 36,
+      "question": "Which of the following pressure belts does not experienced descending air?  ",
+      "option": {
+        "a": "600N  ",
+        "b": "600S  ",
+        "c": "00 latitude   ",
+        "d": "300N"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2007"
+    }
+  ]
+}

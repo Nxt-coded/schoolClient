@@ -1,0 +1,738 @@
+{
+  "subject": "economics",
+  "status": 200,
+  "total": 46,
+  "data": [
+    {
+      "id": 464,
+      "question": "Which of the following is an economic activity?",
+      "option": {
+        "a": "Attending a town’s meeting",
+        "b": "A visit to the stadium",
+        "c": "Payment of school fee",
+        "d": "Arresting a petty thief"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 465,
+      "question": "The reward for land as a factor of production is",
+      "option": { "a": "interest", "b": "rent", "c": "dividend", "d": "wages" },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 466,
+      "question": "The three broad categories of production are",
+      "option": {
+        "a": "direct, secondary and extractive",
+        "b": "primary, tertiary and direct",
+        "c": "primary, secondary and tertiary",
+        "d": "secondary, primary and indirect"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 467,
+      "question": "A carpenter’s consumer good include:  I.  a kilogram of rice II.  3 pairs of shoes    III.  4 pairs of socks   IV. 3 screw-drivers",
+      "option": {
+        "a": "I and IV only",
+        "b": "I, II, III and IV",
+        "c": "I, II and IV only",
+        "d": "I, II and III only"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 468,
+      "question": "In a capitalist system, the means of production is owned and controlled by",
+      "option": {
+        "a": "the government",
+        "b": "politicians",
+        "c": "private individuals",
+        "d": "the workers"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 469,
+      "question": "Mixed economy refers to a system in which the means of production are controlled by",
+      "option": {
+        "a": "private enterprise and the government",
+        "b": "private individuals",
+        "c": "the government only",
+        "d": "the workers and businessmen"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 470,
+      "question": "An economic good is described as a good which",
+      "option": {
+        "a": "yield utility and commands a price",
+        "b": "is useful and occupies a space",
+        "c": "is in high demand and transferable",
+        "d": "has unlimited supply"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 471,
+      "question": "The concept of opportunity cost is important to the firm because it",
+      "option": {
+        "a": "determines the prices of the firm’s products",
+        "b": "increases the level of output of the firm",
+        "c": "leads to maximum satisfaction of the consumers",
+        "d": "Guides firms in allocating scarce resources"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 472,
+      "question": "As a firm expands, it enjoys some advantages called",
+      "option": {
+        "a": "variable proportions",
+        "b": "diminishing marginal returns",
+        "c": "internal economics of scale",
+        "d": "decreasing returns to scale"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 473,
+      "question": "Division of labour is limited by",
+      "option": {
+        "a": "the size of the market",
+        "b": "the productivity of capital",
+        "c": "cost of production",
+        "d": "factors of production"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 474,
+      "question": "An entrepreneur is likely to make more profits when",
+      "option": {
+        "a": "expenditure is more than revenue",
+        "b": "competitors charge lower prices",
+        "c": "cost per unit output falls",
+        "d": "quantity of output reduces"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 475,
+      "question": "Natural growth rate is",
+      "option": {
+        "a": "birth rate less death rate",
+        "b": "death rate less migration",
+        "c": "death rate plus birth rate",
+        "d": "birth rate plus migration"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 476,
+      "question": "A major effect of aging populations is",
+      "option": {
+        "a": "reduced labour force",
+        "b": "rise in prices of commodities",
+        "c": "reduced infrastructure",
+        "d": "neglect of agriculture"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 477,
+      "question": "One of the problems associated with the middleman in the distribution of goods is that he",
+      "option": {
+        "a": "buys in large quantities",
+        "b": "hoards goods",
+        "c": "grants credit to the retailer",
+        "d": "sells varieties of goods"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 478,
+      "question": "The distribution of goods is said to be completed when it reaches the",
+      "option": {
+        "a": "wholesalers",
+        "b": "consumers",
+        "c": "retailers",
+        "d": "manufacturers"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 479,
+      "question": "The gap between demand and  supply  curves  below the equilibrium price indicates",
+      "option": {
+        "a": "excess demand",
+        "b": "excess supply",
+        "c": "equilibrium quantity",
+        "d": "equilibrium price"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 480,
+      "question": "Demand for inferior good is an example of",
+      "option": {
+        "a": "expansion of demand",
+        "b": "contraction of demand",
+        "c": "individual demand",
+        "d": "abnormal demand"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 481,
+      "question": "When a change in price does not affect the quantity demanded of a commodity, the price elasticity of demand is",
+      "option": {
+        "a": "fairly inelastic",
+        "b": "infinitely elastic",
+        "c": "perfectly inelastic",
+        "d": "unitary elastic"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 482,
+      "question": "For both the monopolist and the perfectly competitive firm, profit maximizing output occurs at the point where the",
+      "option": {
+        "a": "marginal cost curve cuts the marginal revenue curve from below",
+        "b": "marginal revenue curve cuts the marginal output from above",
+        "c": "marginal cost curve intersects the X-axis",
+        "d": "marginal revenue curve intersects the Y-axis"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 483,
+      "question": "The market structure in which the operators are many and none of them can influence the price is",
+      "option": {
+        "a": "imperfect market",
+        "b": "perfect market",
+        "c": "oligopolistic market",
+        "d": "stock market"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 484,
+      "question": "One main benefit of partnerships is",
+      "option": {
+        "a": "the possibility of raising funds on the stock exchange",
+        "b": "the possibility of attracting twenty one or more members",
+        "c": "that members can specialize in various functions",
+        "d": "that it enjoys its own separate legal entity."
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 485,
+      "question": "Joint ventures are partnerships involving",
+      "option": {
+        "a": "the poor and the rich",
+        "b": "employers and workers",
+        "c": "government and private investor",
+        "d": "multi-nationals and individual"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 486,
+      "question": "The value of money is best determined by",
+      "option": {
+        "a": "input-output ratio",
+        "b": "the purchasing power",
+        "c": "the importance people attach to it",
+        "d": "economics of scale"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 487,
+      "question": "Which of the following will be an effect of inflation?",
+      "option": {
+        "a": "Wages earners will gain",
+        "b": "Borrowing of money will be restricted",
+        "c": "Money lenders will gain",
+        "d": "Borrowers of money will gain"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 488,
+      "question": "Government can control inflation by",
+      "option": {
+        "a": "printing more money",
+        "b": "reducing the rate of taxes",
+        "c": "reducing the level of expenditure",
+        "d": "establishing more banks"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 489,
+      "question": "The market consisting  of  a  network  of  dealers  where \tcurrencies can be bought and sold is known as",
+      "option": {
+        "a": "capital market",
+        "b": "foreign exchange market",
+        "c": "commodity market",
+        "d": "the stock market"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 490,
+      "question": "Open Market Operation (OMO) means the",
+      "option": {
+        "a": "provision of credit facilities by commercial banks",
+        "b": "provision of credit facilities by the mortgage banks",
+        "c": "buying and selling of government securities by the central bank",
+        "d": "procedure for the establishment of commercial banks"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 491,
+      "question": "Which of the following is an advantage of  localization of industry?",
+      "option": {
+        "a": "Development of subsidiary firms",
+        "b": "Creation of parallel markets",
+        "c": "Development of slums",
+        "d": "Attraction of foreign capital"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 492,
+      "question": "Which of the following will ensure efficiency in the industrial sector of your country?",
+      "option": {
+        "a": "Indigenization",
+        "b": "Privatization",
+        "c": "Nationalization",
+        "d": "Liquidation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 493,
+      "question": "The number of people who are qualified to work and who offer themselves for employment are called",
+      "option": {
+        "a": "migrant labour",
+        "b": "working population",
+        "c": "labour turnover",
+        "d": "mobility of labour"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 494,
+      "question": "When the general price level persistently falls, the rate of  unemployment",
+      "option": {
+        "a": "rises",
+        "b": "stagnates",
+        "c": "rapidly reduces",
+        "d": "equals natural growth rate"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 495,
+      "question": "Which of the following is not a direct effort to increase agricultural production?",
+      "option": {
+        "a": "Operation feed the nation",
+        "b": "Use of improved seedlings",
+        "c": "Increased loans to farmer and co-operative societies",
+        "d": "National Youth Service Corps"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 496,
+      "question": "To ensure high employment rates, developing countries should",
+      "option": {
+        "a": "build more universities",
+        "b": "protect infant industries",
+        "c": "organize trade fairs",
+        "d": "prevent rural-urban drift"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 497,
+      "question": "The act of selling goods in foreign markets at prices below those charged at home markets is called",
+      "option": {
+        "a": "exchange",
+        "b": "specialization",
+        "c": "dumping",
+        "d": "exporting"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 498,
+      "question": "Taxes levied on commodities are",
+      "option": {
+        "a": "direct taxes",
+        "b": "indirect taxes",
+        "c": "poll taxes",
+        "d": "investment taxes"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 499,
+      "question": "One disadvantage of direct taxes is that",
+      "option": {
+        "a": "government’s revenue is reduced",
+        "b": "price of essential commodities fall",
+        "c": "people are discouraged from additional work",
+        "d": "firms make more profits"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 500,
+      "question": "International trade is an application of the principle of",
+      "option": {
+        "a": "industrial production",
+        "b": "mass production",
+        "c": "regional co-operation",
+        "d": "comparative costs advantage"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 501,
+      "question": "Trade among West African countries is poor because the",
+      "option": {
+        "a": "countries are self-sufficient",
+        "b": "communication links are weak",
+        "c": "number of banks is insufficient",
+        "d": "people are not enterprising"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 502,
+      "question": "A policy by which governments restrict the amount of \n\tforeign currencies bought and sold is known as",
+      "option": {
+        "a": "devaluation",
+        "b": "credit creation",
+        "c": "exchange control",
+        "d": "export promotion"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 503,
+      "question": "Which of the following items is under the capital account of a balance of payments",
+      "option": {
+        "a": "Repayments of foreign loans",
+        "b": "Visible imports",
+        "c": "Invisible exports",
+        "d": "Cocoa export"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 504,
+      "question": "A surplus in the balance of payments should be used to",
+      "option": {
+        "a": "subsidize multi-national companies",
+        "b": "build infrastructure for friendly nations",
+        "c": "make donation to developed countries",
+        "d": "buy investments overseas"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 505,
+      "question": "Development planning which takes an overall view of the economy is described as",
+      "option": {
+        "a": "Aggregate economic planning",
+        "b": "Disaggregated economic planning",
+        "c": "Sectorial economic planning",
+        "d": "System economic planning"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 506,
+      "question": "The national income of a country can be estimated by the",
+      "option": {
+        "a": "cost-benefit method",
+        "b": "distribution method",
+        "c": "expenditure method",
+        "d": "consumption method"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 507,
+      "question": "Which of the following is excluded when estimating national income?",
+      "option": {
+        "a": "Dividends",
+        "b": "Wages and salaries",
+        "c": "Transfer payment",
+        "d": "Profits"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 508,
+      "question": "The economic Community of West African States (ECOWAS) has been slow in achieving its objectives because of",
+      "option": {
+        "a": "political instability in member state",
+        "b": "the activities of multi-national",
+        "c": "inadequate personnel at the secretariat",
+        "d": "inadequate international support"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    },
+    {
+      "id": 509,
+      "question": "A major achievement of  the  Organization  of  Petroleum Exporting Countries (OPEC) is that",
+      "option": {
+        "a": "crude oil price has increased tremendously",
+        "b": "petroleum products prices have remained low",
+        "c": "producing countries are highly industrialized",
+        "d": "price of crude oil has remained relatively stable."
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2004"
+    }
+  ]
+}

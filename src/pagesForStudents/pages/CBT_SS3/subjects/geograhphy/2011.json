@@ -1,0 +1,402 @@
+{
+  "subject": "geography",
+  "status": 200,
+  "total": 25,
+  "data": [
+    {
+      "id": 113,
+      "question": "Soil that are formed by wind deposition are called  ",
+      "option": {
+        "a": "laterites  ",
+        "b": "prairies  ",
+        "c": "podsols   ",
+        "d": "Loess  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 114,
+      "question": "Which of the following is not a feature of sea deposition ",
+      "option": { "a": "Shoal ", "b": "Beach ", "c": "Spit ", "d": "coal" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 115,
+      "question": "Which of the following terms is associated with glaciations? ",
+      "option": {
+        "a": "Arête   ",
+        "b": "Bay   ",
+        "c": "Stacks   ",
+        "d": "Reef   "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 116,
+      "question": "The lower part of a river valley that has been submerged by the sea is called ",
+      "option": {
+        "a": "Estuary   ",
+        "b": "Reef    ",
+        "c": "Spit   ",
+        "d": "Bar  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 117,
+      "question": "Which of the following is a cold ocean current ",
+      "option": {
+        "a": "Mozambique   ",
+        "b": "gulf stream ",
+        "c": "Kuro Siwo  ",
+        "d": "Benguela   "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 118,
+      "question": "The most important cause of tides is the,",
+      "option": {
+        "a": "distribution of the prevailing winds ",
+        "b": "rotation of the earth on its own axis  ",
+        "c": "inclination of the earth’s axis  ",
+        "d": "gravity attraction of the moon "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 119,
+      "question": "Desert soils are usually deficient in ",
+      "option": {
+        "a": "fertility  ",
+        "b": "humus content ",
+        "c": "horizon ",
+        "d": "light grey colour   "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 120,
+      "question": "At the summer solstice [June 21st], which of the following latitudes will have the longest day ",
+      "option": {
+        "a": "700S   ",
+        "b": "900S  ",
+        "c": "300N   ",
+        "d": "650N   "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 121,
+      "question": "Cyclones refer to ",
+      "option": {
+        "a": "centers of relatively high pressure ",
+        "b": "centers of relatively low pressure ",
+        "c": "centers Tsunamis ",
+        "d": "centers in the desert "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 122,
+      "question": "The wearing away of the sides and bottom of a river channel is called ",
+      "option": {
+        "a": "corrasion ",
+        "b": "corrosion ",
+        "c": "hydraulic action ",
+        "d": "Complicated erosion "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 123,
+      "question": "When the moon comes in between the earth and the sun in a straight line, it is known as  ",
+      "option": {
+        "a": "solar eclipse ",
+        "b": "eclipse of the earth ",
+        "c": "eclipse of the moon ",
+        "d": "lunar eclipse "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 124,
+      "question": "A degree of latitudinal distance is approximately  ",
+      "option": {
+        "a": "111km  ",
+        "b": "221KM ",
+        "c": " 121km  ",
+        "d": "212km  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 125,
+      "question": "Which of the following places in Nigeria has the highest mean annual rainfall amount ",
+      "option": {
+        "a": "Sokoto  ",
+        "b": "Maiduguri  ",
+        "c": "Nguru   ",
+        "d": "Kano  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 126,
+      "question": "The formulae for converting temperature from a centigrade (0C) to a Fahrenheit (0F) thermometric scale? ",
+      "option": {
+        "a": "0F = 1.8 x 0C + 32  ",
+        "b": "0F = 0.5x 0C + 32  ",
+        "c": "0F = 1.8x 0C – 32   ",
+        "d": "0F = 0.5x 0C – 32  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 127,
+      "question": "The Northern Hemisphere’s Spring Equinox is during the month of",
+      "option": {
+        "a": "February ",
+        "b": "march ",
+        "c": "April   ",
+        "d": "May  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 128,
+      "question": "Noonday sun is vertically overhead along the Tropic of Cancer during the month of  ",
+      "option": {
+        "a": "June  ",
+        "b": "July  ",
+        "c": "August  ",
+        "d": "September "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 129,
+      "question": "An instrument used in measuring the atmospheric pressure is called ",
+      "option": {
+        "a": "Barometer ",
+        "b": "Thermomete",
+        "c": "Hygrometer",
+        "d": "Presometer"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 130,
+      "question": "Orographic rainfall is also called ",
+      "option": {
+        "a": "Relief rainfall",
+        "b": "cyclonic rainfall ",
+        "c": "convectional rainfall ",
+        "d": "frontal rainfall "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 131,
+      "question": "The forest type which is richest in tree species is the ",
+      "option": {
+        "a": "Deciduous forest ",
+        "b": "Mediterranean forest ",
+        "c": "Tropical Lowland  rainforest ",
+        "d": "coniferous forest  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 132,
+      "question": "Which of the following statements is not true for lines of latitudes?",
+      "option": {
+        "a": "they range from 00 to 1800 North and South ",
+        "b": "they range from 00 to 900 North and South ",
+        "c": "They vary in D. they form parallel circles",
+        "d": "only one line is a great circle."
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 133,
+      "question": "The earths rotates through 150C of longitude in  ",
+      "option": {
+        "a": "24hrs  ",
+        "b": "15hrs  ",
+        "c": "4hrs   ",
+        "d": "1hrs   "
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 134,
+      "question": "What is the local standard time in New York (750W) when it is 2pm in Accra? ",
+      "option": {
+        "a": "9.00pm  ",
+        "b": "9.00 pm  ",
+        "c": "7.00pm   ",
+        "d": "7.00am "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 135,
+      "question": "Aeolian erosion refers to the work of  ",
+      "option": {
+        "a": "Wind ",
+        "b": "Running water  ",
+        "c": "Glacier  ",
+        "d": "Ice  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 136,
+      "question": "Which of the following landforms is the results of  river rejuvenated?  ",
+      "option": {
+        "a": "Ox-box lake ",
+        "b": "flood plain ",
+        "c": "terrace  ",
+        "d": "alluvial fan  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    },
+    {
+      "id": 137,
+      "question": "The representative fraction of 1:50,000 can be converted to the following  ",
+      "option": {
+        "a": "one cm to 5km  ",
+        "b": "one cm to 0.05km  ",
+        "c": "one cm to 2km  ",
+        "d": "one cm to 4km  "
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "post-utme",
+      "examyear": "2011"
+    }
+  ]
+}

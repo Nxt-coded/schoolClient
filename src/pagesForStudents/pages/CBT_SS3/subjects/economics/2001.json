@@ -1,0 +1,718 @@
+{
+  "subject": "economics",
+  "status": 200,
+  "total": 46,
+  "data": [
+    {
+      "id": 185,
+      "question": "Economic problems arise because",
+      "option": {
+        "a": "resources are scarce relative to wants",
+        "b": "man is insatiable",
+        "c": "money is scarce",
+        "d": "man engages in too many economic activities"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 186,
+      "question": "Economic problems arise because",
+      "option": {
+        "a": "resources are scarce relative to wants",
+        "b": "man is insatiable",
+        "c": "money is scarce",
+        "d": "man engages in too many economic activities"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 187,
+      "question": "The economic system in which resources are privately owned is known as",
+      "option": {
+        "a": "capitalism",
+        "b": "socialism",
+        "c": "Communism",
+        "d": "unitarism"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 188,
+      "question": "Quasi-rent refers to",
+      "option": {
+        "a": "Payment made on acquisition of firm’s premises",
+        "b": "Payment  made  for  the  procurement  of  tools  and equipment",
+        "c": "Returns on investment",
+        "d": "Payment made on  any  factor  of  production  that  is temporarily fixed in supply"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 189,
+      "question": "The reward for entrepreneurship is",
+      "option": { "a": "rent", "b": "wages", "c": "Interest", "d": "profit" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 190,
+      "question": "Which of the following is function of an entrepreneur?",
+      "option": {
+        "a": "Avoidance of risks",
+        "b": "Decision making",
+        "c": "Employment control",
+        "d": "Organizing unions"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 191,
+      "question": "The difference between the highest and lowest in a set of data is the",
+      "option": { "a": "Range", "b": "median", "c": "variance", "d": "mode" },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 192,
+      "question": "In which of the following economic systems is the consumer referred to as King?",
+      "option": {
+        "a": "Capitalist economy",
+        "b": "Socialist economy",
+        "c": "Communist economy",
+        "d": "Mixed Economy"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 193,
+      "question": "The dispersal of people in a country is called",
+      "option": {
+        "a": "mobility of people",
+        "b": "geographical distribution",
+        "c": "occupational distribution",
+        "d": "state distribution"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 194,
+      "question": "In a country with ageing population, the total population",
+      "option": {
+        "a": "comprises young school leavers only",
+        "b": "comprises mainly women",
+        "c": "is increasing at a low rate",
+        "d": "has reached the optimum level"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 195,
+      "question": "Population growth can be controlled by all the following except",
+      "option": {
+        "a": "legalizing abortion",
+        "b": "incentives on immigration",
+        "c": "family planning",
+        "d": "limiting number of children per family"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 196,
+      "question": "Performance of one task in a production process is known as",
+      "option": {
+        "a": "Specialization",
+        "b": "standardization",
+        "c": "division of labour",
+        "d": "segmentation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 197,
+      "question": "The marginal product at the fourth variable factor is",
+      "option": { "a": "12", "b": "9", "c": "8", "d": "6" },
+      "section": "Use the value to answer question: Units  of Variable factor [1,2,3,4,5,]  Total Product [25,31,40,48,55]",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 198,
+      "question": "The difference between the highest and the least marginal",
+      "option": {
+        "a": "product of the variable factor is    \n\t3",
+        "b": "8",
+        "c": "10",
+        "d": "12"
+      },
+      "section": "Use the value to answer question: Units  of Variable factor [1,2,3,4,5,]  Total Product [25,31,40,48,55]",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 199,
+      "question": "The average product of the variable factor when four units are employed is",
+      "option": { "a": "6", "b": "8", "c": "12", "d": "48" },
+      "section": "Use the value to answer question: Units  of Variable factor [1,2,3,4,5,]  Total Product [25,31,40,48,55]",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 200,
+      "question": "The cost incurred by using both fixed and variable factors in production is called",
+      "option": {
+        "a": "marginal cost",
+        "b": "fixed cost",
+        "c": "total cost",
+        "d": "average cost"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 201,
+      "question": "Consumers buy more of a commodity at a lower price than at a higher price because",
+      "option": {
+        "a": "producers like to produce more",
+        "b": "in any given situation, people like to buy more",
+        "c": "consumers like to show off",
+        "d": "with the same amount of money, they will be able to buy more"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 202,
+      "question": "The demand for a commodity not directly for immediate consumption but for the production of another commodity is",
+      "option": {
+        "a": "competitive demand",
+        "b": "derived demand",
+        "c": "composite demand",
+        "d": "joint demand"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 203,
+      "question": "Which of the following is a luxury item?",
+      "option": { "a": "Petrol", "b": "Textbook", "c": "Pencil", "d": "Gold" },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 204,
+      "question": "If the quantity demanded of a particular commodity is represented by the function Qd = 30 - 2p. What is the quantity demanded at a price of twelve Naira?",
+      "option": {
+        "a": "6 units",
+        "b": "8 units",
+        "c": "10 units",
+        "d": "12 units"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 205,
+      "question": "The responsiveness of demand to a change in income is the measurement of",
+      "option": {
+        "a": "foreign exchange rate",
+        "b": "cross elasticity of demand",
+        "c": "income elasticity of demand",
+        "d": "price index elasticity"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 206,
+      "question": "The upward sloping of the supply curve indicates that",
+      "option": {
+        "a": "more will be supplied as price rises",
+        "b": "less will be supplied as price rises",
+        "c": "supply is not a function of price",
+        "d": "supply is static and demand is dynamic"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 207,
+      "question": "Monoculture agriculture means",
+      "option": {
+        "a": "the cultivation of seasonal crops",
+        "b": "the cultivation of one major crop",
+        "c": "plantation agriculture",
+        "d": "shifting cultivation!"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 208,
+      "question": "Industries are not sited in most rural areas of Nigeria because",
+      "option": {
+        "a": "of inadequate basic infrastructure",
+        "b": "they lack raw materials",
+        "c": "there is no appropriate government policy",
+        "d": "the climate is not conducive"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 209,
+      "question": "Which of the following business units can issue shares?",
+      "option": {
+        "a": "Sole trader",
+        "b": "Private limited company",
+        "c": "Central Bank",
+        "d": "Supermarket"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 210,
+      "question": "When the government initiates measures to make an organization in which it has substantial interest more profit \toriented, such a business is described as being",
+      "option": {
+        "a": "indigenized",
+        "b": "restructured",
+        "c": "Privatized",
+        "d": "commercialized"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 211,
+      "question": "Which of the following is not a trade union in Nigeria?",
+      "option": {
+        "a": "Nigerian Labour Congress",
+        "b": "Academic Staff Union of Universities",
+        "c": "Nigerian Economic Society",
+        "d": "Nigerian Union of Journalists"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 212,
+      "question": "The monopolist power can be controlled by the government through",
+      "option": {
+        "a": "Labour union",
+        "b": "Price legislation",
+        "c": "import restrictions",
+        "d": "export promotion"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 213,
+      "question": "Which of the following is not a condition for a perfect market?",
+      "option": {
+        "a": "Homogenous commodity",
+        "b": "Ignorance of consumers",
+        "c": "Perfect information",
+        "d": "Free entry and exit"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 214,
+      "question": "The reward for shareholdership of a company is",
+      "option": {
+        "a": "Wages",
+        "b": "interest",
+        "c": "dividends",
+        "d": "profit"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 215,
+      "question": "In a public corporation, the risks of business are borne by the",
+      "option": {
+        "a": "workers",
+        "b": "tax payers",
+        "c": "board members",
+        "d": "treasury"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 216,
+      "question": "One of the functions of money is",
+      "option": {
+        "a": "double coincidence of wants",
+        "b": "unit of account",
+        "c": "indivisibility",
+        "d": "making payments through banks only"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 217,
+      "question": "Money is demanded for which of the following reasons?",
+      "option": {
+        "a": "To meet unforeseen contingencies",
+        "b": "To solve the problem of inflation",
+        "c": "It is easily divisible",
+        "d": "It is portable"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 218,
+      "question": "The Quantity Theory of money states that a reduction in the quantity of money in circulation would bring about",
+      "option": {
+        "a": "a geometrical fall in prices",
+        "b": "a proprotionate fall in price",
+        "c": "a rise in prices",
+        "d": "an unequal fall in prices"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 219,
+      "question": "Which of the following is the most liquid asset?",
+      "option": {
+        "a": "Bank notes",
+        "b": "Silver",
+        "c": "Bank deposit",
+        "d": "Cheques"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 220,
+      "question": "The situation in which there is a persistent fall in the general price level is referred to as",
+      "option": {
+        "a": "devaluation",
+        "b": "depreciation",
+        "c": "deflation",
+        "d": "inflation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 221,
+      "question": "Commercial banks settle their daily interbank indebtedness through the",
+      "option": {
+        "a": "Money Market",
+        "b": "Finance House",
+        "c": "Acceptance House",
+        "d": "Clearing House"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 222,
+      "question": "One disadvantage of inflation is that",
+      "option": {
+        "a": "fixed income earners gain",
+        "b": "fixed income earners lose",
+        "c": "businessmen lose",
+        "d": "standard of living rises"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 223,
+      "question": "Short-term loans can be sourced from",
+      "option": {
+        "a": "the central bank",
+        "b": "development banks",
+        "c": "mortgage banks",
+        "d": "commercial banks"
+      },
+      "section": "",
+      "image": "",
+      "answer": "d",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 224,
+      "question": "If there is an increase in wages and salaries without a corresponding increase in the supply of goods and services, the situation will lead to",
+      "option": {
+        "a": "a reduction in aggregate demand",
+        "b": "inflation",
+        "c": "depression",
+        "d": "budget surplus"
+      },
+      "section": "",
+      "image": "",
+      "answer": "b",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 225,
+      "question": "Public expenditure can be financed from all the following sources except",
+      "option": {
+        "a": "borrowing",
+        "b": "grant-in-aid",
+        "c": "royalties and rents",
+        "d": "Mobilization fees"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 226,
+      "question": "Which of the following is a direct tax?",
+      "option": {
+        "a": "Import duty",
+        "b": "Export duty",
+        "c": "Capital gain tax",
+        "d": "Sales tax"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 227,
+      "question": "Tax evasions means",
+      "option": {
+        "a": "postponing payment of tax",
+        "b": "tax payment according to ability to pay",
+        "c": "making false declaration of taxable income",
+        "d": "paying little amount of money as tax"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 228,
+      "question": "A greater burden of tax on a product with high price elasticity of demand rests mainly on the",
+      "option": {
+        "a": "producer",
+        "b": "teacher",
+        "c": "civil servant",
+        "d": "middlemen"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 229,
+      "question": "An ad valorem tax refers to a tax",
+      "option": {
+        "a": "imposed on exports",
+        "b": "on goods manufactured in the country",
+        "c": "based on the value of the commodity",
+        "d": "levied on income"
+      },
+      "section": "",
+      "image": "",
+      "answer": "c",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    },
+    {
+      "id": 230,
+      "question": "Which of the following is associated with the development of the petroleum industry in Nigeria?",
+      "option": {
+        "a": "Neglect of agriculture",
+        "b": "Increase in population growth",
+        "c": "Increase in the rate of Unemployment",
+        "d": "Decrease in the rate of inflation"
+      },
+      "section": "",
+      "image": "",
+      "answer": "a",
+      "solution": "",
+      "examtype": "wassce",
+      "examyear": "2001"
+    }
+  ]
+}

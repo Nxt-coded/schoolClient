@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow private user/admin application dashboards from crawling
+Disallow: /admin-view-only/
+Disallow: /step-two-data/
+Disallow: /step-third-data/
+
+# Sitemap location
+Sitemap: https://justnext.ng/sitemap.xml
