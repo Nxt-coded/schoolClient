@@ -79,7 +79,7 @@ const ClassSubjectScreen: FC<{ classroom: any; school: any }> = ({
       {readSubject?.length > 0 ? (
         <div className="mt-1 w-full gap-2 grid grid-cols-1 lg:grid-cols-2  xl:grid-cols-3">
           {readSubject?.map((props: any) => {
-            const currentTerm = school?.presentTerm;
+            const currentTerm = classroom?.presentTerm || school?.presentTerm;
             const currentSession = school?.presentSession;
 
             const hasExam = matchesCurrentAssessmentPeriod(

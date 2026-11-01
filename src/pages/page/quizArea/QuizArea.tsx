@@ -46,6 +46,7 @@ import {
   randomizeStopExam,
   randomizeStopMidTest,
   readClassInfo,
+  readClassInfoSubject,
   startExamination,
   startMidTest,
   stopExamination,
@@ -73,9 +74,9 @@ const ExamQuizSetupScreen = () => {
 
   const normalize:any = (val: string) => val?.trim()?.toLowerCase();
   const currentTerm =
+    state?.presentTerm ||
     schoolInfoData?.presentTerm ||
-    schoolAnnouncement?.presentTerm ||
-    state?.presentTerm;
+    schoolAnnouncement?.presentTerm;
 
   const { subjectQuiz } = useSujectQuiz(subjectID!);
 
@@ -98,7 +99,16 @@ const ExamQuizSetupScreen = () => {
   const [selectedQuizId, setSelectedQuizId] = useState<string | null>(null);
 
   useEffect(() => {
-    if (subjectQuiz?.designated) {
+    const classID =
+      subjectQuiz?.subjectClassID ||
+      subjectQuiz?.subjectClassIDs ||
+      subjectQuiz?.classID;
+
+    if (classID) {
+      readClassInfoSubject(String(classID)).then((res: any) => {
+        setState(res.data);
+      });
+    } else if (subjectQuiz?.designated) {
       readClassInfo(subjectQuiz.designated).then((res: any) => {
         setState(res.data);
       });
@@ -389,8 +399,9 @@ const ExamQuizSetupScreen = () => {
 
       <div>
         {examination?.exam &&
-        (normalize(examination?.exam?.term) === normalize(currentTerm) ||
-          !examination?.exam?.term) ? (
+        (!currentTerm ||
+          !examination?.exam?.term ||
+          normalize(examination?.exam?.term) === normalize(currentTerm)) ? (
           <div className="relative overflow-hidden">
             <div className="border p-6 rounded-md min-h-[300px] flex flex-col relative overflow-hidden shadow-lg hover:shadow-2xl transition-shadow duration-300">
               <div className="absolute top-0 right-0 text-[200px] opacity-5 font-bold text-red-300">
@@ -933,8 +944,9 @@ const ExamQuizSetupScreen = () => {
 
       <div className="mt-10 bg-slate-50">
         {midTest &&
-        normalize(midTest?.term) ===
-          normalize(currentTerm) ? (
+        (!currentTerm ||
+          !midTest?.term ||
+          normalize(midTest?.term) === normalize(currentTerm)) ? (
           <div className="relative">
             <Toaster />
             <div className="border p-6 rounded-md min-h-[300px] flex flex-col relative overflow-hidden shadow-lg hover:shadow-2xl transition-shadow duration-300 ">

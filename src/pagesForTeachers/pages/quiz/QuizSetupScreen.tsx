@@ -246,7 +246,7 @@ const QuizSetupScreen = () => {
           setLoading(true);
           try {
             await deleteExamination(subjectID!, examToDelete);
-            examMutate(`api/api/view-subject-exam/${subjectID}`);
+            examMutate(`api/view-subject-exam/${subjectID}`);
           } catch (error) {
             console.error(error);
             toast.error(`Failed to delete ${currentTerm} examination`);
