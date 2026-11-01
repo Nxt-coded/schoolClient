@@ -24,6 +24,7 @@ import { mutate } from "swr";
 import Input from "../../../components/reUse/Input";
 import { FaSpinner } from "react-icons/fa6";
 import { set } from "lodash";
+import { ConfirmDeleteModal } from "../../../components/modals/ConfirmDeleteModal";
 
 interface iProps {
   props?: any;
@@ -192,21 +193,13 @@ const ViewSubjects = () => {
   };
   const [propsID, setPropsID] = useState<string | null>("");
   const [propsIDII, setPropsIDII] = useState<string | null>("");
+  const [subjectToDelete, setSubjectToDelete] =
+    useState<SubjectRecord | null>(null);
 
   const handleDeleteSubject = async (subject: SubjectRecord) => {
     const subjectID = subject._id;
     if (!dataID || !subjectID) {
       toast.error("Unable to identify this subject");
-      return;
-    }
-
-    if (
-      !window.confirm(
-        `Delete ${subject?.subjectTitle || "this subject"} from ${
-          subject?.designated || "its classroom"
-        }? This cannot be undone.`
-      )
-    ) {
       return;
     }
 
@@ -258,6 +251,22 @@ const ViewSubjects = () => {
       <LittleHeader name={"View Subject"} />
       <Toaster position="top-center" reverseOrder={true} />
       <div className="mb-10" />
+      <ConfirmDeleteModal
+        isOpen={subjectToDelete !== null}
+        onClose={() => setSubjectToDelete(null)}
+        onConfirm={async () => {
+          if (!subjectToDelete) return;
+          await handleDeleteSubject(subjectToDelete);
+          setSubjectToDelete(null);
+        }}
+        title="Delete Subject?"
+        message={`Delete ${subjectToDelete?.subjectTitle || "this subject"} from ${
+          subjectToDelete?.designated || "its classroom"
+        }? This action cannot be undone.`}
+        loading={Boolean(
+          subjectToDelete?._id && propsIDII === subjectToDelete._id
+        )}
+      />
 
       <div className="flex w-full justify-between items-start">
         <Input
@@ -499,7 +508,7 @@ const ViewSubjects = () => {
                   </label>
                   <label
                     className="w-[200px] my-3 bg-red-500 text-white py-2 px-4 flex justify-center items-center rounded-md text-[12px] transition-all duration-300 cursor-pointer "
-                    onClick={() => handleDeleteSubject(props)}
+                    onClick={() => setSubjectToDelete(props)}
                   >
                     {propsIDII === props._id ? (
                       <span className="flex items-center gap-2">

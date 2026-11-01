@@ -1,9 +1,7 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef, useCallback } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { isAnswerMatched } from "../../../lib/utils";
-import Button from "../../../components/reUse/Button";
 import LittleHeader from "../../../components/layout/LittleHeader";
-import { useMidTest } from "../../../pagesForTeachers/hooks/useTeacher";
 import { performanceMidTest } from "../../api/studentAPI";
 import { useMidTestStudent, useStudentInfo } from "../../hooks/useStudentHook";
 import toast, { Toaster } from "react-hot-toast";
@@ -13,11 +11,59 @@ import CountdownTimer from "../../../components/static/CountdownTimer";
 import { MdOutlineTimer } from "react-icons/md";
 import { useStudentPerfomance } from "../../../pagesForTeachers/hooks/useQuizHook";
 import lodash from "lodash";
-// import { useSchoolClassRMDetail } from "@/pages/hook/useSchoolAuth";
-
-import { ChevronLeft, ChevronRight, CheckCircle } from "lucide-react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
 import { FaSpinner } from "react-icons/fa6";
 import { useAssessmentProtection } from "../../hooks/useAssessmentProtection";
+
+interface MidTestQuestion {
+  answer?: unknown;
+  question?: unknown;
+  options?: unknown[];
+  images?: string[];
+}
+
+interface MidTestData {
+  subjectID?: string;
+  subjectTitle?: string;
+  status?: string;
+  randomize?: boolean;
+  quiz?: {
+    question?: MidTestQuestion[];
+    instruction?: {
+      duration?: string;
+      mark?: string | number;
+    };
+  };
+}
+
+interface MidTestSubmission {
+  payload: {
+    studentScore: number;
+    studentGrade: string | null;
+    remark: string;
+    totalQuestions: number;
+    markPerQuestion?: string | number;
+    status?: string;
+  };
+  result: {
+    correctAnswers: string[];
+    studentAnswers: Record<number, string>;
+    score: number;
+    total: number;
+  };
+}
+
+interface MidTestSession {
+  state?: Record<number, string>;
+  started?: boolean;
+  timeUp?: boolean;
+  offlineAtDeadline?: boolean;
+  questions?: MidTestQuestion[];
+  questionOrder?: number[];
+  currentQuestion?: number;
+  answers?: Record<number, number>;
+  pendingSubmission?: MidTestSubmission | null;
+}
 
 const MidTestScreen = () => {
   const enterAssessmentMode = useAssessmentProtection();
@@ -25,41 +71,196 @@ const MidTestScreen = () => {
   const navigate = useNavigate();
   const { midTestID, subjectID } = useParams();
 
-  //   const { quizData } = useQuiz(midTestID!);
   const { midTest: quizData } = useMidTestStudent(subjectID!);
   const { studentInfo } = useStudentInfo();
   const { performance } = useStudentPerfomance(studentInfo?._id);
 
-  // const { midTest } = useMidTest(midTestID!);
-  // const { classroom } = useSchoolClassRMDetail(studentInfo?.schoolIDs);
-
-  const [state, setState] = useState<any>(
-    JSON.parse(localStorage.getItem("midTest")!)?.state || {}
-  );
+  const [cachedStudentID] = useState(() => {
+    try {
+      return localStorage.getItem(`midTestStudent_${midTestID}`) || "";
+    } catch (error) {
+      console.error("Unable to read the saved mid-test student:", error);
+      return "";
+    }
+  });
+  const studentID = studentInfo?._id || cachedStudentID;
+  const sessionKey = `midTestSession_${studentID}_${midTestID}`;
+  const quizCacheKey = `midTestQuiz_${midTestID}`;
+  const [cachedQuiz, setCachedQuiz] = useState<MidTestData | null>(() => {
+    try {
+      const saved = localStorage.getItem(quizCacheKey);
+      return saved ? JSON.parse(saved) : null;
+    } catch (error) {
+      console.error("Unable to read the saved mid-test questions:", error);
+      return null;
+    }
+  });
+  const activeQuizData = quizData || cachedQuiz;
+  const [state, setState] = useState<Record<number, string>>({});
   const [start, setStart] = useState<boolean>(false);
   const [loading, setLoading] = useState<boolean>(false);
   const [activate, setActivate] = useState<boolean>(false);
   const [timeUp, setTimeUp] = useState<boolean>(false);
   const [isSubmitted, setIsSubmitted] = useState<boolean>(false);
+  const [isOnline, setIsOnline] = useState(navigator.onLine);
+  const [offlineAtDeadline, setOfflineAtDeadline] = useState(false);
+  const [sessionLoaded, setSessionLoaded] = useState(false);
+  const [readQuestion, setReadQuestion] = useState<MidTestQuestion[]>([]);
+  const [questionOrder, setQuestionOrder] = useState<number[] | null>(null);
+  const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [answers, setAnswers] = useState<Record<number, number>>({});
+  const [pendingSubmission, setPendingSubmission] =
+    useState<MidTestSubmission | null>(null);
+  const submittingRef = useRef(false);
 
-  const courseID = quizData?.subjectID;
+  const courseID = activeQuizData?.subjectID;
 
-  const handleStateChange = (questionIndex: any, optionValue: any) => {
-    console.log("Selected answer:", {
-      questionIndex,
-      optionValue: optionValue.trim(),
-      originalValue: optionValue,
+  useEffect(() => {
+    if (!studentInfo?._id) return;
+    try {
+      localStorage.setItem(`midTestStudent_${midTestID}`, studentInfo._id);
+    } catch (error) {
+      console.error("Unable to save the mid-test student ID:", error);
+    }
+  }, [studentInfo?._id, midTestID]);
+
+  useEffect(() => {
+    const handleOnline = () => setIsOnline(true);
+    const handleOffline = () => setIsOnline(false);
+    window.addEventListener("online", handleOnline);
+    window.addEventListener("offline", handleOffline);
+    return () => {
+      window.removeEventListener("online", handleOnline);
+      window.removeEventListener("offline", handleOffline);
+    };
+  }, []);
+
+  useEffect(() => {
+    if (!quizData?.quiz?.question?.length) return;
+    const snapshot: MidTestData = {
+      subjectID: quizData.subjectID,
+      subjectTitle: quizData.subjectTitle,
+      status: quizData.status,
+      randomize: quizData.randomize,
+      quiz: {
+        question: quizData.quiz.question,
+        instruction: quizData.quiz.instruction,
+      },
+    };
+    setCachedQuiz(snapshot);
+    try {
+      localStorage.setItem(quizCacheKey, JSON.stringify(snapshot));
+    } catch (error) {
+      console.error("Unable to cache mid-test questions:", error);
+      toast.error("Unable to save the test questions for offline recovery");
+    }
+  }, [quizData, quizCacheKey]);
+
+  const saveSession = useCallback(
+    (updates: Partial<MidTestSession>) => {
+      if (!studentID || !midTestID) return;
+      try {
+        const saved = localStorage.getItem(sessionKey);
+        const session: MidTestSession = saved ? JSON.parse(saved) : {};
+        localStorage.setItem(
+          sessionKey,
+          JSON.stringify({ ...session, ...updates })
+        );
+      } catch (error) {
+        console.error("Unable to save mid-test progress:", error);
+        toast.error("Your test progress could not be saved on this device");
+      }
+    },
+    [studentID, midTestID, sessionKey]
+  );
+
+  useEffect(() => {
+    if (!studentID || !midTestID) return;
+    setSessionLoaded(false);
+    try {
+      const saved = localStorage.getItem(sessionKey);
+      const session: MidTestSession = saved ? JSON.parse(saved) : {};
+      setState(session.state || {});
+      setStart(Boolean(session.started));
+      setActivate(Boolean(session.started));
+      setTimeUp(Boolean(session.timeUp));
+      setOfflineAtDeadline(Boolean(session.offlineAtDeadline));
+      const restoredQuestions = Array.isArray(session.questions)
+        ? session.questions
+        : [];
+      setReadQuestion(restoredQuestions);
+      setQuestionOrder(
+        Array.isArray(session.questionOrder) ? session.questionOrder : null
+      );
+      setCurrentQuestion(
+        Math.min(
+          Math.max(0, session.currentQuestion || 0),
+          Math.max(0, restoredQuestions.length - 1)
+        )
+      );
+      setAnswers(session.answers || {});
+      setPendingSubmission(session.pendingSubmission || null);
+      setSessionLoaded(true);
+    } catch (error) {
+      console.error("Unable to restore mid-test progress:", error);
+      toast.error("Saved test progress could not be restored");
+      setSessionLoaded(true);
+    }
+  }, [studentID, midTestID, sessionKey]);
+
+  useEffect(() => {
+    if (
+      !sessionLoaded ||
+      readQuestion.length ||
+      !activeQuizData?.quiz?.question?.length
+    ) {
+      return;
+    }
+    const sourceQuestions = activeQuizData.quiz.question;
+    const order =
+      questionOrder?.length === sourceQuestions.length
+        ? questionOrder
+        : activeQuizData.randomize
+          ? sourceQuestions.map((_, index) => index)
+          : lodash.shuffle(sourceQuestions.map((_, index) => index));
+    const questions = order
+      .map((index) => sourceQuestions[index])
+      .filter((question): question is MidTestQuestion => Boolean(question));
+    setReadQuestion(questions);
+    setQuestionOrder(order);
+    saveSession({ questionOrder: order });
+  }, [
+    activeQuizData,
+    questionOrder,
+    readQuestion.length,
+    sessionLoaded,
+    saveSession,
+  ]);
+
+  useEffect(() => {
+    if (!sessionLoaded) return;
+    saveSession({
+      state,
+      started: start,
+      timeUp,
+      offlineAtDeadline,
+      questionOrder,
+      currentQuestion,
+      answers,
+      pendingSubmission,
     });
-
-    setState((prev: any) => {
-      const newState = {
-        ...prev,
-        [questionIndex]: optionValue.trim(),
-      };
-      console.log("Updated state:", newState);
-      return newState;
-    });
-  };
+  }, [
+    state,
+    start,
+    timeUp,
+    offlineAtDeadline,
+    questionOrder,
+    currentQuestion,
+    answers,
+    pendingSubmission,
+    sessionLoaded,
+    saveSession,
+  ]);
 
   const getRemark = (genPointScore: number) => {
     return genPointScore >= 0 && genPointScore <= 5
@@ -118,188 +319,174 @@ const MidTestScreen = () => {
     return null;
   };
 
-  const myQuizData: any = quizData?.quiz;
+  const myQuizData = activeQuizData?.quiz;
 
   const isQuizDone = performance?.performance?.find(
-    (el: any) => el?.quizID === midTestID && el?.quizDone
+    (el: { quizID?: string; quizDone?: boolean }) =>
+      el?.quizID === midTestID && el?.quizDone
   );
 
-  const timer = parseFloat(quizData?.quiz?.instruction?.duration);
+  const timer = Number.parseFloat(
+    activeQuizData?.quiz?.instruction?.duration || "0"
+  );
+  const timerInSeconds = Math.max(0, timer * 3600);
+  const countdownKey = `midTest-${studentID}-${midTestID}-countdown`;
 
-  let timerInSeconds = timer * 3600;
-
-  const countdownKey = midTestID
-    ? `midTest-${midTestID}-countdown`
-    : `midTest-countdown`;
-
-  const handleSubmit = () => {
-    if (isSubmitted) return;
-    setIsSubmitted(true);
-    setLoading(true);
-
-    const correctAnswers = (readQuestion || myQuizData?.question || []).map(
-      (q: any) =>
-        typeof q?.answer === "string"
-          ? q.answer.trim()
-          : q?.answer?.toString?.() || ""
-    );
-
-    let score = 0;
-    readQuestion?.forEach((question: any, index: number) => {
-      const correctAnswer = question.answer;
-      const studentAnswer = state[index];
-      if (isAnswerMatched(studentAnswer, correctAnswer)) {
-        score++;
-      }
-    });
-
-    const totalForCalc = correctAnswers.length || 1;
-    const percentage = Math.ceil((score / totalForCalc) * 100);
-    let remark = getRemark(percentage);
-    let grade = getGrade(percentage);
-
-    const markPerQuest = quizData?.quiz?.instruction?.mark;
-    const getQuizData = quizData?.quiz;
-
-    const totalquest = getQuizData?.question?.length;
-
-    timerInSeconds = 0;
-
-    performanceMidTest(studentInfo?._id, midTestID!, courseID, {
-      studentScore: score,
-      studentGrade: grade,
-      remark,
-      totalQuestions: totalquest,
-      markPerQuestion: markPerQuest,
-      status: quizData.status,
-    })
-      .then((res) => {
-        if (res.status === 201) {
-          toast.success(
-            `${
-              quizData?.status?.charAt(0).toUpperCase() +
-              quizData?.status.slice(1)
-            } submitted successfully`
-          );
-          navigate(`/confirm-quiz-take/${studentInfo?._id}`, {
-            state: {
-              correctAnswers,
-              studentAnswers: state,
-              score,
-              total: correctAnswers.length,
-            },
-          });
-        } else {
-          toast.error("Something went wrong");
-        }
-      })
-      .finally(() => {
-        setLoading(false);
-        try {
-          localStorage.removeItem(countdownKey);
-        } catch (e) {}
-        localStorage.removeItem("midTest");
-        localStorage.removeItem("midTestQuestions");
-        setTimeUp(false);
-        // keep isSubmitted true to avoid retrying
-      });
+  const handleStateChange = (questionIndex: number, optionValue: string) => {
+    const newState = { ...state, [questionIndex]: optionValue.trim() };
+    setState(newState);
+    saveSession({ state: newState });
   };
-  let score = 0;
 
-  const [readQuestion, setReadQuestion] = useState(
-    JSON.parse(localStorage.getItem("midTestQuestions")!)
-  );
+  const handleAnswerSelect = (optionIndex: number) => {
+    const newAnswers = { ...answers, [currentQuestion]: optionIndex };
+    setAnswers(newAnswers);
+    saveSession({ answers: newAnswers });
+  };
 
-  let savedSeconds = null;
-  try {
-    const raw = localStorage.getItem(countdownKey);
-    savedSeconds = raw ? JSON.parse(raw) : null;
-  } catch (e) {
-    savedSeconds = null;
-  }
+  const handleSubmit = async () => {
+    if (isSubmitted || submittingRef.current) return;
+    if (!studentID || !midTestID || !courseID) {
+      toast.error("Unable to identify this test. Your saved answers are safe.");
+      return;
+    }
 
-  useEffect(() => {
-    const handleKeyDown = (event: KeyboardEvent) => {
-      if ((event.ctrlKey && event.key === "r") || event.key === "F5") {
-        event.preventDefault();
-        toast.error(
-          `This action can't be done, while ${
-            quizData?.status?.charAt(0).toUpperCase() +
-            quizData?.status.slice(1)
-          } is ongoing!`
+    if (!navigator.onLine) {
+      setIsOnline(false);
+      toast.error("You are offline. Your answers are saved; reconnect to submit.");
+      return;
+    }
+
+    submittingRef.current = true;
+    setLoading(true);
+    let submission = pendingSubmission;
+    try {
+      if (!submission) {
+        const questions = readQuestion.length
+          ? readQuestion
+          : myQuizData?.question || [];
+        const correctAnswers = questions.map(
+          (question) =>
+            typeof question?.answer === "string"
+              ? question.answer.trim()
+              : question?.answer?.toString?.() || ""
+        );
+        const score = questions.reduce(
+          (total: number, question: MidTestQuestion, index: number) =>
+            total +
+            (isAnswerMatched(state[index], question.answer) ? 1 : 0),
+          0
+        );
+        const percentage = Math.ceil(
+          (score / (correctAnswers.length || 1)) * 100
+        );
+        submission = {
+          payload: {
+            studentScore: score,
+            studentGrade: getGrade(percentage),
+            remark: getRemark(percentage),
+            totalQuestions: questions.length,
+            markPerQuestion: activeQuizData?.quiz?.instruction?.mark,
+            status: activeQuizData?.status,
+          },
+          result: {
+            correctAnswers,
+            studentAnswers: state,
+            score,
+            total: correctAnswers.length,
+          },
+        };
+        setPendingSubmission(submission);
+        saveSession({ pendingSubmission: submission });
+      }
+
+      const response = await performanceMidTest(
+        studentID,
+        midTestID,
+        courseID,
+        submission.payload
+      );
+      if (response?.status !== 201) {
+        throw new Error(
+          response?.response?.data?.message ||
+            response?.message ||
+            "The test could not be submitted. Please retry."
         );
       }
-    };
 
-    window.addEventListener("keydown", handleKeyDown);
-    localStorage.setItem("midTest", JSON.stringify({ score, state }));
-
-    const question = JSON.parse(localStorage.getItem("midTestQuestions")!);
-
-    if (question === null) {
-      const sourceQuestions = myQuizData?.question ?? [];
-      const questionsToStore = !quizData?.randomize
-        ? lodash.shuffle([...sourceQuestions])
-        : sourceQuestions;
-      localStorage.setItem(
-        "midTestQuestions",
-        JSON.stringify(questionsToStore)
+      setIsSubmitted(true);
+      toast.success(
+        `${String(activeQuizData?.status || "Mid-test")
+          .charAt(0)
+          .toUpperCase()}${String(activeQuizData?.status || "Mid-test").slice(
+          1
+        )} submitted successfully`
       );
-      // localStorage.setItem(
-
-      // localStorage.setItem(
-      //   "midTestQuestions",
-      //   JSON.stringify(lodash.shuffle(myQuizData?.question))
-      // );
-      setReadQuestion(JSON.parse(localStorage.getItem("midTestQuestions")!));
-    } else if (question?.length === 0) {
-      localStorage.setItem(
-        "midTestQuestions",
-        JSON.stringify(lodash.shuffle(myQuizData?.question))
+      try {
+        localStorage.removeItem(sessionKey);
+        localStorage.removeItem(`${countdownKey}-deadline`);
+        localStorage.removeItem(quizCacheKey);
+        localStorage.removeItem(`midTestStudent_${midTestID}`);
+      } catch (error) {
+        console.error("Unable to clear completed mid-test progress:", error);
+      }
+      navigate(`/confirm-quiz-take/${studentID}`, {
+        state: submission.result,
+      });
+    } catch (error) {
+      console.error("Mid-test submission failed:", error);
+      setIsOnline(navigator.onLine);
+      toast.error(
+        navigator.onLine
+          ? error instanceof Error
+            ? error.message
+            : "Submission failed. Your answers are saved; please retry."
+          : "Connection lost. Your answers are saved; reconnect to submit."
       );
-      setReadQuestion(JSON.parse(localStorage.getItem("midTestQuestions")!));
+    } finally {
+      submittingRef.current = false;
+      setLoading(false);
     }
-
-    if (timeUp && !isSubmitted) {
-      // small delay to allow UI update and any pending state flush
-      const autoSubmit = setTimeout(() => {
-        handleSubmit();
-      }, 1000);
-      return () => clearTimeout(autoSubmit);
-    }
-
-    return () => {
-      window.removeEventListener("keydown", handleKeyDown);
-    };
-  }, [state, readQuestion, myQuizData, timeUp]);
+  };
+  const handleSubmitRef = useRef(handleSubmit);
+  handleSubmitRef.current = handleSubmit;
 
   useEffect(() => {
-    // keep countdown persisted across refreshes; only clear midTest metadata/questions on fresh mount
-    localStorage.removeItem("midTest");
-    localStorage.removeItem("midTestQuestions");
-  }, []);
-
-  const [currentQuestion, setCurrentQuestion] = useState(0);
-  const [answers, setAnswers] = useState({});
-  const [submitted, setSubmitted] = useState(false);
-  const [_score, setScore] = useState(0);
-
-  const handleAnswerSelect = (optionIndex) => {
-    setAnswers({
-      ...answers,
-      [currentQuestion]: optionIndex,
-    });
-  };
+    if (!sessionLoaded || !timeUp || isSubmitted || loading) return;
+    if (!isOnline) {
+      if (!offlineAtDeadline) {
+        setOfflineAtDeadline(true);
+        saveSession({ timeUp: true, offlineAtDeadline: true });
+        toast.error(
+          "Time is up, but you are offline. Your answers are saved; reconnect to submit."
+        );
+      }
+      return;
+    }
+    if (!offlineAtDeadline) void handleSubmitRef.current();
+  }, [
+    sessionLoaded,
+    timeUp,
+    isOnline,
+    offlineAtDeadline,
+    isSubmitted,
+    loading,
+    saveSession,
+  ]);
 
   const handleNext = () => {
     if (currentQuestion < readQuestion?.length - 1) {
-      setCurrentQuestion(currentQuestion + 1);
+      const nextQuestion = currentQuestion + 1;
+      setCurrentQuestion(nextQuestion);
+      saveSession({ currentQuestion: nextQuestion });
     }
   };
 
   const handlePrevious = () => {
     if (currentQuestion > 0) {
-      setCurrentQuestion(currentQuestion - 1);
+      const previousQuestion = currentQuestion - 1;
+      setCurrentQuestion(previousQuestion);
+      saveSession({ currentQuestion: previousQuestion });
     }
   };
 
@@ -307,13 +494,16 @@ const MidTestScreen = () => {
     return Object.keys(answers).length;
   };
 
-  const getShuffledOptions = (question, questionIndex) => {
+  const getShuffledOptions = (
+    question: MidTestQuestion,
+    questionIndex: number
+  ) => {
     // Ensure options exist
     if (!question?.options) return [];
 
     // Deterministic shuffle using a seeded PRNG based on questionIndex and question text
     function seededRandom(seed) {
-      let x = Math.sin(seed) * 10000;
+      const x = Math.sin(seed) * 10000;
       return x - Math.floor(x);
     }
 
@@ -323,7 +513,7 @@ const MidTestScreen = () => {
       (typeof question.question === "string"
         ? question.question
             .split("")
-            .reduce((acc, c) => acc + c.charCodeAt(0), 0)
+            .reduce((acc: number, c: string) => acc + c.charCodeAt(0), 0)
         : 0);
 
     // Copy options with original indices
@@ -342,13 +532,18 @@ const MidTestScreen = () => {
     }
     return arr;
   };
+  const currentQuestionData = readQuestion[currentQuestion];
+  const currentQuestionText =
+    typeof currentQuestionData?.question === "string"
+      ? currentQuestionData.question.replace(/^\d+\.\s*/, "")
+      : "";
 
   return (
     <div className="assessment-protected select-none">
       <Toaster position="top-center" reverseOrder={true} />
       <LittleHeader
         name={`
-          ${quizData?.subjectTitle} ${quizData?.status} Screen`}
+          ${activeQuizData?.subjectTitle} ${activeQuizData?.status} Screen`}
       />
 
       {isQuizDone ? (
@@ -364,23 +559,51 @@ const MidTestScreen = () => {
         </div>
       ) : (
         <div className="relative">
+          <div
+            className={`mx-4 mt-4 rounded-lg border px-4 py-3 text-sm ${
+              isOnline
+                ? "border-green-200 bg-green-50 text-green-800"
+                : "border-amber-300 bg-amber-50 text-amber-900"
+            }`}
+            role="status"
+          >
+            {isOnline
+              ? "Connected. Your answers are saved on this device."
+              : "You are offline. Keep answering; your progress is saved on this device. Submission will be available when you reconnect."}
+          </div>
+          {timeUp && offlineAtDeadline && (
+            <div className="mx-4 mt-3 rounded-lg border border-amber-300 bg-amber-50 px-4 py-3 text-sm font-medium text-amber-900">
+              Time is up. Your answers are safe. Reconnect to enable submission.
+            </div>
+          )}
           {!start && (
             <div className="absolute top-20 left-1/3 z-10  flex flex-col justify-center items-center gap-5">
               <MdPlayCircle
                 size={200}
-                className="cursor-pointer text-red-500 hover:text-red-600 transition-all duration-300"
+                className={`transition-all duration-300 ${
+                  sessionLoaded && readQuestion.length
+                    ? "cursor-pointer text-red-500 hover:text-red-600"
+                    : "cursor-not-allowed text-gray-300"
+                }`}
                 onClick={() => {
+                  if (!sessionLoaded || !readQuestion.length) {
+                    toast.error("Wait for the test questions to load before starting");
+                    return;
+                  }
                   enterAssessmentMode();
-                  // initialize per-test countdown so refresh continues the timer
                   try {
-                    const existing = localStorage.getItem(countdownKey);
-                    if (!existing) {
+                    const deadlineKey = `${countdownKey}-deadline`;
+                    if (!localStorage.getItem(deadlineKey)) {
                       localStorage.setItem(
-                        countdownKey,
-                        String(timerInSeconds)
+                        deadlineKey,
+                        String(Date.now() + timerInSeconds * 1000)
                       );
                     }
-                  } catch (e) {}
+                  } catch (error) {
+                    console.error("Unable to start the mid-test timer:", error);
+                    toast.error("The test timer could not be saved");
+                  }
+                  saveSession({ started: true });
 
                   if (!document.startViewTransition) {
                     setStart(true);
@@ -395,7 +618,9 @@ const MidTestScreen = () => {
               />
               <p className="font-medium text-[18px]">
                 Push Play to start your{" "}
-                <span className="font-bold capitalize">{quizData?.status}</span>
+                <span className="font-bold capitalize">
+                  {activeQuizData?.status}
+                </span>
               </p>
             </div>
           )}
@@ -405,12 +630,13 @@ const MidTestScreen = () => {
               <h1 className="mb-1 text-blue-950 font-semibold flex items-center justify-start gap-2">
                 Test Count Down Timer <MdOutlineTimer />
               </h1>
-              {activate && timerInSeconds ? (
+              {activate && timerInSeconds > 0 ? (
                 <div>
                   <CountdownTimer
                     initialSeconds={timerInSeconds}
                     onTimeUp={() => setTimeUp(true)}
                     storageKey={countdownKey}
+                    persistDeadline
                   />
                 </div>
               ) : null}
@@ -419,7 +645,7 @@ const MidTestScreen = () => {
 
           {/* Quiz Content */}
           <div className="bg-slate-50 justify-center flex min-h-[100vh] z-[1000]">
-            {start && (
+            {start && sessionLoaded && readQuestion.length > 0 && (
               <div className="min-h-screen md-full lg:min-w-[800px]  flex items-center justify-center p-2">
                 <div className="bg-white rounded-lg shadow-xl p-4 max-w-2xl w-full">
                   <div className="mb-6">
@@ -444,10 +670,13 @@ const MidTestScreen = () => {
 
                     {/* Question Number Navigator */}
                     <div className="flex flex-wrap gap-2">
-                      {readQuestion?.map((q, index) => (
+                      {readQuestion?.map((q: MidTestQuestion, index: number) => (
                         <button
                           key={index}
-                          onClick={() => setCurrentQuestion(index)}
+                          onClick={() => {
+                            setCurrentQuestion(index);
+                            saveSession({ currentQuestion: index });
+                          }}
                           className={`w-10 h-10 rounded-lg font-semibold transition-all ${
                             currentQuestion === index
                               ? "bg-blue-950 text-white ring-2 ring--blue-900"
@@ -478,19 +707,17 @@ const MidTestScreen = () => {
                         </span>
                       )}
                     </div>
-                    <h2 
+                    <h2
                       className="text-xl font-semibold text-gray-800 mb-6"
                       dangerouslySetInnerHTML={{
-                        __html: typeof readQuestion[currentQuestion]?.question === 'string' 
-                          ? readQuestion[currentQuestion]?.question?.replace(/^\d+\.\s*/, "") 
-                          : ""
+                        __html: currentQuestionText,
                       }}
                     />
 
-                    {readQuestion[currentQuestion]?.images && (
+                    {currentQuestionData?.images && (
                       <div>
                         <br />
-                        {readQuestion[currentQuestion]?.images?.map(
+                        {currentQuestionData.images.map(
                           (img: string, i: number) => (
                             <img src={img} key={i} className="h-60" />
                           )
@@ -536,15 +763,21 @@ const MidTestScreen = () => {
                     <hr className="my-4" /> */}
                     <div className="space-y-3">
                       {getShuffledOptions(
-                        readQuestion[currentQuestion],
+                        currentQuestionData,
                         currentQuestion
                       ).map(({ option, originalIndex }, displayIndex) => (
                         <button
                           key={displayIndex}
                           onClick={() => {
+                            if (pendingSubmission) return;
                             // Use originalIndex to maintain correct answer tracking
                             handleAnswerSelect(originalIndex);
-                            handleStateChange(currentQuestion, option);
+                            handleStateChange(
+                              currentQuestion,
+                              typeof option === "string"
+                                ? option
+                                : JSON.stringify(option) || ""
+                            );
                           }}
                           className={`w-full text-left p-4 rounded-lg border-2 transition-all ${
                             answers[currentQuestion] === originalIndex
@@ -585,14 +818,26 @@ const MidTestScreen = () => {
                       Previous
                     </button>
 
-                    {currentQuestion === readQuestion.length - 1 ? (
+                    {currentQuestion === readQuestion.length - 1 ||
+                    timeUp ||
+                    pendingSubmission ? (
                       <button
                         onClick={handleSubmit}
-                        disabled={getAnsweredCount() !== readQuestion?.length}
+                        disabled={
+                          loading ||
+                          !isOnline ||
+                          (!timeUp &&
+                            !pendingSubmission &&
+                            getAnsweredCount() !== readQuestion.length)
+                        }
                         className={`px-6 py-2 rounded-lg transition-colors ${
-                          getAnsweredCount() === readQuestion?.length
-                            ? "bg-green-600 text-white hover:bg-green-700"
-                            : "bg-gray-300 text-gray-500 cursor-not-allowed"
+                          loading ||
+                          !isOnline ||
+                          (!timeUp &&
+                            !pendingSubmission &&
+                            getAnsweredCount() !== readQuestion.length)
+                            ? "bg-gray-300 text-gray-500 cursor-not-allowed"
+                            : "bg-green-600 text-white hover:bg-green-700"
                         }`}
                       >
                         {loading ? (
@@ -600,6 +845,10 @@ const MidTestScreen = () => {
                             <FaSpinner className="text-white animate-spin " />{" "}
                             <span>Submitting</span>{" "}
                           </p>
+                        ) : !isOnline ? (
+                          "Waiting for connection"
+                        ) : pendingSubmission ? (
+                          "Retry Submission"
                         ) : (
                           "Submit Test"
                         )}
@@ -615,13 +864,21 @@ const MidTestScreen = () => {
                     )}
                   </div>
 
-                  {currentQuestion === readQuestion?.length - 1 &&
+                  {!timeUp &&
+                    currentQuestion === readQuestion?.length - 1 &&
                     getAnsweredCount() !== readQuestion?.length && (
                       <p className="text-center text-sm text-amber-600 mt-4">
                         Please answer all question before submitting
                       </p>
                     )}
                 </div>
+              </div>
+            )}
+            {start && sessionLoaded && !readQuestion.length && (
+              <div className="m-8 rounded-lg border border-amber-300 bg-amber-50 p-6 text-center text-amber-900">
+                {isOnline
+                  ? "Loading test questions..."
+                  : "Test questions are not available offline on this device."}
               </div>
             )}
           </div>

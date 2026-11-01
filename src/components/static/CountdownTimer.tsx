@@ -1,29 +1,66 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 
 interface CountdownTimerProps {
   initialSeconds: number;
   onTimeUp: () => void;
   storageKey?: string; // optional key to persist timer (useful for multiple timers)
+  persistDeadline?: boolean;
 }
 
 const CountdownTimer: React.FC<CountdownTimerProps> = ({
   initialSeconds,
   onTimeUp,
   storageKey,
+  persistDeadline = false,
 }) => {
   const key = storageKey || "countdown";
+  const onTimeUpRef = useRef(onTimeUp);
+  const hasCalledTimeUp = useRef(false);
+
+  useEffect(() => {
+    onTimeUpRef.current = onTimeUp;
+  }, [onTimeUp]);
 
   const [seconds, setSeconds] = useState<number>(() => {
     try {
+      if (persistDeadline) {
+        const deadline = Number(localStorage.getItem(`${key}-deadline`));
+        if (deadline > 0) {
+          return Math.max(0, Math.ceil((deadline - Date.now()) / 1000));
+        }
+        localStorage.setItem(
+          `${key}-deadline`,
+          String(Date.now() + initialSeconds * 1000)
+        );
+        return initialSeconds;
+      }
       const saved = localStorage.getItem(key);
       return saved ? Number(saved) : initialSeconds;
-    } catch (e) {
+    } catch (error) {
+      console.error("Unable to initialize the countdown:", error);
       return initialSeconds;
     }
   });
 
   // start stable interval once; use functional update to avoid depending on `seconds`
   useEffect(() => {
+    if (persistDeadline) {
+      const updateFromDeadline = () => {
+        try {
+          const deadline = Number(localStorage.getItem(`${key}-deadline`));
+          if (deadline > 0) {
+            setSeconds(Math.max(0, Math.ceil((deadline - Date.now()) / 1000)));
+          }
+        } catch (error) {
+          console.error("Unable to read the assessment deadline:", error);
+        }
+      };
+
+      updateFromDeadline();
+      const id = window.setInterval(updateFromDeadline, 1000);
+      return () => clearInterval(id);
+    }
+
     let stopped = false;
 
     const tick = () => {
@@ -32,8 +69,8 @@ const CountdownTimer: React.FC<CountdownTimerProps> = ({
         try {
           if (next > 0) localStorage.setItem(key, String(next));
           else localStorage.removeItem(key);
-        } catch (e) {
-          // ignore quota/localStorage errors
+        } catch (error) {
+          console.error("Unable to persist the countdown:", error);
         }
         return next;
       });
@@ -43,8 +80,13 @@ const CountdownTimer: React.FC<CountdownTimerProps> = ({
     if (seconds <= 0) {
       try {
         localStorage.removeItem(key);
-      } catch (e) {}
-      onTimeUp();
+      } catch (error) {
+        console.error("Unable to clear the completed countdown:", error);
+      }
+      if (!hasCalledTimeUp.current) {
+        hasCalledTimeUp.current = true;
+        onTimeUpRef.current();
+      }
       return;
     }
 
@@ -58,17 +100,22 @@ const CountdownTimer: React.FC<CountdownTimerProps> = ({
     };
     // We intentionally do not include `seconds` in deps so interval isn't recreated every tick.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [key, onTimeUp]);
+  }, [key, persistDeadline]);
 
   // watch for when seconds reaches 0 to call onTimeUp exactly once
   useEffect(() => {
     if (seconds === 0) {
       try {
-        localStorage.removeItem(key);
-      } catch (e) {}
-      onTimeUp();
+        if (!persistDeadline) localStorage.removeItem(key);
+      } catch (error) {
+        console.error("Unable to clear the completed countdown:", error);
+      }
+      if (!hasCalledTimeUp.current) {
+        hasCalledTimeUp.current = true;
+        onTimeUpRef.current();
+      }
     }
-  }, [seconds, key, onTimeUp]);
+  }, [seconds, key, onTimeUp, persistDeadline]);
 
   const formatTime = (secs: number): string => {
     const hours = Math.floor(secs / 3600);

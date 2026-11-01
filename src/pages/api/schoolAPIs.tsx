@@ -11,8 +11,8 @@ import { enqueue, QueueEntry } from "@/lib/offlineQueue";
 
 // ?working
 
-export const URL: string = "https://startschoolnextbe.onrender.com/api";
-const URL2: string = "https://startschoolnextbe.onrender.com";
+export const URL: string = "https://schoolserver-wrpc.onrender.com/api";
+const URL2: string = "https://schoolserver-wrpc.onrender.com";
 
 // ?New Try
 // export const URL: string = "https://start-school-be.vercel.app/api";

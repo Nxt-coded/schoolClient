@@ -8,7 +8,7 @@ import axios from "axios";
 //   import.meta.env.VITE_MAIN_URL || import.meta.env.VITE_PRODUCTION_URL;
 
 // const URL: string = "http://localhost:2244/api";
-const URL: string = "https://startschoolnextbe.onrender.com/api";
+const URL: string = "https://schoolserver-wrpc.onrender.com/api";
 // const URL: string = "https://start-school-be.vercel.app/api";
 
 export const viewMidTestAPI = async (subjectID: string) => {
@@ -25,7 +25,7 @@ export const viewMidTestAPI = async (subjectID: string) => {
 
 // Working Online
 
-// const URL: string = "https://startschoolnextbe.onrender.com/api"
+// const URL: string = "https://schoolserver-wrpc.onrender.com/api"
 // const URL = "http://localhost:2244/api
 
 export const getStudentPerformance = async (studentID: string) => {
@@ -497,7 +497,7 @@ export const createExaminationData = async (
     };
 
     // const URL = "http://localhost:2244/api";
-    // const URL = "https://startschoolnextbe.onrender.com/api";
+    // const URL = "https://schoolserver-wrpc.onrender.com/api";
 
     // const URL = "https://start-school-be.vercel.app/api";
 
