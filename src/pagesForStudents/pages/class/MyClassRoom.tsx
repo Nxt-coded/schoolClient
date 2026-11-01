@@ -1,14 +1,14 @@
 document.title = "class room Detail's Page";
 import { MdBook, MdDelete } from "react-icons/md";
-import { FC, useEffect, useState } from "react";
+import { FC } from "react";
 
 import {
   useClassSubject,
   useExamination,
   useMidTest,
+  useSchoolAnnouncement,
   useTeacherInfo,
 } from "../../../pagesForTeachers/hooks/useTeacher";
-import { useSchoolData } from "@/pages/hook/useSchoolAuth";
 import TimeTableScreen from "./TimeTableScreen";
 import { FaCheckDouble, FaStar } from "react-icons/fa6";
 import pix from "../../../assets/pix.jpg";
@@ -17,9 +17,9 @@ import {
   useReadOneClassInfo,
   useStudentInfo,
 } from "../../hooks/useStudentHook";
-import { readClassInfo } from "../../api/studentAPI";
 import LittleHeader from "../../../components/layout/LittleHeader";
 import { Link } from "react-router-dom";
+import { matchesCurrentAssessmentPeriod } from "../../../lib/assessmentPeriod";
 
 interface iProps {
   props?: string;
@@ -86,41 +86,26 @@ const ClassSubjectScreen: FC<iProps & { classInfo?: any }> = ({
 const StartTestComp: any = ({ props, subjectID, classInfo }) => {
   const { examination } = useExamination(subjectID!);
   const { midTest } = useMidTest(subjectID!);
-  const { data: schoolData } = useSchoolData();
+  const { studentInfo } = useStudentInfo();
+  const { schoolAnnouncement } = useSchoolAnnouncement(studentInfo?.schoolIDs);
 
-  const normalize = (val: string) => val?.trim()?.toLowerCase();
-  const currentTerm = schoolData?.presentTerm || classInfo?.presentTerm;
-
-  const schoolTerm = normalize(currentTerm || "");
-  const schoolSession = normalize(schoolData?.presentSession || "");
-
-  const matchesCurrentTerm = (termValue: any) => {
-    const term = normalize(termValue || "");
-    return schoolTerm === "" || term === schoolTerm || term === "";
-  };
-
-  const matchesCurrentSession = (sessionValue: any) => {
-    const session = normalize(sessionValue || "");
-    return schoolSession === "" || session === schoolSession || session === "";
-  };
-
-  const isRelevantTest = (termValue: any, sessionValue: any) => {
-    const termMatches = matchesCurrentTerm(termValue);
-    const sessionMatches = matchesCurrentSession(sessionValue);
-    return termMatches && sessionMatches
-      ? true
-      : termMatches || sessionMatches;
-  };
+  const currentTerm =
+    classInfo?.presentTerm || schoolAnnouncement?.presentTerm;
 
   const midMatch =
     !!midTest?.startMidTest &&
-    isRelevantTest(midTest?.term || midTest?.exam?.term, midTest?.session || midTest?.exam?.session);
+    matchesCurrentAssessmentPeriod(
+      midTest,
+      currentTerm,
+      schoolAnnouncement?.presentSession
+    );
 
   const examMatch =
     !!examination?.startExam &&
-    isRelevantTest(
-      examination?.exam?.term || examination?.term,
-      examination?.exam?.session || examination?.session
+    matchesCurrentAssessmentPeriod(
+      examination,
+      currentTerm,
+      schoolAnnouncement?.presentSession
     );
 
   const activeMidTestID =
@@ -192,15 +177,7 @@ const StaffDetail: FC<iProps> = ({ props }: any) => {
 const MyClassRoomScreen = () => {
   const { studentInfo } = useStudentInfo();
 
-  const [classInfo, setClassInfo] = useState<any>();
-
   const { oneClass } = useReadOneClassInfo(studentInfo?.presentClassID);
-
-  useEffect(() => {
-    readClassInfo(studentInfo?.classAssigned).then((res: any) => {
-      setClassInfo(res?.data);
-    });
-  }, []);
 
   return (
     <div className="text-blue-950">
@@ -266,7 +243,7 @@ const MyClassRoomScreen = () => {
           Below are all the subject this CLASS offers!
         </p>
 
-        <ClassSubjectScreen props={oneClass?._id} classInfo={classInfo} />
+        <ClassSubjectScreen props={oneClass?._id} classInfo={oneClass} />
       </div>
 
       {/* Top Students */}

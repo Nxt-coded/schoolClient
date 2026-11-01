@@ -159,7 +159,7 @@ export const useTeacherInfo = () => {
 };
 
 export const useClassSubject = (classID: string) => {
-  const x = `api/view-teacher-detail/${classID}`;
+  const x = `api/view-classroom-info-subject/${classID}`;
 
   const hasCache = sessionStorage.getItem(x) !== "false";
 

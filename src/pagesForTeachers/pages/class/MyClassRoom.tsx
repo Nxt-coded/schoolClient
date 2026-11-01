@@ -8,6 +8,7 @@ import {
   useClassStudent,
   useExamination,
   useMidTest,
+  useSchoolAnnouncement,
   useTeacherInfo,
 } from "../../../pagesForTeachers/hooks/useTeacher";
 import { readClassInfo } from "../../api/teachersAPI";
@@ -19,7 +20,6 @@ import { Link, useParams } from "react-router-dom";
 import { useReadOneClassInfo } from "../../../pagesForStudents/hooks/useStudentHook";
 import {
   useClassSubjects,
-  useSchoolSessionData,
 } from "../../../pages/hook/useSchoolAuth";
 import { usePDF } from "react-to-pdf";
 import moment from "moment";
@@ -60,31 +60,85 @@ const SubjectAssessmentBadges: FC<SubjectAssessmentBadgesProps> = ({
       presentSession
     ) ||
     matchesCurrentAssessmentPeriod(midTest, presentTerm, presentSession);
+  const hasVisibleExam =
+    (Array.isArray(subject?.examination) &&
+      subject.examination.some(
+        (assessment: any) =>
+          assessment?.startExam === true &&
+          matchesCurrentAssessmentPeriod(
+            assessment,
+            presentTerm,
+            presentSession
+          )
+      )) ||
+    (examination?.startExam === true &&
+      matchesCurrentAssessmentPeriod(
+        examination,
+        presentTerm,
+        presentSession
+      ));
+  const hasVisibleMidTest =
+    (Array.isArray(subject?.midTest) &&
+      subject.midTest.some(
+        (assessment: any) =>
+          assessment?.startMidTest === true &&
+          matchesCurrentAssessmentPeriod(
+            assessment,
+            presentTerm,
+            presentSession
+          )
+      )) ||
+    (midTest?.startMidTest === true &&
+      matchesCurrentAssessmentPeriod(midTest, presentTerm, presentSession));
 
   return (
     <>
       {hasExam && (
-        <p className="flex items-center gap-2 rounded-sm border border-green-200 bg-green-100 px-2 py-1 text-[10px] font-bold uppercase text-green-700">
-          Exam Added
+        <p
+          className="flex items-center gap-2 rounded-sm border border-green-200 bg-green-100 px-2 py-1 h-[35px] text-[10px] font-bold uppercase text-green-700"
+          title={hasVisibleExam ? "Exam is active for students" : "Exam uploaded"}
+        >
+          {hasVisibleExam && (
+            <span className="relative flex h-2 w-2" aria-label="Active">
+              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-green-400 opacity-75" />
+              <span className="relative inline-flex h-2 w-2 rounded-full bg-green-500" />
+            </span>
+          )}
+          {hasVisibleExam ? "Exam Active" : "Exam Added"}
         </p>
       )}
-      {hasMidTest && (
-        <p className="flex items-center gap-2 rounded-sm border border-orange-200 bg-orange-100 px-2 py-1 text-[10px] font-bold uppercase text-orange-700">
-          Mid-Test Added
+      {!hasMidTest && (
+        <p
+          className="flex items-center gap-2 rounded-sm border border-orange-200 bg-orange-100 px-2 py-1 h-[35px] text-[10px] font-bold uppercase text-orange-700"
+          title={
+            hasVisibleMidTest
+              ? "Mid-test is active for students"
+              : "Mid-test uploaded"
+          }
+        >
+          {hasVisibleMidTest && (
+            <span className="relative flex h-2 w-2" aria-label="Active">
+              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-orange-400 opacity-75" />
+              <span className="relative inline-flex h-2 w-2 rounded-full bg-orange-500" />
+            </span>
+          )}
+          {hasVisibleMidTest ? "Mid-Test Active" : "Mid-Test Added"}
         </p>
       )}
     </>
   );
 };
 
-const ClassSubjectScreen: FC<iProps> = ({
+const ClassSubjectScreen: FC<iProps & { classInfo?: any }> = ({
   props,
+  classInfo,
 }) => {
   const { teacherInfo } = useTeacherInfo();
   const { readSubject } = useClassSubjects(props || "");
-  const { schoolInfo } = useSchoolSessionData(teacherInfo?.schoolIDs);
-  const currentTerm = schoolInfo?.presentTerm;
-  const currentSession = schoolInfo?.presentSession;
+  const { schoolAnnouncement } = useSchoolAnnouncement(teacherInfo?.schoolIDs);
+  const currentTerm =
+    classInfo?.presentTerm || schoolAnnouncement?.presentTerm;
+  const currentSession = schoolAnnouncement?.presentSession;
 
   return (
     <div>
@@ -290,9 +344,7 @@ const MyClassRoomScreen = () => {
           Below are all the subjects this CLASS offers!
         </p>
 
-        <ClassSubjectScreen
-          props={oneClass?._id}
-        />
+        <ClassSubjectScreen props={oneClass?._id} classInfo={oneClass} />
       </div>
 
       {/* Top Students */}

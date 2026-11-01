@@ -20,6 +20,7 @@ import { readClassInfo } from "../../api/studentAPI";
 import LittleHeader from "../../../components/layout/LittleHeader";
 import { Link } from "react-router-dom";
 import { useStudentPerfomance } from "@/pagesForTeachers/hooks/useQuizHook";
+import { matchesCurrentAssessmentPeriod } from "../../../lib/assessmentPeriod";
 
 interface iProps {
   props?: string;
@@ -62,22 +63,13 @@ const SubjectCard: FC<{ subject: any; dept?: string; classInfo?: any }> = ({
     examDept === normalizedFilter ||
     midDept === normalizedFilter;
 
-  const isCurrentAssessment = (assessment: any) =>
-    Boolean(
-      currentTerm &&
-        currentSession &&
-        normalize(assessment?.term || assessment?.exam?.term) === currentTerm &&
-        normalize(assessment?.session || assessment?.exam?.session) ===
-          currentSession
-    );
-
   const midMatch =
     !!midTest?.startMidTest &&
-    isCurrentAssessment(midTest);
+    matchesCurrentAssessmentPeriod(midTest, currentTerm, currentSession);
 
   const examMatch =
     !!examination?.startExam &&
-    isCurrentAssessment(examination);
+    matchesCurrentAssessmentPeriod(examination, currentTerm, currentSession);
 
   const shouldDisplay = (midMatch || examMatch) && matchesDept;
   const { performance } = useStudentPerfomance(studentInfo?._id);
@@ -246,23 +238,13 @@ const ClassSubjectScreen: FC<iProps & { classInfo?: any }> = ({
       examDept === normalizedFilter ||
       midDept === normalizedFilter;
 
-    const isCurrentAssessment = (assessment: any) =>
-      Boolean(
-        currentTerm &&
-          currentSession &&
-          normalize(assessment?.term || assessment?.exam?.term) ===
-            currentTerm &&
-          normalize(assessment?.session || assessment?.exam?.session) ===
-            currentSession
-      );
-
     const midMatch =
       !!midTest?.startMidTest &&
-      isCurrentAssessment(midTest);
+      matchesCurrentAssessmentPeriod(midTest, currentTerm, currentSession);
 
     const examMatch =
       !!examination?.startExam &&
-      isCurrentAssessment(examination);
+      matchesCurrentAssessmentPeriod(examination, currentTerm, currentSession);
 
     const shouldDisplay = (midMatch || examMatch) && matchesDept;
 
