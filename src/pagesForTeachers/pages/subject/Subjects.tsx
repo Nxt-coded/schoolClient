@@ -35,10 +35,10 @@ const Status: FC<{ label: string; ready: boolean | undefined }> = ({
   label,
   ready,
 }) => (
-  <div className="flex items-center justify-between gap-2 rounded-lg border px-3 py-2">
-    <span className="text-sm text-slate-600">{label}</span>
+  <div className="flex flex-col items-start  justify-between gap-2 rounded-lg border-0.5 px-3 py-1">
+    <span className="text-[10px] font-bold text-slate-600">{label}</span>
     <span
-      className={`rounded-full px-2.5 py-1 text-xs font-semibold ${
+      className={`rounded-full px-2.5 -py-1 text-xs font-semibold ${
         ready === undefined
           ? "bg-slate-100 text-slate-500"
           : ready
