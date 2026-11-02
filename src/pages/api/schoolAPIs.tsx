@@ -6,13 +6,13 @@ import { enqueue, QueueEntry } from "@/lib/offlineQueue";
 // const URL2: string = import.meta.env.VITE_URL;
 // export const URL: string = import.meta.env.VITE_MAIN_URL;
 
-// const URL2: string = "https://schoolserver-wrpc.onrender.com";
-// export const URL: string = "https://schoolserver-wrpc.onrender.com/api";
+// const URL2: string = "http://localhost:2244";
+// export const URL: string = "http://localhost:2244/api";
 
 // ?working
 
-export const URL: string = "https://schoolserver-wrpc.onrender.com/api";
-const URL2: string = "https://schoolserver-wrpc.onrender.com";
+export const URL: string = "http://localhost:2244/api";
+const URL2: string = "http://localhost:2244";
 
 // ?New Try
 // export const URL: string = "https://start-school-be.vercel.app/api";
@@ -27,7 +27,7 @@ export const updateSchoolResumptionTeamInfo = async (
   },
 ): Promise<any> => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .patch(`${URL}/change-school-team-info/${schoolID}`, data)
       .then((res: AxiosResponse) => {
@@ -42,7 +42,7 @@ export const removeAllPerformance = async (
   performanceID: string,
 ): Promise<any> => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .delete(`${URL}/delete-all-performances/${performanceID}`)
       .then((res: AxiosResponse) => {
@@ -58,7 +58,7 @@ export const removeSelectedPerformance = async (
   studentIDs: string[],
 ): Promise<any> => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .delete(`${URL}/delete-selected-students/${quizID}`, {
         data: { studentIDs },
@@ -120,7 +120,7 @@ export const createStudentHistory = async (
 
 export const viewStudentHistory = async (studentID: string): Promise<any> => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .get(`${URL}/view-student-result-history/${studentID}`)
       .then((res: AxiosResponse) => {
@@ -160,7 +160,7 @@ export const deleteSchool = async (schoolID: string): Promise<any> => {
 
 export const downlaodSchoolData = async (schoolID: string): Promise<any> => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .get(`${URL}/export-data-file/${schoolID}`)
       .then((res: AxiosResponse) => {
@@ -240,7 +240,7 @@ export const bulkUploadofStudent = async (schoolID: string, data: any) => {
 
 export const bulkUploadofSubject = async (schoolID: string, data: any) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api"
+    // const URL = "http://localhost:2244/api"
 
     const config: any = {
       "Content-Type": "multipart/form-data",
@@ -277,7 +277,7 @@ export const bulkUploadofSubjectWithQueue = async (
       }
     });
 
-    // const URL = "https://schoolserver-wrpc.onrender.com/api"
+    // const URL = "http://localhost:2244/api"
 
     const entry: QueueEntry = {
       url: `${URL}/create-bulk-subject/${schoolID}`,
@@ -735,7 +735,7 @@ export const updateStudentRestrictMode = async (
   toggle: boolean,
 ) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .patch(`${URL}/restrict-view/${schoolID}/${studentID}`, { toggle })
       .then((res: any) => {
@@ -1038,7 +1038,7 @@ export const viewSchoolTeacher = async (schoolID: string) => {
 
 export const createSchoolSubject = async (schoolID: string, data: any) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .post(`${URL}/create-subject/${schoolID}`, data)
       .then((res: any) => {
@@ -1051,7 +1051,7 @@ export const createSchoolSubject = async (schoolID: string, data: any) => {
 
 export const createSchoolClassroom = async (schoolID: string, data: any) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .post(`${URL}/create-classroom/${schoolID}`, data)
       .then((res: any) => {
@@ -1496,7 +1496,7 @@ export const verifyPayment3rd = async (schoolID: string, studentID: string) => {
 
 export const migrateStudent = async (schoolID: string, data: {}) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .patch(`${URL}/migrate-sss1holders/${schoolID}`, data)
       .then((res: any) => {
@@ -1509,7 +1509,7 @@ export const migrateStudent = async (schoolID: string, data: {}) => {
 
 export const deleteClassroom = async (schoolID: string, classID: string) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .delete(`${URL}/delete-classrooms/${schoolID}/${classID}`)
       .then((res: any) => {
@@ -1522,7 +1522,7 @@ export const deleteClassroom = async (schoolID: string, classID: string) => {
 
 export const createNewSession = async (schoolID: string, data: {}) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .post(`${URL}/create-new-school-session/${schoolID}`, data)
       .then((res: any) => {
@@ -1748,7 +1748,7 @@ export const readSchoolFee = async (schoolID: string) => {
 
 export const updateSchoolFee = async (schoolFeeID: string) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .post(`${URL}/update-school-school-fee/${schoolFeeID}`, {
         confirm: true,
@@ -1767,7 +1767,7 @@ export const adminReport = async (
   adminComment: string,
 ) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .patch(`${URL}/admin-report-card/${schoolID}/${studentID}`, {
         adminComment,
@@ -1830,7 +1830,7 @@ export const removeTeacherSubject = async (
   subjectID: string,
 ) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .patch(
         `${URL}/remove-teacher-subject/${schoolID}/${teacherID}/${subjectID}/`,
@@ -1943,7 +1943,7 @@ export const testSchoolSMS = async (
   customMsg?: string,
 ) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     let endpoint = `${URL}/test-sms/${phone}?action=send&channel=${channel}`;
     if (customMsg) {
       endpoint += `&customMsg=${encodeURIComponent(customMsg)}`;
@@ -1961,7 +1961,7 @@ export const updateClassTeacherGradingToggle = async (
   allowClassTeacherGrading: boolean,
 ) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api"
+    // const URL = "http://localhost:2244/api"
     return await axios
       .patch(`${URL}/update-class-teacher-grading/${schoolID}`, {
         allowClassTeacherGrading,

@@ -7,8 +7,8 @@ import axios from "axios";
 // const URL: string =
 //   import.meta.env.VITE_MAIN_URL || import.meta.env.VITE_PRODUCTION_URL;
 
-// const URL: string = "https://schoolserver-wrpc.onrender.com/api";
-const URL: string = "https://schoolserver-wrpc.onrender.com/api";
+// const URL: string = "http://localhost:2244/api";
+const URL: string = "http://localhost:2244/api";
 // const URL: string = "https://start-school-be.vercel.app/api";
 
 export const viewMidTestAPI = async (subjectID: string) => {
@@ -25,8 +25,8 @@ export const viewMidTestAPI = async (subjectID: string) => {
 
 // Working Online
 
-// const URL: string = "https://schoolserver-wrpc.onrender.com/api"
-// const URL = "https://schoolserver-wrpc.onrender.com/api
+// const URL: string = "http://localhost:2244/api"
+// const URL = "http://localhost:2244/api
 
 export const getStudentPerformance = async (studentID: string) => {
   try {
@@ -94,7 +94,7 @@ export const getMidTestPerformanceResut = async (
   quizID: string,
 ) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .get(
         `${URL}/view-one-subject-mid-test-performance/${subjectID}/${quizID}`,
@@ -111,7 +111,7 @@ export const getMidTestPerformanceResut = async (
 
 export const getMidTestPerformance = async (quizID: string) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .get(`${URL}/view-mid-test-performance/${quizID}`)
       .then((res) => {
@@ -249,7 +249,7 @@ export const readClassInfoTimeTable = async (classID: string) => {
 
 export const readClassInfoSubject = async (classID: string) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .get(`${URL}/view-classroom-info-subject/${classID}`)
       .then((res: any) => {
@@ -372,7 +372,7 @@ export const stopExamination = async (examID: string) => {
 
 export const startMidTest = async (midTestID: string) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .patch(`${URL}/start-subject-mid-test/${midTestID}`, {
         started: true,
@@ -475,7 +475,7 @@ export const viewExamination = async (subjectID: string) => {
 
 export const viewMidTest = async (subjectID: string) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .get(`${URL}/view-subject-mid-test/${subjectID}`)
       .then((res: any) => {
@@ -496,8 +496,8 @@ export const createExaminationData = async (
       "content-type": "multipart/form-data",
     };
 
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
+    // const URL = "http://localhost:2244/api";
 
     // const URL = "https://start-school-be.vercel.app/api";
 
@@ -524,7 +524,7 @@ export const createMidTestData = async (
     const config: any = {
       "content-type": "multipart/form-data",
     };
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
 
     return await axios
       .post(
@@ -549,7 +549,7 @@ export const createQuizData = async (
     const config: any = {
       "content-type": "multipart/form-data",
     };
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
 
     return await axios
       .post(
@@ -579,7 +579,7 @@ export const updateMidTestData = async (midTestID: string, data: {}) => {
 
 export const updateExaminationData = async (midTestID: string, data: {}) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .patch(`${URL}/update-subject-exam/${midTestID}`, data)
       .then((res: any) => {
@@ -592,7 +592,7 @@ export const updateExaminationData = async (midTestID: string, data: {}) => {
 
 export const deleteExamination = async (subjectID: string, examID: string) => {
   try {
-    // const URL="https://schoolserver-wrpc.onrender.com/api"
+    // const URL="http://localhost:2244/api"
     return await axios
       .delete(`${URL}/delete-exam/${subjectID}/${examID}`)
       .then((res: any) => {
@@ -608,7 +608,7 @@ export const deleteMidTestData = async (
   midTestID: string,
 ) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .delete(`${URL}/delete-mid/${subjectID}/${midTestID}`)
       .then((res: any) => {
@@ -771,7 +771,7 @@ export const remark = async (
   data: any,
 ) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .post(`${URL}/create-remark/${teacherID}/${studentID}`, data)
       .then((res: any) => {
@@ -796,7 +796,7 @@ export const studentOfTheWeek = async (teacherID: string, data: any) => {
 
 export const setTopStudents = async (teacherID: string, data: any) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api"
+    // const URL = "http://localhost:2244/api"
     return await axios
       .patch(`${URL}/set-top-students/${teacherID}`, data)
       .then((res: any) => {
@@ -991,7 +991,7 @@ export const updateTeacherAvatar = async (teacherID: string, data: any) => {
 
 export const createGradeScore = async (studentID: string, data: {}) => {
   try {
-    // const URL: string = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL: string = "http://localhost:2244/api";
     return await axios
       .post(`${URL}/create-report-card/${studentID}`, data)
       .then((res: any) => {
@@ -1160,7 +1160,7 @@ export const psychoReportCardRemark = async (
   data: any,
 ) => {
   try {
-    // const URL = "https://schoolserver-wrpc.onrender.com/api";
+    // const URL = "http://localhost:2244/api";
     return await axios
       .patch(`${URL}/update-psycho-report/${teacherID}/${studentID}`, data)
 
@@ -1262,4 +1262,3 @@ export const updateStaffBulkInfo = async (staffID: string, data: any) => {
     return error;
   }
 };
-
