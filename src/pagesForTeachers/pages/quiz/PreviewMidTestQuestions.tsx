@@ -63,7 +63,7 @@ const PreviewMidTestScreen: FC<any> = ({
           formData.append("file", file);
           formData.append("theory", editorValue);
 
-          createMidTestData(subjectQuiz?.classDetails!, subjectID!, formData)
+          createMidTestData(subjectQuiz?.subjectClassID!, subjectID!, formData)
             .then((res: any) => {
               if (res.status === 201) {
                 // This will trigger an immediate revalidation of the mid test data

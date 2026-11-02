@@ -58,13 +58,22 @@ const PreviewExamination: FC<any> = ({
           formData.append("theory", editorValue);
 
           createExaminationData(
-            subjectQuiz?.classDetails!,
+            subjectQuiz?.subjectClassID!,
             subjectID!,
             formData
           )
             .then((res: any) => {
-              if (res.status === 201) {
+              if (
+                res?.status === 201 ||
+                res?.message === "Exam created successfully!"
+              ) {
+                toast.success(
+                  typeof res.questionsImported === "number"
+                    ? `Examination published successfully (${res.questionsImported} questions)`
+                    : "Examination published successfully"
+                );
                 mutate(`api/view-subject-quiz/${subjectID}`);
+                mutate(`api/view-subject-exam/${subjectID}`);
                 navigate(`/subjects/${subjectID}`);
               } else {
                 const errData = res?.response?.data;
