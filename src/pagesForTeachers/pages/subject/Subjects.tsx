@@ -31,25 +31,65 @@ interface SubjectReadinessProps {
   session?: string;
 }
 
-const Status: FC<{ label: string; ready: boolean | undefined }> = ({
+interface StatusProps {
+  label: string;
+  ready: boolean | undefined;
+  readyLabel?: "Ready" | "Uploaded";
+  active?: boolean;
+  showActive?: boolean;
+  error?: boolean;
+}
+
+const Status: FC<StatusProps> = ({
   label,
   ready,
-}) => (
-  <div className="flex flex-col items-start  justify-between gap-2 rounded-lg border-0.5 px-3 py-1">
-    <span className="text-[10px] font-bold text-slate-600">{label}</span>
-    <span
-      className={`rounded-full px-2.5 -py-1 text-xs font-semibold ${
-        ready === undefined
-          ? "bg-slate-100 text-slate-500"
-          : ready
-          ? "bg-green-50 text-green-700"
-          : "bg-slate-100 text-slate-500"
-      }`}
-    >
-      {ready === undefined ? "Loading" : ready ? "Ready" : "Not ready"}
-    </span>
-  </div>
-);
+  readyLabel = "Ready",
+  active,
+  showActive = false,
+  error = false,
+}) => {
+  const readinessText = error
+    ? "Unavailable"
+    : ready === undefined
+    ? "Loading"
+    : ready
+    ? readyLabel
+    : readyLabel === "Uploaded"
+    ? "Not uploaded"
+    : "Not ready";
+
+  return (
+    <div className="flex flex-col items-start justify-between gap-2 rounded-lg border-0.5 px-3 py-2">
+      <span className="text-[10px] font-bold text-slate-600">{label}</span>
+      <span
+        className={`rounded-full px-2.5 py-0.5 text-xs font-semibold ${
+          error
+            ? "bg-amber-50 text-amber-700"
+            : ready === undefined
+            ? "bg-slate-100 text-slate-500"
+            : ready
+            ? "bg-green-50 text-green-700"
+            : "bg-slate-100 text-slate-500"
+        }`}
+      >
+        {readinessText}
+      </span>
+      {showActive && (
+        <span
+          className={`rounded-full px-2.5 py-0.5 text-xs font-semibold ${
+            error || ready === undefined
+              ? "bg-slate-100 text-slate-500"
+              : active
+              ? "bg-green-50 text-green-700"
+              : "bg-amber-50 text-amber-700"
+          }`}
+        >
+          Portal: {error ? "Unavailable" : ready === undefined ? "Loading" : active ? "Active" : "Inactive"}
+        </span>
+      )}
+    </div>
+  );
+};
 
 const SubjectReadiness: FC<SubjectReadinessProps> = ({
   subjectID,
@@ -57,9 +97,31 @@ const SubjectReadiness: FC<SubjectReadinessProps> = ({
   session,
 }) => {
   const { subjectInfo } = useSujectInfo(subjectID);
-  const { examination } = useExamination(subjectID);
-  const { midTest } = useMidTest(subjectID);
+  const {
+    examination,
+    isLoading: examinationLoading,
+    error: examinationError,
+  } = useExamination(subjectID);
+  const {
+    midTest,
+    isLoading: midTestLoading,
+    error: midTestError,
+  } = useMidTest(subjectID);
   const assessmentsLoaded = Boolean(subjectInfo);
+  const hasAssessmentData = (assessment: unknown): boolean =>
+    Array.isArray(assessment)
+      ? assessment.some(hasAssessmentData)
+      : Boolean(assessment);
+  const matchesPeriod = (assessment: unknown) =>
+    term && session
+      ? matchesCurrentAssessmentPeriod(assessment, term, session)
+      : hasAssessmentData(assessment);
+  const midTestMatchesPeriod = matchesPeriod(midTest);
+  const examinationMatchesPeriod = matchesPeriod(examination);
+  const midTestUploaded =
+    matchesPeriod(subjectInfo?.midTest) || midTestMatchesPeriod;
+  const examinationUploaded =
+    matchesPeriod(subjectInfo?.examination) || examinationMatchesPeriod;
 
   return (
     <div className="grid gap-2 sm:grid-cols-3">
@@ -71,29 +133,19 @@ const SubjectReadiness: FC<SubjectReadinessProps> = ({
       />
       <Status
         label="Mid-test"
-        ready={
-          assessmentsLoaded
-            ? matchesCurrentAssessmentPeriod(
-                subjectInfo?.midTest,
-                term,
-                session
-              ) ||
-              matchesCurrentAssessmentPeriod(midTest, term, session)
-            : undefined
-        }
+        ready={midTestLoading ? undefined : midTestUploaded}
+        readyLabel="Uploaded"
+        showActive
+        active={Boolean(midTestMatchesPeriod && midTest?.startMidTest)}
+        error={Boolean(midTestError)}
       />
       <Status
         label="Examination"
-        ready={
-          assessmentsLoaded
-            ? matchesCurrentAssessmentPeriod(
-                subjectInfo?.examination,
-                term,
-                session
-              ) ||
-              matchesCurrentAssessmentPeriod(examination, term, session)
-            : undefined
-        }
+        ready={examinationLoading ? undefined : examinationUploaded}
+        readyLabel="Uploaded"
+        showActive
+        active={Boolean(examinationMatchesPeriod && examination?.startExam)}
+        error={Boolean(examinationError)}
       />
     </div>
   );

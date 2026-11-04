@@ -37,14 +37,87 @@ interface SubjectAssessmentBadgesProps {
   presentSession?: string;
 }
 
+interface AssessmentBadgeProps {
+  label: string;
+  uploaded: boolean;
+  active: boolean;
+  loading: boolean;
+  error?: boolean;
+}
+
+const AssessmentBadge: FC<AssessmentBadgeProps> = ({
+  label,
+  uploaded,
+  active,
+  loading,
+  error,
+}) => {
+  const unavailable = Boolean(error);
+  const title = unavailable
+    ? `${label} status is unavailable`
+    : loading
+    ? `Loading ${label.toLowerCase()} status`
+    : `${label} ${uploaded ? "uploaded" : "not uploaded"} and ${
+        active ? "active" : "inactive"
+      } for students`;
+
+  return (
+    <div
+      className={`flex h-[35px] items-center gap-2 rounded-sm border px-2 py-1 text-[10px] font-bold uppercase ${
+        unavailable
+          ? "border-amber-200 bg-amber-50 text-amber-700"
+          : loading
+          ? "border-slate-200 bg-slate-100 text-slate-500"
+          : active
+          ? "border-green-200 bg-green-100 text-green-700"
+          : uploaded
+          ? "border-blue-200 bg-blue-50 text-blue-700"
+          : "border-slate-200 bg-slate-100 text-slate-600"
+      }`}
+      title={title}
+      aria-live="polite"
+    >
+      <span>
+        {label}:{" "}
+        {unavailable
+          ? "Unavailable"
+          : loading
+          ? "Loading"
+          : uploaded
+          ? "Uploaded"
+          : "Not uploaded"}
+      </span>
+      <span aria-hidden="true">·</span>
+      <span>
+        Portal:{" "}
+        {unavailable
+          ? "Unavailable"
+          : loading
+          ? "Loading"
+          : active
+          ? "Active"
+          : "Inactive"}
+      </span>
+    </div>
+  );
+};
+
 const SubjectAssessmentBadges: FC<SubjectAssessmentBadgesProps> = ({
   subjectID,
   subject,
   presentTerm,
   presentSession,
 }) => {
-  const { examination } = useExamination(subjectID);
-  const { midTest } = useMidTest(subjectID);
+  const {
+    examination,
+    isLoading: examinationLoading,
+    error: examinationError,
+  } = useExamination(subjectID);
+  const {
+    midTest,
+    isLoading: midTestLoading,
+    error: midTestError,
+  } = useMidTest(subjectID);
 
   const hasExam =
     matchesCurrentAssessmentPeriod(
@@ -92,40 +165,22 @@ const SubjectAssessmentBadges: FC<SubjectAssessmentBadgesProps> = ({
       matchesCurrentAssessmentPeriod(midTest, presentTerm, presentSession));
 
   return (
-    <>
-      {hasExam && (
-        <p
-          className="flex items-center gap-2 rounded-sm border border-green-200 bg-green-100 px-2 py-1 h-[35px] text-[10px] font-bold uppercase text-green-700"
-          title={hasVisibleExam ? "Exam is active for students" : "Exam uploaded"}
-        >
-          {hasVisibleExam && (
-            <span className="relative flex h-2 w-2" aria-label="Active">
-              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-green-400 opacity-75" />
-              <span className="relative inline-flex h-2 w-2 rounded-full bg-green-500" />
-            </span>
-          )}
-          {hasVisibleExam ? "Exam Active" : "Exam Added"}
-        </p>
-      )}
-      {!hasMidTest && (
-        <p
-          className="flex items-center gap-2 rounded-sm border border-orange-200 bg-orange-100 px-2 py-1 h-[35px] text-[10px] font-bold uppercase text-orange-700"
-          title={
-            hasVisibleMidTest
-              ? "Mid-test is active for students"
-              : "Mid-test uploaded"
-          }
-        >
-          {hasVisibleMidTest && (
-            <span className="relative flex h-2 w-2" aria-label="Active">
-              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-orange-400 opacity-75" />
-              <span className="relative inline-flex h-2 w-2 rounded-full bg-orange-500" />
-            </span>
-          )}
-          {hasVisibleMidTest ? "Mid-Test Active" : "Mid-Test Added"}
-        </p>
-      )}
-    </>
+    <div className="flex flex-wrap gap-2">
+      <AssessmentBadge
+        label="Exam"
+        uploaded={hasExam}
+        active={hasVisibleExam}
+        loading={examinationLoading}
+        error={examinationError}
+      />
+      <AssessmentBadge
+        label="Mid-test"
+        uploaded={hasMidTest}
+        active={hasVisibleMidTest}
+        loading={midTestLoading}
+        error={midTestError}
+      />
+    </div>
   );
 };
 

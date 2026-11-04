@@ -19117,8 +19117,8 @@ const lgt = Object.freeze(
       { value: "Module" },
     ),
   ),
-  Ot = "https://schoolserver-wrpc.onrender.com/api",
-  Zye = "https://schoolserver-wrpc.onrender.com",
+  Ot = "http://localhost:2244/api",
+  Zye = "http://localhost:2244",
   cgt = async (e, t) => {
     try {
       return await De.patch(`${Ot}/change-school-team-info/${e}`, t).then(
@@ -20261,7 +20261,7 @@ const lgt = Object.freeze(
       return n;
     }
   },
-  sn = "https://schoolserver-wrpc.onrender.com/api",
+  sn = "http://localhost:2244/api",
   Dxe = async (e) => {
     try {
       return await De.get(`${sn}/view-subject-mid-test/${e}`).then(
@@ -45908,7 +45908,7 @@ var fCe = ({
     );
   },
   Br = Qa;
-const Dn = "https://schoolserver-wrpc.onrender.com/api",
+const Dn = "http://localhost:2244/api",
   W1t = async (e) => {
     try {
       return await De.post(`${Dn}/find-student`, { enrollmentID: e }).then(
@@ -161344,7 +161344,7 @@ const dpt = (e) =>
           ],
         });
   },
-  iB = "https://schoolserver-wrpc.onrender.com/api",
+  iB = "http://localhost:2244/api",
   gpt = async () => {
     try {
       return await De.get(`${iB}/teach-subject/`).then((e) =>

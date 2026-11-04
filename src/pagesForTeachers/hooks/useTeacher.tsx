@@ -806,12 +806,12 @@ export const useExamination = (subjectID: string) => {
     };
   }, []);
 
-  const { data: examination, mutate } = useSWR(
+  const { data: examination, mutate, isLoading, error } = useSWR(
     x,
-    () => {
-      return viewExamination(subjectID!).then((res) => {
-        return res.exam;
-      });
+    async () => {
+      const res = await viewExamination(subjectID!);
+      if (res instanceof Error || res?.isAxiosError) throw res;
+      return res?.exam;
     },
     {
       revalidateOnFocus: false,
@@ -825,7 +825,7 @@ export const useExamination = (subjectID: string) => {
     mutate(newData, false);
   };
 
-  return { examination, mutate: handleUpdate };
+  return { examination, isLoading, error, mutate: handleUpdate };
 };
 
 export const useMidTest = (subjectID: string) => {
@@ -847,12 +847,12 @@ export const useMidTest = (subjectID: string) => {
     };
   }, []);
 
-  const { data: midTest, mutate: midTestMutate } = useSWR(
+  const { data: midTest, mutate: midTestMutate, isLoading, error } = useSWR(
     x,
-    () => {
-      return viewMidTest(subjectID!).then((res) => {
-        return res?.midTest;
-      });
+    async () => {
+      const res = await viewMidTest(subjectID!);
+      if (res instanceof Error || res?.isAxiosError) throw res;
+      return res?.midTest;
     },
     {
       revalidateOnFocus: false,
@@ -866,7 +866,7 @@ export const useMidTest = (subjectID: string) => {
     midTestMutate(newData, false);
   };
 
-  return { midTest, midTestMutate: handleUpdate };
+  return { midTest, isLoading, error, midTestMutate: handleUpdate };
 };
 
 export const useStudentGrade = (studentID: string) => {
