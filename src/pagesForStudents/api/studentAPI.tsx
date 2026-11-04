@@ -4,12 +4,12 @@ import axios from "axios";
 // const URL: string = import.meta.env.VITE_MAIN_URL;
 
 // Working Online
-// const URL: string = "http://localhost:2244/api";
+// const URL: string = "https://schoolserver-wrpc.onrender.com/api";
 // const URL: string = import.meta.env.VITE_MAIN_URL;
-// export const URL: string = "http://localhost:2244/api";
+// export const URL: string = "https://schoolserver-wrpc.onrender.com/api";
 
-// const URL: string = "http://localhost:2244api";
-export const URL: string = "http://localhost:2244/api";
+// const URL: string = "https://schoolserver-wrpc.onrender.comapi";
+export const URL: string = "https://schoolserver-wrpc.onrender.com/api";
 // export const URL: string = "https://start-school-be.vercel.app/api";
 
 // const URL: string = "https://server.justnext.com.ng/api";
@@ -195,7 +195,7 @@ export const performanceExamination = async (
   data: {},
 ) => {
   try {
-    // const URL="http://localhost:2244/api"
+    // const URL="https://schoolserver-wrpc.onrender.com/api"
     return await axios
       .post(
         `${URL}/create-subject-exam-performance/${studentID}/${quizID}/${subjectID}`,
@@ -232,7 +232,7 @@ export const performanceMidTest = async (
 
 export const viewStudentPerformanceMidTest = async (studentID: string) => {
   try {
-    // const URL = "http://localhost:2244/api";
+    // const URL = "https://schoolserver-wrpc.onrender.com/api";
     return await axios
       .get(`${URL}/view-student-mid-test-performance/${studentID}/`)
       .then((res: any) => {
@@ -263,7 +263,7 @@ export const performanceTest = async (
   data: {},
 ) => {
   try {
-    // const URL = "http://localhost:2244/api";
+    // const URL = "https://schoolserver-wrpc.onrender.com/api";
     return await axios
       .post(
         `${URL}/create-subject-quiz-performance/${studentID}/${quizID}/${subjectID}`,
@@ -788,7 +788,7 @@ export const viewPurchasedEndPoint = async (studentID: string) => {
 
 export const purchasedEndPoint = async (studentID: string, data: {}) => {
   try {
-    // const URL = "http://localhost:2244/api";
+    // const URL = "https://schoolserver-wrpc.onrender.com/api";
     return await axios
       .post(`${URL}/purchase/${studentID}`, data)
       .then((res: any) => {
@@ -895,7 +895,7 @@ export const viewArticle = async (articleID: string, readerID: string) => {
 };
 // Making other payment
 export const makeOtherPayment = async (data: any) => {
-  // const URL: string = "http://localhost:2244/api";
+  // const URL: string = "https://schoolserver-wrpc.onrender.com/api";
   try {
     return await axios
       .post(`${URL}/make-other-school-payment`, data)
@@ -913,7 +913,7 @@ export const verifyOtherPayment = async (
   paymentName: any,
 ) => {
   try {
-    // const urli: string = "http://localhost:2244/api";
+    // const urli: string = "https://schoolserver-wrpc.onrender.com/api";
     // console.log(urli);
     return await axios
       .post(`${URL}/verify-other-payment/${studentID}/${refID}`, {
@@ -929,7 +929,7 @@ export const verifyOtherPayment = async (
 
 export const verifyOtherCashPayment = async (studentID: string, data: any) => {
   try {
-    // const URL: string = "http://localhost:2244/api";
+    // const URL: string = "https://schoolserver-wrpc.onrender.com/api";
     return await axios
       .post(`${URL}/verify-other-cash-payment/${studentID}`, data)
       .then((res: any) => {
