@@ -43,6 +43,7 @@ import moment from "moment";
 import { usePDF } from "react-to-pdf";
 import { opacity } from "html2canvas/dist/types/css/property-descriptors/opacity";
 import { matchesCurrentAssessmentPeriod } from "../../../lib/assessmentPeriod";
+import AssessmentBadge from "../../../components/reUse/AssessmentBadge";
 
 // import { updateTermFee } from "../../../pagesForStudents/api/studentAPI";
 
@@ -117,10 +118,10 @@ const ClassSubjectScreen: FC<{ classroom: any; school: any }> = ({
             return (
               <div
                 key={props._id}
-                className="bg-white border flex flex-col rounded-2xl pb-2 min-h-[200px] px-4 pt-4"
+                className="flex min-h-[200px] flex-col rounded-2xl border border-slate-200 bg-white px-4 pb-2 pt-4"
               >
-                <div className="mt-3 flex justify-between items-center font-bold">
-                  <p>{props?.subjectTitle}</p>
+                <div className="mt-3 flex items-center justify-between font-bold">
+                  <p className="uppercase">{props?.subjectTitle}</p>
                   <Link
                     to={`/admin-test-exam-grade/${props._id}`}
                     className="w-8 h-8 transition-all duration-300 rounded-full hover:bg-slate-50 cursor-pointer flex justify-center items-center"
@@ -128,31 +129,23 @@ const ClassSubjectScreen: FC<{ classroom: any; school: any }> = ({
                     <MdEditDocument className="hover:text-blue-900" />
                   </Link>
                 </div>
-                <div className="flex gap-2">
-                  <p className="text-[12px] bg-slate-100 rounded-sm py-2 pl-1 shadow-sm pr-4 mb-5">
+                <div className="mb-5 flex flex-wrap items-center gap-2">
+                  <p className="rounded-sm bg-slate-100 px-2 py-1 text-[12px] shadow-sm">
                     class subject
                   </p>
                   {hasExam && (
-                    <p className="flex items-center gap-2 text-[10px] bg-green-100 text-green-700 rounded-sm py-1 px-2 shadow-sm mb-7 font-bold uppercase border border-green-200">
-                      {hasVisibleExam && (
-                        <span className="relative flex h-2 w-2">
-                          <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
-                          <span className="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
-                        </span>
-                      )}
-                      <span>Exam Added</span>
-                    </p>
+                    <AssessmentBadge
+                      label="Exam"
+                      tone="green"
+                      active={hasVisibleExam}
+                    />
                   )}
                   {hasMidTest && (
-                    <p className="flex items-center gap-2 text-[10px] bg-orange-100 text-orange-700 rounded-sm py-1 px-2 shadow-sm mb-7 font-bold uppercase border border-orange-200">
-                      {hasVisibleMidTest && (
-                        <span className="relative flex h-2 w-2">
-                          <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-orange-400 opacity-75"></span>
-                          <span className="relative inline-flex rounded-full h-2 w-2 bg-orange-500"></span>
-                        </span>
-                      )}
-                      <span>Mid-Test Added</span>
-                    </p>
+                    <AssessmentBadge
+                      label="Mid-test"
+                      tone="orange"
+                      active={hasVisibleMidTest}
+                    />
                   )}
                 </div>
                 <div className="flex-1" />

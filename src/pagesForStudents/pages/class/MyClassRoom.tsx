@@ -20,10 +20,95 @@ import {
 import LittleHeader from "../../../components/layout/LittleHeader";
 import { Link } from "react-router-dom";
 import { matchesCurrentAssessmentPeriod } from "../../../lib/assessmentPeriod";
+import AssessmentBadge from "../../../components/reUse/AssessmentBadge";
 
 interface iProps {
   props?: string;
 }
+
+interface SubjectAssessmentData {
+  _id?: string;
+  examination?: unknown;
+  midTest?: unknown;
+}
+
+interface ClassPeriodData {
+  presentTerm?: string;
+}
+
+const isAssessmentRecord = (
+  value: unknown
+): value is Record<string, unknown> =>
+  typeof value === "object" && value !== null;
+
+const AssessmentBadges: FC<{
+  subject: SubjectAssessmentData;
+  classInfo?: ClassPeriodData;
+}> = ({ subject, classInfo }) => {
+  const { examination } = useExamination(subject?._id);
+  const { midTest } = useMidTest(subject?._id);
+  const { studentInfo } = useStudentInfo();
+  const { schoolAnnouncement } = useSchoolAnnouncement(studentInfo?.schoolIDs);
+  const currentTerm =
+    classInfo?.presentTerm || schoolAnnouncement?.presentTerm;
+  const currentSession = schoolAnnouncement?.presentSession;
+
+  const isUploadedAndActive = (
+    source: unknown,
+    activeKey: "startExam" | "startMidTest"
+  ) => {
+    const assessments = Array.isArray(source) ? source : [source];
+    return assessments.some(
+      (assessment: unknown) =>
+        isAssessmentRecord(assessment) &&
+        matchesCurrentAssessmentPeriod(
+          assessment,
+          currentTerm,
+          currentSession
+        ) &&
+        assessment[activeKey] === true
+    );
+  };
+  const hasExam =
+    matchesCurrentAssessmentPeriod(
+      subject?.examination,
+      currentTerm,
+      currentSession
+    ) ||
+    matchesCurrentAssessmentPeriod(examination, currentTerm, currentSession);
+  const hasMidTest =
+    matchesCurrentAssessmentPeriod(
+      subject?.midTest,
+      currentTerm,
+      currentSession
+    ) ||
+    matchesCurrentAssessmentPeriod(midTest, currentTerm, currentSession);
+  const hasActiveExam =
+    isUploadedAndActive(subject?.examination, "startExam") ||
+    isUploadedAndActive(examination, "startExam");
+  const hasActiveMidTest =
+    isUploadedAndActive(subject?.midTest, "startMidTest") ||
+    isUploadedAndActive(midTest, "startMidTest");
+
+  return (
+    <div className="flex min-h-6 flex-wrap items-center gap-2">
+      {hasExam && (
+        <AssessmentBadge
+          label="Exam"
+          tone="green"
+          active={hasActiveExam}
+        />
+      )}
+      {hasMidTest && (
+        <AssessmentBadge
+          label="Mid-test"
+          tone="orange"
+          active={hasActiveMidTest}
+        />
+      )}
+    </div>
+  );
+};
 
 const ClassSubjectScreen: FC<iProps & { classInfo?: any }> = ({
   props,
@@ -40,18 +125,19 @@ const ClassSubjectScreen: FC<iProps & { classInfo?: any }> = ({
           {subjectData?.classSubjects?.map((props: any) => (
             <div
               key={props?._id}
-              className="bg-white border flex flex-col rounded-2xl pb-2 min-h-[200px] px-4 pt-4"
+              className="flex min-h-[200px] flex-col rounded-2xl border border-slate-200 bg-white px-4 pb-2 pt-4"
             >
-              <div className="mt-3 flex justify-between items-center font-bold">
-                <p>{props?.subjectTitle}</p>
+              <div className="mt-3 flex items-center justify-between font-bold">
+                <p className="uppercase">{props?.subjectTitle}</p>
                 <div className="w-8 h-8 transition-all duration-300 rounded-full hover:bg-slate-50 cursor-pointer flex justify-center items-center">
                   <MdBook className="hover:text-blue-900" />
                 </div>
               </div>
-              <div className="flex">
-                <p className="text-[12px] bg-slate-100 rounded-sm py-2 pl-1 shadow-sm pr-4 mb-5">
+              <div className="mb-5 flex flex-wrap items-center gap-2">
+                <p className="rounded-sm bg-slate-100 px-2 py-1 text-[12px] shadow-sm">
                   Class Subject
                 </p>
+                <AssessmentBadges subject={props} classInfo={classInfo} />
               </div>
               <div className="flex-1" />
               <p className="text-[13px] font-medium">
