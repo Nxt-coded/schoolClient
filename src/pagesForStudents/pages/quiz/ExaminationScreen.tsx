@@ -411,6 +411,7 @@ const ExaminationTestScreen = () => {
 
   const { studentInfo } = useStudentInfo();
   const { performance } = useStudentPerfomance(studentInfo?._id);
+  const roundID = String(quizData?.currentRound || 1);
 
   // Create a stable guest session id so guest keys don't collide between different sessions
   const [guestSessionId] = useState(() => {
@@ -429,16 +430,20 @@ const ExaminationTestScreen = () => {
     }
   });
   const storageId = studentInfo?._id || guestSessionId;
-  const examQuestionsKey = (id: string) => `examQuestions_${examID}_${id}`;
-  const examStartedKey = (id: string) => `examStarted_${examID}_${id}`;
+  const examQuestionsKey = (id: string) =>
+    `examQuestions_${examID}_${roundID}_${id}`;
+  const examStartedKey = (id: string) =>
+    `examStarted_${examID}_${roundID}_${id}`;
+  const examAnswersKey = (id: string) =>
+    `examAnswers_${examID}_${roundID}_${id}`;
 
   const [state, setState] = useState<any>({});
   // Initialize start from localStorage so the play overlay doesn't show after refresh
   const getSavedStarted = () => {
     try {
-      const studentKey = `examStarted_${examID}_${studentInfo?._id}`;
-      const guestKey = `examStarted_${examID}_${guestSessionId}`;
-      const storageKey = `examStarted_${examID}_${storageId}`;
+      const studentKey = examStartedKey(studentInfo?._id || "");
+      const guestKey = examStartedKey(guestSessionId);
+      const storageKey = examStartedKey(storageId);
       const val =
         localStorage.getItem(studentKey) ||
         localStorage.getItem(guestKey) ||
@@ -459,7 +464,7 @@ const ExaminationTestScreen = () => {
   const [showSubmitConfirmModal, setShowSubmitConfirmModal] = useState(false);
 
   const courseID = quizData?.subjectID;
-  const countdownKey = `countdown_${examID}_${studentInfo?._id}`;
+  const countdownKey = `countdown_${examID}_${roundID}_${studentInfo?._id}`;
 
   const handleStateChange = (questionIndex: any, optionValue: any) => {
     setState((prev: any) => ({
@@ -489,8 +494,17 @@ const ExaminationTestScreen = () => {
   const myQuizData: any = quizData?.quiz;
 
   const isQuizDone = performance?.performance?.find(
-    (el: any) => el?.quizID === examID && el?.quizDone
+    (el: any) =>
+      el?.quizID === examID &&
+      el?.quizDone &&
+      String(el?.roundID || 1) === roundID
   );
+  const now = Date.now();
+  const isScheduled = Boolean(quizData?.opensAt && quizData?.closesAt);
+  const isWithinSchedule =
+    !isScheduled ||
+    (now >= new Date(quizData.opensAt).getTime() &&
+      now <= new Date(quizData.closesAt).getTime());
 
   const timer = parseFloat(quizData?.quiz?.instruction?.duration || "0.500");
   let timerInSeconds = timer * 3600;
@@ -535,6 +549,7 @@ const ExaminationTestScreen = () => {
           totalQuestions: totalquest,
           markPerQuestion: markPerQuest,
           status: quizData.status,
+          roundID,
         }
       );
 
@@ -548,8 +563,8 @@ const ExaminationTestScreen = () => {
         // cleanup storage only after successful submission
         try {
           localStorage.removeItem(countdownKey);
-          const answersKeyStudent = `examAnswers_${examID}_${studentInfo?._id}`;
-          const answersKeyGuest = `examAnswers_${examID}_${guestSessionId}`;
+          const answersKeyStudent = examAnswersKey(studentInfo?._id || "");
+          const answersKeyGuest = examAnswersKey(guestSessionId);
           localStorage.removeItem(answersKeyStudent);
           localStorage.removeItem(answersKeyGuest);
           const questionsKeyStudent = examQuestionsKey(
@@ -631,9 +646,19 @@ const ExaminationTestScreen = () => {
         } catch (e) {}
         setStart(true);
         setActivate(true);
+      } else {
+        setStart(false);
+        setActivate(false);
+        setTimeUp(false);
+        setIsSubmitted(false);
+        setIsSubmitting(false);
+        setState({});
+        setAnswers({});
+        setCurrentQuestion(0);
+        setReadQuestion(myQuizData?.question ?? []);
       }
     } catch (e) {}
-  }, [myQuizData, quizData?.randomize, storageId]);
+  }, [myQuizData, quizData?.randomize, storageId, roundID]);
 
   // do not clear countdown or examQuestions here so reloads won't reset the timer
   // clearing of countdown is handled when the exam is submitted or when time runs out
@@ -657,10 +682,8 @@ const ExaminationTestScreen = () => {
 
   const initialAnswersFromStorage = (() => {
     try {
-      const studentKey = `examAnswers_${examID}_${
-        studentInfo?._id || storageId
-      }`;
-      const guestKey = `examAnswers_${examID}_${guestSessionId}`;
+      const studentKey = examAnswersKey(studentInfo?._id || storageId);
+      const guestKey = examAnswersKey(guestSessionId);
       const savedStudent = JSON.parse(
         localStorage.getItem(studentKey) || "null"
       );
@@ -670,7 +693,7 @@ const ExaminationTestScreen = () => {
         savedStudent ||
         savedGuest ||
         JSON.parse(
-          localStorage.getItem(`examAnswers_${examID}_${storageId}`) || "null"
+          localStorage.getItem(examAnswersKey(storageId)) || "null"
         );
       return extractAnswersFromSaved(selected);
     } catch (e) {}
@@ -684,15 +707,13 @@ const ExaminationTestScreen = () => {
   };
 
   // Storage key for saving answers + state per student and exam
-  const storageKeyAnswers = `examAnswers_${examID}_${storageId}`;
+  const storageKeyAnswers = examAnswersKey(storageId);
 
   // Load saved answers/state from localStorage when component mounts or readQuestion updates
   useEffect(() => {
     try {
-      const studentKey = `examAnswers_${examID}_${
-        studentInfo?._id || storageId
-      }`;
-      const guestKey = `examAnswers_${examID}_${guestSessionId}`;
+      const studentKey = examAnswersKey(studentInfo?._id || storageId);
+      const guestKey = examAnswersKey(guestSessionId);
       const saved =
         JSON.parse(localStorage.getItem(studentKey) || "null") ||
         JSON.parse(localStorage.getItem(guestKey) || "null") ||
@@ -708,8 +729,8 @@ const ExaminationTestScreen = () => {
       // if the user was previously a guest and now we have a studentId, migrate stored guest answers to student key
       try {
         if (studentInfo?._id) {
-          const guestKey = `examAnswers_${examID}_${guestSessionId}`;
-          const studentKey = `examAnswers_${examID}_${studentInfo?._id}`;
+          const guestKey = examAnswersKey(guestSessionId);
+          const studentKey = examAnswersKey(studentInfo?._id || "");
           const guestSaved = JSON.parse(
             localStorage.getItem(guestKey) || "null"
           );
@@ -826,7 +847,7 @@ const ExaminationTestScreen = () => {
 
       // Also save to student-specific key if logged in
       if (studentInfo?._id) {
-        const studentKey = `examAnswers_${examID}_${studentInfo._id}`;
+        const studentKey = examAnswersKey(studentInfo._id);
         localStorage.setItem(studentKey, JSON.stringify(dataToSave));
       }
     } catch (e) {
@@ -1038,6 +1059,10 @@ const ExaminationTestScreen = () => {
             You have already attempted and Completed this Test
           </h1>
         </div>
+      ) : !isWithinSchedule ? (
+        <div className="m-6 rounded-lg border p-6 text-center">
+          This assessment is only available during its scheduled window.
+        </div>
       ) : (
         <div className="relative">
           {/* This Part watch out */}
@@ -1099,7 +1124,7 @@ const ExaminationTestScreen = () => {
                         handleSubmit();
                       } catch (e) {}
                     }}
-                    storageKey={`countdown_${examID}_${studentInfo?._id}`}
+                    storageKey={countdownKey}
                   />
                 </div>
               ) : null}

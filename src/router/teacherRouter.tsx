@@ -51,6 +51,9 @@ const QuizDetails = React.lazy(
 const CreateExamination = React.lazy(
   () => import("../pagesForTeachers/pages/quiz/CreateExamination")
 );
+const QuestionBankScreen = React.lazy(
+  () => import("../pagesForTeachers/pages/quiz/QuestionBankScreen")
+);
 
 const ExaminationPreviewScreen = React.lazy(
   () => import("../pagesForTeachers/pages/quiz/ExaminationPreview")
@@ -308,6 +311,14 @@ export const teacherRouter = createBrowserRouter([
           <Suspense fallback={<LoadingScreen />}>
             {" "}
             <QuizSetupScreen />
+          </Suspense>
+        ),
+      },
+      {
+        path: "question-bank/:subjectID",
+        element: (
+          <Suspense fallback={<LoadingScreen />}>
+            <QuestionBankScreen />
           </Suspense>
         ),
       },

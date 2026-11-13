@@ -236,6 +236,14 @@ const QuizSetupScreen = () => {
   return (
     <div className="text-blue-950  relative">
       <LittleHeader name={`Viewing ${subjectQuiz?.subjectTitle} Quiz`} />
+      <div className="mb-4">
+        <Link
+          to={`/question-bank/${subjectID}`}
+          className="inline-block rounded bg-orange-600 px-4 py-2 text-sm text-white"
+        >
+          Question bank & retakes
+        </Link>
+      </div>
       <SubjectClassLabel subjectID={subjectID} />
 
       <ConfirmDeleteModal

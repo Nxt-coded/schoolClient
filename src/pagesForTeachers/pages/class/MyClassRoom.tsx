@@ -18,9 +18,7 @@ import pix from "../../../assets/pix.jpg";
 import ReadingClassStudents from "./ReadingClassStudents";
 import { Link, useParams } from "react-router-dom";
 import { useReadOneClassInfo } from "../../../pagesForStudents/hooks/useStudentHook";
-import {
-  useClassSubjects,
-} from "../../../pages/hook/useSchoolAuth";
+import { useClassSubjects } from "../../../pages/hook/useSchoolAuth";
 import { usePDF } from "react-to-pdf";
 import moment from "moment";
 import GenerateAllResult from "../CardTemplate/GenerateAllStudentResult";
@@ -56,10 +54,10 @@ const AssessmentBadge: FC<AssessmentBadgeProps> = ({
   const title = unavailable
     ? `${label} status is unavailable`
     : loading
-    ? `Loading ${label.toLowerCase()} status`
-    : `${label} ${uploaded ? "uploaded" : "not uploaded"} and ${
-        active ? "active" : "inactive"
-      } for students`;
+      ? `Loading ${label.toLowerCase()} status`
+      : `${label} ${uploaded ? "uploaded" : "not uploaded"} and ${
+          active ? "active" : "inactive"
+        } for students`;
 
   return (
     <div
@@ -67,12 +65,12 @@ const AssessmentBadge: FC<AssessmentBadgeProps> = ({
         unavailable
           ? "border-amber-200 bg-amber-50 text-amber-700"
           : loading
-          ? "border-slate-200 bg-slate-100 text-slate-500"
-          : active
-          ? "border-green-200 bg-green-100 text-green-700"
-          : uploaded
-          ? "border-blue-200 bg-blue-50 text-blue-700"
-          : "border-slate-200 bg-slate-100 text-slate-600"
+            ? "border-slate-200 bg-slate-100 text-slate-500"
+            : active
+              ? "border-green-200 bg-green-100 text-green-700"
+              : uploaded
+                ? "border-blue-200 bg-blue-50 text-blue-700"
+                : "border-slate-200 bg-slate-100 text-slate-600"
       }`}
       title={title}
       aria-live="polite"
@@ -82,10 +80,10 @@ const AssessmentBadge: FC<AssessmentBadgeProps> = ({
         {unavailable
           ? "Unavailable"
           : loading
-          ? "Loading"
-          : uploaded
-          ? "Uploaded"
-          : "Not uploaded"}
+            ? "Loading"
+            : uploaded
+              ? "Uploaded"
+              : "Not uploaded"}
       </span>
       <span aria-hidden="true">·</span>
       <span>
@@ -93,10 +91,10 @@ const AssessmentBadge: FC<AssessmentBadgeProps> = ({
         {unavailable
           ? "Unavailable"
           : loading
-          ? "Loading"
-          : active
-          ? "Active"
-          : "Inactive"}
+            ? "Loading"
+            : active
+              ? "Active"
+              : "Inactive"}
       </span>
     </div>
   );
@@ -123,16 +121,15 @@ const SubjectAssessmentBadges: FC<SubjectAssessmentBadgesProps> = ({
     matchesCurrentAssessmentPeriod(
       subject?.examination,
       presentTerm,
-      presentSession
+      presentSession,
     ) ||
     matchesCurrentAssessmentPeriod(examination, presentTerm, presentSession);
   const hasMidTest =
     matchesCurrentAssessmentPeriod(
       subject?.midTest,
       presentTerm,
-      presentSession
-    ) ||
-    matchesCurrentAssessmentPeriod(midTest, presentTerm, presentSession);
+      presentSession,
+    ) || matchesCurrentAssessmentPeriod(midTest, presentTerm, presentSession);
   const hasVisibleExam =
     (Array.isArray(subject?.examination) &&
       subject.examination.some(
@@ -141,15 +138,11 @@ const SubjectAssessmentBadges: FC<SubjectAssessmentBadgesProps> = ({
           matchesCurrentAssessmentPeriod(
             assessment,
             presentTerm,
-            presentSession
-          )
+            presentSession,
+          ),
       )) ||
     (examination?.startExam === true &&
-      matchesCurrentAssessmentPeriod(
-        examination,
-        presentTerm,
-        presentSession
-      ));
+      matchesCurrentAssessmentPeriod(examination, presentTerm, presentSession));
   const hasVisibleMidTest =
     (Array.isArray(subject?.midTest) &&
       subject.midTest.some(
@@ -158,8 +151,8 @@ const SubjectAssessmentBadges: FC<SubjectAssessmentBadgesProps> = ({
           matchesCurrentAssessmentPeriod(
             assessment,
             presentTerm,
-            presentSession
-          )
+            presentSession,
+          ),
       )) ||
     (midTest?.startMidTest === true &&
       matchesCurrentAssessmentPeriod(midTest, presentTerm, presentSession));
@@ -191,8 +184,7 @@ const ClassSubjectScreen: FC<iProps & { classInfo?: any }> = ({
   const { teacherInfo } = useTeacherInfo();
   const { readSubject } = useClassSubjects(props || "");
   const { schoolAnnouncement } = useSchoolAnnouncement(teacherInfo?.schoolIDs);
-  const currentTerm =
-    classInfo?.presentTerm || schoolAnnouncement?.presentTerm;
+  const currentTerm = classInfo?.presentTerm || schoolAnnouncement?.presentTerm;
   const currentSession = schoolAnnouncement?.presentSession;
 
   return (
@@ -201,46 +193,46 @@ const ClassSubjectScreen: FC<iProps & { classInfo?: any }> = ({
         <div className="mt-1 w-full gap-2 grid grid-cols-1 lg:grid-cols-2  xl:grid-cols-3">
           {readSubject.map((props: any) => {
             return (
-            <div
-              key={props?._id}
-              className="bg-white border flex flex-col rounded-2xl pb-2 min-h-[200px] px-4 pt-4"
-            >
-              <div className="mt-3 flex justify-between items-center font-bold">
-                <p>{props?.subjectTitle}</p>
-                <div className="w-8 h-8 transition-all duration-300 rounded-full hover:bg-slate-100 cursor-pointer flex justify-center items-center">
-                  <Link to={`/final-exam-grade/${props?._id}`}>
-                    <FaAddressBook className="hover:text-blue-900" />
+              <div
+                key={props?._id}
+                className="bg-white border flex flex-col rounded-2xl pb-2 min-h-[200px] px-4 pt-4"
+              >
+                <div className="mt-3 flex justify-between items-center font-bold">
+                  <p>{props?.subjectTitle}</p>
+                  <div className="w-8 h-8 transition-all duration-300 rounded-full hover:bg-slate-100 cursor-pointer flex justify-center items-center">
+                    <Link to={`/final-exam-grade/${props?._id}`}>
+                      <FaAddressBook className="hover:text-blue-900" />
+                    </Link>
+                  </div>
+                </div>
+                <div className="flex gap-2">
+                  <p className="text-[12px] bg-slate-100 rounded-sm py-2 pl-1 shadow-sm pr-4 mb-5">
+                    compulsory
+                  </p>
+                  <SubjectAssessmentBadges
+                    subjectID={props?._id}
+                    subject={props}
+                    presentTerm={currentTerm}
+                    presentSession={currentSession}
+                  />
+                </div>
+                <div className="flex-1" />
+                <p className="text-[13px] font-medium">
+                  Subject Teacher Name: <span></span>
+                </p>
+                <div className="flex gap-2 flex-wrap">
+                  <div className="text-blue-950 rounded-mlg mt-1 px-0 border-t font-medium py-2 text-[17px] ">
+                    {props?.subjectTeacherName}
+                  </div>
+                </div>
+                <div className="flex mb-">
+                  <Link to={`/subjects/${props?._id}`} className="font-medium">
+                    <p className="bg-blue-950 hover:bg-blue-900 transition-all duration-300 rounded-md text-white text-[12px] px-6 py-2 cursor-pointer">
+                      Goto CBT Area
+                    </p>
                   </Link>
                 </div>
               </div>
-              <div className="flex gap-2">
-                <p className="text-[12px] bg-slate-100 rounded-sm py-2 pl-1 shadow-sm pr-4 mb-5">
-                  compulsory
-                </p>
-                <SubjectAssessmentBadges
-                  subjectID={props?._id}
-                  subject={props}
-                  presentTerm={currentTerm}
-                  presentSession={currentSession}
-                />
-              </div>
-              <div className="flex-1" />
-              <p className="text-[13px] font-medium">
-                Subject Teacher Name: <span></span>
-              </p>
-              <div className="flex gap-2 flex-wrap">
-                <div className="text-blue-950 rounded-mlg mt-1 px-0 border-t font-medium py-2 text-[17px] ">
-                  {props?.subjectTeacherName}
-                </div>
-              </div>
-              <div className="flex mb-">
-                <Link to={`/subjects/${props?._id}`} className="font-medium">
-                  <p className="bg-blue-950 hover:bg-blue-900 transition-all duration-300 rounded-md text-white text-[12px] px-6 py-2 cursor-pointer">
-                    Goto CBT Area
-                  </p>
-                </Link>
-              </div>
-            </div>
             );
           })}
         </div>
@@ -291,17 +283,15 @@ const MyClassRoomScreen = () => {
   useEffect(() => {
     const assignedClasses = teacherInfo?.classesAssigned || [];
     const selectedClassIsAssigned = assignedClasses.some(
-      (assignedClass: any) => assignedClass?.classID === state
+      (assignedClass: any) => assignedClass?.classID === state,
     );
 
     if (!selectedClassIsAssigned && assignedClasses.length > 0) {
       const requestedClassIsAssigned = assignedClasses.some(
-        (assignedClass: any) => assignedClass?.classID === classID
+        (assignedClass: any) => assignedClass?.classID === classID,
       );
       setState(
-        requestedClassIsAssigned
-          ? classID!
-          : assignedClasses[0]?.classID || ""
+        requestedClassIsAssigned ? classID! : assignedClasses[0]?.classID || "",
       );
     }
   }, [teacherInfo?.classesAssigned, classID, state]);

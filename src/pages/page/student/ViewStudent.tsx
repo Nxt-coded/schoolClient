@@ -413,16 +413,24 @@ const ViewStudent = () => {
 
   const handleDownloadAllStudentsPDF = () => {
     const doc = new jsPDF();
-    const tableColumn = ["S/N", "Full Name", "Reg ID", "Class", "Gender"];
-    const tableRows: any[] = [];
+    const columns = [
+      { title: "S/N", width: 15 },
+      { title: "Full Name", width: 68 },
+      { title: "Reg ID", width: 31 },
+      { title: "Class", width: 36 },
+      { title: "Gender", width: 32 },
+    ];
+    const margin = 14;
+    const rowLineHeight = 5;
+    const tableRows: string[][] = [];
 
     filteredStudents.forEach((student: any, index: number) => {
       const studentData = [
-        index + 1,
+        String(index + 1),
         `${student.studentLastName} ${student.studentFirstName}`,
-        student.enrollmentID,
-        student.classAssigned,
-        student.gender,
+        String(student.enrollmentID || ""),
+        String(student.classAssigned || ""),
+        String(student.gender || ""),
       ];
       tableRows.push(studentData);
     });
@@ -432,24 +440,40 @@ const ViewStudent = () => {
     doc.setFontSize(11);
     doc.setTextColor(100);
 
-    // Simple manual table generation since jspdf-autotable isn't installed
     let yPos = 35;
-    doc.setFont("helvetica", "bold");
-    tableColumn.forEach((col, i) => {
-      doc.text(col, 14 + i * 40, yPos);
-    });
+    const drawTableHeader = () => {
+      doc.setFont("helvetica", "bold");
+      let xPos = margin;
+      columns.forEach(({ title, width }) => {
+        doc.text(title, xPos, yPos);
+        xPos += width;
+      });
+      doc.setFont("helvetica", "normal");
+      yPos += 10;
+    };
 
-    doc.setFont("helvetica", "normal");
-    yPos += 10;
+    drawTableHeader();
+    const pageHeight = doc.internal.pageSize.getHeight();
+
     tableRows.forEach((row) => {
-      if (yPos > 280) {
+      const wrappedCells = row.map((cell, index) =>
+        doc.splitTextToSize(cell, columns[index].width - 2)
+      );
+      const rowHeight =
+        Math.max(...wrappedCells.map((cell) => cell.length)) * rowLineHeight + 3;
+
+      if (yPos + rowHeight > pageHeight - margin) {
         doc.addPage();
         yPos = 20;
+        drawTableHeader();
       }
-      row.forEach((cell: any, i: number) => {
-        doc.text(String(cell), 14 + i * 40, yPos);
+
+      let xPos = margin;
+      wrappedCells.forEach((cell, index) => {
+        doc.text(cell, xPos, yPos);
+        xPos += columns[index].width;
       });
-      yPos += 8;
+      yPos += rowHeight;
     });
 
     doc.save(`All_Students_${UI?.schoolName || "List"}.pdf`);

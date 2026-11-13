@@ -26,6 +26,9 @@ interface MidTestData {
   subjectID?: string;
   subjectTitle?: string;
   status?: string;
+  currentRound?: number;
+  opensAt?: string;
+  closesAt?: string;
   randomize?: boolean;
   quiz?: {
     question?: MidTestQuestion[];
@@ -44,6 +47,7 @@ interface MidTestSubmission {
     totalQuestions: number;
     markPerQuestion?: string | number;
     status?: string;
+    roundID: string;
   };
   result: {
     correctAnswers: string[];
@@ -74,6 +78,7 @@ const MidTestScreen = () => {
   const { midTest: quizData } = useMidTestStudent(subjectID!);
   const { studentInfo } = useStudentInfo();
   const { performance } = useStudentPerfomance(studentInfo?._id);
+  const roundID = String(quizData?.currentRound || 1);
 
   const [cachedStudentID] = useState(() => {
     try {
@@ -84,8 +89,8 @@ const MidTestScreen = () => {
     }
   });
   const studentID = studentInfo?._id || cachedStudentID;
-  const sessionKey = `midTestSession_${studentID}_${midTestID}`;
-  const quizCacheKey = `midTestQuiz_${midTestID}`;
+  const sessionKey = `midTestSession_${studentID}_${midTestID}_${roundID}`;
+  const quizCacheKey = `midTestQuiz_${midTestID}_${roundID}`;
   const [cachedQuiz, setCachedQuiz] = useState<MidTestData | null>(() => {
     try {
       const saved = localStorage.getItem(quizCacheKey);
@@ -141,6 +146,7 @@ const MidTestScreen = () => {
       subjectID: quizData.subjectID,
       subjectTitle: quizData.subjectTitle,
       status: quizData.status,
+      currentRound: quizData.currentRound,
       randomize: quizData.randomize,
       quiz: {
         question: quizData.quiz.question,
@@ -323,14 +329,22 @@ const MidTestScreen = () => {
 
   const isQuizDone = performance?.performance?.find(
     (el: { quizID?: string; quizDone?: boolean }) =>
-      el?.quizID === midTestID && el?.quizDone
+      el?.quizID === midTestID &&
+      el?.quizDone &&
+      String((el as any)?.roundID || 1) === roundID
   );
+  const now = Date.now();
+  const isScheduled = Boolean(activeQuizData?.opensAt && activeQuizData?.closesAt);
+  const isWithinSchedule =
+    !isScheduled ||
+    (now >= new Date(activeQuizData!.opensAt!).getTime() &&
+      now <= new Date(activeQuizData!.closesAt!).getTime());
 
   const timer = Number.parseFloat(
     activeQuizData?.quiz?.instruction?.duration || "0"
   );
   const timerInSeconds = Math.max(0, timer * 3600);
-  const countdownKey = `midTest-${studentID}-${midTestID}-countdown`;
+  const countdownKey = `midTest-${studentID}-${midTestID}-${roundID}-countdown`;
 
   const handleStateChange = (questionIndex: number, optionValue: string) => {
     const newState = { ...state, [questionIndex]: optionValue.trim() };
@@ -388,6 +402,7 @@ const MidTestScreen = () => {
             totalQuestions: questions.length,
             markPerQuestion: activeQuizData?.quiz?.instruction?.mark,
             status: activeQuizData?.status,
+            roundID,
           },
           result: {
             correctAnswers,
@@ -556,6 +571,10 @@ const MidTestScreen = () => {
           <h1 className="font-semibold text-purple-700">
             You have already attempted and Completed this Test
           </h1>
+        </div>
+      ) : !isWithinSchedule ? (
+        <div className="m-6 rounded-lg border p-6 text-center">
+          This assessment is only available during its scheduled window.
         </div>
       ) : (
         <div className="relative">

@@ -473,6 +473,62 @@ export const viewExamination = async (subjectID: string) => {
   }
 };
 
+export const readQuestionBank = async (
+  subjectID: string,
+  assessmentType: "examination" | "midTest",
+) => {
+  try {
+    const response = await axios.get(
+      `${URL}/question-bank/${subjectID}?assessmentType=${assessmentType}`,
+      { withCredentials: true },
+    );
+    return response.data;
+  } catch (error) {
+    return error;
+  }
+};
+
+export const createAssessmentFromQuestionBank = async (
+  classID: string,
+  subjectID: string,
+  data: {
+    assessmentType: "examination" | "midTest";
+    questionBankIDs: string[];
+    instruction: { duration: string; mark: string; instruction: string };
+    opensAt: string;
+    closesAt: string;
+  },
+) => {
+  try {
+    const response = await axios.post(
+      `${URL}/assessment-from-bank/${classID}/${subjectID}`,
+      data,
+      { withCredentials: true },
+    );
+    return response.data;
+  } catch (error) {
+    return error;
+  }
+};
+
+export const rescheduleAssessment = async (
+  assessmentType: "examination" | "midTest",
+  assessmentID: string,
+  opensAt: string,
+  closesAt: string,
+) => {
+  try {
+    const response = await axios.patch(
+      `${URL}/reschedule-assessment/${assessmentType}/${assessmentID}`,
+      { opensAt, closesAt },
+      { withCredentials: true },
+    );
+    return response.data;
+  } catch (error) {
+    return error;
+  }
+};
+
 export const viewMidTest = async (subjectID: string) => {
   try {
     // const URL = "https://schoolserver-wrpc.onrender.com/api";

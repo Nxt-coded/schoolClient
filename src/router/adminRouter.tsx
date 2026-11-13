@@ -192,6 +192,9 @@ import StudentResultsDetail from "@/pages/page/resultOption/InputStudentsScore";
 import PrintReportCardDesignAdminScreen from "@/pages/page/resultOption/PrintStudentHistoryResult";
 import QuizSetupScreen from "@/pagesForTeachers/pages/quiz/QuizDetails";
 import ExamQuizSetupScreen from "@/pages/page/quizArea/QuizArea";
+const QuestionBankScreen = React.lazy(
+  () => import("../pagesForTeachers/pages/quiz/QuestionBankScreen")
+);
 import CreateMidQuizScreen from "@/pages/page/quizArea/CreateMidQuiz";
 import CreateExaminationScreen from "@/pages/page/quizArea/CreateExamination";
 import ExamResultSetupRecordScreen from "@/pages/page/quizArea/ExamResultPerformance";
@@ -625,6 +628,14 @@ export const adminRouter = createBrowserRouter([
             element: (
               <Suspense fallback={<LoadingScreen />}>
                 <ExamQuizSetupScreen />
+              </Suspense>
+            ),
+          },
+          {
+            path: "question-bank/:subjectID",
+            element: (
+              <Suspense fallback={<LoadingScreen />}>
+                <QuestionBankScreen />
               </Suspense>
             ),
           },
