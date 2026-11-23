@@ -13,11 +13,11 @@ const LittleHeader: FC<iProps> = ({ name, back }) => {
   return (
     <div>
       {" "}
-      <div className="flex items-center text-blue-950 ">
-        <Link to="/dashboard" className="flex items-center">
-          Account <MdDoubleArrow size={13} className="mx-4 " />{" "}
+      <div className="flex min-w-0 flex-wrap items-center gap-y-1 text-blue-950">
+        <Link to="/dashboard" className="flex shrink-0 items-center">
+          Account <MdDoubleArrow size={13} className="mx-2 sm:mx-4" />{" "}
         </Link>
-        <div className="capitalize lg:text-[17px] text-[12px] font-[500]">
+        <div className="min-w-0 break-words capitalize lg:text-[17px] text-[12px] font-[500]">
           {name}
         </div>
         {back && (
@@ -34,7 +34,7 @@ const LittleHeader: FC<iProps> = ({ name, back }) => {
           </div>
         )}
       </div>
-      <div className="text-blue-800 mt-5 font-[500] lg:text-[30px] text-[17px] mb-10 capitalize">
+      <div className="mt-4 mb-4 break-words font-[500] text-[17px] capitalize text-blue-800 sm:mt-5 sm:mb-10 lg:text-[30px]">
         {name}
       </div>
     </div>

@@ -1036,7 +1036,7 @@ const ExaminationTestScreen = () => {
   }
 
   return (
-    <div className="assessment-protected select-none">
+    <div className="assessment-protected w-full min-w-0 select-none">
       <Toaster position="top-center" reverseOrder={true} />
       <LittleHeader
         name={
@@ -1064,15 +1064,14 @@ const ExaminationTestScreen = () => {
           This assessment is only available during its scheduled window.
         </div>
       ) : (
-        <div className="relative">
+        <div className="flex w-full min-w-0 flex-col gap-4">
           {/* This Part watch out */}
           {!start && (
-            <div className="absolute top-20 left-1/3 z-10 flex flex-col justify-center items-center gap-5">
+            <div className="flex min-h-[320px] w-full flex-col items-center justify-center gap-5 px-4 text-center">
               {quizData?.subjectTitle ? (
                 <div className="flex items-center justify-center flex-col">
                   <MdPlayCircle
-                    size={200}
-                    className="cursor-pointer text-red-500 hover:text-red-600 transition-all duration-300"
+                    className="h-28 w-28 cursor-pointer text-red-500 transition-all duration-300 hover:text-red-600 sm:h-48 sm:w-48"
                     onClick={() => {
                       enterAssessmentMode();
                       if (!document.startViewTransition) {
@@ -1084,7 +1083,7 @@ const ExaminationTestScreen = () => {
                       }
                     }}
                   />
-                  <p className="font-medium text-[18px]">
+                  <p className="font-medium text-base sm:text-[18px]">
                     Push Play to start your{" "}
                     <span className="font-bold capitalize">
                       {quizData?.status}
@@ -1094,10 +1093,9 @@ const ExaminationTestScreen = () => {
               ) : (
                 <div className="flex items-center justify-center flex-col">
                   <MdPlayCircle
-                    size={200}
-                    className="opacity-80 text-red-400 hover:text-red-500 transition-all duration-300 cursor-not-allowed"
+                    className="h-28 w-28 cursor-not-allowed text-red-400 opacity-80 transition-all duration-300 hover:text-red-500 sm:h-48 sm:w-48"
                   />
-                  <p className="font-medium text-[18px]">
+                  <p className="font-medium text-base sm:text-[18px]">
                     Please wait... Data loading{" "}
                     <span className="font-bold capitalize">
                       {quizData?.status}
@@ -1108,12 +1106,12 @@ const ExaminationTestScreen = () => {
             </div>
           )}
           {/* Timer */}
-          <div className="sticky left-5 flex top-[10px] justify-end items-center pointer-events-none">
-            <div className="sticky max-w-[210px] p-3 backdrop-blur-sm border shadow-sm rounded-lg flex justify-center items-end flex-col">
-              <h1 className="mb-1 text-blue-950 font-semibold flex items-center justify-start gap-2">
-                Time Remaining
-              </h1>
-              {activate && timerInSeconds ? (
+          {activate && timerInSeconds > 0 && (
+            <div className="sticky top-[58px] z-20 flex w-full justify-end">
+              <div className="flex max-w-[210px] flex-col items-end justify-center rounded-lg border bg-white/95 p-3 shadow-sm backdrop-blur-sm">
+                <h1 className="mb-1 flex items-center justify-start gap-2 font-semibold text-blue-950">
+                  Time Remaining
+                </h1>
                 <div className="w-full">
                   <CountdownTimer
                     initialSeconds={timerInSeconds}
@@ -1127,17 +1125,17 @@ const ExaminationTestScreen = () => {
                     storageKey={countdownKey}
                   />
                 </div>
-              ) : null}
+              </div>
             </div>
-          </div>
+          )}
 
           {/* Quiz Content */}
-          <div className="bg-slate-0 justify-center flex -mt-40">
+          <div className="flex w-full min-w-0 justify-center">
             {start && (
-              <div className="!min-h-[300px] flex items-centr justify-center p-4">
-                <div className="bg-white rounded-lg shadow-xl p-8 !w-[700px] ">
+              <div className="flex w-full min-w-0 justify-center">
+                <div className="w-full min-w-0 max-w-[700px] rounded-lg bg-white p-4 shadow-xl sm:p-8">
                   <div className="mb-6">
-                    <div className="flex justify-between items-center mb-4">
+                    <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
                       <h1 className="text-sm font-bold text-gray-800">
                         CBT Examination Progress
                       </h1>
@@ -1155,12 +1153,12 @@ const ExaminationTestScreen = () => {
                         }}
                       ></div>
                     </div>
-                    <div className="flex flex-wrap gap-2">
+                    <div className="flex max-w-full gap-2 overflow-x-auto pb-2">
                       {readQuestion.map((q, index) => (
                         <button
                           key={index}
                           onClick={() => setCurrentQuestion(index)}
-                          className={`w-10 h-10 rounded-lg font-semibold transition-all ${
+                          className={`h-11 w-11 shrink-0 rounded-lg font-semibold transition-all ${
                             currentQuestion === index
                               ? "bg-blue-950 text-white ring-2 ring--blue-900"
                               : answers[index] !== undefined
@@ -1172,6 +1170,7 @@ const ExaminationTestScreen = () => {
                               ? "Answered"
                               : "Not answered"
                           }
+                          aria-label={`Go to question ${index + 1}`}
                         >
                           {index + 1}
                         </button>
@@ -1180,7 +1179,7 @@ const ExaminationTestScreen = () => {
                   </div>
 
                   <div className="mb-8">
-                    <div className="flex justify-between items-center mb-4">
+                    <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
                       <span className="text-sm font-semibold text-blue-950">
                         Question {currentQuestion + 1} of {readQuestion?.length}
                       </span>
@@ -1190,8 +1189,8 @@ const ExaminationTestScreen = () => {
                         </span>
                       )}
                     </div>
-                    <div className="text-4xl font-medium text-gray-800 mb-6">
-                      <span className="text-lg text-gray-800  min-h-[160px]">
+                    <div className="mb-6 break-words text-2xl font-medium text-gray-800 [overflow-wrap:anywhere] sm:text-4xl">
+                      <span className="min-h-[160px] text-lg text-gray-800">
                         <MathRenderer
                           text={ 
                           //  false
@@ -1223,6 +1222,8 @@ const ExaminationTestScreen = () => {
                             "https://"
                           )[1]
                         }`}
+                        alt="Question illustration"
+                        className="h-auto max-w-full object-contain"
                       />
                     )}
                     {/* {readQuestion[currentQuestion]?.images && (
@@ -1263,9 +1264,9 @@ const ExaminationTestScreen = () => {
                               : "border-gray-200 hover:border-blue-300 hover:bg-gray-50"
                           }`}
                         >
-                          <div className="flex items-center">
+                          <div className="flex min-w-0 items-start">
                             <div
-                              className={`w-5 h-5 rounded-full border-2 mr-3 flex items-center justify-center ${
+                              className={`mt-1 flex h-5 w-5 shrink-0 items-center justify-center rounded-full border-2 mr-3 ${
                                 answers[currentQuestion] === originalIndex
                                   ? "border-blue-950 bg-blue-950"
                                   : "border-gray-300"
@@ -1275,7 +1276,7 @@ const ExaminationTestScreen = () => {
                                 <div className="w-2 h-2 bg-white rounded-full"></div>
                               )}
                             </div>
-                            <span className="text-gray-700">
+                            <span className="min-w-0 break-words text-gray-700 [overflow-wrap:anywhere]">
                               {<MathRenderer text={option} />}
                             </span>
                           </div>
@@ -1284,11 +1285,11 @@ const ExaminationTestScreen = () => {
                     </div>
                   </div>
 
-                  <div className="flex justify-between items-center">
+                  <div className="grid grid-cols-2 gap-3">
                     <button
                       onClick={handlePrevious}
                       disabled={currentQuestion === 0}
-                      className={`flex items-center px-4 py-2 rounded-lg transition-colors ${
+                      className={`flex min-h-11 items-center justify-center rounded-lg px-2 py-2 text-sm transition-colors sm:px-4 ${
                         currentQuestion === 0
                           ? "bg-gray-200 text-gray-400 cursor-not-allowed"
                           : "bg-gray-200 text-gray-700 hover:bg-gray-300"
@@ -1310,7 +1311,7 @@ const ExaminationTestScreen = () => {
                           }
                         }}
                         disabled={isSubmitting || isSubmitted}
-                        className={`px-6 py-2 rounded-lg transition-colors ${
+                        className={`min-h-11 rounded-lg px-2 py-2 text-sm transition-colors sm:px-6 ${
                           getAnsweredCount() === readQuestion?.length
                             ? "bg-green-600 text-white hover:bg-green-700"
                             : "bg-amber-500 text-white hover:bg-amber-600"
@@ -1328,7 +1329,7 @@ const ExaminationTestScreen = () => {
                     ) : (
                       <button
                         onClick={handleNext}
-                        className="flex items-center px-4 py-2 bg-blue-950 text-white rounded-lg hover:bg-blue-900 transition-colors"
+                        className="flex min-h-11 items-center justify-center rounded-lg bg-blue-950 px-2 py-2 text-sm text-white transition-colors hover:bg-blue-900 sm:px-4"
                       >
                         Next
                         <ChevronRight className="w-5 h-5 ml-2" />
@@ -1355,7 +1356,7 @@ const ExaminationTestScreen = () => {
           <motion.div
             initial={{ scale: 0.5, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
-            className="bg-white p-6 rounded-lg shadow-xl max-w-md w-full mx-4"
+            className="mx-4 max-h-[90vh] w-full max-w-md overflow-y-auto rounded-lg bg-white p-4 shadow-xl sm:p-6"
           >
             <h3 className="text-xl font-semibold text-gray-900 mb-4">
               Confirm Submission
@@ -1364,14 +1365,14 @@ const ExaminationTestScreen = () => {
               You have {readQuestion?.length - getAnsweredCount()} unanswered
               question(s). Are you sure you want to submit the exam?
             </p>
-            <div className="flex justify-end gap-4">
+            <div className="flex flex-col-reverse gap-3 sm:flex-row sm:justify-end sm:gap-4">
               <Button
-                className="bg-gray-300 px-6 py-2 text-gray-700 rounded-md hover:bg-gray-400 transition-colors duration-300 !text-[14px]"
+                className="w-full rounded-md bg-gray-300 px-6 py-2 text-gray-700 transition-colors duration-300 hover:bg-gray-400 !text-[14px] sm:w-auto"
                 name="Cancel"
                 onClick={() => setShowSubmitConfirmModal(false)}
               />
               <Button
-                className="bg-green-600 px-6 py-2 text-white rounded-md hover:bg-green-700 transition-colors duration-300 !text-[14px]"
+                className="w-full rounded-md bg-green-600 px-6 py-2 text-white transition-colors duration-300 hover:bg-green-700 !text-[14px] sm:w-auto"
                 name={
                   loading ? (
                     <span className="flex gap-2 items-center justify-center">

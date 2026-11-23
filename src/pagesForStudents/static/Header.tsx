@@ -197,6 +197,11 @@ const Header = () => {
                     to: "my-classroom",
                   },
                   {
+                    title: "Test & Examination",
+                    icon: <MdQuiz />,
+                    to: "/my-classroom-test-exam",
+                  },
+                  {
                     title: "My Subject",
                     icon: <FaTable />,
                     to: "your-subjects",

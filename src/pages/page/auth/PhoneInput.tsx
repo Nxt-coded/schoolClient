@@ -1,15 +1,19 @@
 import React, { useState } from "react";
 import PhoneInput from "react-phone-number-input";
 import "react-phone-number-input/style.css";
-import { isValidPhoneNumber, getCountryCallingCode } from "libphonenumber-js";
+import { getCountryCallingCode } from "libphonenumber-js";
 import "../../../index.css";
 
-const PhoneNumberInput = ({ onChange }) => {
-  const [value, setValue] = useState("");
+type PhoneNumberInputProps = {
+  onChange?: (phone: string | undefined) => void;
+};
 
-  const handlePhoneChange = (phone) => {
+const PhoneNumberInput = ({ onChange }: PhoneNumberInputProps) => {
+  const [value, setValue] = useState<string | undefined>("");
+
+  const handlePhoneChange = (phone: string | undefined) => {
     const country = "NG";
-    const maxLength = 10 + getCountryCallingCode(country).length;
+    const maxLength = 1 + 10 + getCountryCallingCode(country).length;
 
     if (phone && phone?.length > maxLength) {
       return;

@@ -4,6 +4,7 @@ import { useDispatch } from "react-redux";
 import pix from "../../../assets/pix.jpg";
 import Button from "../../../components/reUse/Button";
 import LittleHeader from "../../../components/static/LittleHeader";
+import OnboardingTemplateDownload from "../../../components/reUse/OnboardingTemplateDownload";
 import { displayDelay, displayStaffComp } from "../../../global/reduxState";
 import { Link } from "react-router-dom";
 import { useSchoolCookie, useSchoolTeacher } from "../../hook/useSchoolAuth";
@@ -193,6 +194,7 @@ const { mutate } = useSchoolTeacher();
           />
         </div>
       </div>
+      <OnboardingTemplateDownload />
       <div
         className="py-6 px-2 border rounded-md min-w-[300px] overflow-y-hidden "
         style={{ color: "var(--secondary)" }}

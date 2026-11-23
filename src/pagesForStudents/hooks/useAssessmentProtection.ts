@@ -16,13 +16,20 @@ export const useAssessmentProtection = () => {
   const enterAssessmentMode = () => {
     assessmentActive.current = true;
 
-    if (!document.fullscreenElement) {
-      document.documentElement.requestFullscreen().catch((error: unknown) => {
+    const requestFullscreen = document.documentElement.requestFullscreen;
+    if (!document.fullscreenElement && typeof requestFullscreen === "function") {
+      try {
+        requestFullscreen
+        .call(document.documentElement)
+        .catch((error: unknown) => {
+          console.error("Could not enter assessment fullscreen mode:", error);
+          toast.error(
+            "Fullscreen is unavailable. You can continue the assessment without it."
+          );
+        });
+      } catch (error) {
         console.error("Could not enter assessment fullscreen mode:", error);
-        toast.error(
-          "Fullscreen could not be enabled. Please use a managed exam device."
-        );
-      });
+      }
     }
   };
 

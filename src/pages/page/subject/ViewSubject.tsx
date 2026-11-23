@@ -1,6 +1,7 @@
 document.title = "view subjects";
 
 import LittleHeader from "../../../components/static/LittleHeader";
+import OnboardingTemplateDownload from "../../../components/reUse/OnboardingTemplateDownload";
 import pix from "../../../assets/pix.jpg";
 import {
   useSchoolCookie,
@@ -310,6 +311,7 @@ const ViewSubjects = () => {
           </label>
         )}
       </div>
+      <OnboardingTemplateDownload />
       <div className="py-6 px-2  border rounded-md min-w-[300px] overflow-y-hidden ">
         <div className="text-[gray] w-[1250px] flex  gap-2 text-[12px] font-medium uppercase mb-10 px-4">
           <div className="w-[200px] border-r">Subject Name</div>

@@ -3,7 +3,6 @@ import { MdClose } from "react-icons/md";
 import Input from "../reUse/Input";
 import Button from "../reUse/Button";
 import ClipLoader from "react-spinners/ClipLoader";
-import { Toaster } from "react-hot-toast";
 
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
@@ -91,7 +90,6 @@ const AddAnyItem: FC<iProps> = ({
       <div className="w-[500px] min-h-[300px] border rounded-md bg-white shadow-md p-4">
         <p className="flex items-center justify-between my-4 ">
           <p className="font-bold">{titleCall}</p>
-          <Toaster position="top-center" reverseOrder={true} />
 
           <p
             className={` ${
@@ -203,12 +201,13 @@ const AddAnyItem: FC<iProps> = ({
               </label>
 
               <select
+                value={end || ""}
                 className="select bg-gray-100 select-bordered w-full max-w-xs mt-2"
                 onChange={(e) => {
-                  setEnd(e.target.value);
+                  setEnd?.(e.target.value);
                 }}
               >
-                <option disabled selected>
+                <option value="" disabled>
                   Assign Class
                 </option>
                 {schoolClassroom?.classRooms
@@ -218,7 +217,7 @@ const AddAnyItem: FC<iProps> = ({
                   ?.map((props: any) => (
                     <option
                       key={props?._id}
-                      value={props?.className}
+                      value={props?._id}
                       className="my-2 font-medium py-2"
                     >
                       {props?.className}
@@ -373,7 +372,7 @@ const AddAnyItem: FC<iProps> = ({
 
         {sub && (
           <div className="w-full flex justify-end transition-all duration-300">
-            {start !== "" && announce !== "" && startDateTime !== "" ? (
+            {Boolean(start?.trim() && end?.trim()) ? (
               <Button
                 name={
                   loading ? (

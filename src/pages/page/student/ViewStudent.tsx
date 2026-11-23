@@ -3,6 +3,7 @@ import { useDispatch } from "react-redux";
 import pix from "../../../assets/pix.jpg";
 import Button from "../../../components/reUse/Button";
 import LittleHeader from "../../../components/static/LittleHeader";
+import OnboardingTemplateDownload from "../../../components/reUse/OnboardingTemplateDownload";
 import { displayDelay, displayStudent } from "../../../global/reduxState";
 import { Link, useParams } from "react-router-dom";
 import { v4 as uuid } from "uuid";
@@ -555,6 +556,7 @@ const ViewStudent = () => {
          
         </div>
       </div>
+      <OnboardingTemplateDownload />
       <div className="py-6 px-2 border rounded-md min-w-[300px] overflow-y-hidden">
         <div className="text-[gray] w-[2220px] z-50 flex  gap-2 text-[12px] font-medium uppercase mb-10 px-4">
           <div className="w-[50px] border-r">S/N</div>

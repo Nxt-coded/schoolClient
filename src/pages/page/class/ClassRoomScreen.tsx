@@ -5,6 +5,7 @@ import pix from "../../../assets/pix.jpg";
 import { Link } from "react-router-dom";
 import { displayClass } from "../../../global/reduxState";
 import LittleHeader from "../../../components/layout/LittleHeader";
+import OnboardingTemplateDownload from "../../../components/reUse/OnboardingTemplateDownload";
 import Button from "../../../components/reUse/Button";
 import { FaSpinner, FaStar } from "react-icons/fa6";
 import { useSchoolClassRM, useSchoolData } from "../../hook/useSchoolAuth";
@@ -192,6 +193,7 @@ const ClassRoomScreen = () => {
           onClick={handleDisplayClassroom}
         />
       </div>
+      <OnboardingTemplateDownload />
       <div
         className="py-6 px-2 border rounded-md min-w-[300px] overflow-y-hidden "
         style={{ color: "var(--secondary)" }}

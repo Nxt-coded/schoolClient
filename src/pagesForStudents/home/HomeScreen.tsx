@@ -78,7 +78,7 @@ const HomeScreen = () => {
       setLoading(true);
       createSchoolSubject(data?._id, {
         subjectTitle: subject,
-        designated: classAssigned,
+        classID: classAssigned,
       }).then((res: any) => {
         if (res?.status === 201) {
           setLoading(false);
