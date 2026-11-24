@@ -27,7 +27,6 @@ import {
 } from "../pagesForTeachers/hooks/useTeacher";
 import ArticleHolderScreen from "./pages/screens/ArticleHolderScreen";
 import StudentDetail from "./pages/class/StudentDetail";
-import SelectTrack from "./pages/track/SelectTrack";
 
 const StudentDashboard = () => {
   const readData = Array.from({ length: 2 });
@@ -177,8 +176,6 @@ const StudentDashboard = () => {
           <div className=" gap-6 font-medium cursor-pointer text-[12px] mb-10 bg-blue-950 leading-tight text-white px-6 py-4  rounded-md  text-center">
             <MakeActiveClass />
           </div>
-
-          <SelectTrack />
 
           <div className="flex gap-5 text-[12px]">
             <div>
