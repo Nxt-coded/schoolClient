@@ -222,6 +222,7 @@ import { MdEmail } from "react-icons/md";
 import { HiPhoto } from "react-icons/hi2";
 import { BsPerson, BsPhone } from "react-icons/bs";
 import { FaAddressBook } from "react-icons/fa6";
+import axios from "axios";
 import IG from "../../../assets/socials/Ig.png";
 import FB from "../../../assets/socials/fb.png";
 import Linkden from "../../../assets/socials/linkden.png";
@@ -287,7 +288,11 @@ const StaffDetail = () => {
       });
 
       if (response?.status !== 201) {
-        toast.error(response?.message || "Unable to remove class assignment");
+        toast.error(
+          response?.response?.data?.message ||
+            response?.message ||
+            "Unable to remove class assignment"
+        );
         return;
       }
 
@@ -300,9 +305,11 @@ const StaffDetail = () => {
       toast.success("Class removed from teacher successfully");
     } catch (error) {
       toast.error(
-        error instanceof Error
-          ? error.message
-          : "Unable to remove class assignment"
+        (axios.isAxiosError<{ message?: string }>(error)
+          ? error.response?.data?.message || error.message
+          : error instanceof Error
+            ? error.message
+            : undefined) || "Unable to remove class assignment"
       );
     } finally {
       setRemovingClassID("");
