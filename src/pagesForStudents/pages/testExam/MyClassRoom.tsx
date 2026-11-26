@@ -107,7 +107,45 @@ const SubjectCard: FC<{ subject: any; dept?: string; classInfo?: any }> = ({
 
   return (
     <div className="bg-white border flex flex-col rounded-2xl pb-2 min-h-[200px] px-4 pt-4">
-      <div className="mt-3 flex justify-between items-center font-bold">
+      {/* Start Mid Test / Start Examination buttons at the top */}
+      <div className="text-blue-950 rounded-mlg mb-2 px-0 border-b font-medium pb-3 text-[17px] flex flex-wrap items-center gap-2">
+        {midMatch &&
+          (hasCompletedMidTest ? (
+            <p className="text-[13px] text-green-600 border px-6 py-2 rounded-md border-green-400 bg-green-50 cursor-not-allowed">
+              Test Done
+            </p>
+          ) : (
+            <Link
+              to={`/mid-test/details/${subject?._id}/${
+                midTest?._id ||
+                subject?.midTest[subject?.midTest?.length - 1]?._id ||
+                subject?.midTest[subject?.midTest?.length - 1]
+              }`}
+              className="text-white bg-orange-500 rounded-md px-4 py-2 text-[13px] cursor-pointer hover:bg-orange-600 transition-colors"
+            >
+              Start Mid Test
+            </Link>
+          ))}
+
+        {examMatch &&
+          (hasCompletedExam ? (
+            <p className="text-[13px] text-green-600 border px-6 py-2 rounded-md border-green-400 bg-green-50 cursor-not-allowed">
+              Examination Done
+            </p>
+          ) : (
+            <Link
+              to={`/examination/details/${
+                examination?._id ||
+                subject?.examination[subject?.examination?.length - 1]?._id ||
+                subject?.examination[subject?.examination?.length - 1]
+              }`}
+              className="text-white bg-purple-600 rounded-md px-4 py-2 text-[13px] cursor-pointer hover:bg-purple-700 transition-colors"
+            >
+              Start Examination
+            </Link>
+          ))}
+      </div>
+      <div className="mt-1 flex justify-between items-center font-bold">
         <p>{subject?.subjectTitle}</p>
         <div className="w-8 h-8 transition-all duration-300 rounded-full hover:bg-slate-50 cursor-pointer flex justify-center items-center">
           <MdBook className="hover:text-blue-900" />
@@ -147,44 +185,6 @@ const SubjectCard: FC<{ subject: any; dept?: string; classInfo?: any }> = ({
           )}
         </div>
       )}
-      {/* suuuuu */}
-      <div className="text-blue-950 rounded-mlg mt-1 px-0 border-t font-medium py-2 text-[17px] flex items-center gap-2">
-        {midMatch &&
-          (hasCompletedMidTest ? (
-            <p className="text-[13px] text-green-600 border px-6 py-2 rounded-md border-green-400 bg-green-50 cursor-not-allowed">
-              Test Done
-            </p>
-          ) : (
-            <Link
-              to={`/mid-test/details/${subject?._id}/${
-                midTest?._id ||
-                subject?.midTest[subject?.midTest?.length - 1]?._id ||
-                subject?.midTest[subject?.midTest?.length - 1]
-              }`}
-              className="text-white bg-orange-500 rounded-md px-4 py-2 text-[13px] cursor-pointer hover:bg-orange-600 transition-colors"
-            >
-              Start Mid Test
-            </Link>
-          ))}
-
-        {examMatch &&
-          (hasCompletedExam ? (
-            <p className="text-[13px] text-green-600 border px-6 py-2 rounded-md border-green-400 bg-green-50 cursor-not-allowed">
-              Examination Done
-            </p>
-          ) : (
-            <Link
-              to={`/examination/details/${
-                examination?._id ||
-                subject?.examination[subject?.examination?.length - 1]?._id ||
-                subject?.examination[subject?.examination?.length - 1]
-              }`}
-              className="text-white bg-purple-600 rounded-md px-4 py-2 text-[13px] cursor-pointer hover:bg-purple-700 transition-colors"
-            >
-              Start Examination
-            </Link>
-          ))}
-      </div>
     </div>
   );
 };
