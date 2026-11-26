@@ -644,8 +644,8 @@ const MidTestScreen = () => {
             </div>
           )}
           {/* Timer */}
-          <div className="fixed right-10 flex top-[70px] justify-end items-center z-50 pointer-events-none">
-            <div className="pointer-events-auto min-w-[230px] p-3 bg-blue-50 border shadow-sm rounded-lg flex justify-center items-end flex-col">
+          <div className="relative flex w-full justify-end items-center pointer-events-none lg:fixed lg:right-10 lg:top-[70px] lg:z-50">
+            <div className="pointer-events-auto w-fit min-w-0 max-w-[calc(100vw-2rem)] p-3 bg-blue-50 border shadow-sm rounded-lg flex justify-center items-end flex-col sm:min-w-[230px]">
               <h1 className="mb-1 text-blue-950 font-semibold flex items-center justify-start gap-2">
                 Test Count Down Timer <MdOutlineTimer />
               </h1>

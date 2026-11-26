@@ -1036,17 +1036,19 @@ const ExaminationTestScreen = () => {
   }
 
   return (
-    <div className="assessment-protected w-full min-w-0 select-none">
+    <div className="assessment-protected flex h-[calc(100dvh-8rem)] w-full min-w-0 flex-col select-none overflow-hidden lg:h-auto lg:overflow-visible">
       <Toaster position="top-center" reverseOrder={true} />
-      <LittleHeader
-        name={
-          quizData
-            ? `${quizData?.term || ""} ${quizData?.subjectTitle} ${
-                quizData?.status
-              } Screen`
-            : "Loading Screen's Info"
-        }
-      />
+      <div className="shrink-0">
+        <LittleHeader
+          name={
+            quizData
+              ? `${quizData?.term || ""} ${quizData?.subjectTitle} ${
+                  quizData?.status
+                } Screen`
+              : "Loading Screen's Info"
+          }
+        />
+      </div>
 
       {isQuizDone ? (
         <div className="flex justify-center items-center flex-col">
@@ -1064,7 +1066,7 @@ const ExaminationTestScreen = () => {
           This assessment is only available during its scheduled window.
         </div>
       ) : (
-        <div className="flex w-full min-w-0 flex-col gap-4">
+        <div className="flex min-h-0 w-full min-w-0 flex-1 flex-col gap-4 overflow-hidden lg:flex-none lg:overflow-visible">
           {/* This Part watch out */}
           {!start && (
             <div className="flex min-h-[320px] w-full flex-col items-center justify-center gap-5 px-4 text-center">
@@ -1107,14 +1109,15 @@ const ExaminationTestScreen = () => {
           )}
           {/* Timer */}
           {activate && timerInSeconds > 0 && (
-            <div className="sticky top-[58px] z-20 flex w-full justify-end">
-              <div className="flex max-w-[210px] flex-col items-end justify-center rounded-lg border bg-white/95 p-3 shadow-sm backdrop-blur-sm">
-                <h1 className="mb-1 flex items-center justify-start gap-2 font-semibold text-blue-950">
+            <div className="relative z-20 flex w-full shrink-0 justify-end lg:sticky lg:top-[58px]">
+              <div className="flex w-full max-w-full flex-row items-center justify-between gap-2 rounded-lg border bg-white/95 p-2 shadow-sm backdrop-blur-sm lg:w-auto lg:max-w-[210px] lg:flex-col lg:items-end lg:p-3">
+                <h1 className="mb-0 flex shrink-0 items-center justify-start gap-2 whitespace-nowrap text-xs font-semibold text-blue-950 lg:mb-1 lg:text-base">
                   Time Remaining
                 </h1>
-                <div className="w-full">
+                <div className="w-auto lg:w-full">
                   <CountdownTimer
                     initialSeconds={timerInSeconds}
+                    compact
                     onTimeUp={() => {
                       setTimeUp(true);
                       try {
@@ -1130,7 +1133,8 @@ const ExaminationTestScreen = () => {
           )}
 
           {/* Quiz Content */}
-          <div className="flex w-full min-w-0 justify-center">
+          <div className="min-h-0 w-full min-w-0 flex-1 overflow-y-auto overscroll-contain lg:flex-none lg:overflow-visible">
+            <div className="flex w-full min-w-0 justify-center">
             {start && (
               <div className="flex w-full min-w-0 justify-center">
                 <div className="w-full min-w-0 max-w-[700px] rounded-lg bg-white p-4 shadow-xl sm:p-8">
@@ -1347,6 +1351,7 @@ const ExaminationTestScreen = () => {
                 </div>
               </div>
             )}
+            </div>
           </div>
         </div>
       )}

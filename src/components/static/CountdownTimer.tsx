@@ -5,6 +5,7 @@ interface CountdownTimerProps {
   onTimeUp: () => void;
   storageKey?: string; // optional key to persist timer (useful for multiple timers)
   persistDeadline?: boolean;
+  compact?: boolean;
 }
 
 const CountdownTimer: React.FC<CountdownTimerProps> = ({
@@ -12,6 +13,7 @@ const CountdownTimer: React.FC<CountdownTimerProps> = ({
   onTimeUp,
   storageKey,
   persistDeadline = false,
+  compact = false,
 }) => {
   const key = storageKey || "countdown";
   const onTimeUpRef = useRef(onTimeUp);
@@ -118,16 +120,14 @@ const CountdownTimer: React.FC<CountdownTimerProps> = ({
   }, [seconds, key, onTimeUp, persistDeadline]);
 
   const formatTime = (secs: number): string => {
-    const hours = Math.floor(secs / 3600);
-    const minutes = Math.floor((secs % 3600) / 60);
-    const remainingSeconds = secs % 60;
-    return `
-    ${String(hours).padStart(2, "0")}
-    :${String(minutes).padStart(2, "0")} : ${String(
-      parseInt(remainingSeconds.toString())
-    )}
-      
-      `;
+    const totalSeconds = Math.floor(secs);
+    const hours = Math.floor(totalSeconds / 3600);
+    const minutes = Math.floor((totalSeconds % 3600) / 60);
+    const remainingSeconds = totalSeconds % 60;
+    return `${String(hours).padStart(2, "0")}:${String(minutes).padStart(
+      2,
+      "0"
+    )}:${String(remainingSeconds).padStart(2, "0")}`;
   };
 
   const getColor = () => {
@@ -143,11 +143,19 @@ const CountdownTimer: React.FC<CountdownTimerProps> = ({
   };
 
   return (
-    <div className="flex flex-col justify-center items-center gap-3">
-      <div className={`text-[25px] font-bold ${getColor()}`}>
+    <div
+      className={
+        compact
+          ? "flex flex-row items-center justify-center gap-2 lg:flex-col lg:gap-3"
+          : "flex flex-col justify-center items-center gap-3"
+      }
+    >
+      <div
+        className={`${compact ? "text-lg leading-none lg:text-[25px]" : "text-[25px]"} font-bold ${getColor()}`}
+      >
         {formatTime(seconds)}
       </div>
-      <div className="-mt-5">
+      <div className={`${compact ? "hidden lg:block" : ""} -mt-5`}>
         <svg
           className="w-[50px] h-[80px] transition-all duration-300 transform -rotate-90"
           viewBox="0 0 36 36"
