@@ -137,49 +137,34 @@ const CountdownTimer: React.FC<CountdownTimerProps> = ({
   };
 
   const getProgressBarColor = () => {
-    if (seconds > 30) return "stroke-green-500";
-    if (seconds > 10) return "stroke-yellow-500";
-    return "stroke-red-500 animate-pulse";
+    if (seconds > 30) return "bg-green-500";
+    if (seconds > 10) return "bg-yellow-500";
+    return "bg-red-500 animate-pulse";
   };
+
+  const progressPercent =
+    initialSeconds > 0
+      ? Math.min(100, Math.max(0, (seconds / initialSeconds) * 100))
+      : 0;
 
   return (
     <div
       className={
         compact
-          ? "flex flex-row items-center justify-center gap-2 lg:flex-col lg:gap-3"
-          : "flex flex-col justify-center items-center gap-3"
+          ? "flex flex-col items-end justify-center gap-1.5 min-w-[130px] sm:min-w-[160px]"
+          : "flex flex-col justify-center items-center gap-2.5 w-full max-w-[220px]"
       }
     >
       <div
-        className={`${compact ? "text-lg leading-none lg:text-[25px]" : "text-[25px]"} font-bold ${getColor()}`}
+        className={`${compact ? "text-lg leading-none sm:text-2xl" : "text-[25px]"} font-bold tabular-nums ${getColor()}`}
       >
         {formatTime(seconds)}
       </div>
-      <div className={`${compact ? "hidden lg:block" : ""} -mt-5`}>
-        <svg
-          className="w-[50px] h-[80px] transition-all duration-300 transform -rotate-90"
-          viewBox="0 0 36 36"
-        >
-          <circle
-            cx="18"
-            cy="18"
-            r="15.5"
-            fill="none"
-            stroke="#e0e0e0"
-            strokeWidth="3"
-          />
-          <circle
-            cx="18"
-            cy="18"
-            r="15.5"
-            fill="none"
-            strokeWidth="3"
-            strokeLinecap="round"
-            className={`${getProgressBarColor()}`}
-            strokeDasharray="100"
-            strokeDashoffset={100 - (seconds / initialSeconds) * 100}
-          />
-        </svg>
+      <div className="h-2 w-full overflow-hidden rounded-full bg-gray-200">
+        <div
+          className={`h-full rounded-full transition-all duration-500 ${getProgressBarColor()}`}
+          style={{ width: `${progressPercent}%` }}
+        />
       </div>
     </div>
   );

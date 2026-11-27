@@ -1,0 +1,1 @@
+import{a_ as a,r as o,cf as c,j as e,cg as i}from"./index-DuezQ8Ct.js";const u=({children:s})=>{const t=a(r=>r.user);return o.useEffect(()=>{c()},[]),e.jsx("div",{children:t?e.jsx("div",{children:s}):e.jsx(i,{to:"/"})})};export{u as default};

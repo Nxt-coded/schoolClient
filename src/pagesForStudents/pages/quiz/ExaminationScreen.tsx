@@ -1109,12 +1109,12 @@ const ExaminationTestScreen = () => {
           )}
           {/* Timer */}
           {activate && timerInSeconds > 0 && (
-            <div className="relative z-20 flex w-full shrink-0 justify-end lg:sticky lg:top-[58px]">
-              <div className="flex w-full max-w-full flex-row items-center justify-between gap-2 rounded-lg border bg-white/95 p-2 shadow-sm backdrop-blur-sm lg:w-auto lg:max-w-[210px] lg:flex-col lg:items-end lg:p-3">
-                <h1 className="mb-0 flex shrink-0 items-center justify-start gap-2 whitespace-nowrap text-xs font-semibold text-blue-950 lg:mb-1 lg:text-base">
+            <div className="mx-auto flex w-full max-w-[700px] shrink-0 justify-end">
+              <div className="flex w-full flex-row items-center justify-between gap-2 rounded-lg border bg-white p-2.5 shadow-sm sm:px-4">
+                <h1 className="mb-0 flex shrink-0 items-center justify-start gap-2 whitespace-nowrap text-xs font-semibold text-blue-950 sm:text-sm">
                   Time Remaining
                 </h1>
-                <div className="w-auto lg:w-full">
+                <div className="w-auto">
                   <CountdownTimer
                     initialSeconds={timerInSeconds}
                     compact
