@@ -15,6 +15,7 @@ import {
   useSujectInfo,
   useTeacherInfo,
   useSchoolAnnouncement,
+  useExamination,
 } from "../../hooks/useTeacher";
 import { createGradeScore, removeGradeScore } from "../../api/teachersAPI";
 import { mutate } from "swr";
@@ -45,9 +46,14 @@ const MainStudentRow: FC<iProps> = ({ props, i, allScores, updateScore }) => {
   const { schoolAnnouncement } = useSchoolAnnouncement(teacherInfo?.schoolIDs);
   const { subjectInfo } = useSujectInfo(subjectID);
 
-  const activeExamID = examID || (subjectInfo?.examination?.length > 0 
-    ? subjectInfo.examination[subjectInfo.examination.length - 1] 
-    : undefined);
+  const { examination } = useExamination(subjectID!);
+  const lastExamEntry = subjectInfo?.examination?.length > 0
+    ? subjectInfo.examination[subjectInfo.examination.length - 1]
+    : undefined;
+  const activeExamID =
+    examID ||
+    examination?._id ||
+    (typeof lastExamEntry === "string" ? lastExamEntry : lastExamEntry?._id);
 
   const { examPerformance } = useExamSubjectPerfomance(activeExamID);
 
@@ -71,15 +77,22 @@ const MainStudentRow: FC<iProps> = ({ props, i, allScores, updateScore }) => {
 
   const matchedPerformance =
     performanceList.find((p: any) => {
-      const name = (p?.studentName ?? "").trim().toLowerCase();
-      return name === studentFullNameA || name === studentFullNameB;
+      if (p?.studentID && props?._id && String(p.studentID) === String(props._id)) {
+        return true;
+      }
+      const name = (p?.studentName ?? "").replace(/\s+/g, " ").trim().toLowerCase();
+      return name === studentFullNameA.replace(/\s+/g, " ") || name === studentFullNameB.replace(/\s+/g, " ");
     }) ?? null;
 
   const performanceRating = matchedPerformance?.performanceRating ?? null;
 
   const performanceRatingII =
-    matchedPerformance?.studentScore *
-    parseInt(matchedPerformance?.markPerQuestion);
+    matchedPerformance &&
+    matchedPerformance.studentScore !== undefined &&
+    matchedPerformance.studentScore !== null
+      ? Number(matchedPerformance.studentScore) *
+        (parseInt(matchedPerformance?.markPerQuestion, 10) || 1)
+      : null;
 
   const { oneStudentPerformanceExam: oneStudentPerformance } =
     useOneExamSubjectStudentPerfomance(
@@ -493,12 +506,29 @@ const SubjectGradeCard = () => {
   };
 
   // Find the class that contains this subject
+  const targetClassID =
+    subjectInfo?.subjectClassID ||
+    subjectInfo?.subjectClassIDs ||
+    subjectInfo?.classID;
   const mainClass = viewClasses?.classRooms?.find((el: any) => {
-    return el?.classSubjects?.find((subj: any) => subj === subjectID);
+    const hasSubject = el?.classSubjects?.some(
+      (subj: any) => String(typeof subj === "string" ? subj : subj?._id) === String(subjectID)
+    );
+    if (hasSubject) return true;
+    if (targetClassID && String(el?._id) === String(targetClassID)) return true;
+    if (
+      subjectInfo?.designated &&
+      el?.className?.trim().toLowerCase() ===
+        subjectInfo.designated.trim().toLowerCase()
+    ) {
+      return true;
+    }
+    return false;
   });
 
-  const { oneClass } = useReadOneClassInfo(mainClass?._id);
-  const { classStudents } = useClassStudent(oneClass?._id);
+  const resolvedClassID = mainClass?._id || targetClassID;
+  const { oneClass } = useReadOneClassInfo(resolvedClassID);
+  const { classStudents } = useClassStudent(oneClass?._id || resolvedClassID);
 
   // Sort students by last name
   const sortedStudents =
